@@ -1,0 +1,3449 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6791",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86918.5805,
+          183779.8076
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6791,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829518,
+        "local_id": 179272,
+        "partnerid": 2179272,
+        "knoopnr": 86,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        86918.5805,
+        183779.8076,
+        86918.5805,
+        183779.8076
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87589.2012,
+          184372.5868
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6792,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829519,
+        "local_id": 179273,
+        "partnerid": 2179273,
+        "knoopnr": 82,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        87589.2012,
+        184372.5868,
+        87589.2012,
+        184372.5868
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6793",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86258.041,
+          184242.1408
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6793,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829520,
+        "local_id": 179274,
+        "partnerid": 2179274,
+        "knoopnr": 88,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        86258.041,
+        184242.1408,
+        86258.041,
+        184242.1408
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6794",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87613.1071,
+          189048.9874
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6794,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829521,
+        "local_id": 179275,
+        "partnerid": 2179275,
+        "knoopnr": 18,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        87613.1071,
+        189048.9874,
+        87613.1071,
+        189048.9874
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6795",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87273.3741,
+          189053.8677
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6795,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829522,
+        "local_id": 179276,
+        "partnerid": 2179276,
+        "knoopnr": 16,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        87273.3741,
+        189053.8677,
+        87273.3741,
+        189053.8677
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6796",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88694.6861,
+          190614.158
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6796,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829523,
+        "local_id": 179277,
+        "partnerid": 2179277,
+        "knoopnr": 17,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        88694.6861,
+        190614.158,
+        88694.6861,
+        190614.158
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6797",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88835.9039,
+          190638.8835
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6797,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829524,
+        "local_id": 179278,
+        "partnerid": 2179278,
+        "knoopnr": 19,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        88835.9039,
+        190638.8835,
+        88835.9039,
+        190638.8835
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6798",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89945.907,
+          188311.1521
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6798,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829525,
+        "local_id": 179279,
+        "partnerid": 2179279,
+        "knoopnr": 48,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        89945.907,
+        188311.1521,
+        89945.907,
+        188311.1521
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6799",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91506.9703,
+          187824.96
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6799,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829526,
+        "local_id": 179280,
+        "partnerid": 2179280,
+        "knoopnr": 4,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        91506.9703,
+        187824.96,
+        91506.9703,
+        187824.96
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6800",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90690.2821,
+          186792.2373
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6800,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829527,
+        "local_id": 179281,
+        "partnerid": 2179281,
+        "knoopnr": 3,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        90690.2821,
+        186792.2373,
+        90690.2821,
+        186792.2373
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6801",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90604.0218,
+          186850.3218
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6801,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829528,
+        "local_id": 179282,
+        "partnerid": 2179282,
+        "knoopnr": 2,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        90604.0218,
+        186850.3218,
+        90604.0218,
+        186850.3218
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6802",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95007.0711,
+          189472.6631
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6802,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829529,
+        "local_id": 179283,
+        "partnerid": 2179283,
+        "knoopnr": 90,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        95007.0711,
+        189472.6631,
+        95007.0711,
+        189472.6631
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6803",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95037.6012,
+          190398.2513
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6803,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829530,
+        "local_id": 179284,
+        "partnerid": 2179284,
+        "knoopnr": 88,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        95037.6012,
+        190398.2513,
+        95037.6012,
+        190398.2513
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6804",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95159.2871,
+          191086.1643
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6804,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829531,
+        "local_id": 179285,
+        "partnerid": 2179285,
+        "knoopnr": 85,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        95159.2871,
+        191086.1643,
+        95159.2871,
+        191086.1643
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6806",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97094.5469,
+          192523.4433
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6806,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829533,
+        "local_id": 179287,
+        "partnerid": 2179287,
+        "knoopnr": 72,
+        "knooptype": 1,
+        "naam": "FNW Gent",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        97094.5469,
+        192523.4433,
+        97094.5469,
+        192523.4433
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6810",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95606.4991,
+          194826.8606
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6810,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829537,
+        "local_id": 179291,
+        "partnerid": 2179291,
+        "knoopnr": 70,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        95606.4991,
+        194826.8606,
+        95606.4991,
+        194826.8606
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6813",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94601.3118,
+          184440.7493
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6813,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829540,
+        "local_id": 179294,
+        "partnerid": 2179294,
+        "knoopnr": 19,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        94601.3118,
+        184440.7493,
+        94601.3118,
+        184440.7493
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6819",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90908.9896,
+          186196.5562
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6819,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829546,
+        "local_id": 179300,
+        "partnerid": 2179300,
+        "knoopnr": 5,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        90908.9896,
+        186196.5562,
+        90908.9896,
+        186196.5562
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6820",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91087.9493,
+          186244.0293
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6820,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829547,
+        "local_id": 179301,
+        "partnerid": 2179301,
+        "knoopnr": 6,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        91087.9493,
+        186244.0293,
+        91087.9493,
+        186244.0293
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94343.2527,
+          185247.7331
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6821,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829548,
+        "local_id": 179302,
+        "partnerid": 2179302,
+        "knoopnr": 14,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        94343.2527,
+        185247.7331,
+        94343.2527,
+        185247.7331
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93710.4752,
+          187124.7428
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6822,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829549,
+        "local_id": 179303,
+        "partnerid": 2179303,
+        "knoopnr": 11,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        93710.4752,
+        187124.7428,
+        93710.4752,
+        187124.7428
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6828",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87982.9854,
+          183669.4467
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6828,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829555,
+        "local_id": 179309,
+        "partnerid": 2179309,
+        "knoopnr": 85,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        87982.9854,
+        183669.4467,
+        87982.9854,
+        183669.4467
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.6829",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91993.6459,
+          190010.9645
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 6829,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829556,
+        "local_id": 179310,
+        "partnerid": 2179310,
+        "knoopnr": 98,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        91993.6459,
+        190010.9645,
+        91993.6459,
+        190010.9645
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7067",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96333.3753,
+          195870.7561
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7067,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829794,
+        "local_id": 179548,
+        "partnerid": 2179548,
+        "knoopnr": 66,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        96333.3753,
+        195870.7561,
+        96333.3753,
+        195870.7561
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7069",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96362.8361,
+          198109.4395
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7069,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829796,
+        "local_id": 179550,
+        "partnerid": 2179550,
+        "knoopnr": 29,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        96362.8361,
+        198109.4395,
+        96362.8361,
+        198109.4395
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7070",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94596.4802,
+          196280.1641
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7070,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829797,
+        "local_id": 179551,
+        "partnerid": 2179551,
+        "knoopnr": 73,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        94596.4802,
+        196280.1641,
+        94596.4802,
+        196280.1641
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7071",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94212.699,
+          194347.8954
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7071,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829798,
+        "local_id": 179552,
+        "partnerid": 2179552,
+        "knoopnr": 80,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        94212.699,
+        194347.8954,
+        94212.699,
+        194347.8954
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7072",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93944.7419,
+          194435.9904
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7072,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829799,
+        "local_id": 179553,
+        "partnerid": 2179553,
+        "knoopnr": 82,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        93944.7419,
+        194435.9904,
+        93944.7419,
+        194435.9904
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7073",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94048.3003,
+          196201.1624
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7073,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829800,
+        "local_id": 179554,
+        "partnerid": 2179554,
+        "knoopnr": 77,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        94048.3003,
+        196201.1624,
+        94048.3003,
+        196201.1624
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7074",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94256.7261,
+          198281.4758
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7074,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829801,
+        "local_id": 179555,
+        "partnerid": 2179555,
+        "knoopnr": 18,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        94256.7261,
+        198281.4758,
+        94256.7261,
+        198281.4758
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95908.8707,
+          199119.7038
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7075,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829802,
+        "local_id": 179556,
+        "partnerid": 2179556,
+        "knoopnr": 22,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        95908.8707,
+        199119.7038,
+        95908.8707,
+        199119.7038
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92356.0953,
+          195783.3019
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7076,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829803,
+        "local_id": 179557,
+        "partnerid": 2179557,
+        "knoopnr": 83,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        92356.0953,
+        195783.3019,
+        92356.0953,
+        195783.3019
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7077",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91718.7027,
+          196166.2756
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7077,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829804,
+        "local_id": 179558,
+        "partnerid": 2179558,
+        "knoopnr": 87,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        91718.7027,
+        196166.2756,
+        91718.7027,
+        196166.2756
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90600.79,
+          197244.4949
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7078,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829805,
+        "local_id": 179559,
+        "partnerid": 2179559,
+        "knoopnr": 89,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        90600.79,
+        197244.4949,
+        90600.79,
+        197244.4949
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7079",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89841.8764,
+          197235.3143
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7079,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829806,
+        "local_id": 179560,
+        "partnerid": 2179560,
+        "knoopnr": 12,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        89841.8764,
+        197235.3143,
+        89841.8764,
+        197235.3143
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7080",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89029.3593,
+          194203.5777
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7080,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829807,
+        "local_id": 179561,
+        "partnerid": 2179561,
+        "knoopnr": 14,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        89029.3593,
+        194203.5777,
+        89029.3593,
+        194203.5777
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90345.4664,
+          192765.4951
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7081,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829808,
+        "local_id": 179562,
+        "partnerid": 2179562,
+        "knoopnr": 97,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        90345.4664,
+        192765.4951,
+        90345.4664,
+        192765.4951
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7082",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91105.9544,
+          194010.8668
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7082,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829809,
+        "local_id": 179563,
+        "partnerid": 2179563,
+        "knoopnr": 92,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        91105.9544,
+        194010.8668,
+        91105.9544,
+        194010.8668
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92529.6834,
+          191858.3074
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7083,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829810,
+        "local_id": 179564,
+        "partnerid": 2179564,
+        "knoopnr": 94,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        92529.6834,
+        191858.3074,
+        92529.6834,
+        191858.3074
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7084",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92707.6737,
+          191731.1204
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7084,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829811,
+        "local_id": 179565,
+        "partnerid": 2179565,
+        "knoopnr": 91,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        92707.6737,
+        191731.1204,
+        92707.6737,
+        191731.1204
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90199.9401,
+          191877.37
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7085,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829812,
+        "local_id": 179566,
+        "partnerid": 2179566,
+        "knoopnr": 99,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        90199.9401,
+        191877.37,
+        90199.9401,
+        191877.37
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90571.8671,
+          191280.1076
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7086,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829813,
+        "local_id": 179567,
+        "partnerid": 2179567,
+        "knoopnr": 49,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        90571.8671,
+        191280.1076,
+        90571.8671,
+        191280.1076
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7087",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88053.0511,
+          192327.8425
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7087,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829814,
+        "local_id": 179568,
+        "partnerid": 2179568,
+        "knoopnr": 15,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        88053.0511,
+        192327.8425,
+        88053.0511,
+        192327.8425
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7088",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85537.23,
+          192564.4623
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7088,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829815,
+        "local_id": 179569,
+        "partnerid": 2179569,
+        "knoopnr": 8,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        85537.23,
+        192564.4623,
+        85537.23,
+        192564.4623
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7089",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87718.9173,
+          194566.1138
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7089,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829816,
+        "local_id": 179570,
+        "partnerid": 2179570,
+        "knoopnr": 11,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        87718.9173,
+        194566.1138,
+        87718.9173,
+        194566.1138
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87163.8405,
+          195081.6849
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7090,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829817,
+        "local_id": 179571,
+        "partnerid": 2179571,
+        "knoopnr": 7,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        87163.8405,
+        195081.6849,
+        87163.8405,
+        195081.6849
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87768.1155,
+          196146.8702
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7091,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829818,
+        "local_id": 179572,
+        "partnerid": 2179572,
+        "knoopnr": 6,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        87768.1155,
+        196146.8702,
+        87768.1155,
+        196146.8702
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84625.9976,
+          194957.916
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7092,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829819,
+        "local_id": 179573,
+        "partnerid": 2179573,
+        "knoopnr": 4,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        84625.9976,
+        194957.916,
+        84625.9976,
+        194957.916
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7093",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85434.2321,
+          197512.9122
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7093,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829820,
+        "local_id": 179574,
+        "partnerid": 2179574,
+        "knoopnr": 3,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        85434.2321,
+        197512.9122,
+        85434.2321,
+        197512.9122
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7094",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85389.0944,
+          198478.2937
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7094,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829821,
+        "local_id": 179575,
+        "partnerid": 2179575,
+        "knoopnr": 91,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        85389.0944,
+        198478.2937,
+        85389.0944,
+        198478.2937
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7097",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83426.6517,
+          197718.275
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7097,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829824,
+        "local_id": 179578,
+        "partnerid": 2179578,
+        "knoopnr": 1,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        83426.6517,
+        197718.275,
+        83426.6517,
+        197718.275
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83467.9027,
+          197340.0622
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7098,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829825,
+        "local_id": 179579,
+        "partnerid": 2179579,
+        "knoopnr": 2,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        83467.9027,
+        197340.0622,
+        83467.9027,
+        197340.0622
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7099",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88207.1739,
+          198356.5613
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7099,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829826,
+        "local_id": 179580,
+        "partnerid": 2179580,
+        "knoopnr": 85,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        88207.1739,
+        198356.5613,
+        88207.1739,
+        198356.5613
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88474.2018,
+          197944.1471
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7100,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829827,
+        "local_id": 179581,
+        "partnerid": 2179581,
+        "knoopnr": 5,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        88474.2018,
+        197944.1471,
+        88474.2018,
+        197944.1471
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88803.6924,
+          198954.8326
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7101,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829828,
+        "local_id": 179582,
+        "partnerid": 2179582,
+        "knoopnr": 81,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        88803.6924,
+        198954.8326,
+        88803.6924,
+        198954.8326
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7108",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90916.2851,
+          198149.7715
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7108,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829835,
+        "local_id": 179589,
+        "partnerid": 2179589,
+        "knoopnr": 2,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        90916.2851,
+        198149.7715,
+        90916.2851,
+        198149.7715
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7109",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91030.8631,
+          197833.6781
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7109,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829836,
+        "local_id": 179590,
+        "partnerid": 2179590,
+        "knoopnr": 84,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        91030.8631,
+        197833.6781,
+        91030.8631,
+        197833.6781
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7140",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86290.186,
+          185963.0461
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7140,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829867,
+        "local_id": 179621,
+        "partnerid": 2179621,
+        "knoopnr": 83,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        86290.186,
+        185963.0461,
+        86290.186,
+        185963.0461
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7141",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86115.4065,
+          186154.472
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7141,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829868,
+        "local_id": 179622,
+        "partnerid": 2179622,
+        "knoopnr": 81,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        86115.4065,
+        186154.472,
+        86115.4065,
+        186154.472
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7142",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90325.8009,
+          185454.2489
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7142,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829869,
+        "local_id": 179623,
+        "partnerid": 2179623,
+        "knoopnr": 7,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        90325.8009,
+        185454.2489,
+        90325.8009,
+        185454.2489
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7146",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95370.3237,
+          183531.6662
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7146,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829873,
+        "local_id": 179627,
+        "partnerid": 2179627,
+        "knoopnr": 21,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        95370.3237,
+        183531.6662,
+        95370.3237,
+        183531.6662
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7148",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96352.7651,
+          189052.9067
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7148,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829875,
+        "local_id": 179629,
+        "partnerid": 2179629,
+        "knoopnr": 86,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        96352.7651,
+        189052.9067,
+        96352.7651,
+        189052.9067
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7157",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87556.7542,
+          184059.4931
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7157,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829884,
+        "local_id": 179638,
+        "partnerid": 2179638,
+        "knoopnr": 84,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        87556.7542,
+        184059.4931,
+        87556.7542,
+        184059.4931
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7158",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91125.5203,
+          183826.866
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7158,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829885,
+        "local_id": 179639,
+        "partnerid": 2179639,
+        "knoopnr": 8,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        91125.5203,
+        183826.866,
+        91125.5203,
+        183826.866
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91888.1935,
+          182803.3975
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7159,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829886,
+        "local_id": 179640,
+        "partnerid": 2179640,
+        "knoopnr": 15,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        91888.1935,
+        182803.3975,
+        91888.1935,
+        182803.3975
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93306.6825,
+          185758.2798
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7160,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829887,
+        "local_id": 179641,
+        "partnerid": 2179641,
+        "knoopnr": 13,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        93306.6825,
+        185758.2798,
+        93306.6825,
+        185758.2798
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7161",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94381.6495,
+          187909.209
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7161,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829888,
+        "local_id": 179642,
+        "partnerid": 2179642,
+        "knoopnr": 12,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        94381.6495,
+        187909.209,
+        94381.6495,
+        187909.209
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96751.527,
+          189327.8175
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7165,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829892,
+        "local_id": 179646,
+        "partnerid": 2179646,
+        "knoopnr": 76,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        96751.527,
+        189327.8175,
+        96751.527,
+        189327.8175
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93411.8958,
+          187054.0775
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7168,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829895,
+        "local_id": 179649,
+        "partnerid": 2179649,
+        "knoopnr": 9,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        93411.8958,
+        187054.0775,
+        93411.8958,
+        187054.0775
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92436.5026,
+          190877.942
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7169,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829896,
+        "local_id": 179650,
+        "partnerid": 2179650,
+        "knoopnr": 95,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        92436.5026,
+        190877.942,
+        92436.5026,
+        190877.942
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7171",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87895.5269,
+          184631.8263
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7171,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829898,
+        "local_id": 179652,
+        "partnerid": 2179652,
+        "knoopnr": 80,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        87895.5269,
+        184631.8263,
+        87895.5269,
+        184631.8263
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7172",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92357.8948,
+          191662.8555
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7172,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829899,
+        "local_id": 179653,
+        "partnerid": 2179653,
+        "knoopnr": 93,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        92357.8948,
+        191662.8555,
+        92357.8948,
+        191662.8555
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86327.6654,
+          183030.867
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7176,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829903,
+        "local_id": 179657,
+        "partnerid": 2179657,
+        "knoopnr": 90,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        86327.6654,
+        183030.867,
+        86327.6654,
+        183030.867
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89881.7807,
+          193752.772
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7177,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829905,
+        "local_id": 179659,
+        "partnerid": 2179659,
+        "knoopnr": 13,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        89881.7807,
+        193752.772,
+        89881.7807,
+        193752.772
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7178",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94128.3548,
+          194374.9003
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7178,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829906,
+        "local_id": 179660,
+        "partnerid": 2179660,
+        "knoopnr": 81,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        94128.3548,
+        194374.9003,
+        94128.3548,
+        194374.9003
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7179",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94236.3081,
+          196285.195
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7179,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829907,
+        "local_id": 179661,
+        "partnerid": 2179661,
+        "knoopnr": 75,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        94236.3081,
+        196285.195,
+        94236.3081,
+        196285.195
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7180",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94180.2179,
+          198556.6991
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7180,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829908,
+        "local_id": 179662,
+        "partnerid": 2179662,
+        "knoopnr": 14,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        94180.2179,
+        198556.6991,
+        94180.2179,
+        198556.6991
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94172.805,
+          199067.873
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7181,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829909,
+        "local_id": 179663,
+        "partnerid": 2179663,
+        "knoopnr": 12,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        94172.805,
+        199067.873,
+        94172.805,
+        199067.873
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7182",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88485.3133,
+          198702.7506
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7182,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829910,
+        "local_id": 179664,
+        "partnerid": 2179664,
+        "knoopnr": 83,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        88485.3133,
+        198702.7506,
+        88485.3133,
+        198702.7506
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7183",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92623.5419,
+          198511.2257
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7183,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829911,
+        "local_id": 179665,
+        "partnerid": 2179665,
+        "knoopnr": 6,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        92623.5419,
+        198511.2257,
+        92623.5419,
+        198511.2257
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7184",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93489.0186,
+          198638.6178
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7184,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829912,
+        "local_id": 179666,
+        "partnerid": 2179666,
+        "knoopnr": 10,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        93489.0186,
+        198638.6178,
+        93489.0186,
+        198638.6178
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85910.1932,
+          192697.3841
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7188,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829916,
+        "local_id": 179670,
+        "partnerid": 2179670,
+        "knoopnr": 9,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        85910.1932,
+        192697.3841,
+        85910.1932,
+        192697.3841
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96690.611,
+          198715.2592
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7201,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829929,
+        "local_id": 179684,
+        "partnerid": 2179684,
+        "knoopnr": 25,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        96690.611,
+        198715.2592,
+        96690.611,
+        198715.2592
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7202",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96422.3424,
+          197926.2553
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7202,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829930,
+        "local_id": 179685,
+        "partnerid": 2179685,
+        "knoopnr": 64,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        96422.3424,
+        197926.2553,
+        96422.3424,
+        197926.2553
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7203",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96493.3418,
+          198933.6687
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7203,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829931,
+        "local_id": 179686,
+        "partnerid": 2179686,
+        "knoopnr": 23,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        96493.3418,
+        198933.6687,
+        96493.3418,
+        198933.6687
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7206",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85313.7217,
+          198509.3537
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7206,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829934,
+        "local_id": 179689,
+        "partnerid": 2179689,
+        "knoopnr": 92,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        85313.7217,
+        198509.3537,
+        85313.7217,
+        198509.3537
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7244",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96549.1446,
+          186825.5731
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7244,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829973,
+        "local_id": 179730,
+        "partnerid": 2179730,
+        "knoopnr": 20,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        96549.1446,
+        186825.5731,
+        96549.1446,
+        186825.5731
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7266",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93280.1012,
+          190645.6306
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7266,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829995,
+        "local_id": 179753,
+        "partnerid": 2179753,
+        "knoopnr": 96,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        93280.1012,
+        190645.6306,
+        93280.1012,
+        190645.6306
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7267",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91647.6383,
+          183767.8837
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7267,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4829996,
+        "local_id": 179754,
+        "partnerid": 2179754,
+        "knoopnr": 10,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        91647.6383,
+        183767.8837,
+        91647.6383,
+        183767.8837
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7417",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95369.5051,
+          196466.3389
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7417,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4830147,
+        "local_id": 180122,
+        "partnerid": 2180122,
+        "knoopnr": 47,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        95369.5051,
+        196466.3389,
+        95369.5051,
+        196466.3389
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7418",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96566.0991,
+          197391.164
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7418,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4830148,
+        "local_id": 180123,
+        "partnerid": 2180123,
+        "knoopnr": 48,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        96566.0991,
+        197391.164,
+        96566.0991,
+        197391.164
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7455",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90900.823,
+          198239.8005
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7455,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4830195,
+        "local_id": 180186,
+        "partnerid": 2180186,
+        "knoopnr": 1,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        90900.823,
+        198239.8005,
+        90900.823,
+        198239.8005
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7486",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88992.4926,
+          198953.1937
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7486,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4830228,
+        "local_id": 180261,
+        "partnerid": 2180261,
+        "knoopnr": 4,
+        "knooptype": 1,
+        "naam": "FNW Meetjesland",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        88992.4926,
+        198953.1937,
+        88992.4926,
+        198953.1937
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.7498",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96238.685,
+          182589.1096
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 7498,
+        "eigenaar": "Toerisme Oost-Vlaanderen",
+        "mobility": "Fiets",
+        "geoid": 4830240,
+        "local_id": 180277,
+        "partnerid": 2180277,
+        "knoopnr": 50,
+        "knooptype": 1,
+        "naam": "FNW Leiestreek",
+        "regiourl": "https://oost-vlaanderen.be/",
+        "shopurl": "https://www.routen.be/webshop",
+        "meldpunt": null,
+        "virtual": "signposted network",
+        "updatedate": "2023-11-08"
+      },
+      "bbox": [
+        96238.685,
+        182589.1096,
+        96238.685,
+        182589.1096
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.10060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83269.7031,
+          190313.8867
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 10060,
+        "eigenaar": "Westtoer",
+        "mobility": "Fiets",
+        "geoid": 1006337,
+        "local_id": 1006337,
+        "partnerid": 1006337,
+        "knoopnr": 49,
+        "knooptype": 1,
+        "naam": "Fietsnetwerk West-Vlaanderen",
+        "regiourl": "http://www.westtoer.be",
+        "shopurl": "https://shop.westtoer.be/nl",
+        "meldpunt": "http://www.westtoer.be/nl/routechirurg",
+        "virtual": "signposted network",
+        "updatedate": "2024-05-17"
+      },
+      "bbox": [
+        83269.7031,
+        190313.8867,
+        83269.7031,
+        190313.8867
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.11172",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83016.0004,
+          184054.5471
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 11172,
+        "eigenaar": "Westtoer",
+        "mobility": "Fiets",
+        "geoid": 1007850,
+        "local_id": 1007850,
+        "partnerid": 1007850,
+        "knoopnr": 74,
+        "knooptype": 1,
+        "naam": "Fietsnetwerk West-Vlaanderen",
+        "regiourl": "http://www.westtoer.be",
+        "shopurl": "https://shop.westtoer.be/nl",
+        "meldpunt": "http://www.westtoer.be/nl/routechirurg",
+        "virtual": "signposted network",
+        "updatedate": "2024-05-17"
+      },
+      "bbox": [
+        83016.0004,
+        184054.5471,
+        83016.0004,
+        184054.5471
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.11173",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83401.6411,
+          184227.2717
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 11173,
+        "eigenaar": "Westtoer",
+        "mobility": "Fiets",
+        "geoid": 1007851,
+        "local_id": 1007851,
+        "partnerid": 1007851,
+        "knoopnr": 2,
+        "knooptype": 1,
+        "naam": "Fietsnetwerk West-Vlaanderen",
+        "regiourl": "http://www.westtoer.be",
+        "shopurl": "https://shop.westtoer.be/nl",
+        "meldpunt": "http://www.westtoer.be/nl/routechirurg",
+        "virtual": "signposted network",
+        "updatedate": "2024-05-17"
+      },
+      "bbox": [
+        83401.6411,
+        184227.2717,
+        83401.6411,
+        184227.2717
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.11337",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83545.0503,
+          187873.5804
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 11337,
+        "eigenaar": "Westtoer",
+        "mobility": "Fiets",
+        "geoid": 1008026,
+        "local_id": 1008026,
+        "partnerid": 1008026,
+        "knoopnr": 53,
+        "knooptype": 1,
+        "naam": "Fietsnetwerk West-Vlaanderen",
+        "regiourl": "http://www.westtoer.be",
+        "shopurl": "https://shop.westtoer.be/nl",
+        "meldpunt": "http://www.westtoer.be/nl/routechirurg",
+        "virtual": "signposted network",
+        "updatedate": "2024-05-17"
+      },
+      "bbox": [
+        83545.0503,
+        187873.5804,
+        83545.0503,
+        187873.5804
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.11338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83640.6804,
+          187975.8427
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 11338,
+        "eigenaar": "Westtoer",
+        "mobility": "Fiets",
+        "geoid": 1008027,
+        "local_id": 1008027,
+        "partnerid": 1008027,
+        "knoopnr": 62,
+        "knooptype": 1,
+        "naam": "Fietsnetwerk West-Vlaanderen",
+        "regiourl": "http://www.westtoer.be",
+        "shopurl": "https://shop.westtoer.be/nl",
+        "meldpunt": "http://www.westtoer.be/nl/routechirurg",
+        "virtual": "signposted network",
+        "updatedate": "2024-05-17"
+      },
+      "bbox": [
+        83640.6804,
+        187975.8427,
+        83640.6804,
+        187975.8427
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.11339",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83891.7469,
+          186831.3702
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 11339,
+        "eigenaar": "Westtoer",
+        "mobility": "Fiets",
+        "geoid": 1008028,
+        "local_id": 1008028,
+        "partnerid": 1008028,
+        "knoopnr": 1,
+        "knooptype": 1,
+        "naam": "Fietsnetwerk West-Vlaanderen",
+        "regiourl": "http://www.westtoer.be",
+        "shopurl": "https://shop.westtoer.be/nl",
+        "meldpunt": "http://www.westtoer.be/nl/routechirurg",
+        "virtual": "signposted network",
+        "updatedate": "2024-05-17"
+      },
+      "bbox": [
+        83891.7469,
+        186831.3702,
+        83891.7469,
+        186831.3702
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "knoop_fiets.16146",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84800.3279,
+          190474.4463
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "objectid": 16146,
+        "eigenaar": "Westtoer",
+        "mobility": "Fiets",
+        "geoid": 1493880,
+        "local_id": 2140413,
+        "partnerid": 2140413,
+        "knoopnr": 10,
+        "knooptype": 1,
+        "naam": "Fietsnetwerk West-Vlaanderen",
+        "regiourl": "http://www.westtoer.be",
+        "shopurl": "https://shop.westtoer.be/nl",
+        "meldpunt": "http://www.westtoer.be/nl/routechirurg",
+        "virtual": "signposted network",
+        "updatedate": "2024-05-17"
+      },
+      "bbox": [
+        84800.3279,
+        190474.4463,
+        84800.3279,
+        190474.4463
+      ]
+    }
+  ],
+  "totalFeatures": 101,
+  "numberMatched": 101,
+  "numberReturned": 101,
+  "timeStamp": "2024-06-07T12:45:25.185Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::31370"
+    }
+  }
+}

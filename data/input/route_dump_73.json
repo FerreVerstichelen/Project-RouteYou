@@ -1,0 +1,4664 @@
+{
+    "scoreCalculated": 0.93051183,
+    "scoreAuthor": null,
+    "payable": false,
+    "updatedDate": "2024-04-01 00:32:01.468495+00",
+    "autoPois": {
+        "nl": true
+    },
+    "id": 6826508,
+    "length": 26631,
+    "begin": {
+        "wkt": "POINT(4.58363 50.84127)"
+    },
+    "beginAddress": "Nollekensstraat, Bertem, Vlaams-Brabant, Vlaanderen",
+    "end": {
+        "wkt": "POINT(4.58284 50.84184)"
+    },
+    "endAddress": "Goedeweek, Bertem, Vlaams-Brabant, Vlaanderen",
+    "centroid": {
+        "wkt": "POINT(4.53622864568605 50.8119224010992)"
+    },
+    "bounds": {
+        "wkt": "BOX(4.48134 50.78232,4.58474 50.84246)"
+    },
+    "owner": {
+        "id": 511153,
+        "type": {
+            "id": 1
+        },
+        "flag": null,
+        "avatarRevision": 0,
+        "logoRevision": 0,
+        "headerRevision": 0,
+        "privileges": [],
+        "configuration": null,
+        "name": {
+            "en": "Veerle de doncker"
+        },
+        "languages": [
+            "en"
+        ],
+        "permission": {
+            "writable": false
+        },
+        "nick": "Veerle de doncker"
+    },
+    "type": {
+        "id": 5,
+        "tree": [
+            {
+                "id": 0,
+                "name": {
+                    "nl": "Alle routes"
+                },
+                "languages": [
+                    "nl"
+                ]
+            },
+            {
+                "id": 1,
+                "name": {
+                    "nl": "Fietsroute"
+                },
+                "languages": [
+                    "nl"
+                ]
+            }
+        ],
+        "name": {
+            "nl": "Recreatieve fietsroute"
+        },
+        "languages": [
+            "nl"
+        ]
+    },
+    "flag": "be",
+    "score": 0.4,
+    "scoreMethod": {
+        "id": 3
+    },
+    "correctness": null,
+    "correctnessMethod": {
+        "id": null
+    },
+    "duration": 6391,
+    "downloadable": false,
+    "inputFormat": {
+        "id": 0,
+        "recording": false
+    },
+    "ascent": {
+        "total": 194,
+        "net": -3,
+        "totalRelative": 0.6
+    },
+    "descent": {
+        "total": 197,
+        "totalRelative": 0.6
+    },
+    "ascendingRate": {
+        "max": 0.038653698,
+        "avg": null,
+        "maxRelative": 0.7,
+        "avgRelative": null
+    },
+    "difficulty": 0.5666666666666667,
+    "difficultyAuthor": null,
+    "permission": {
+        "id": 0,
+        "read": "public",
+        "write": "group",
+        "writable": false
+    },
+    "planner": {
+        "id": 5
+    },
+    "parent": null,
+    "configuration": {
+        "planner": {
+            "owner": {
+                "id": null
+            }
+        }
+    },
+    "editedDate": "2020-01-23 17:14:57.965897+00",
+    "createdDate": "2020-01-23 17:14:57.919594+00",
+    "lastReviewDate": "2020-01-01 17:15:05+00",
+    "otnId": {
+        "nl": null
+    },
+    "name": {
+        "nl": "tervuren fiets 25km"
+    },
+    "nameGenerated": {
+        "nl": false
+    },
+    "subName": {
+        "nl": null
+    },
+    "trackName": {
+        "nl": null
+    },
+    "description": {
+        "nl": "<p>Van: Nollekensstraat, Bertem, Vlaams-Brabant, Vlaanderen<br/>\nNaar: Goedeweek, Bertem, Vlaams-Brabant, Vlaanderen</p>\n\n<p>Routering: Recreatief fietsen - knooppunten</p>"
+    },
+    "descriptionGenerated": {
+        "nl": true
+    },
+    "generatedInfo": {
+        "nl": "<span class=\"routeYou_node\">45</span> - <span class=\"routeYou_node\">60</span> - <span class=\"routeYou_node\">60</span> - <span class=\"routeYou_node\">44</span> - <span class=\"routeYou_node\">44</span> - <span class=\"routeYou_node\">29</span> - <span class=\"routeYou_node\">25</span> - <span class=\"routeYou_node\">57</span> - <span class=\"routeYou_node\">8</span> - <span class=\"routeYou_node\">8</span> - <span class=\"routeYou_node\">9</span> - <span class=\"routeYou_node\">9</span> - <span class=\"routeYou_node\">19</span> - <span class=\"routeYou_node\">45</span>"
+    },
+    "source": {
+        "name": {
+            "nl": null
+        },
+        "uri": {
+            "nl": null
+        }
+    },
+    "infoUri": {
+        "nl": null
+    },
+    "breadcrumbRegions": [
+        {
+            "id": 47490853,
+            "flag": "be",
+            "type": {
+                "id": 415
+            },
+            "name": {
+                "ca": "Municipi de Bertem",
+                "de": "Gemeinde Bertem",
+                "en": "municipality of Bertem",
+                "es": "Municipio de Bertem",
+                "fr": "Commune de Bertem",
+                "it": "Comune di Bertem",
+                "nl": "Gemeente Bertem"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47418550,
+            "flag": "be",
+            "type": {
+                "id": 522
+            },
+            "name": {
+                "ca": "Groene Gordel",
+                "de": "Groene Gordel",
+                "en": "Groene Gordel",
+                "es": "Groene Gordel",
+                "fr": "Groene Gordel",
+                "it": "Groene Gordel",
+                "nl": "Groene Gordel"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407876,
+            "flag": "be",
+            "type": {
+                "id": 409
+            },
+            "name": {
+                "ca": "Flämisch-Brabant",
+                "de": "Flämisch-Brabant",
+                "en": "Flemish Brabant",
+                "es": "Flämisch-Brabant",
+                "fr": "Brabant Flamand",
+                "it": "Flämisch-Brabant",
+                "nl": "Vlaams Brabant"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407865,
+            "type": {
+                "id": 407
+            },
+            "name": {
+                "ca": "Bèlgica",
+                "de": "Belgien",
+                "en": "Belgium",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "nl": "België"
+            },
+            "flag": "be",
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        }
+    ],
+    "viewCount": 35,
+    "viewCountThisMonth": 0,
+    "downloadCount": 4,
+    "geometry": {
+        "google": "}|huHuf~Zo@jAi@t@sChDbC`FpN|Uz@|AtF`Lj@|@zBfC^h@\\n@Vn@Tt@xAxGj@jBl@|BVnAj@pDnArFb@zBDV{AlAaEnD]TUTET@LHZlEdNFb@?RENi@fAk@~@EP]lFEX`A|B\\bAl@jARh@J\\NlAJVRVXr@Ln@BXb@fDfAvK@ZAfBCh@SjAEfAXhEFzDHpAV|AXlAx@bGn@|Cz@`FrAbJRb@GRP\\Ej@Af@@|@n@pFFfA@dBGtAEj@]fCU~BUjDKdDApA?tADbERnF`@zG^tDFVfUlo@hElLhCrHtArDJ^hAbHJb@lAlHx@hEH|@x@bEd@CPFTOp@MG}@gAcFj@_@BMN[PYRQ|@SRSxF}H~CcEHQDS@g@y@a[?i@Ba@Zq@RUbPiYRUTIHe@TBHFnB~Cr@vAf@fBPx@N~AJh@f@rAXdAVl@^vAf@lEHRb@j@lGdHp@z@f@~@HVRxA|A{@}Az@P@nBd@tAB\\Cl@IxAa@dDaBFPJr@VdAd@fAt@|ChErOjF|R`BzFhB|EhK|Yd@jAvMz^dBtEr@vBn@`BbFhPzAvDdGvN`BrDtCtHjExKpEzKbJfUNTJ^sAdBMV[rAc@dCb@eCZsALWrAeBK_@\\_@R_APwAVcLb@eJh@kNRgEHgCDqCI{WSiQ?oAGwFGwCAyDFs@rBaIiL{M~EuOVoAJ[S]HUFe@lB{XPoBViAVu@LW|@yArB{C`@u@v@mATi@Jm@Bq@Am@KqAzCi@J@TL\\h@\\Tv@JBYFOPMG_@Ce@@eANsB?a@t@BLARI|IoHH@BDdAjDJHPEbBqBp@q@~@gAlI_KxCeD`BiBPIm@oLEo@ScBHMB[[gKUcDYwBC_@Ke@Oo@Wq@}AeDgCeEw@_Aq@cBUw@Q?Qm@KUgBcDg@kAgAwCK_@Io@Cg@k@{G[iB[uA_@uCo@iEMgBO_FEcDD}DC[i@aD_@gBYgAKWW_@cDqCu@u@}@{AuAwCo@iAQa@iAmF]iBKS{@?c@F_@LkC`BaA|@sCbD{@nBa@nAc@|@uA_CmCgFIf@Q`CMh@i@nAmA`CUV}@ZgBUc@@}@NkAz@aA`AUb@W|@oC_CoB{Au@[sA_@cAs@kB{Bi@g@a@YiB}B{@i@_AYg@Eg@?uALmEl@gBh@gA`@i@Zs@h@cDpC_Ap@gAb@s@LyA?wAQgGiAoCi@Ea@DmD?oBE{A?s@FgE?gDCq@GUmBxC{ClEo@j@wAz@uCpBYTKNWh@CLg@L_L~@IIeAqCqAcBe@cAmChClCiCa@mAo@oCqCuKwBeKsBsGc@iAg@aBKk@K]e@mAs@qAo@w@WUGu@yBkHk@yA}BmF_@kAkBiKw@_FWoBeAuMKcCAkCEeBWyASw@c@y@y@aAc@o@m@kA_CgGaAuCw@mBa@w@oAkBgByCuAoBMYm@g@_Bu@iA}@w@g@YKi@I}@EsFEg@OYSe@k@[m@m@_BKQmBiBK}AE_BD~AJ|AcBtB[\\IBoAEcBBy@I[?SH_Ax@[RkALe@?yCOwEc@u@Mw@EWB_@Pk@l@q@f@a@TOB_@C}Be@aD{@SKiAiBk@s@o@jAaApA"
+    },
+    "elevation": {
+        "google": "_{qhI?~reK{G?aF~hbE{V?mX_glW}wA?_J~reKen@?uF?uR_ibEmD_ibEsD_ibE_D?iD_seKcY?sI~hbE_K?iF~hbEyN_ibEuU?iJ?cA~hbEsL~hbEe\\?iC?mB?_A?e@?sA_seKko@?cB?u@?o@_ibEcG?yF?s@~hbEaS?iA?oL?{E_ibEuG?iC?}A_ibEyE?oA?iB?mD_ibEkC_ibEgA_ibEsM_glWab@~hbEiA_ibEqG?qB_seKwE?aE_ibE_P?qN?}E?kG?gF~flWyU_ibEoM_seKgS~hbEk^?_C?}@?mB_ibEuB~hbEiB_ibEeD~reK}S?aE~hbEmG?eF?uB?}J_ibE}I_ibEoM?yL_ibEyE~hbEaF?gO~hbE_S?}V_}hQqN?gA_c`|@i}C~flWgk@_seKe^_}hQuQ_ibEaB~|hQ_Y?kB~hbE}Y~flWkQ?gD?}P?}C_ibEmA?eB_seKsE~hbEeD~reKcT_ibEiE?g@?cB?eB?_B?gG?cB_{rc@{h@_ibEmY?_A?y@_ibEiB_ajnAsiA?oB?{A?oD?eB~`jnAybB_ibEeB?_B?kB_ibE}A?m@~hbEwR_qo]}H_ibEaI?iD?gG?wB_ibEwG_qo]uE?}C_seKkG~po]yP~hbEcA?}D_{rc@yi@?eG_glWmF~hbEkA~reK{F_ibEgL~hbEgL_ibEkA~reK}M?gJ~hbE}B?_E~|hQcK_}hQcV?y@~|hQqC?sE_seKwF_ibEyM_oyo@ir@_glWc|@~hbEmW_seK_V_seK}vA?_G_mcbAmgB_}hQeU_ibE_K_ibEgI_qo]su@_ibEmR_ibE{t@?uR~reKg_@~hbEcj@~|hQwj@~po]_jA~hbEyA~hbEaB_ibEyL_ibEuA_}hQ{F_ibEaK~hbE_K~|hQ{F~hbEuA~hbE{L_ibEaB?uC?}D?sF~reK}a@~hbE}\\~hbEch@?wO_ibEiJ?cK_qo]{`A_ibEoo@~hbEsE~hbEqS?sK~hbEkN~reKmC~zrc@u]_}hQccA~reK_t@?iF?wA?sB~hbEgA?iB~|hQ_eA?qH?{E?mD~hbEuA?_J~flW}R?gE~hbEwH~reKqC~hbEaC_ibEeC?yB?_F~|hQsS?q@?cB~hbEgD?iC?kF?eA~reKu@?sA?{A?eB?wD~hbE{H_ibEyA~hbEaF?y@?wA_seKcs@_ibEi@?W_qo]}O?w@?kA_glWcO~hbEwF~hbEgI_ibE}t@_glWkW?oN?oA~reKgc@?aC?sG~hbEw@?kA_ibEu_@?{L~hbEmI?wA~hbEoB~hbEoC?eD_ibEkQ_ibEeW~hbE_H?qI~hbEmD_seKkA?mC?mA~hbEeR?eG~reKuN?aB~hbEeC?kB~flWeW~reKoH~reK_G~hbEaL~hbE{P?yG?sQ?sL?wN?kA~|hQmM~|hQsH?yE?qA~hbEaC~po]sW~reKiG~hbEcJ~reK{O~|hQwG?sB~zrc@}T~|hQsH~hbEiA?yF?wC_ibEiC_}hQ_S~hbEaI?qV~hbEcK~hbE_G_ibE}E~hbEmN_oyo@uY~hbEqB?_J~reK}B?sG_ibEyM?mB_ibEmG~hbEuL?wC?eG~|hQaJ?eI_ibEeC_ibE_E_ibEqT_seKoO?kF_ibEiJ?{H~hbEmP?kE_ibE}C_ibEiP_ibEqG_ibEsG_ibEgD?gD_ibEgJ_ibEeZ_ibE_M?yH_ibE}D_seKuF_ibEqW_seKiH_ibE{H_seK{E?wJ_}hQqJ_{rc@_b@_ibEcR?}A_ibEkM?iH?sF?iC?qO?{L~hbEeC?cA~hbEeR~|hQoY?gF~reKqK?uT?{B?aA_ibEuC?g@?kD~hbEqu@?o@_}hQcN?qL_seKoF~flWwT_glWyT_ibEyF_ibEmL~hbEse@~reKyb@~hbEmZ?uF_seKsH?_C?}A_ibEcG_ibEqH?yF?sB_ibEqC?o\\?mH~flWsX~hbEqF~flWob@?{R?yH~hbE{f@?aJ?qJ?oG_ibEaG~hbEiD?uE_ibEkH?cE_ibEuG?oZ~hbEcN~hbEsJ?mE?wL~reKsQ~hbEoM~hbE{A~hbEyE?iL?}I~hbE_G_ibEqB?qD?aG_ibE{^~hbEkD?yB?cE?iD~hbE}H?cA_ibE{O?{F?_G?_G?{F~zrc@iO?mC?i@~flWoI~hbEaL~|hQqF?uB?wA?sH~hbE_C~reK_I?}C~flWeS~flWi[~|hQeF?iF?cB~hbEmC~reK{E?iF~hbEyC?cA?eC~reKwO~hbEwT?wA_seKaL?eF~reK{G~hbE}I"
+    },
+    "instructions": [
+        {
+            "atGeometry": "POINT(4.58363 50.84127)",
+            "distance": 0,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": null,
+            "toBearing": -44.994879831625,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(4.55796 50.83470)",
+            "distance": 2424.6549080173,
+            "using": "",
+            "at": null,
+            "to": "45",
+            "fromBearing": -142.84251990716,
+            "toBearing": -128.36818856112,
+            "angle": 14.47433134604
+        },
+        {
+            "atGeometry": "POINT(4.55733 50.83448)",
+            "distance": 2476.0311149097,
+            "using": "",
+            "at": "45",
+            "to": "46",
+            "fromBearing": -103.69033816244,
+            "toBearing": -108.741425941,
+            "angle": -5.0510877785593
+        },
+        {
+            "atGeometry": "POINT(4.53225 50.83197)",
+            "distance": 4316.6253654113,
+            "using": "",
+            "at": null,
+            "to": "60",
+            "fromBearing": -117.82339149001,
+            "toBearing": -126.0240247207,
+            "angle": -8.20063323069
+        },
+        {
+            "atGeometry": "POINT(4.52117 50.81410)",
+            "distance": 8084.8928670913,
+            "using": "",
+            "at": "60",
+            "to": "25",
+            "fromBearing": -109.37698890619,
+            "toBearing": 158.03550327159,
+            "angle": -92.587507822223
+        },
+        {
+            "atGeometry": "POINT(4.52147 50.81363)",
+            "distance": 8141.2911667235,
+            "using": "",
+            "at": null,
+            "to": "60",
+            "fromBearing": 158.03550327159,
+            "toBearing": -21.964264199157,
+            "angle": -179.99976747075
+        },
+        {
+            "atGeometry": "POINT(4.52117 50.81410)",
+            "distance": 8197.6894663555,
+            "using": "",
+            "at": "60",
+            "to": "44",
+            "fromBearing": -21.964264199157,
+            "toBearing": -175.98417182585,
+            "angle": -154.0199076267
+        },
+        {
+            "atGeometry": "POINT(4.48322 50.79386)",
+            "distance": 11855.835772713,
+            "using": "",
+            "at": "44",
+            "to": "43",
+            "fromBearing": -139.00429836167,
+            "toBearing": -120.6784154843,
+            "angle": 18.325882877372
+        },
+        {
+            "atGeometry": "POINT(4.48134 50.79461)",
+            "distance": 12024.168244616,
+            "using": "",
+            "at": null,
+            "to": "44",
+            "fromBearing": -66.973268487169,
+            "toBearing": 113.02621234056,
+            "angle": 179.99948082773
+        },
+        {
+            "atGeometry": "POINT(4.48306 50.79380)",
+            "distance": 12179.392722633,
+            "using": "",
+            "at": "44",
+            "to": "29",
+            "fromBearing": 142.49130926157,
+            "toBearing": 59.321460536004,
+            "angle": -83.16984872557
+        },
+        {
+            "atGeometry": "POINT(4.52578 50.78290)",
+            "distance": 16228.328788406,
+            "using": "",
+            "at": null,
+            "to": "29",
+            "fromBearing": 145.72438757256,
+            "toBearing": 145.63245851206,
+            "angle": -0.091929060500007
+        },
+        {
+            "atGeometry": "POINT(4.52636 50.78232)",
+            "distance": 16305.037748328,
+            "using": "",
+            "at": "29",
+            "to": "25",
+            "fromBearing": 160.64565139701,
+            "toBearing": 80.439557280996,
+            "angle": -80.206094116016
+        },
+        {
+            "atGeometry": "POINT(4.55089 50.80994)",
+            "distance": 21033.706897502,
+            "using": "",
+            "at": null,
+            "to": "25",
+            "fromBearing": 10.044169651718,
+            "toBearing": 10.44242107408,
+            "angle": 0.398251422362
+        },
+        {
+            "atGeometry": "POINT(4.55110 50.81066)",
+            "distance": 21115.159200485,
+            "using": "",
+            "at": "25",
+            "to": "57",
+            "fromBearing": 10.44242107408,
+            "toBearing": 74.396136163718,
+            "angle": 63.953715089637
+        },
+        {
+            "atGeometry": "POINT(4.55562 50.81071)",
+            "distance": 21435.926860639,
+            "using": "",
+            "at": "57",
+            "to": "8",
+            "fromBearing": 60.080435421645,
+            "toBearing": -41.496736200775,
+            "angle": -101.57717162242
+        },
+        {
+            "atGeometry": "POINT(4.55485 50.81126)",
+            "distance": 21517.712857158,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": -41.496736200775,
+            "toBearing": -39.841042370379,
+            "angle": 1.655693830396
+        },
+        {
+            "atGeometry": "POINT(4.55349 50.81708)",
+            "distance": 22274.0980668,
+            "using": "",
+            "at": "8",
+            "to": "45",
+            "fromBearing": 48.50727015105,
+            "toBearing": -31.549510293805,
+            "angle": -80.056780444855
+        },
+        {
+            "atGeometry": "POINT(4.55280 50.81779)",
+            "distance": 22366.850154851,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": -31.549510293805,
+            "toBearing": 148.44995486174,
+            "angle": 179.99946515555
+        },
+        {
+            "atGeometry": "POINT(4.55349 50.81708)",
+            "distance": 22459.602242902,
+            "using": "",
+            "at": "8",
+            "to": "9",
+            "fromBearing": 148.44995486174,
+            "toBearing": 55.396788831291,
+            "angle": -93.053166030452
+        },
+        {
+            "atGeometry": "POINT(4.58379 50.83243)",
+            "distance": 25364.474921818,
+            "using": "",
+            "at": "9",
+            "to": "3",
+            "fromBearing": 31.325626890499,
+            "toBearing": 78.572913895638,
+            "angle": 47.247287005138
+        },
+        {
+            "atGeometry": "POINT(4.58474 50.83252)",
+            "distance": 25432.232899317,
+            "using": "",
+            "at": null,
+            "to": "9",
+            "fromBearing": 84.348413392789,
+            "toBearing": -95.651214461578,
+            "angle": -179.99962785437
+        },
+        {
+            "atGeometry": "POINT(4.58379 50.83243)",
+            "distance": 25499.990876817,
+            "using": "",
+            "at": "9",
+            "to": "19",
+            "fromBearing": -101.42672171254,
+            "toBearing": -36.695935323004,
+            "angle": 64.730786389532
+        },
+        {
+            "atGeometry": "POINT(4.58363 50.84127)",
+            "distance": 26546.10818603,
+            "using": "",
+            "at": "19",
+            "to": "45",
+            "fromBearing": 36.733349652042,
+            "toBearing": -44.994879831625,
+            "angle": -81.728229483667
+        },
+        {
+            "atGeometry": "POINT(4.58284 50.84184)",
+            "distance": 26630.62203585,
+            "using": "",
+            "at": null,
+            "to": "45",
+            "fromBearing": -38.115727801924,
+            "toBearing": null,
+            "angle": null
+        }
+    ],
+    "statistics": {
+        "routing": {
+            "cyclingNodes": 1
+        }
+    },
+    "segments": [
+        [
+            4.58363,
+            50.84127,
+            38
+        ],
+        [
+            4.55796,
+            50.8347,
+            38
+        ],
+        [
+            4.53225,
+            50.83197,
+            38
+        ],
+        [
+            4.52147,
+            50.81363,
+            38
+        ],
+        [
+            4.48134,
+            50.79461,
+            38
+        ],
+        [
+            4.52578,
+            50.7829,
+            38
+        ],
+        [
+            4.55089,
+            50.80994,
+            38
+        ],
+        [
+            4.55485,
+            50.81126,
+            38
+        ],
+        [
+            4.5528,
+            50.81779,
+            38
+        ],
+        [
+            4.58474,
+            50.83252,
+            38
+        ],
+        [
+            4.58284,
+            50.84184,
+            38
+        ]
+    ],
+    "pois": [
+        {
+            "location": {
+                "id": 4572120,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "en": "Hotel",
+                        "fr": "Hôtel",
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": 1979378,
+                    "street": "Kapucijnendreef 1",
+                    "number": null,
+                    "box": null,
+                    "city": "Overijse",
+                    "state": null,
+                    "postalCode": "3090",
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.528,
+                "distance": 12245,
+                "name": {
+                    "nl": "Hotel Soret",
+                    "en": "Hotel Soret",
+                    "fr": "Hôtel Soret"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.48262 50.79371)"
+                }
+            },
+            "text": {
+                "id": 683403,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 24575
+                },
+                "description": {
+                    "nl": "Comfortabel hotel met privé-parking in rustgevend groen van het Zoniënwoud. Ideaal voor feesten, seminaries, vergaderingen en recepties. Uitmuntende Franse en Brusselse keuken. Vlakbij Brussel, de luchthaven van Zaventem en de belangrijkste snelwegen.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/24575.nl\">tovpubliek</a><br/><a href=\"https://www.routeyou.com/location/view/4572120.nl?toptext=683403\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 250714,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 24575
+                    },
+                    "filename": {
+                        "nl": "3916f46b6ccf0562a1b4574a5e8fa434_9611fadf2619012c4d2b7fbc2a76fd379b480d71.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/3916f46b6ccf0562a1b4574a5e8fa434_9611fadf2619012c4d2b7fbc2a76fd379b480d71.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47440802,
+                "type": {
+                    "id": 129,
+                    "name": {
+                        "nl": "Kapel"
+                    }
+                },
+                "address": {
+                    "id": 1117185,
+                    "street": "Rijkunstdreef",
+                    "number": null,
+                    "box": null,
+                    "city": "Tervuren",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.891,
+                "distance": 6449,
+                "name": {
+                    "nl": "Sint-Hubertus kapel"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.51714038849 50.8240272493)"
+                }
+            },
+            "text": {
+                "id": 707754,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "<p>De barokke Sint-Hubertuskapel werd in 1617 gebouwd in opdracht van de Aartshertogen Albrecht en Isabella, naar een plan van Wenceslas Coeberger. Zij bevindt zich in de Warande op de binnenkoer van het voormalig kasteel van de Aartshertogen. Volgens de legende zou de heilige Hubertus op deze plaats gestorven zijn. De aartshertog en hertogin verbleven in Brussel maar deze plek in Tervuren was een van hun geliefde pleisterplaatsen. De architect was Wensel Coberger die de basiliek van Scherpenheuvel en de Augustijnenkerk in Antwerpen ontwierp.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/47440802.nl?toptext=707754\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Gemeente Tervuren"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 255175,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "nl": "5d892840e6b34b2746dbc8bd3bc4b711_a1d848282bbbcb55b0b31f683fede0b4c4f9e097.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/5d892840e6b34b2746dbc8bd3bc4b711_a1d848282bbbcb55b0b31f683fede0b4c4f9e097.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47448020,
+                "type": {
+                    "id": 2,
+                    "name": {
+                        "nl": "Route-info"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.276,
+                "distance": 24493,
+                "name": {
+                    "nl": "langsheen traject Tramrelle"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.57612752914 50.82174997)"
+                }
+            },
+            "text": {
+                "id": 717265,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 80136
+                },
+                "description": {
+                    "nl": " <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/80136.nl\">Gemeente Kortenberg</a><br/><a href=\"https://www.routeyou.com/location/view/47448020.nl?toptext=717265\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 257696,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 80136
+                    },
+                    "filename": {
+                        "nl": "986e8017942d2236c1ae97e138584ebb_6e7e1b58f6b06492e8505a02f5f70c0db52afae1.jpeg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "https://picasaweb.google.com/dannyclaes/Wandel02feb2011?authkey=Gv1sRgCKiqwazI0J-AAw&feat=email#556"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/986e8017942d2236c1ae97e138584ebb_6e7e1b58f6b06492e8505a02f5f70c0db52afae1.jpeg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47565985,
+                "type": {
+                    "id": 368,
+                    "name": {
+                        "nl": "Kruispunt"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.262,
+                "distance": 9136,
+                "name": {
+                    "nl": "Kruispunt van de Hertedreef met de Kapucijenedreef"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5171403884888 50.809853447229)"
+                }
+            },
+            "text": {
+                "id": 991099,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 124619
+                },
+                "description": {
+                    "nl": "Kruispunt van de Hertedreef met de Kapucijenedreef<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/124619.nl\">wy</a><br/><a href=\"https://www.routeyou.com/location/view/47565985.nl?toptext=991099\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 338760,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 124619
+                    },
+                    "filename": {
+                        "nl": "3386129211db01db0f0080f5335e4e5e_7d31b98dd8cc1fca886c90e3907dd2add20212cb.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/3386129211db01db0f0080f5335e4e5e_7d31b98dd8cc1fca886c90e3907dd2add20212cb.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47567533,
+                "type": {
+                    "id": 443,
+                    "name": {
+                        "de": "Erbe",
+                        "en": "Heritage",
+                        "fr": "Patrimoine",
+                        "nl": "Erfgoed"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.618,
+                "distance": 6212,
+                "name": {
+                    "nl": "Sint-Jan-Evangelistkerk",
+                    "de": "Sankt Johannes Kirche",
+                    "en": "Church of Saint John the Apostle",
+                    "fr": "Eglise Saint-Jean"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.513296 50.8236837)"
+                }
+            },
+            "text": {
+                "id": 993381,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 122267
+                },
+                "description": {
+                    "nl": "Hendrik I, hertog van Brabant, liet tussen 1200 en 1225 op het voorhof van zijn kasteel een nieuwe kerk bouwen.\r\nHet kleine romaanse kerkje moest groter en mooier worden. Tot de afbraak kwam het, tegen de plannen in, niet. Oud en nieuw, romaans en gotisch, werden geïntegreerd. In de 18de eeuw werden dan nog rococo-aanpassingen aangebracht. Een gotisch raam werd dichtgemetseld en er kwam een barok altaar (1761) voor. De latere pastoor Davidts wou vanaf 1948 zoveel mogelijk terugkeren naar de gotiek. Hij moest echter het altaar behouden.\r\nDrie hertogen zijn begraven in het koor van de kerk, die tot 1280 hun privé kerk was. Het gaat om Antoon van Bourgondië (+1415), Jan IV (+1427) en Filip van Sint-Pol (+1430).\r\nDe kerk bezit zeer mooi gotische meubels. Een van de waardevolste kunstobjecten in de kerk is het koordoksaal: drie bogen zijn met tien bijbelse taferelen bekleed.\r\nDe kerk ligt op een heraangelegde Markt, grenzend aan het Park van Tervuren.\r\nMet de steun van de provincie Vlaams-Brabant\r\n<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/122267.nl\">Wizpr.guide</a><br/><a href=\"https://www.routeyou.com/location/view/47567533.nl?toptext=993381\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "de": null,
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "de": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 340269,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 122267
+                    },
+                    "filename": {
+                        "nl": "69f3ae2f1fb85965a34c77ea5d18b6ef_7174f30c14dedf99d90d9a5ea2cc4e568655774e.jpg",
+                        "fr": "69f3ae2f1fb85965a34c77ea5d18b6ef_7174f30c14dedf99d90d9a5ea2cc4e568655774e.jpg",
+                        "en": "69f3ae2f1fb85965a34c77ea5d18b6ef_7174f30c14dedf99d90d9a5ea2cc4e568655774e.jpg",
+                        "de": "69f3ae2f1fb85965a34c77ea5d18b6ef_7174f30c14dedf99d90d9a5ea2cc4e568655774e.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "fr": "",
+                        "en": "",
+                        "de": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Wizpr.guide",
+                            "fr": "Wizpr.guide",
+                            "en": "Wizpr.guide",
+                            "de": "Wizpr.guide"
+                        },
+                        "description": {
+                            "nl": "",
+                            "fr": "",
+                            "en": "",
+                            "de": ""
+                        },
+                        "link": {
+                            "nl": "http://my.ibeaken.com/assets/media/1090/mobile/1090.jpg?1313668163",
+                            "fr": "http://my.ibeaken.com/assets/media/1090/mobile/1090.jpg?1313668163",
+                            "en": "http://my.ibeaken.com/assets/media/1090/mobile/1090.jpg?1313668163",
+                            "de": "http://my.ibeaken.com/assets/media/1090/mobile/1090.jpg?1313668163"
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/69f3ae2f1fb85965a34c77ea5d18b6ef_7174f30c14dedf99d90d9a5ea2cc4e568655774e.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/69f3ae2f1fb85965a34c77ea5d18b6ef_7174f30c14dedf99d90d9a5ea2cc4e568655774e.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/69f3ae2f1fb85965a34c77ea5d18b6ef_7174f30c14dedf99d90d9a5ea2cc4e568655774e.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/69f3ae2f1fb85965a34c77ea5d18b6ef_7174f30c14dedf99d90d9a5ea2cc4e568655774e.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47567535,
+                "type": {
+                    "id": 443,
+                    "name": {
+                        "de": "Erbe",
+                        "en": "Heritage",
+                        "fr": "Patrimoine",
+                        "nl": "Erfgoed"
+                    }
+                },
+                "address": {
+                    "id": 3108304,
+                    "street": "Dorpsplein",
+                    "number": null,
+                    "box": null,
+                    "city": "Tervuren",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.702,
+                "distance": 2415,
+                "name": {
+                    "nl": "Sint-Pauluskerk",
+                    "de": "Kirche Sankt Paulus",
+                    "en": "Church of Saint Paul",
+                    "fr": "Eglise St-Paul"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5581856023773 50.83461077788)"
+                }
+            },
+            "text": {
+                "id": 993383,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 122267
+                },
+                "description": {
+                    "nl": "De intieme en gezellige Sint-Pauluskerk van Vossem vormt een schakel in de reeks van Romaanse kerken in de Voervallei.\r\nWaarschijnlijk werd de kerk rond 1200 gebouwd. Ze werd opgetrokken in kalkzandsteen die in de omgeving werd opgedolven. Op het einde van de 17de eeuw werd de kerk grondig verbouwd in de populaire stijlrichting van die tijd: de barok. De kerk kreeg meer licht door grotere ramen, pijlers werden verwijderd, muren en zoldering werden wit bepleisterd, de toren werd verhoogd en onderaan in de toren kwam een nieuwe westelijke toegang tot de kerk. In het romaanse koor zijn nog sporen terug te vinden van middeleeuwse muurschilderingen. Andere kerkschatten zijn onder meer een 15de-eeuws eikenhouten beeld van Sint-Paulus en een verguld kruis uit de baroktijd.\r\nHet is amper 200 meter wandelen tot aan de Voer, een riviertje dat te volgen is tot in het park van Tervuren of tot in Leuven.\r\nMet de steun van de provincie Vlaams-Brabant\r\n<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/122267.nl\">Wizpr.guide</a><br/><a href=\"https://www.routeyou.com/location/view/47567535.nl?toptext=993383\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "de": null,
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "de": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 340271,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 122267
+                    },
+                    "filename": {
+                        "en": "0d0698bb51cbbb9fe433071d0ce0f953_dcc2de9d4b96bd7982bca146f8bae482be5eac30.jpg",
+                        "de": "0d0698bb51cbbb9fe433071d0ce0f953_dcc2de9d4b96bd7982bca146f8bae482be5eac30.jpg",
+                        "fr": "0d0698bb51cbbb9fe433071d0ce0f953_dcc2de9d4b96bd7982bca146f8bae482be5eac30.jpg",
+                        "nl": "0d0698bb51cbbb9fe433071d0ce0f953_dcc2de9d4b96bd7982bca146f8bae482be5eac30.jpg"
+                    },
+                    "description": {
+                        "en": "",
+                        "de": "",
+                        "fr": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "en": "Wizpr.guide",
+                            "de": "Wizpr.guide",
+                            "fr": "Wizpr.guide",
+                            "nl": "Wizpr.guide"
+                        },
+                        "description": {
+                            "en": "",
+                            "de": "",
+                            "fr": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "en": "http://my.ibeaken.com/assets/media/1092/mobile/1092.jpg?1313668225",
+                            "de": "http://my.ibeaken.com/assets/media/1092/mobile/1092.jpg?1313668225",
+                            "fr": "http://my.ibeaken.com/assets/media/1092/mobile/1092.jpg?1313668225",
+                            "nl": "http://my.ibeaken.com/assets/media/1092/mobile/1092.jpg?1313668225"
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/0d0698bb51cbbb9fe433071d0ce0f953_dcc2de9d4b96bd7982bca146f8bae482be5eac30.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/0d0698bb51cbbb9fe433071d0ce0f953_dcc2de9d4b96bd7982bca146f8bae482be5eac30.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/0d0698bb51cbbb9fe433071d0ce0f953_dcc2de9d4b96bd7982bca146f8bae482be5eac30.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/0d0698bb51cbbb9fe433071d0ce0f953_dcc2de9d4b96bd7982bca146f8bae482be5eac30.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47567536,
+                "type": {
+                    "id": 443,
+                    "name": {
+                        "de": "Erbe",
+                        "en": "Heritage",
+                        "fr": "Patrimoine",
+                        "nl": "Erfgoed"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.514,
+                "distance": 22294,
+                "name": {
+                    "nl": "Sint-Katharinakerk",
+                    "de": "Kirche Sankt-Katharina",
+                    "en": "Church of Saint-Catherine",
+                    "fr": "Eglise Ste-Catherine"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5522100367706 50.815761136717)"
+                }
+            },
+            "text": {
+                "id": 993384,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 122267
+                },
+                "description": {
+                    "nl": "Duisburg is gelegen aan de rand van het Zoniënwoud. Het opvallendste kenmerk van de Sint-Katharinakerk is de getrapte vorm van koor, kruisbeuk en schip, een gevolg van de opeenvolgende bouwactiviteiten.\r\nZoals alle kerken uit de Voervallei heeft deze Sint-Katharinakerk een Romaanse onderbouw (12de eeuw). Het gotische koor werd toegevoegd in 1263 en is hoger dan het romaanse schip. De kruisbeuk werd aangebouwd tussen 1350 en 1400 terwijl de torenspits dateert uit 1626-1628. Opvallend zijn de 14de eeuwse muurschilderingen.\r\nDe parochie werd in het ancien regime bediend door de abdij van Coudenberg van Brussel. Deze abdij had de parochie in de 12de eeuw van de Brabantse hertog Hendrik I toegewezen gekregen.\r\nAan de kerk begint de \"Oogstwandeling\" met fraaie vergezichten.\r\nMet de steun van de provincie Vlaams-Brabant\r\n<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/122267.nl\">Wizpr.guide</a><br/><a href=\"https://www.routeyou.com/location/view/47567536.nl?toptext=993384\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "de": null,
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "de": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 340272,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 122267
+                    },
+                    "filename": {
+                        "de": "d3a145eef346d2e58950cab2b68fed9f_2f076a259c5efda5dbdce5928070edeed30c9147.jpg",
+                        "en": "d3a145eef346d2e58950cab2b68fed9f_2f076a259c5efda5dbdce5928070edeed30c9147.jpg",
+                        "fr": "d3a145eef346d2e58950cab2b68fed9f_2f076a259c5efda5dbdce5928070edeed30c9147.jpg",
+                        "nl": "d3a145eef346d2e58950cab2b68fed9f_2f076a259c5efda5dbdce5928070edeed30c9147.jpg"
+                    },
+                    "description": {
+                        "de": "",
+                        "en": "",
+                        "fr": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "de": "Wizpr.guide",
+                            "en": "Wizpr.guide",
+                            "fr": "Wizpr.guide",
+                            "nl": "Wizpr.guide"
+                        },
+                        "description": {
+                            "de": "",
+                            "en": "",
+                            "fr": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "de": "http://my.ibeaken.com/assets/media/1093/mobile/1093.jpg?1313668251",
+                            "en": "http://my.ibeaken.com/assets/media/1093/mobile/1093.jpg?1313668251",
+                            "fr": "http://my.ibeaken.com/assets/media/1093/mobile/1093.jpg?1313668251",
+                            "nl": "http://my.ibeaken.com/assets/media/1093/mobile/1093.jpg?1313668251"
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/d3a145eef346d2e58950cab2b68fed9f_2f076a259c5efda5dbdce5928070edeed30c9147.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/d3a145eef346d2e58950cab2b68fed9f_2f076a259c5efda5dbdce5928070edeed30c9147.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/d3a145eef346d2e58950cab2b68fed9f_2f076a259c5efda5dbdce5928070edeed30c9147.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/d3a145eef346d2e58950cab2b68fed9f_2f076a259c5efda5dbdce5928070edeed30c9147.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47568243,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "de": "Kirche",
+                        "en": "Church",
+                        "fr": "Eglise",
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": 2301059,
+                    "street": "Brusselsesteenweg",
+                    "number": null,
+                    "box": null,
+                    "city": "Overijse",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.9,
+                "distance": 12240,
+                "name": {
+                    "nl": "Onze-Lieve-Vrouwkerk",
+                    "de": "Onze-Lieve-Vrouwkerk",
+                    "en": "Onze-Lieve-Vrouwkerk",
+                    "fr": "Onze-Lieve-Vrouwkerk"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.4824871342545 50.793464795583)"
+                }
+            },
+            "text": {
+                "id": 994158,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 122267
+                },
+                "description": {
+                    "nl": "In het Zoniënwoud stond van oudsher een eigenaardige, angstwekkende eik, die als \"Duivelseik\" een belangrijke rol speelde in diverse plaatselijke legenden. Om dit te doorbreken vroeg een Brusselse slager op zijn sterfbed een Jezusbeeldje te spijkeren aan een naburige eik, waardoor de \"Jezus-Eik\" in 1636 tot stand kwam. Door het toenemende aantal bedevaarders, werd het bijhorende kapelletje in 1650 vervangen door de huidige barokke zaalkerk. De resten van de eik en van het kapelletje bevinden zich onder het hoofdaltaar.\r\nToen men de kerk bouwde, was Jezus-Eik een afgelegen gehucht. Daarom werd beslist om een verblijf voor de rector aan de kerk vast te bouwen. De kerk en pastorie vormen één beschermd geheel.\r\nOp de muren van het koor en de zijaltaren bevindt zich een gemarmerde, houten lambrisering met zeventiende eeuwse schilderijen. Het schilderij van de Boodschap van de engel Gabriël aan Maria, achter het hoofdaltaar, werd in 1662 geschonken door schilder Andries de Licht uit dank voor de genezing van zijn dochter.\r\nDe houten lambrisering bevat tevens een heel aantal votiefschilderijen, waaronder dertien kinderportretten. Deze portretten werden aangebracht als dank voor een bekomen genezing of weldaad, als vrijwaring tegen ziekte en ongevallen of om de nagedachtenis van een kind in ere houden.\r\nHet miraculeuze beeld van Maria met Kind dateert uit 1550-1600. Het beeld werd gekroond door kardinaal Mercier. De barokke biechtstoel (noord) was een geschenk van Hertog Ignatius van Arenberg (17de eeuw). Op de voet van de hardstenen doopvont (1756) staat een reliëf van O.L.V. met kind.\r\nDe recente glasramen (Steyart) beelden de geschiedenis van het beeld en van Jezus-Eik uit.\r\n<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/122267.nl\">Wizpr.guide</a><br/><a href=\"https://www.routeyou.com/location/view/47568243.nl?toptext=994158\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "de": null,
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "de": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 340782,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 122267
+                    },
+                    "filename": {
+                        "en": "b0d29e03c0ad88f1305356a110fa7287_3ba0c08f888e94ed592fee4d6d705fa41111c2dc.jpg",
+                        "nl": "b0d29e03c0ad88f1305356a110fa7287_3ba0c08f888e94ed592fee4d6d705fa41111c2dc.jpg",
+                        "de": "b0d29e03c0ad88f1305356a110fa7287_3ba0c08f888e94ed592fee4d6d705fa41111c2dc.jpg",
+                        "fr": "b0d29e03c0ad88f1305356a110fa7287_3ba0c08f888e94ed592fee4d6d705fa41111c2dc.jpg"
+                    },
+                    "description": {
+                        "en": "",
+                        "nl": "",
+                        "de": "",
+                        "fr": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "en": "Wizpr.guide",
+                            "nl": "Wizpr.guide",
+                            "de": "Wizpr.guide",
+                            "fr": "Wizpr.guide"
+                        },
+                        "description": {
+                            "en": "",
+                            "nl": "",
+                            "de": "",
+                            "fr": ""
+                        },
+                        "link": {
+                            "en": "http://my.ibeaken.com/assets/media/5112/mobile/5112.jpg?1375703206",
+                            "nl": "http://my.ibeaken.com/assets/media/5112/mobile/5112.jpg?1375703206",
+                            "de": "http://my.ibeaken.com/assets/media/5112/mobile/5112.jpg?1375703206",
+                            "fr": "http://my.ibeaken.com/assets/media/5112/mobile/5112.jpg?1375703206"
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/b0d29e03c0ad88f1305356a110fa7287_3ba0c08f888e94ed592fee4d6d705fa41111c2dc.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/b0d29e03c0ad88f1305356a110fa7287_3ba0c08f888e94ed592fee4d6d705fa41111c2dc.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/b0d29e03c0ad88f1305356a110fa7287_3ba0c08f888e94ed592fee4d6d705fa41111c2dc.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/b0d29e03c0ad88f1305356a110fa7287_3ba0c08f888e94ed592fee4d6d705fa41111c2dc.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47028678,
+                "type": {
+                    "id": 416,
+                    "name": {
+                        "ca": null,
+                        "de": "Teil der Gemeinde",
+                        "en": "Sub-Municipality",
+                        "es": null,
+                        "fr": "Partie de la Municipalité",
+                        "it": null,
+                        "nl": "Deelgemeente"
+                    }
+                },
+                "address": {
+                    "id": 1680975,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Tervuren",
+                    "state": "Vlaams Brabant",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.588,
+                "distance": 6180,
+                "name": {
+                    "nl": "Tervuren",
+                    "ca": "Tervuren",
+                    "de": "Tervuren",
+                    "en": "Tervuren",
+                    "es": "Tervuren",
+                    "fr": "Tervuren",
+                    "it": "Tervuren"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.51416944 50.82443889)"
+                }
+            },
+            "text": {
+                "id": 1617852,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Tervuren is een plaats en gemeente in de provincie Vlaams-Brabant in België. De gemeente ligt in de Vlaamse Rand rond Brussel en is vergroeid met de Brusselse agglomeratie. Tervuren telt ruim 22.000 inwoners. De gemeente ligt in de landstreek Dijleland en de Druivenstreek.Tervuren wordt voornamelijk bewoond door Nederlandstaligen. Er bestaat ook een kleine Franstalige minderheid, die vooral bestaat uit migranten uit Brussel en Wallonië.Tevens kent Tervuren minderheden uit velerlei landen, waaronder Britten en Amerikanen, die onder andere worden aangetrokken door de British School of Brussels die in de gemeente gevestigd is. Veel buitenlanders werken hier tijdelijk voor internationale bedrijven en organisaties.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47028678.nl?toptext=1617852\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "ca": "Wikipedia.org",
+                        "de": "Wikipedia.org",
+                        "en": "Wikipedia.org",
+                        "es": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "it": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=32920",
+                        "ca": "https://ca.wikipedia.org/w/index.php?curid=448223",
+                        "de": "https://de.wikipedia.org/w/index.php?curid=1259427",
+                        "en": "https://en.wikipedia.org/w/index.php?curid=158330",
+                        "es": "https://es.wikipedia.org/w/index.php?curid=343495",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=658268",
+                        "it": "https://it.wikipedia.org/w/index.php?curid=1736731"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 823640,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "fr": "0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg",
+                        "es": "0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg",
+                        "ca": "0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg",
+                        "nl": "0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg",
+                        "en": "0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg",
+                        "de": "0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg",
+                        "it": "0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg"
+                    },
+                    "description": {
+                        "fr": "",
+                        "es": "",
+                        "ca": "",
+                        "nl": "",
+                        "en": "",
+                        "de": "",
+                        "it": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "fr": "Wouter Hagens",
+                            "es": "Wouter Hagens",
+                            "ca": "Wouter Hagens",
+                            "nl": "Wouter Hagens",
+                            "en": "Wouter Hagens",
+                            "de": "Wouter Hagens",
+                            "it": "Wouter Hagens"
+                        },
+                        "description": {
+                            "fr": "",
+                            "es": "",
+                            "ca": "",
+                            "nl": "",
+                            "en": "",
+                            "de": "",
+                            "it": ""
+                        },
+                        "link": {
+                            "fr": "https://nl.wikipedia.org/w/index.php?curid=32920#/media/Bestand:Tervuren_church_L.jpg",
+                            "es": "https://nl.wikipedia.org/w/index.php?curid=32920#/media/Bestand:Tervuren_church_L.jpg",
+                            "ca": "https://nl.wikipedia.org/w/index.php?curid=32920#/media/Bestand:Tervuren_church_L.jpg",
+                            "nl": "https://nl.wikipedia.org/w/index.php?curid=32920#/media/Bestand:Tervuren_church_L.jpg",
+                            "en": "https://nl.wikipedia.org/w/index.php?curid=32920#/media/Bestand:Tervuren_church_L.jpg",
+                            "de": "https://nl.wikipedia.org/w/index.php?curid=32920#/media/Bestand:Tervuren_church_L.jpg",
+                            "it": "https://nl.wikipedia.org/w/index.php?curid=32920#/media/Bestand:Tervuren_church_L.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg",
+                        "ca": "https://image.routeyou.com/shrink/fit/500x500/0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg",
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/0c2a1a968cf5446be5634bacc16f8217_09d049fc23e1e8b4e4d2c3a7da0a4cea44cb96b8.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47491685,
+                "type": {
+                    "id": 416,
+                    "name": {
+                        "en": "Sub-Municipality",
+                        "fr": "Partie de la Municipalité",
+                        "nl": "Deelgemeente"
+                    }
+                },
+                "address": {
+                    "id": 1721801,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Tervuren,Vossem",
+                    "state": "Vlaams Brabant",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.492,
+                "distance": 2448,
+                "name": {
+                    "nl": "Vossem",
+                    "en": "Vossem",
+                    "fr": "Vossem"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.55761 50.834619)"
+                }
+            },
+            "text": {
+                "id": 1660825,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Vossem is een dorp en deelgemeente van Tervuren en is omgeven door Leefdaal, Duisburg, Moorsel en hoofdgemeente Tervuren. Het dorp is gelegen langs de Voer, een zijrivier van de Dijle. Vossem was een zelfstandige gemeente tot aan de gemeentelijke herindeling van 1977.In 1897 werden de buurtspoorweglijnen Leuven - Tervuren en Vossem - Brussel langs Sterrebeek in dienst gesteld. In 1905 kwam nog de lijn naar Tienen erbij. Deze vertrok van het nu gesloopte buurtspoorwegstation Vossem. Deze plaats is nog te herkennen aan de bushaltenaam \"Oude station\" van De Lijn. Op 13 januari 1934 werd de lijn Leuven - Tervuren geëlektrificeerd. Kort daarna, op 22 mei 1937, werd ook de lijn naar Sterrebeek geëlektrificeerd, waardoor een rechtstreekse elektrische tramdienst Brussel Leuven, lijn B, ingevoerd kon worden.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47491685.nl?toptext=1660825\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=325239",
+                        "en": "https://en.wikipedia.org/w/index.php?curid=1483675",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=3201443"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 850470,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "8237addd67f4fdc170599040852095be_9ad770b4f18fc2247935b202984c5c404efa87f0.jpg",
+                        "en": "8237addd67f4fdc170599040852095be_9ad770b4f18fc2247935b202984c5c404efa87f0.jpg",
+                        "fr": "8237addd67f4fdc170599040852095be_9ad770b4f18fc2247935b202984c5c404efa87f0.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "en": "",
+                        "fr": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Smiley.toerist",
+                            "en": "Smiley.toerist",
+                            "fr": "Smiley.toerist"
+                        },
+                        "description": {
+                            "nl": "",
+                            "en": "",
+                            "fr": ""
+                        },
+                        "link": {
+                            "nl": "https://fr.wikipedia.org/w/index.php?curid=3201443#/media/Fichier:Vossem_hoeve_Oudevoorde.jpg",
+                            "en": "https://fr.wikipedia.org/w/index.php?curid=3201443#/media/Fichier:Vossem_hoeve_Oudevoorde.jpg",
+                            "fr": "https://fr.wikipedia.org/w/index.php?curid=3201443#/media/Fichier:Vossem_hoeve_Oudevoorde.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/8237addd67f4fdc170599040852095be_9ad770b4f18fc2247935b202984c5c404efa87f0.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/8237addd67f4fdc170599040852095be_9ad770b4f18fc2247935b202984c5c404efa87f0.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/8237addd67f4fdc170599040852095be_9ad770b4f18fc2247935b202984c5c404efa87f0.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47491640,
+                "type": {
+                    "id": 416,
+                    "name": {
+                        "de": "Teil der Gemeinde",
+                        "en": "Sub-Municipality",
+                        "fr": "Partie de la Municipalité",
+                        "nl": "Deelgemeente"
+                    }
+                },
+                "address": {
+                    "id": 1725503,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Tervuren,Duisburg",
+                    "state": "Vlaams Brabant",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.5,
+                "distance": 21385,
+                "name": {
+                    "nl": "Duisburg",
+                    "de": "Duisburg",
+                    "en": "Duisburg",
+                    "fr": "Duisburg"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.55167 50.81639)"
+                }
+            },
+            "text": {
+                "id": 1664766,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Duisburg is eendorp en deelgemeente van Tervuren in Vlaams-Brabant. Duisburg was een zelfstandige gemeente tot aan de gemeentelijke herindeling van 1977.Duisburg vormde sinds de middeleeuwen een eigen vrijheid, werd later een zelfstandige gemeente en fusioneerde op 1 januari 1977 met Tervuren.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47491640.nl?toptext=1664766\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "de": "Wikipedia.org",
+                        "en": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=380774",
+                        "de": "https://de.wikipedia.org/w/index.php?curid=5428893",
+                        "en": "https://en.wikipedia.org/w/index.php?curid=15465427",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=3201430"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 853394,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "de": "f73b89be35a6faf29e47ea5ad0fa342b_dfd3f6e1a1f980c286416cf561e9a5161e669269.jpg",
+                        "nl": "f73b89be35a6faf29e47ea5ad0fa342b_dfd3f6e1a1f980c286416cf561e9a5161e669269.jpg",
+                        "fr": "f73b89be35a6faf29e47ea5ad0fa342b_dfd3f6e1a1f980c286416cf561e9a5161e669269.jpg",
+                        "en": "f73b89be35a6faf29e47ea5ad0fa342b_dfd3f6e1a1f980c286416cf561e9a5161e669269.jpg"
+                    },
+                    "description": {
+                        "de": "",
+                        "nl": "",
+                        "fr": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "de": "Homeros 29",
+                            "nl": "Homeros 29",
+                            "fr": "Homeros 29",
+                            "en": "Homeros 29"
+                        },
+                        "description": {
+                            "de": "",
+                            "nl": "",
+                            "fr": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "de": "https://fr.wikipedia.org/w/index.php?curid=3201430#/media/Fichier:Duisburg_katharinakerk.JPG",
+                            "nl": "https://fr.wikipedia.org/w/index.php?curid=3201430#/media/Fichier:Duisburg_katharinakerk.JPG",
+                            "fr": "https://fr.wikipedia.org/w/index.php?curid=3201430#/media/Fichier:Duisburg_katharinakerk.JPG",
+                            "en": "https://fr.wikipedia.org/w/index.php?curid=3201430#/media/Fichier:Duisburg_katharinakerk.JPG"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/f73b89be35a6faf29e47ea5ad0fa342b_dfd3f6e1a1f980c286416cf561e9a5161e669269.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/f73b89be35a6faf29e47ea5ad0fa342b_dfd3f6e1a1f980c286416cf561e9a5161e669269.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/f73b89be35a6faf29e47ea5ad0fa342b_dfd3f6e1a1f980c286416cf561e9a5161e669269.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/f73b89be35a6faf29e47ea5ad0fa342b_dfd3f6e1a1f980c286416cf561e9a5161e669269.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48107021,
+                "type": {
+                    "id": 169,
+                    "name": {
+                        "nl": "Natuurfenomeen"
+                    }
+                },
+                "address": {
+                    "id": 1726464,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.275,
+                "distance": 24238,
+                "name": {
+                    "nl": "Natuur recycled"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5719969272614 50.82157374735)"
+                }
+            },
+            "text": {
+                "id": 1665781,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 163579
+                },
+                "description": {
+                    "nl": "De natuur recycleerd zelf zijn slachtoffers door zwammen, mossen en spechten...<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/163579.nl\">Gregor Legein</a><br/><a href=\"https://www.routeyou.com/location/view/48107021.nl?toptext=1665781\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 854032,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 163579
+                    },
+                    "filename": {
+                        "nl": "fad5e692f2c17fb516bd22440156760e_a60dfda04fe22ac6f8276e4a850727df2437e401.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/fad5e692f2c17fb516bd22440156760e_a60dfda04fe22ac6f8276e4a850727df2437e401.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48530916,
+                "type": {
+                    "id": 528,
+                    "name": {
+                        "en": "Regional product",
+                        "fr": "Produit régional",
+                        "nl": "Regionaal product"
+                    }
+                },
+                "address": {
+                    "id": 2165325,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Overijse",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.46,
+                "distance": 17834,
+                "name": {
+                    "nl": "Druiven Vanderkelen",
+                    "en": "Grapes Vanderkelen",
+                    "fr": "Cépages Vanderkelen"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5380187034607 50.785752858591)"
+                }
+            },
+            "text": {
+                "id": 2159495,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 119131
+                },
+                "description": {
+                    "nl": "Bij knoopunt 319 even rechts de Groeneweg in. Daar bevindt zich op nr 62 Druiven Vanderkelen. Dit bewust kleinschalig familiebedrijf is de derde generatie die voornaamlijk tafeldruiven teelt, met als nateelt groenten (spinazie en veldsla). De druiven worden manueel en op een natuurlijke en geintregeerde manier gekweekt in de 15 oudere types van serren. De druiven worden rechtstreeks uit de ser geknipt en aan de klanten verkocht. Klantvriendelijkheid is prioriteit. Wij beschikken tevens over het europees label beschermde oorsprongs benaming (BOB). Dit wordt enkel toegekend aan exclusieve producten met specifieke kwaliteiten eigen aan de regio en de lokale kennis. Met fierheid hebben Luppens Filip, Meyhi Hans en mezelf met de steun van VLAM en de burgemeesters van de druivenstreek dit label aangevraagd en bekomen. bron: www.tafeldruif.be<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/119131.nl\">Blauwkruikje</a><br/><a href=\"https://www.routeyou.com/location/view/48530916.nl?toptext=2159495\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1266865,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 119131
+                    },
+                    "filename": {
+                        "nl": "795ee60061bb0bee776052050d3b38fb_5350af7ea8aec43d36ce39be6a16818030283ea2.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "tafeldruif.be"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/795ee60061bb0bee776052050d3b38fb_5350af7ea8aec43d36ce39be6a16818030283ea2.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48530926,
+                "type": {
+                    "id": 560,
+                    "name": {
+                        "fr": "Arrêt photographique",
+                        "nl": "Foto-stopplaats"
+                    }
+                },
+                "address": {
+                    "id": 2165336,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Overijse",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.396,
+                "distance": 19949,
+                "name": {
+                    "nl": "Producent regionaal product",
+                    "fr": "Producteur de produits régionaux"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5505392551422 50.795885571292)"
+                }
+            },
+            "text": {
+                "id": 2159506,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 119131
+                },
+                "description": {
+                    "nl": "'Vrouwelijk schoon' op de bestelwagen van groente- en fruitbedrijf Charlier om het regionaal product te promoten.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/119131.nl\">Blauwkruikje</a><br/><a href=\"https://www.routeyou.com/location/view/48530926.nl?toptext=2159506\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "fr": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1266876,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 119131
+                    },
+                    "filename": {
+                        "nl": "b6e537e45eb18b398a94b439bbe61a11_e1f801e91a7d3fa049d39acc18c2ca688b586b16.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Blauwkruikje"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/b6e537e45eb18b398a94b439bbe61a11_e1f801e91a7d3fa049d39acc18c2ca688b586b16.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48685799,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": 2319350,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Vossem",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.433,
+                "distance": 2415,
+                "name": {
+                    "nl": "Erfgoed"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5581856 50.83461078)"
+                }
+            },
+            "text": {
+                "id": 2344643,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 163237
+                },
+                "description": {
+                    "nl": "De intieme en gezellige Sint-Pauluskerk van Vossem vormt een schakel in de reeks van Romaanse kerken in de Voervallei.\nWaarschijnlijk werd de kerk rond 1200 gebouwd. Ze werd opgetrokken in kalkzandsteen die in de omgeving werd opgedolven. Op het einde van de 17de eeuw werd de kerk grondig verbouwd in de populaire stijlrichting van die tijd: de barok. De kerk kreeg meer licht door grotere ramen, pijlers werden verwijderd, muren en zoldering werden wit bepleisterd, de toren werd verhoogd en onderaan in de toren kwam een nieuwe westelijke toegang tot de kerk. In het romaanse koor zijn nog sporen terug te vinden van middeleeuwse muurschilderingen. Andere kerkschatten zijn onder meer een 15de-eeuws eikenhouten beeld van Sint-Paulus en een verguld kruis uit de baroktijd.\nHet is amper 200 meter wandelen tot aan de Voer, een riviertje dat te volgen is tot in het park van Tervuren of tot in Leuven.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/163237.nl\">alainvdp</a><br/><a href=\"https://www.routeyou.com/location/view/48685799.nl?toptext=2344643\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 48826102,
+                "type": {
+                    "id": 16,
+                    "name": {
+                        "nl": "Brouwerij"
+                    }
+                },
+                "address": {
+                    "id": 2459672,
+                    "street": "Begijnhofplein",
+                    "number": null,
+                    "box": null,
+                    "city": "Overijse",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.406,
+                "distance": 22396,
+                "name": {
+                    "nl": "Voormalige brouwerij De Page "
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5532330999999 50.8156875)"
+                }
+            },
+            "text": {
+                "id": 2508753,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "In de jaren 60 van vorige eeuw brouwde de brouwerij De Page haar laatste bier...  De Overijsese brouwcultuur gaat terug tot vóór 1640. Wanneer de gemeente (de Vryheyt Overijse) in 1698 besliste om de camme (een oud woord voor brouwerij) tegenover de kerk over te kopen van de familie Van Meldaert, is de Vryheytscamme (de gemeentelijke brouwerij) een feit. Na de dorpsbrand van april 1692 werden een veertigtal huizen vernield, alsook drie van de vier brouwerijen. In 1699 gaat de gemeente over tot de herstelling van haar brouwerij. In 1704 verkoopt de gemeente de Vryheytscamme aan Lambertus Van Billoen. De familie Van Billoen houdt de brouwerij zeer lang binnen de gelederen, maar via overervingen komt ze uiteindelijk terecht in de handen van de familie De Page.De brouwerij werd op het einde van de 19de eeuw vervangen door een nieuwe brouwerij aan het Begijnhofplein. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/48826102.nl?toptext=2508753\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Vryheytscamme"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 4364516,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": 2501717,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Vossem",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.398,
+                "distance": 2415,
+                "name": {
+                    "nl": "Sint Paulus"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5581856 50.83461078)"
+                }
+            },
+            "text": {
+                "id": 2567917,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 13795
+                },
+                "description": {
+                    "nl": "<p>De intieme en gezellige Sint-Pauluskerk van Vossem vormt een schakel in de reeks van Romaanse kerken in de Voervallei.<br/>\nWaarschijnlijk werd de kerk rond 1200 gebouwd. Ze werd opgetrokken in kalkzandsteen die in de omgeving werd opgedolven. Op het einde van de 17de eeuw werd de kerk grondig verbouwd in de populaire stijlrichting van die tijd: de barok. De kerk kreeg meer licht door grotere ramen, pijlers werden verwijderd, muren en zoldering werden wit bepleisterd, de toren werd verhoogd en onderaan in de toren kwam een nieuwe westelijke toegang tot de kerk. In het romaanse koor zijn nog sporen terug te vinden van middeleeuwse muurschilderingen. Andere kerkschatten zijn onder meer een 15de-eeuws eikenhouten beeld van Sint-Paulus en een verguld kruis uit de baroktijd.<br/>\nHet is amper 200 meter wandelen tot aan de Voer, een riviertje dat te volgen is tot in het park van Tervuren of tot in Leuven.<br/>\nMet de steun van de provincie Vlaams-Brabant</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/13795.nl\">Ann Vannerem</a><br/><a href=\"https://www.routeyou.com/location/view/4364516.nl?toptext=2567917\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 48899545,
+                "type": {
+                    "id": 239,
+                    "name": {
+                        "en": "Slope",
+                        "fr": "Chantier",
+                        "nl": "Helling"
+                    }
+                },
+                "address": {
+                    "id": 2525782,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.341,
+                "distance": 18338,
+                "name": {
+                    "nl": "Helling 4 - Groeneweg **",
+                    "en": "Slope 4 - Groeneweg **",
+                    "fr": "Piste 4 - Groeneweg **"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5438766479492 50.787299358376)"
+                }
+            },
+            "text": {
+                "id": 2598138,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 148685
+                },
+                "description": {
+                    "nl": "De Groeneweg ligt in Vlaams-Brabant. Vanaf Overijse is de Groeneweg 1.29 km lang. Over deze afstand overbrug je 54 hoogtemeters. Het gemiddelde stijgingspercentage van de klim is bijgevolg 5 %. De maximale hellingsgraad is 17 %. \n<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/148685.nl\">Verro</a><br/><a href=\"https://www.routeyou.com/location/view/48899545.nl?toptext=2598138\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1673651,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 148685
+                    },
+                    "filename": {
+                        "nl": "01b653342f03ca0f0e8ed59cd329dafb_ea301b11c411546bc1b85be6b44a222e5da7eeea.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/01b653342f03ca0f0e8ed59cd329dafb_ea301b11c411546bc1b85be6b44a222e5da7eeea.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49416742,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "en": "POI",
+                        "fr": "POI",
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": 3041948,
+                    "street": "Tervuren",
+                    "number": null,
+                    "box": null,
+                    "city": "Tervuren",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.398,
+                "distance": 10721,
+                "name": {
+                    "nl": "Zoniënwoud N.O., Kapucijnenbos, Bos van Marnix en Arboretum van Tervuren",
+                    "en": "Sonian Forest N.E., Capuchin Forest, Forest of Marnix and Arboretum of Tervuren",
+                    "fr": "Forêt de Soignes N.O., Forêt des Capucins, Forêt de Marnix et Arboretum de Tervuren"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.4994611787063 50.801987187555)"
+                }
+            },
+            "text": {
+                "id": 3149420,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Het Zoniënwoud, met een oppervlakte van circa 4400 hectare, is het grootste en best bewaarde relict van het historische Kolenwoud, dat stelselmatig kleiner werd. Een uitgebreid drevenpatroon doorsnijdt het bos. Het Zoniënwoud bestaat uit twee deelgebieden: het zuidwestelijk deel van het Zoniënwoud tussen Hoeilaart en Sint-Genesius-Rode en het noordoostelijk deel in Tervuren en Kraainem, dat ook het Kapucijnenbos, het Bos van Marnix en het arboretum van Tervuren bevat.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49416742.nl?toptext=3149420\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Cox, Lise & Wijnant, Jo",
+                        "fr": "Cox, Lise & Wijnant, Jo",
+                        "nl": "Cox, Lise & Wijnant, Jo"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2234117,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "0d8d67213f63a9094341a5515de19252_dd1ec933368e0b2da662150b422e69448e020de5.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vanmaele, Nele, 13-03-2015, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/0d8d67213f63a9094341a5515de19252_dd1ec933368e0b2da662150b422e69448e020de5.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49425059,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "en": "Farm",
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3050296,
+                    "street": "Schransdreef",
+                    "number": "133",
+                    "box": null,
+                    "city": "Overijse",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.373,
+                "distance": 14579,
+                "name": {
+                    "nl": "Gesloten hoeve",
+                    "en": "Closed farmhouse"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5066262852276 50.794751865537)"
+                }
+            },
+            "text": {
+                "id": 3158076,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "In oorsprong quasi gesloten hoeve uit midden 19de eeuw, gelegen aan de zuidelijke rand van het Marnixbos, aansluitend op het Kapucijnenbos van het Zoniënwoud. De hoeve werd gebouwd in opdracht van Charles de Marnix van het naburige kasteeldomein om de op het Zoniënwoud ontgonnen gronden te laten bewerken. Toegankelijk via een korte gekasseide toegangsweg uitkomend op het poortgebouw. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49425059.nl?toptext=3158076\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Thomas, Hans & Verwinnen, Katrien (2017)",
+                        "nl": "Thomas, Hans & Verwinnen, Katrien (2017)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2242282,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "0cfa02d9051c9d6b15d0e5af9f975f90_efeb442004b059719038c754a465739a7915d0ad.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Kennes, Hilde, 20-06-2011, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/0cfa02d9051c9d6b15d0e5af9f975f90_efeb442004b059719038c754a465739a7915d0ad.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47475832,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "fr": "Eglise",
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": 188355,
+                    "street": "Kerkplaats",
+                    "number": "14A",
+                    "box": null,
+                    "city": "Tervuren",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.46,
+                "distance": 22294,
+                "name": {
+                    "nl": "Parochiekerk Sint-Catharina",
+                    "fr": "Église paroissiale Sainte-Catherine"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.55241143703 50.8157919194)"
+                }
+            },
+            "text": {
+                "id": 3159339,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "De Sint-Catharinakerk is in oorsprong een romaanse kerk van vóór 1228 met verheven ligging aan de zuidzijde van de Kerkplaats. De kerk met ommuurd, omringend kerkhof is toegankelijk aan de westzijde via een gietijzeren hek tussen natuurstenen pijlers met bolbekroning. Het kerkhof is deels geruimd, een aantal graftekens uit de 19de en volledige 20ste eeuw bleef bewaard.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/47475832.nl?toptext=3159339\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "fr": "De Vries, Birgit & Kennes, Hilde (2015)",
+                        "nl": "De Vries, Birgit & Kennes, Hilde (2015)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2243481,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "5e9ec29415c4188508fd4468aa052175_84a29b2f7587fea0e74aaac4ccd0827eb2b15c5a.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vandevorst, Kris, 01-01-2006, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/5e9ec29415c4188508fd4468aa052175_84a29b2f7587fea0e74aaac4ccd0827eb2b15c5a.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49477667,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": 3103024,
+                    "street": "Kasteelstraat",
+                    "number": "76",
+                    "box": null,
+                    "city": "Overijse",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.406,
+                "distance": 14800,
+                "name": {
+                    "nl": "Woning Brauns-Brants"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5083329693593 50.791016779371)"
+                }
+            },
+            "text": {
+                "id": 3216101,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "In 1965 krijgt Braem opdracht van zijn jeugdvriend Bert Brauns, voor wie hij begin jaren 1950 al een landhuis had gebouwd in Kraainem, om na diens echtscheiding een tweede woning te ontwerpen in Overijse. Brauns, een regisseur en producer bij de openbare omroep BRT, en zijn toenmalige partner Helena Brants, beschikken over een klein stuk bouwgrond in een recente, residentiële verkaveling aan de rand van het Marnixbos in Jezus-Eik. Net zoals de woning in Kraainem, ontstaat het ontwerp van de woning in Overijse in nauw overleg met de opdrachtgevers. Het programma van beide woningen, bedoeld voor een gezin met één kind, leidt tot een opvallend gelijksoortige ruimtelijke oplossing. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49477667.nl?toptext=3216101\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Braeken, Jo (2010)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2296949,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "4362c71d34312781ab1eeaf7eff5b61b_7e65e5ae8e7c81a3b75b5c7cb27e1d6e5a808226.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vandevorst, Kris, 28-09-2009, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/4362c71d34312781ab1eeaf7eff5b61b_7e65e5ae8e7c81a3b75b5c7cb27e1d6e5a808226.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47475834,
+                "type": {
+                    "id": 443,
+                    "name": {
+                        "en": "Heritage",
+                        "fr": "Patrimoine",
+                        "nl": "Erfgoed"
+                    }
+                },
+                "address": {
+                    "id": 188353,
+                    "street": "Dorpsplein",
+                    "number": null,
+                    "box": null,
+                    "city": "Tervuren",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.501,
+                "distance": 2392,
+                "name": {
+                    "nl": "Parochiekerk Sint-Paulus",
+                    "en": "St. Paul's Parish Church",
+                    "fr": "Église paroissiale Saint-Paul"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.55834984779 50.834646308)"
+                }
+            },
+            "text": {
+                "id": 3222248,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Georiënteerde driebeukige kerk uitgevoerd in een typerende Maasromaanse stijl en opklimmend tot het einde van de 12de en het begin van de 13de eeuw, met grondige aanpassingen op het einde van de 17de en in het begin van de 18de eeuw. De kerk met omringend kerkhof, op zijn beurt omgeven door een muur van kalkzandsteen, is ingeplant op een lichte verhevenheid in het dorpscentrum ten noorden van de Voer. Het kerkhof is vandaag buiten gebruik; ten noorden van de kerk bleef één grafmonument op zijn oorspronkelijke plaats behouden, een aantal oude grafstèles werden  tegen de westgevel geplaatst. Het kerkhof is toegankelijk via een ijzeren hek in de westzijde van de ommuring. De vaasbekroning van de bakstenen hekpijlers, nog zichtbaar op oude prentkaarten is inmiddels verdwenen.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/47475834.nl?toptext=3222248\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "De Vries, Birgit & Kennes, Hilde (2015)",
+                        "fr": "De Vries, Birgit & Kennes, Hilde (2015)",
+                        "nl": "De Vries, Birgit & Kennes, Hilde (2015)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2302834,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "f4927b140f3ac25eca1ff3b680835c77_b46510606790c19463b404326a4a17a0b7a3da89.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vandevorst, Kris, 01-01-2006, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/f4927b140f3ac25eca1ff3b680835c77_b46510606790c19463b404326a4a17a0b7a3da89.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49485069,
+                "type": {
+                    "id": 126,
+                    "name": {
+                        "en": "Building",
+                        "fr": "Bâtiment",
+                        "nl": "Gebouw"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.571,
+                "distance": 6371,
+                "name": {
+                    "nl": "Panquin Kazerne",
+                    "en": "Panquin Barracks",
+                    "fr": "Caserne Panquin"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5161810406075 50.824235485455)"
+                }
+            },
+            "text": {
+                "id": 3233340,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 9156
+                },
+                "description": {
+                    "nl": "<p>Van 20 juni tot 11 november 2018 wordt de Panquinkazerne in Tervuren omgetoverd tot een vredessite. Een klaprozeninstallatie herdenkt er het einde van de Eerste Wereldoorlog.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/9156.nl\">RouteYou</a><br/><a href=\"https://www.routeyou.com/location/view/49485069.nl?toptext=3233340\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "RandKrant",
+                        "fr": "RandKrant",
+                        "nl": "RandKrant"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 2309767,
+                    "type": {
+                        "id": 4,
+                        "name": {
+                            "ca": "YouTube",
+                            "de": "YouTube",
+                            "en": "YouTube",
+                            "es": "YouTube",
+                            "fr": "YouTube",
+                            "it": "YouTube",
+                            "nl": "YouTube"
+                        }
+                    },
+                    "owner": {
+                        "id": 9156
+                    },
+                    "filename": {
+                        "nl": "vZZtbiqnOGc"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "YouTube"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://www.youtube.com/watch?v=vZZtbiqnOGc"
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": null
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47568243,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": 5798581,
+                    "street": "Witherendreef",
+                    "number": "1",
+                    "box": null,
+                    "city": "Overijse",
+                    "state": "Vlaanderen",
+                    "postalCode": "3090",
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.576,
+                "distance": 11822,
+                "name": {
+                    "nl": "Onze-Lieve-Vrouwekerk"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.4832802 50.7946513)"
+                }
+            },
+            "text": {
+                "id": 3854692,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 8911
+                },
+                "description": {
+                    "nl": "<p>De barokke Onze-Lieve-Vrouwekerk in bak- en zandsteenstijl dateert van 1650. Dat Jezus-Eik ooit een bedevaartsoord was, bewijzen het wonderdadige beeld van Onze-Lieve-Vrouw met Kind en de glasramen van 1924, die de geschiedenis van het bedevaartsoord verbeelden.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/8911.nl\">Lannoo</a><br/><a href=\"https://www.routeyou.com/location/view/47568243.nl?toptext=3854692\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 47439563,
+                "type": {
+                    "id": 106,
+                    "name": {
+                        "en": "Museum",
+                        "nl": "Museum"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.811,
+                "distance": 5569,
+                "name": {
+                    "nl": "Koninklijk Museum Midden-Afrika",
+                    "en": "Royal Museum Central Africa"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.52018737793 50.8289813035)"
+                }
+            },
+            "text": {
+                "id": 4200221,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 27804
+                },
+                "description": {
+                    "nl": "Het Koninklijk Museum voor Midden-Afrika, één van de drukst bezochte musea van het land, werd gebouwd onder Leopold II, door architect Charles Girault. Het gebouw is 125m lang en 75m breed. De voorgevel is naar de Franse tuinen gericht. Aan de oostkant van deze Franse tuinen werd in 1997 een beeldengroep van Tom Frantzen geplaatst ter gelegenheid van 100 jaar Koloniale Tentoonstelling. Het monument \"The Congo, I presume. Congo-Tervuren 1897-1997\" is bedoeld als artistieke uitdrukking van het Belgisch verleden in Congo en brengt hulde aan de intrinsieke schoonheid van de Afrikaanse strijders.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/27804.nl\">LucSl</a><br/><a href=\"https://www.routeyou.com/location/view/47439563.nl?toptext=4200221\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 3148940,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 27804
+                    },
+                    "filename": {
+                        "nl": "fa5ed6350085c5f4b212ecfa3a7891a0_63e29a4c43458934b8bed6e4ef2a50f2c0f83795.jpeg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Gemeentelijke website Tervuren"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/fa5ed6350085c5f4b212ecfa3a7891a0_63e29a4c43458934b8bed6e4ef2a50f2c0f83795.jpeg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49948612,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "en": "Hotel",
+                        "fr": "Hôtel",
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.508,
+                "distance": 11823,
+                "name": {
+                    "nl": "Soret",
+                    "en": "Soret",
+                    "fr": "Soret"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.487383 50.796049)"
+                }
+            },
+            "text": {
+                "id": 4227027,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 149970
+                },
+                "description": {
+                    "nl": "Comfortabel hotel met privé-parking in rustgevend groen van het Zoniënwoud. Ideaal voor feesten, seminaries, vergaderingen en recepties. Uitmuntende Franse en Brusselse keuken. Vlakbij Brussel, de luchthaven van Zaventem en de belangrijkste snelwegen.<br/><a href=\"http://www.tov.be/logies.aspx?productId=195544\" rel=\"nofollow\" target=\"_blank\">Klik hier</a><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/149970.nl\">Beleef Je Eigen Ronde</a><br/><a href=\"https://www.routeyou.com/location/view/49948612.nl?toptext=4227027\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 3149550,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 149970
+                    },
+                    "filename": {
+                        "nl": "3916f46b6ccf0562a1b4574a5e8fa434_9611fadf2619012c4d2b7fbc2a76fd379b480d71.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/3916f46b6ccf0562a1b4574a5e8fa434_9611fadf2619012c4d2b7fbc2a76fd379b480d71.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 50591260,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "en": "POI",
+                        "fr": "POI",
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.414,
+                "distance": 6156,
+                "name": {
+                    "nl": "Bandundu Water Jazz Band",
+                    "en": "Bandundu Water Jazz Band",
+                    "fr": "Le Bandundu Water Jazz Band"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.51238981 50.82725092)"
+                }
+            },
+            "text": {
+                "id": 5656414,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Bandundu Water Jazz Band is een kunstwerk in de Belgische gemeente Tervuren in de provincie Vlaams-Brabant. Het beeld werd gemaakt in 2005 door de Belgische beeldhouwer Tom Frantzen.<br/><br/>Tom Frantzen gebruikte de rotonde voor het maken van een cirkelspel waaraan de automobilisten deelnemen. Het doel van het kunstwerk is het vertegenwoordigen van Tervuren. Om haar bezoekers en voorbijgangers te ontvangen, laat Frantzen de jazzband van Afrikaanse waterdieren in het Koninklijk Museum voor Midden-Afrika uitkomen. De kikkers spelen de accordeon en de trompet, de krokodillen de contrabas en de drum en een nijlpaard de tuba. De cirkels in beton zijn ontworpen volgens de structuur van waterleliebladeren en zien eruit als een draaiende grammofoonplaat. De waterstralen vormen een chaotisch ritme van halve cirkels. <br/><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/50591260.nl?toptext=5656414\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=4822320",
+                        "en": "https://nl.wikipedia.org/w/index.php?curid=4822320",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=11538779"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 4060978,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "fr": "4d03bb50d825dc43b392870a6ac7c436_c422b6a9b799c2d6146d9c355ce648943cef4d34.jpg",
+                        "nl": "4d03bb50d825dc43b392870a6ac7c436_c422b6a9b799c2d6146d9c355ce648943cef4d34.jpg"
+                    },
+                    "description": {
+                        "fr": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "fr": "Horst J. Meuter",
+                            "nl": "Horst J. Meuter"
+                        },
+                        "description": {
+                            "fr": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "fr": "https://fr.wikipedia.org/w/index.php?curid=11538779#/media/Fichier:Tervuren_-_Vlaams_Brabant_-_De_Bandundu_Water_Jazzband_-_Tom_Frantzen_-_02.jpg",
+                            "nl": "https://fr.wikipedia.org/w/index.php?curid=11538779#/media/Fichier:Tervuren_-_Vlaams_Brabant_-_De_Bandundu_Water_Jazzband_-_Tom_Frantzen_-_02.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 7,
+                        "name": {
+                            "ca": "Creative Commons 4.0",
+                            "de": "Creative Commons 4.0",
+                            "en": "Creative Commons 4.0",
+                            "es": "Creative Commons 4.0",
+                            "fr": "Creative Commons 4.0",
+                            "it": "Creative Commons 4.0",
+                            "nl": "Creative Commons 4.0"
+                        }
+                    },
+                    "url": {
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/4d03bb50d825dc43b392870a6ac7c436_c422b6a9b799c2d6146d9c355ce648943cef4d34.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/4d03bb50d825dc43b392870a6ac7c436_c422b6a9b799c2d6146d9c355ce648943cef4d34.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 50591289,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "en": "Church",
+                        "fr": "Eglise",
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.336,
+                "distance": 20209,
+                "name": {
+                    "nl": "Cruysboomkapel",
+                    "en": "Cruysboom chapel",
+                    "fr": "Chapelle Cruysboom"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.54738524 50.79627135)"
+                }
+            },
+            "text": {
+                "id": 5656447,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "De Cruysboomkapel of Kapel Onze-Lieve-Vrouw van Lourdes te Laag-Eizer is een betreedbare kapel die zich bevindt aan het kruispunt van de Ballingstraat en de Duisburgsesteenweg.<br/><br/>De huidige kapel is 19e-eeuws en is gewijd aan Onze-Lieve-Vrouw van Lourdes. De omlijsting van de ingangspoort is vermoedelijk 18e-eeuws. Boven het koor is een tentdak geplaatst, dat oogt als een laag torentje.<br/><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/50591289.nl?toptext=5656447\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=4082963",
+                        "en": "https://nl.wikipedia.org/w/index.php?curid=4082963",
+                        "fr": "https://nl.wikipedia.org/w/index.php?curid=4082963"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 4061007,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "6602a84440889347c4015cc29c04a99a_e3c17fdf7e62b3717858fa721122747be90c40f1.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Demanvanzonien"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://commons.wikimedia.org/w/index.php?curid=7408669"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/6602a84440889347c4015cc29c04a99a_e3c17fdf7e62b3717858fa721122747be90c40f1.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48534223,
+                "type": {
+                    "id": 234,
+                    "name": {
+                        "en": "Village",
+                        "fr": "Village",
+                        "nl": "Dorp"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.553,
+                "distance": 12233,
+                "name": {
+                    "nl": "Jezus-Eik",
+                    "en": "Jezus-Eik",
+                    "fr": "Notre-Dame-au-Bois"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.4825 50.79333333)"
+                }
+            },
+            "text": {
+                "id": 5673604,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Jezus-Eik  is een gehucht in de Belgische provincie Vlaams-Brabant. Het ligt in de gemeente Overijse, zo'n 4,5 km ten noordwesten van het centrum van Overijse, aan de rand van het Zoniënwoud, op de grens met Tervuren en de Brusselse gemeente Oudergem.<br/><br/>Het gebied lag vroeger volledig in het Zoniënwoud, dat hier werd doorsneden door de steenweg Brussel naar Waver.<br/>Hier stond een eik, die al verschillende keren door de bliksem was geraakt. Om onheil en de duivel af te wenden spijkerde men een kruisbeeld aan deze \"duivelseik\". Rond 1636 liet een Brusselaar hier een Mariabeeldje bevestigen en daarna zou het aantal wonderlijke genezingen hier zijn gestegen. Jezus-Eik groeide zo uit tot een bedevaartsplaats. De pastoor van Tervuren richtte er een altaar op en door het succes werd een kerk opgericht, afhankelijk van de Abdij van Park. In 1700 werd dit een parochiekerk.<br/><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/48534223.nl?toptext=5673604\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=2023557",
+                        "en": "https://en.wikipedia.org/w/index.php?curid=46875925",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=1332272"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 4076652,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "3bdba54d3b5a2282d8fb447911504166_e00bdb1357e6cb393f13d248121fd7b45602c0c7.jpg",
+                        "fr": "3bdba54d3b5a2282d8fb447911504166_e00bdb1357e6cb393f13d248121fd7b45602c0c7.jpg",
+                        "en": "3bdba54d3b5a2282d8fb447911504166_e00bdb1357e6cb393f13d248121fd7b45602c0c7.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "fr": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Paul Hermans",
+                            "fr": "Paul Hermans",
+                            "en": "Paul Hermans"
+                        },
+                        "description": {
+                            "nl": "",
+                            "fr": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": "https://nl.wikipedia.org/w/index.php?curid=2023557#/media/Bestand:Zoniënwoud_Jezus-Eik_3-09-2021_9-59-51.jpg",
+                            "fr": "https://nl.wikipedia.org/w/index.php?curid=2023557#/media/Bestand:Zoniënwoud_Jezus-Eik_3-09-2021_9-59-51.jpg",
+                            "en": "https://nl.wikipedia.org/w/index.php?curid=2023557#/media/Bestand:Zoniënwoud_Jezus-Eik_3-09-2021_9-59-51.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 7,
+                        "name": {
+                            "ca": "Creative Commons 4.0",
+                            "de": "Creative Commons 4.0",
+                            "en": "Creative Commons 4.0",
+                            "es": "Creative Commons 4.0",
+                            "fr": "Creative Commons 4.0",
+                            "it": "Creative Commons 4.0",
+                            "nl": "Creative Commons 4.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/3bdba54d3b5a2282d8fb447911504166_e00bdb1357e6cb393f13d248121fd7b45602c0c7.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/3bdba54d3b5a2282d8fb447911504166_e00bdb1357e6cb393f13d248121fd7b45602c0c7.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/3bdba54d3b5a2282d8fb447911504166_e00bdb1357e6cb393f13d248121fd7b45602c0c7.jpg"
+                    }
+                }
+            }
+        }
+    ],
+    "languages": [
+        "nl"
+    ],
+    "lengthRelative": 0.4
+}

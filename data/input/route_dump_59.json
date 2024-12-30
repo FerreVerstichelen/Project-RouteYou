@@ -1,0 +1,4498 @@
+{
+    "scoreCalculated": 0.6836308,
+    "scoreAuthor": null,
+    "payable": false,
+    "updatedDate": "2023-10-04 18:37:06.942279+00",
+    "autoPois": {
+        "nl": true
+    },
+    "id": 6817632,
+    "length": 13522,
+    "begin": {
+        "wkt": "POINT(4.67018 51.05977)"
+    },
+    "beginAddress": "Bergstraatje, Putte, België",
+    "end": {
+        "wkt": "POINT(4.66998 51.06075)"
+    },
+    "endAddress": "Diepestraat, Putte, België",
+    "centroid": {
+        "wkt": "POINT(4.67189306991417 51.0417446622854)"
+    },
+    "bounds": {
+        "wkt": "BOX(4.64929 51.02555,4.69943 51.06075)"
+    },
+    "owner": {
+        "id": 179217,
+        "type": {
+            "id": 1
+        },
+        "flag": null,
+        "avatarRevision": 0,
+        "logoRevision": 0,
+        "headerRevision": 0,
+        "privileges": [],
+        "configuration": null,
+        "name": {
+            "nl": "179217"
+        },
+        "languages": [
+            "nl"
+        ],
+        "permission": {
+            "writable": false
+        },
+        "nick": "179217"
+    },
+    "type": {
+        "id": 1,
+        "tree": [
+            {
+                "id": 0,
+                "name": {
+                    "nl": "Alle routes"
+                },
+                "languages": [
+                    "nl"
+                ]
+            }
+        ],
+        "name": {
+            "nl": "Fietsroute"
+        },
+        "languages": [
+            "nl"
+        ]
+    },
+    "flag": "be",
+    "score": 0.4,
+    "scoreMethod": {
+        "id": 3
+    },
+    "correctness": null,
+    "correctnessMethod": {
+        "id": null
+    },
+    "duration": 2704,
+    "downloadable": false,
+    "inputFormat": {
+        "id": 0,
+        "recording": false
+    },
+    "ascent": {
+        "total": 37,
+        "net": 2,
+        "totalRelative": 0.1
+    },
+    "descent": {
+        "total": 35,
+        "totalRelative": 0.1
+    },
+    "ascendingRate": {
+        "max": 0.004756978,
+        "avg": null,
+        "maxRelative": 0.1,
+        "avgRelative": null
+    },
+    "difficulty": 0.10000000000000002,
+    "difficultyAuthor": null,
+    "permission": {
+        "id": 0,
+        "read": "public",
+        "write": "group",
+        "writable": false
+    },
+    "planner": {
+        "id": 2
+    },
+    "parent": null,
+    "configuration": null,
+    "editedDate": "2020-01-18 21:09:49.803358+00",
+    "createdDate": "2020-01-18 21:09:49.785484+00",
+    "lastReviewDate": null,
+    "otnId": {
+        "nl": null
+    },
+    "name": {
+        "nl": "beerzel"
+    },
+    "nameGenerated": {
+        "nl": false
+    },
+    "subName": {
+        "nl": null
+    },
+    "trackName": {
+        "nl": null
+    },
+    "description": {
+        "nl": "berg"
+    },
+    "descriptionGenerated": {
+        "nl": false
+    },
+    "generatedInfo": {
+        "nl": "<span class=\"routeYou_node\">19</span> - <span class=\"routeYou_node\">2</span> - <span class=\"routeYou_node\">92</span> - <span class=\"routeYou_node\">92</span> - <span class=\"routeYou_node\">19</span> - <span class=\"routeYou_node\">18</span>"
+    },
+    "source": {
+        "name": {
+            "nl": null
+        },
+        "uri": {
+            "nl": null
+        }
+    },
+    "infoUri": {
+        "nl": null
+    },
+    "breadcrumbRegions": [
+        {
+            "id": 47307974,
+            "flag": "be",
+            "type": {
+                "id": 415
+            },
+            "name": {
+                "ca": "Municipi de Putte",
+                "de": "Gemeinde Putte",
+                "en": "municipality of Putte",
+                "es": "Municipio de Putte",
+                "fr": "Commune de Putte",
+                "it": "Comune di Putte",
+                "nl": "Gemeente Putte"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47418547,
+            "flag": "be",
+            "type": {
+                "id": 522
+            },
+            "name": {
+                "ca": "Antwerpse Kempen",
+                "de": "Antwerpse Kempen",
+                "en": "Antwerpse Kempen",
+                "es": "Antwerpse Kempen",
+                "fr": "Antwerpse Kempen",
+                "it": "Antwerpse Kempen",
+                "nl": "Antwerpse Kempen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407873,
+            "flag": "be",
+            "type": {
+                "id": 409
+            },
+            "name": {
+                "ca": "Província d'Antwerp",
+                "de": "Provinz Antwerp",
+                "en": "Province of Antwerp",
+                "es": "Provincia de Antwerp",
+                "fr": "Province d'Anvers",
+                "it": "Provincia di Antwerp",
+                "nl": "Provincie Antwerpen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407865,
+            "type": {
+                "id": 407
+            },
+            "name": {
+                "ca": "Bèlgica",
+                "de": "Belgien",
+                "en": "Belgium",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "nl": "België"
+            },
+            "flag": "be",
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        }
+    ],
+    "viewCount": 2,
+    "viewCountThisMonth": 0,
+    "downloadCount": 1,
+    "geometry": {
+        "google": "qrsvHsco[aB~AbLzInBjCfCfEv@ZjA@vA}@v@RfErCbAvBtAnE`I{DLtAp@jDr@|BlB~CjCzCbBfCvCbFl@zA_@NvDrSnAtHxCbNx@vEbArGhLuIhFaE~DkGdF}GhCyCp@KbCvCtIbHzDrDdEdEv@pApAnAP@h@X^JJCLYb@mBJYLEVLrKwa@jAqGzN~Gi@hE`EfEhB`BRf@@hATHbCxATuEn@aPhD]JMMkBoCoSO}GYiF[cBu@uAg@a@@uGDw@yA^q@oB{DyQ_BwIiAaHSmBKc@eCoBeB{@|@{Dh@kLF_Ec@uPU{KAqDuEwAVsCwWyPx@_HwKiFgI{FyTyk@W~BGxB@|IJ`JcAgC}I`G}XdPg@gK_G~C[H]EuBtJs@Es@Or@Nr@DqLzi@Q^{@c@}Erh@k@KeD?[b@uCrF]vAYfBMTs@pEsAnEa@g@a@_AcAxDo@c@c@tHiB~@qAfAqApAaBw@"
+    },
+    "elevation": {
+        "google": "_e`mF??s\\~nyo@}xB~reKuc@~hbEun@~reKaN?sR~reKwW~hbEyM~reKww@~hbEeY~hbEgg@?iwA~hbEkM?u]_ibEmW~hbEke@~hbE_k@~hbE{`@~reKwt@?aR?sG~reK{sB?gu@?yvA?_e@~hbE_o@~reK{yB?}bA?w`A?ejA?kj@?aL?}h@~hbE}bB~hbEow@?g{@?qR?yW~hbEsC?sJ_ibEmG?eB?oD?cS?eD?wB?qE?}nE?oo@_ibE{iC~hbEma@?qz@?q^?gG?_K?{D?_d@_ibEcb@_seKixA~hbE_k@?yB?{P_ibEqoB~hbEom@~hbEme@?wP?uR?uJ_ibE_l@?eH?wV~hbEgU?ykB_ibE}{@_ibEuq@?qQ~hbEsE?}e@?_[?ka@~reKeeA?c^?c{A_ibE}aA_ibE{[?{w@?wW?{~E?}o@~hbEunB_ibEw|A_seKsdH?sT?{R~hbEsw@~hbEkx@_ibEe[~hbEibB_glWofF_ibEg_A?{eA?kF?wF?wbA?mL?sL?sL?mL_ibEqwF?_F_seKoO_seK_~E_ibEoJ_ibEwi@_ibEgH_seKgv@_ibEeO_ibEcQ?aD?qc@_glW_g@?{I?qL_seKya@_qo]uL~hbE_r@_}hQe\\?cW?}W_seKyY"
+    },
+    "instructions": [
+        {
+            "atGeometry": "POINT(4.67018 51.05977)",
+            "distance": 0,
+            "using": "",
+            "at": null,
+            "to": "19",
+            "fromBearing": null,
+            "toBearing": -31.619563079779,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(4.66970 51.06026)",
+            "distance": 64.062458418703,
+            "using": "",
+            "at": "19",
+            "to": "2",
+            "fromBearing": -31.619563079779,
+            "toBearing": -152.49012185918,
+            "angle": -120.8705587794
+        },
+        {
+            "atGeometry": "POINT(4.64929 51.04628)",
+            "distance": 2452.6822360607,
+            "using": "",
+            "at": "2",
+            "to": "3",
+            "fromBearing": -111.39913451541,
+            "toBearing": 153.21758882887,
+            "angle": -95.383276655717
+        },
+        {
+            "atGeometry": "POINT(4.65065 51.03494)",
+            "distance": 3947.0122360509,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": -148.47048206343,
+            "toBearing": -176.00312787952,
+            "angle": -27.53264581609
+        },
+        {
+            "atGeometry": "POINT(4.65316 51.02681)",
+            "distance": 5359.6118957368,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": -156.78866896864,
+            "toBearing": 99.282550409488,
+            "angle": -103.92878062187
+        },
+        {
+            "atGeometry": "POINT(4.68436 51.03069)",
+            "distance": 7899.3689966294,
+            "using": "",
+            "at": null,
+            "to": "92",
+            "fromBearing": 88.976120663586,
+            "toBearing": 14.499515926328,
+            "angle": -74.476604737258
+        },
+        {
+            "atGeometry": "POINT(4.69057 51.05117)",
+            "distance": 11329.627200413,
+            "using": "",
+            "at": "92",
+            "to": "79",
+            "fromBearing": -63.347301619575,
+            "toBearing": 4.148590812952,
+            "angle": 67.495892432527
+        },
+        {
+            "atGeometry": "POINT(4.69069 51.05169)",
+            "distance": 11388.09214183,
+            "using": "",
+            "at": null,
+            "to": "92",
+            "fromBearing": 10.947039318677,
+            "toBearing": -167.7238011213,
+            "angle": -178.67084043998
+        },
+        {
+            "atGeometry": "POINT(4.69057 51.05117)",
+            "distance": 11446.698588098,
+            "using": "",
+            "at": "92",
+            "to": "19",
+            "fromBearing": -175.8513858557,
+            "toBearing": -63.285115762131,
+            "angle": 112.56627009357
+        },
+        {
+            "atGeometry": "POINT(4.66970 51.06026)",
+            "distance": 13463.721698883,
+            "using": "",
+            "at": "19",
+            "to": "18",
+            "fromBearing": -32.149426913209,
+            "toBearing": 19.755261024583,
+            "angle": 51.904687937792
+        },
+        {
+            "atGeometry": "POINT(4.66998 51.06075)",
+            "distance": 13521.660550731,
+            "using": "",
+            "at": null,
+            "to": "18",
+            "fromBearing": 19.755261024583,
+            "toBearing": null,
+            "angle": null
+        }
+    ],
+    "statistics": {
+        "routing": {
+            "cyclingNodes": 1
+        }
+    },
+    "segments": [
+        [
+            4.67018,
+            51.05977,
+            38
+        ],
+        [
+            4.65065,
+            51.03494,
+            38
+        ],
+        [
+            4.65316,
+            51.02681,
+            38
+        ],
+        [
+            4.68436,
+            51.03069,
+            38
+        ],
+        [
+            4.69068,
+            51.05169,
+            38
+        ],
+        [
+            4.66998,
+            51.06075,
+            38
+        ]
+    ],
+    "pois": [
+        {
+            "location": {
+                "id": 47491816,
+                "type": {
+                    "id": 416,
+                    "name": {
+                        "en": "Sub-Municipality",
+                        "fr": "Partie de la Municipalité",
+                        "nl": "Deelgemeente"
+                    }
+                },
+                "address": {
+                    "id": 1722480,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Putte,Beerzel",
+                    "state": "Antwerpen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.439,
+                "distance": 13522,
+                "name": {
+                    "nl": "Beerzel",
+                    "en": "Beerzel",
+                    "fr": "Beerzel"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.67055556 51.05777778)"
+                }
+            },
+            "text": {
+                "id": 1661560,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Beerzel is een dorp in de Belgische provincie Antwerpen en een deelgemeente van de gemeente Putte. Beerzel was een zelfstandige gemeente tot aan de gemeentelijke herindeling van 1977In 1151 werd het dorp al vermeld als \"Barsale\". Het maakte deel uit van het Land van Mechelen en was dus een bezit van de Berthouts, die in 1298 de tiendenrechten schonken aan de Teutoonse ridders van de Commanderij van Pitzemburg te Mechelen. Oorspronkelijk was ook Schriek een onderdeel van Beerzel, tot het in 1309 een eigen parochie werd.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47491816.nl?toptext=1661560\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=236364",
+                        "en": "https://en.wikipedia.org/w/index.php?curid=27951255",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=3191169"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 1809487,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "816d2170edeba075a39c6367e00e6213_ec605413858647e12c3230a518b68430e460c0a3.jpg",
+                        "fr": "816d2170edeba075a39c6367e00e6213_ec605413858647e12c3230a518b68430e460c0a3.jpg",
+                        "en": "816d2170edeba075a39c6367e00e6213_ec605413858647e12c3230a518b68430e460c0a3.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "fr": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Sally V",
+                            "fr": "Sally V",
+                            "en": "Sally V"
+                        },
+                        "description": {
+                            "nl": "",
+                            "fr": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": "https://nl.wikipedia.org/w/index.php?curid=236364#/media/Bestand:Beerzel_Pastorie_01.jpg",
+                            "fr": "https://nl.wikipedia.org/w/index.php?curid=236364#/media/Bestand:Beerzel_Pastorie_01.jpg",
+                            "en": "https://nl.wikipedia.org/w/index.php?curid=236364#/media/Bestand:Beerzel_Pastorie_01.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 7,
+                        "name": {
+                            "ca": "Creative Commons 4.0",
+                            "de": "Creative Commons 4.0",
+                            "en": "Creative Commons 4.0",
+                            "es": "Creative Commons 4.0",
+                            "fr": "Creative Commons 4.0",
+                            "it": "Creative Commons 4.0",
+                            "nl": "Creative Commons 4.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/816d2170edeba075a39c6367e00e6213_ec605413858647e12c3230a518b68430e460c0a3.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/816d2170edeba075a39c6367e00e6213_ec605413858647e12c3230a518b68430e460c0a3.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/816d2170edeba075a39c6367e00e6213_ec605413858647e12c3230a518b68430e460c0a3.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49413725,
+                "type": {
+                    "id": 168,
+                    "name": {
+                        "nl": "Boom"
+                    }
+                },
+                "address": {
+                    "id": 3038933,
+                    "street": "Hallaardreef",
+                    "number": null,
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.33,
+                "distance": 13522,
+                "name": {
+                    "nl": "Hakhoutstoven van eik, beuk en berk op Beerzelberg"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.672288599398 51.061207019645)"
+                }
+            },
+            "text": {
+                "id": 3146343,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "De Beerzelberg is een getuigenheuvel bebost met hakhoutstoven van zomereik, beuk, en berk. Het samen voorkomen van zomereikenhakhoutstoven en beukenhakhoutstoven van een aanzienlijke omvang, aantal en leeftijd is vrij zeldzaam in Vlaanderen.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49413725.nl?toptext=3146343\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2231170,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "5b49f25ef66582596c61998dbe6e0251_4b2452000825cb5c9f4c77023f333b1209e4dbb6.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Van der Linden, Geert, 02-09-2013, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/5b49f25ef66582596c61998dbe6e0251_4b2452000825cb5c9f4c77023f333b1209e4dbb6.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49419405,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3044621,
+                    "street": "De Preterij",
+                    "number": "1",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.359,
+                "distance": 2639,
+                "name": {
+                    "nl": "Langgestrekte hoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.650642246291 51.044030509201)"
+                }
+            },
+            "text": {
+                "id": 3152152,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Hoeve gelegen in de landelijke zone ten noorden van de Schrieksesteenweg. Typische, verankerde baksteenbouw van vijf traveeën en één bouwlaag onder zadeldak (nok loodrecht op de straat, kunstleien), uit het eerste kwart van de 20ste eeuw. Beluikte steekbogige muuropeningen met arduinen lekdrempels, rechthoekige poort onder ijzeren I-balk.        <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49419405.nl?toptext=3152152\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2236747,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "1ddcc8531c3aa77c3472951eefadabdb_0da99a2e0278ed3df5da3e74e348eff83ca51fd9.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Verhulst, Maryline, 22-03-2011, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/1ddcc8531c3aa77c3472951eefadabdb_0da99a2e0278ed3df5da3e74e348eff83ca51fd9.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49419568,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3044784,
+                    "street": "Beversluisweg",
+                    "number": "1",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.317,
+                "distance": 5589,
+                "name": {
+                    "nl": "Langgestrekte hoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6583595156377 51.022599060032)"
+                }
+            },
+            "text": {
+                "id": 3152317,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Alleenstaande hoeve op een aan de straatzijde omhaagd, domein, zes traveeën en één bouwlaag onder zadeldak (nok loodrecht op de straat, mechanische pannen), uit het eerste kwart van de 20ste eeuw. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49419568.nl?toptext=3152317\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2236903,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "290800a243dbddf29f3d5be1bb6bfabe_58f61b22a663b33a044d172988064bc1f46c80ae.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vlaamse Gemeenschap, 01-11-1995, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/290800a243dbddf29f3d5be1bb6bfabe_58f61b22a663b33a044d172988064bc1f46c80ae.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49422699,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3047932,
+                    "street": "Schaliehoevestraat",
+                    "number": "110",
+                    "box": null,
+                    "city": "Heist-op-den-Berg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.391,
+                "distance": 9847,
+                "name": {
+                    "nl": "Langgestrekte hoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6976322899309 51.044459708363)"
+                }
+            },
+            "text": {
+                "id": 3155571,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Langgestrekte hoeve, uit de eerste helft van de 19de eeuw. Verankerde bakstenen lijstgevel van acht traveeën en één bouwlaag onder zadeldak (nok parallel aan de straat, mechanische pannen). Beluikte en betraliede rechthoekige vensters met bewaard houtwerk onder houten latei, rechthoekige deur onder arduinen latei en dito poorten respectievelijk onder ijzeren I-balk en houten latei. Uiterst rechts rondboognisje met recent Onze-Lieve-Vrouwebeeld.        <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49422699.nl?toptext=3155571\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Kennes, Hilde (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2239945,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "546b9b93cd14eb1650c6d19d4566c4b1_81a999c859fb643258feed1664761f321673baa3.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vlaamse Gemeenschap, 01-06-1996, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/546b9b93cd14eb1650c6d19d4566c4b1_81a999c859fb643258feed1664761f321673baa3.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49423618,
+                "type": {
+                    "id": 137,
+                    "name": {
+                        "nl": "Huis"
+                    }
+                },
+                "address": {
+                    "id": 3048853,
+                    "street": "Kalkoenstraat",
+                    "number": "12",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.341,
+                "distance": 999,
+                "name": {
+                    "nl": "Woonstalhuis"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6655496432908 51.051144127829)"
+                }
+            },
+            "text": {
+                "id": 3156560,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Op het einde van de doodlopende straat gelegen gerenoveerd,  tot woonhuis omgevormd, woonstalhuis ten noorden van een gekasseid erf met 18de-eeuwse schuur afkomstig van Zonderschot (Heist-op-den-Berg) ten westen en wagenhuis afkomstig van Rijmenam ten zuiden, omringende siertuin. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49423618.nl?toptext=3156560\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2240867,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "ff427b76aedf0a556fe6e3ef8519e562_617a4c9f090d5de8d382942f81b5319d39e175eb.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Steyaert, Rita, 01-10-1995, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/ff427b76aedf0a556fe6e3ef8519e562_617a4c9f090d5de8d382942f81b5319d39e175eb.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49425165,
+                "type": {
+                    "id": 137,
+                    "name": {
+                        "nl": "Huis"
+                    }
+                },
+                "address": {
+                    "id": 3050402,
+                    "street": "Meester van der Borghtstraat",
+                    "number": "134",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.313,
+                "distance": 4778,
+                "name": {
+                    "nl": "Hoekhuis"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6565096625867 51.029173643279)"
+                }
+            },
+            "text": {
+                "id": 3158189,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Alleenstaand hoekhuis van drie en zes traveeën en één bouwlaag onder half-mansardedak (nok parallel aan de straat, leien, mechanische  pannen), uit het eerste kwart van de 20ste eeuw. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49425165.nl?toptext=3158189\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2242390,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "8cffe360d0f437e963610d3e00117e77_e159476c1530bda051481c6f6f5ca9d5b9a7705f.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Steyaert, Rita, 01-10-1995, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/8cffe360d0f437e963610d3e00117e77_e159476c1530bda051481c6f6f5ca9d5b9a7705f.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49426834,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": 3052070,
+                    "street": "Meester van der Borghtstraat",
+                    "number": "150",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.329,
+                "distance": 5405,
+                "name": {
+                    "nl": "Familiepensionaat Van der Borght"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.656303487828 51.027081219634)"
+                }
+            },
+            "text": {
+                "id": 3159978,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Voormalig familiepensionaat Van der Borght, in verschillende bouwfasen in 1906- circa 1912 opgericht als privé-kostschool voor jongens; in 1972 gefusioneerd met de vrije meisjesschool, internaat  tot 1982, heden feestzaal Van der Borght. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49426834.nl?toptext=3159978\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2244087,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "4dc958945dd14669ccf94e2c91c1165d_98ae7de13122842d8d45fc9787df4026de37cd7e.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Steyaert, Rita, 01-10-1995, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/4dc958945dd14669ccf94e2c91c1165d_98ae7de13122842d8d45fc9787df4026de37cd7e.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49430858,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3056102,
+                    "street": "Zag",
+                    "number": "20",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.309,
+                "distance": 2129,
+                "name": {
+                    "nl": "Langgestrekte hoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6527025129779 51.047116157031)"
+                }
+            },
+            "text": {
+                "id": 3164271,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "In landelijk gebied gelegen, alleenstaande hoeve van zes traveeën en één bouwlaag (nok parallel aan de straat, kunstleien), van circa 1910 (zie kadasterschets van 1912). <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49430858.nl?toptext=3164271\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2248100,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "a1164743313f68c5a01c2f70c00a0e0d_d2e880d9d527f92f63349bb45dbaf3ecc1271975.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Verhulst, Maryline, 24-03-2011, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/a1164743313f68c5a01c2f70c00a0e0d_d2e880d9d527f92f63349bb45dbaf3ecc1271975.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49433500,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3058751,
+                    "street": "Minksbossenstraat",
+                    "number": "27",
+                    "box": null,
+                    "city": "Heist-op-den-Berg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.376,
+                "distance": 12017,
+                "name": {
+                    "nl": "Hoeve Oude Waran"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6831199912791 51.053503913272)"
+                }
+            },
+            "text": {
+                "id": 3167114,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Volledig aangepast hoevecomplex \"Oude Waran\", 1771, zie het  gevelopschrift. Woning met verankerde en beraapte lijstgevel van vier  traveeën en één bouwlaag onder zadeldak (nok parallel aan de straat, golfplaten); eenvoudige rechthoekige muuropeningen onder houten latei en bepleisterde en geprofileerde daklijst. Haaks ingeplante, latere langsschuur onder zadeldak (Vlaamse pannen) ten zuidwesten.        <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49433500.nl?toptext=3167114\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Kennes, Hilde (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2250797,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "c9a9d0947ab9a6e9938a7d8e1f940be7_2bdb1e15a737c6c7820c20b76d10b9b0306e2003.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vlaamse Gemeenschap, 01-06-1996, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/c9a9d0947ab9a6e9938a7d8e1f940be7_2bdb1e15a737c6c7820c20b76d10b9b0306e2003.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49434259,
+                "type": {
+                    "id": 137,
+                    "name": {
+                        "nl": "Huis"
+                    }
+                },
+                "address": {
+                    "id": 3059512,
+                    "street": "Pastorijstraat",
+                    "number": "2A",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.319,
+                "distance": 4937,
+                "name": {
+                    "nl": "Boerenhuis"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6536748875376 51.029676390653)"
+                }
+            },
+            "text": {
+                "id": 3167918,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Alleenstaand dubbelhuis op omgracht terrein ter plaatse van een naamloze omgrachte hoeve ingetekend op Ferrariskaart, zogenaamd \"Kleynen Schrans\" op Vandermaelenkaart en \"Kleynmans Schrans\" op Poppkaart.  <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49434259.nl?toptext=3167918\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2251566,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "d19acbd58969d5990e17434f99492206_d78df91d28686652b78716c1755a717fe212ba10.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Verhulst, Maryline, 22-03-2011, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/d19acbd58969d5990e17434f99492206_d78df91d28686652b78716c1755a717fe212ba10.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49434753,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3060006,
+                    "street": "Paardenstraat",
+                    "number": "3",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.347,
+                "distance": 3156,
+                "name": {
+                    "nl": "Peerdeveehoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6556323176327 51.040181999439)"
+                }
+            },
+            "text": {
+                "id": 3168439,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Aangepaste hoeve met 17de-eeuwse kern omgeven door weilanden. Hoeve met losse bestanddelen rondom een aarden erf met ijzeren toegangshek. Verankerde bakstenen gebouwen van één bouwlaag onder zadeldak (nokrichtingen parallel aan en loodrecht op de straat, Vlaamse pannen), rechthoekige muuropeningen. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49434753.nl?toptext=3168439\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2252062,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "71a706ca351e4e41201ce2e9def1d800_d15cb651afabbb4f2a2fa5599fef41098df59913.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Verhulst, Maryline, 22-03-2011, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/71a706ca351e4e41201ce2e9def1d800_d15cb651afabbb4f2a2fa5599fef41098df59913.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49439536,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": 3064799,
+                    "street": "Schrieksesteenweg",
+                    "number": "68, 68A",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.336,
+                "distance": 2856,
+                "name": {
+                    "nl": "Afspanning Het Hoefijzer"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6520663418236 51.041495321657)"
+                }
+            },
+            "text": {
+                "id": 3173487,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Voormalige 18de-eeuwse afspanning, naar verluidt de laatst bewaarde \"estaminet\" aan de oude Kempische veeweg van Nederland naar Mechelen. Enkelhuis van vijf traveeën en één bouwlaag onder  zadeldak (nok parallel aan de straat, kunstleien), met gevelsteen \"1772\". <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49439536.nl?toptext=3173487\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2256803,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "cf0369ad63654edc342b4bf54746302a_d821cce499fa112e2a9d5ec2cac220cf0bfa024c.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vandevorst, Kris, 01-01-2005, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/cf0369ad63654edc342b4bf54746302a_d821cce499fa112e2a9d5ec2cac220cf0bfa024c.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49440078,
+                "type": {
+                    "id": 235,
+                    "name": {
+                        "nl": "Historisch gebouw"
+                    }
+                },
+                "address": {
+                    "id": 3065341,
+                    "street": "Hollandstraat",
+                    "number": "75",
+                    "box": null,
+                    "city": "Heist-op-den-Berg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.327,
+                "distance": 9793,
+                "name": {
+                    "nl": "Steenbakkerij"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6983399844533 51.043448794362)"
+                }
+            },
+            "text": {
+                "id": 3174058,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Volgens de huidige bewoner, voormalige steenbakkerij, zie ook de  nabijheid van leemputten, nadien maalderij. Op de Vandermaelenkaart van 1854 wordt hier een windmolen gesitueerd, gesloopt bij het begin van de Tweede Wereldoorlog. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49440078.nl?toptext=3174058\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Kennes, Hilde (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2257337,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "f5ad48576b0c162fa8da25aa0be87044_87a43cd26b021eca7842dc1d4cc62ac49a5830e3.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vlaamse Gemeenschap, 01-01-1997, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/f5ad48576b0c162fa8da25aa0be87044_87a43cd26b021eca7842dc1d4cc62ac49a5830e3.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49446480,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3071763,
+                    "street": "Pastorijstraat",
+                    "number": "4",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.335,
+                "distance": 4970,
+                "name": {
+                    "nl": "Langgestrekte hoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6534556164235 51.029203647266)"
+                }
+            },
+            "text": {
+                "id": 3181020,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Hoeve van acht + één latere travee en één bouwlaag onder zadeldak (nok parallel aan de straat, Vlaamse pannen), opklimmend tot de eerste helft van de 19de eeuw, zie kadastrale leggers en reeds ingetekend op de Vandermaelen- en Poppkaarten, niet op Ferraris. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49446480.nl?toptext=3181020\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2263808,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "14215e675e1b6e978a47b0a5872ca154_fee7fdb6f226198360f6a62fb0854fcf12bf3e64.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Verhulst, Maryline, 22-03-2011, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/14215e675e1b6e978a47b0a5872ca154_fee7fdb6f226198360f6a62fb0854fcf12bf3e64.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49448270,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": 3073554,
+                    "street": "Schriekstraat",
+                    "number": "49",
+                    "box": null,
+                    "city": "Heist-op-den-Berg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.302,
+                "distance": 8678,
+                "name": {
+                    "nl": "Kasteelhoeve bij Kasteel van Schriek"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6914342096471 51.034604823133)"
+                }
+            },
+            "text": {
+                "id": 3182986,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Voorheen zogenaamd Kasteel van Schriek, kasteelhoeve van circa 1731, eigendom van de familie van der Stegen, heersers over de heerlijkheid Schriek. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49448270.nl?toptext=3182986\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Kennes, Hilde (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2265668,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "2952bd4090225fcbd15ccc014dc5f691_2c7b742fe6f6a79dc80d3f21a2bf7fd27b87edb2.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Kennes, Hilde, 16-10-1996, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/2952bd4090225fcbd15ccc014dc5f691_2c7b742fe6f6a79dc80d3f21a2bf7fd27b87edb2.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49451580,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": 3076868,
+                    "street": "Schrieksesteenweg",
+                    "number": "64",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.31,
+                "distance": 2777,
+                "name": {
+                    "nl": "Schuur de Boerenkathedraal"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6506476574877 51.041409095592)"
+                }
+            },
+            "text": {
+                "id": 3186666,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Een 18de-eeuwse schuur, afkomstig van Poederlee, volgens oude methoden in 1995 heropgebouwd en ingeplant bij een recent, deels met recuperatiemateriaal opgericht, woonhuis. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49451580.nl?toptext=3186666\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2269154,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "ff3247287b60e9709176ab225a50d9b1_b42bd5780012b6707f1e4264811589cd7ca2e207.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Steyaert, Rita, 25-03-2003, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/ff3247287b60e9709176ab225a50d9b1_b42bd5780012b6707f1e4264811589cd7ca2e207.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49452431,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": 3077722,
+                    "street": "Meester van der Borghtstraat",
+                    "number": "134A",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.344,
+                "distance": 4796,
+                "name": {
+                    "nl": "Parochiekerk Sint-Gerardus-Majella"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6561869685067 51.02866951656)"
+                }
+            },
+            "text": {
+                "id": 3187597,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Georiënteerde, driebeukige kruiskerk met oosttoren in neoromaanse stijl, opgetrokken in 1908-1910 naar ontwerp van E. Careels van 1907, heden omgeven door een parking aangelegd op het vroegere kerkhof en ingeplant tussen de Meester Van der Borghtstraat, de Pastorijstraat en de Kerkhoflei.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49452431.nl?toptext=3187597\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2270027,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "d5fc9f3a8d40ffb6972892f734ff32c7_9d29ed40046c016482476a58a3391fbc5f61a40b.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Verhulst, Maryline, 22-03-2011, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/d5fc9f3a8d40ffb6972892f734ff32c7_9d29ed40046c016482476a58a3391fbc5f61a40b.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49457082,
+                "type": {
+                    "id": 137,
+                    "name": {
+                        "nl": "Huis"
+                    }
+                },
+                "address": {
+                    "id": 3082384,
+                    "street": "Kattestraat",
+                    "number": "18",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.345,
+                "distance": 472,
+                "name": {
+                    "nl": "Reeks dorpswoningen"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6658979407077 51.056953744134)"
+                }
+            },
+            "text": {
+                "id": 3192794,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Reeks kleinschalige dorpswoningen van telkens twee traveeën en één bouwlaag onder zadeldak (nok loodrecht op de straat, mechanische pannen), uit de eerste helft van de 20ste eeuw, in de kadastrale leggers vermeld in 1947. Bakstenen diephuisjes met  getoogde muuropeningen, arduinen lekdrempels.        <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49457082.nl?toptext=3192794\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2274923,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "406e5af6d3dbcf46415c9b506951f199_18a168a5d7c435afcca81abc97361b442beb8f47.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Steyaert, Rita, 01-10-1995, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/406e5af6d3dbcf46415c9b506951f199_18a168a5d7c435afcca81abc97361b442beb8f47.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49458400,
+                "type": {
+                    "id": 137,
+                    "name": {
+                        "nl": "Huis"
+                    }
+                },
+                "address": {
+                    "id": 3083703,
+                    "street": "Heiststeenweg",
+                    "number": "33",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.332,
+                "distance": 13091,
+                "name": {
+                    "nl": "Dorpswoning"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6734992736283 51.058595452338)"
+                }
+            },
+            "text": {
+                "id": 3194286,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Alleenstaand dubbelhuisje van vier traveeën en één bouwlaag onder zadeldak (nokrichting parallel aan de straat, Vlaamse pannen), in kern mogelijk opklimmend tot circa 1900 (mutatieschetsen), volgens kadastrale leggers uit 1936; omheind  voortuintje. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49458400.nl?toptext=3194286\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2276337,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "e7fa4469743b4c29d1fe480d80fd6fb0_2d62b35f2bf543efe53956c5441551fa49784aea.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Steyaert, Rita, 01-10-1995, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/e7fa4469743b4c29d1fe480d80fd6fb0_2d62b35f2bf543efe53956c5441551fa49784aea.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49462259,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3087585,
+                    "street": "Zag",
+                    "number": "22",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.333,
+                "distance": 1835,
+                "name": {
+                    "nl": "Langgestrekte hoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6561823185846 51.04772191764)"
+                }
+            },
+            "text": {
+                "id": 3198639,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Alleenstaande hoeve uit het eerste kwart van de 20ste eeuw; gelegen in een  omhaagde tuin. Verankerde, bakstenen lijstgevel met muizentandfries en getoogde muuropeningen. Beluikte vensters, betraliede stalvensters.  Rechthoekige poort onder I-profiel.        <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49462259.nl?toptext=3198639\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2280460,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "771606357ba99d5161fcdb699318fef4_ef1e164eda4b66a1c8e83d13f87af7a97f6e1215.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Verhulst, Maryline, 24-03-2011, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/771606357ba99d5161fcdb699318fef4_ef1e164eda4b66a1c8e83d13f87af7a97f6e1215.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49467700,
+                "type": {
+                    "id": 137,
+                    "name": {
+                        "nl": "Huis"
+                    }
+                },
+                "address": {
+                    "id": 3093041,
+                    "street": "Bareelstraat",
+                    "number": "30",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.339,
+                "distance": 588,
+                "name": {
+                    "nl": "Twee identieke dorpswoningen"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6683626883563 51.054050960313)"
+                }
+            },
+            "text": {
+                "id": 3204772,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Typische voorbeelden van de lokale, kleinschalige dorpsarchitectuur uit de jaren 1920. Identieke diephuisjes van twee traveeën en één bouwlaag onder zadeldak (nok loodrecht op de straat, kunstleien en golfplaten). Bakstenen trapgeveltjes met licht getoogde muuropeningen.        <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49467700.nl?toptext=3204772\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2286271,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "af2d315d7cd49a71fc60186b59bbd1ad_d59a8185ce6a2c537cae36d9332efc4e1d216084.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Steyaert, Rita, 01-10-1995, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/af2d315d7cd49a71fc60186b59bbd1ad_d59a8185ce6a2c537cae36d9332efc4e1d216084.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49473143,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3098492,
+                    "street": "Grasheideweg",
+                    "number": "47A",
+                    "box": null,
+                    "city": "Heist-op-den-Berg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.31,
+                "distance": 6852,
+                "name": {
+                    "nl": "Langgestrekte hoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6715856405013 51.029609383955)"
+                }
+            },
+            "text": {
+                "id": 3210959,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Gerenoveerde langgestrekte hoeve, uit het derde kwart van de 19de eeuw (geen bebouwing op Vandermaelenkaart, 1854), gelegen op de grens met Grasheide, een gehucht van Putte. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49473143.nl?toptext=3210959\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Kennes, Hilde (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2292084,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "01d8ab1ff6fb9be9c9a641fd8ca9a153_d8b4b8412eb2173013d88f5571253f595ec76ed2.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vlaamse Gemeenschap, 01-10-1996, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/01d8ab1ff6fb9be9c9a641fd8ca9a153_d8b4b8412eb2173013d88f5571253f595ec76ed2.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49473721,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "en": "Farm",
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3099072,
+                    "street": "Steenovenstraat",
+                    "number": "5",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.319,
+                "distance": 1457,
+                "name": {
+                    "nl": "Langgestrekte hoeve",
+                    "en": "Elongated farmhouse"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6593162077231 51.050818569855)"
+                }
+            },
+            "text": {
+                "id": 3211619,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Achterin gelegen, alleenstaande hoeve van acht traveeën en één bouwlaag onder zadeldak (nok loodrecht op de straat, Vlaamse pannen) volgens het kadaster opgericht circa 1890 op een toen onbebouwd terrein. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49473721.nl?toptext=3211619\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Steyaert, Rita (1997)",
+                        "nl": "Steyaert, Rita (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2292699,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "ced1c0c830f4e5aa1b3bb66564a1f160_181f03dc6989af1fd266e0d1703b59b2bac67b56.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Steyaert, Rita, 01-10-1995, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/ced1c0c830f4e5aa1b3bb66564a1f160_181f03dc6989af1fd266e0d1703b59b2bac67b56.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49475296,
+                "type": {
+                    "id": 400,
+                    "name": {
+                        "nl": "Herenhuis"
+                    }
+                },
+                "address": {
+                    "id": 3100647,
+                    "street": "Hollandstraat",
+                    "number": "75A",
+                    "box": null,
+                    "city": "Heist-op-den-Berg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.392,
+                "distance": 9817,
+                "name": {
+                    "nl": "Burgerhuis"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6980013019321 51.04340443866)"
+                }
+            },
+            "text": {
+                "id": 3213402,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Burgerhuis, eertijds mogelijk deel uitmakend van de aanpalende maalderij. Lijstgevel met dubbelhuisopstand van drie traveeën en twee bouwlagen onder zadeldak (nokrichting parallel aan de straat, mechanische pannen), uit de jaren 1920.  Decoratieve verwerking van witte baksteen voor muurbanden,  ontlastingsbogen en borstweringen. Getoogde muuropeningen en klassieke  houten kroonlijst op klossen. Linker zijgevel met rechthoekig luik onder houten  latei.        <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49475296.nl?toptext=3213402\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Kennes, Hilde (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2294386,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "1e84d2c19ef17012eba49973f7a54382_d20890bfe534b2c52acdafe7a0a1e7c6cc0d2cf9.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Van Acker, Pascal, 28-08-2013, ©Pascal Van Acker"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/1e84d2c19ef17012eba49973f7a54382_d20890bfe534b2c52acdafe7a0a1e7c6cc0d2cf9.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49477496,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3102853,
+                    "street": "Schaliehoevestraat",
+                    "number": "98",
+                    "box": null,
+                    "city": "Heist-op-den-Berg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.337,
+                "distance": 9736,
+                "name": {
+                    "nl": "Langgestrekte hoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6995268950596 51.045540000477)"
+                }
+            },
+            "text": {
+                "id": 3215910,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Langgestrekte hoeve, georiënteerd naar het zuidoosten. Verankerde bakstenen lijstgevel van zes traveeën en één bouwlaag onder zadeldak (nok parallel aan de straat, Vlaamse pannen), uit de eerste helft van de 19de eeuw. Rechthoekige muuropeningen onder houten latei.        <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49477496.nl?toptext=3215910\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Kennes, Hilde (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2296766,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "32a424440bcc9f6bf64d7cf82a6b18f5_108713f9178f240f0b41712d7669d203f8747548.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vlaamse Gemeenschap, 01-06-1996, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/32a424440bcc9f6bf64d7cf82a6b18f5_108713f9178f240f0b41712d7669d203f8747548.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49481425,
+                "type": {
+                    "id": 137,
+                    "name": {
+                        "nl": "Huis"
+                    }
+                },
+                "address": {
+                    "id": 3106809,
+                    "street": "Oude Schrieken",
+                    "number": "9",
+                    "box": null,
+                    "city": "Heist-op-den-Berg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.398,
+                "distance": 9475,
+                "name": {
+                    "nl": "Dorpswoning"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6968731527431 51.041663535604)"
+                }
+            },
+            "text": {
+                "id": 3220348,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Alleenstaande woning uit het derde kwart van de 20ste eeuw met achterliggend,  oorspronkelijk lemen huisje, heden in gebruik als tuinhuis en grotendeels  versteend. Breedhuis met lemen lijstgevel van vijf traveeën op gepikte  onderbouw, onder zadeldak (nok parallel aan de straat, Vlaamse pannen), minstens  opklimmend tot midden 19de eeuw of de eerste helft van de 19de eeuw. Kleine rechthoekige muuropeningen. Zij- en  achtergevels van baksteen. Opkamer in zuidwestelijke hoek.        <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49481425.nl?toptext=3220348\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Kennes, Hilde (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2301008,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "4aec2cb84c47cb551fb24f1cf952a53a_56d88a1e4f7f207f4d52e4e1957824c4641831a5.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vlaamse Gemeenschap, 01-10-1996, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/4aec2cb84c47cb551fb24f1cf952a53a_56d88a1e4f7f207f4d52e4e1957824c4641831a5.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49481897,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3107285,
+                    "street": "Vogelstraat",
+                    "number": "95",
+                    "box": null,
+                    "city": "Putte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.36,
+                "distance": 2079,
+                "name": {
+                    "nl": "Hoeve Pitsemburg"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.652250925878 51.050504130249)"
+                }
+            },
+            "text": {
+                "id": 3220883,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Langgestrekte, eertijds omwaterde \"Pitsemburghoeve\" (volgens Ferraris en Vandermaelen) of \"Augustijnehoef\" (volgens Popp), naar verluidt opklimmend tot 1736. Hoeve, eertijds met parallel bijgebouw, van acht + links drie vernieuwde traveeën en één bouwlaag onder zadeldak (nok parallel aan de straat, Vlaamse pannen), met moestuin ten zuiden. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49481897.nl?toptext=3220883\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Steyaert, Dirk (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2301525,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "d8bb03961af58bcff61930f0aa8bd59c_021da41d9d9f666b9d48c99c9782484915ce6275.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Verhulst, Maryline, 22-03-2011, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/d8bb03961af58bcff61930f0aa8bd59c_021da41d9d9f666b9d48c99c9782484915ce6275.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49483664,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": 3109069,
+                    "street": "Hollandstraat",
+                    "number": null,
+                    "box": null,
+                    "city": "Heist-op-den-Berg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.355,
+                "distance": 10165,
+                "name": {
+                    "nl": "Kapel Onze-Lieve-Vrouw van Hal"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6952849422978 51.042943073349)"
+                }
+            },
+            "text": {
+                "id": 3222843,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Kapel gelegen op de hoek met de Masheikedreef, onder grote treurwilg. Bakstenen kapel op rechthoekige plattegrond, onder overkragend dak met houten windborden (nokrichting loodrecht op de straat, golfplaat), van 1894 (volgens geschilderd opschrift). Puntgevel met verdiepte rondboogdeur. Interieur met bepleisterd tongewelf.        <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49483664.nl?toptext=3222843\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Kennes, Hilde (1997)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2303407,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "be0c7d3208d874d6f7f3bc7b8ac773a0_eb5d52b4e2c248af146df2caa29903e7806c3eed.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Van Acker, Pascal, 21-08-2011, ©Pascal Van Acker"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/be0c7d3208d874d6f7f3bc7b8ac773a0_eb5d52b4e2c248af146df2caa29903e7806c3eed.jpg"
+                    }
+                }
+            }
+        }
+    ],
+    "languages": [
+        "nl"
+    ],
+    "lengthRelative": 0.1
+}

@@ -1,0 +1,505 @@
+{
+    "scoreCalculated": 0.3526934,
+    "scoreAuthor": null,
+    "payable": false,
+    "updatedDate": "2023-10-04 18:35:23.089103+00",
+    "autoPois": {
+        "nl": false
+    },
+    "id": 6792504,
+    "length": 3224,
+    "begin": {
+        "wkt": "POINT(3.4839 50.75901)"
+    },
+    "beginAddress": "Enclus du Haut, Mont-de-l'Enclus, België",
+    "end": {
+        "wkt": "POINT(3.4839 50.75901)"
+    },
+    "endAddress": "Enclus du Haut, Mont-de-l'Enclus, België",
+    "centroid": {
+        "wkt": "POINT(3.48210642954617 50.7553461208957)"
+    },
+    "bounds": {
+        "wkt": "BOX(3.47474 50.75145,3.48933 50.75906)"
+    },
+    "owner": {
+        "id": 172924,
+        "type": {
+            "id": 1
+        },
+        "flag": "be",
+        "avatarRevision": 1,
+        "logoRevision": 1,
+        "headerRevision": 1,
+        "privileges": [],
+        "configuration": {
+            "subdomain": "wandelroutesorg.routeyou.com",
+            "logo": {
+                "uri": {
+                    "nl": "http://www.wandelroutes.org/"
+                }
+            },
+            "planner": {
+                "settings": {
+                    "map.bounds": {
+                        "min": {
+                            "lat": 51.267,
+                            "lon": 4.7915
+                        },
+                        "max": {
+                            "lat": 51.2991,
+                            "lon": 4.9079
+                        }
+                    },
+                    "map.overlays": [
+                        "hikingNodes"
+                    ],
+                    "suggest.show.basic": [
+                        "route.suggestionType.toggle",
+                        "route.length.slider",
+                        "route.type.choose",
+                        "routing.select",
+                        "route.beginLocation.search",
+                        "route.viaPointLocations.search",
+                        "route.endLocation.search",
+                        "route.actions.list"
+                    ],
+                    "suggest.params.route.type.id": 2,
+                    "suggest.route.type.choose.ids": [
+                        2
+                    ],
+                    "suggest.params.routing.id": 63
+                }
+            }
+        },
+        "name": {
+            "nl": "wandelroutes.org"
+        },
+        "languages": [
+            "nl"
+        ],
+        "permission": {
+            "writable": false
+        },
+        "nick": "wandelroutes.org"
+    },
+    "type": {
+        "id": 24,
+        "tree": [
+            {
+                "id": 0,
+                "name": {
+                    "nl": "Alle routes"
+                },
+                "languages": [
+                    "nl"
+                ]
+            },
+            {
+                "id": 1,
+                "name": {
+                    "nl": "Fietsroute"
+                },
+                "languages": [
+                    "nl"
+                ]
+            },
+            {
+                "id": 5,
+                "name": {
+                    "nl": "Recreatieve fietsroute"
+                },
+                "languages": [
+                    "nl"
+                ]
+            }
+        ],
+        "name": {
+            "nl": "Handbikeroute"
+        },
+        "languages": [
+            "nl"
+        ]
+    },
+    "flag": "be",
+    "score": 0,
+    "scoreMethod": {
+        "id": 2
+    },
+    "correctness": null,
+    "correctnessMethod": {
+        "id": null
+    },
+    "duration": 1160,
+    "downloadable": false,
+    "inputFormat": {
+        "id": 0,
+        "recording": false
+    },
+    "ascent": {
+        "total": 43,
+        "net": 0,
+        "totalRelative": 0.4
+    },
+    "descent": {
+        "total": 43,
+        "totalRelative": 0.4
+    },
+    "ascendingRate": {
+        "max": 0.09103456,
+        "avg": null,
+        "maxRelative": 0.9,
+        "avgRelative": null
+    },
+    "difficulty": 0.43333333333333335,
+    "difficultyAuthor": null,
+    "permission": {
+        "id": 0,
+        "read": "public",
+        "write": "group",
+        "writable": false
+    },
+    "planner": {
+        "id": 2
+    },
+    "parent": null,
+    "configuration": null,
+    "editedDate": "2020-01-05 17:07:00.879504+00",
+    "createdDate": "2020-01-05 17:07:00.858332+00",
+    "lastReviewDate": null,
+    "otnId": {
+        "nl": null
+    },
+    "name": {
+        "nl": "enclus"
+    },
+    "nameGenerated": {
+        "nl": false
+    },
+    "subName": {
+        "nl": null
+    },
+    "trackName": {
+        "nl": null
+    },
+    "description": {
+        "nl": ""
+    },
+    "descriptionGenerated": {
+        "nl": false
+    },
+    "generatedInfo": {
+        "nl": null
+    },
+    "source": {
+        "name": {
+            "nl": null
+        },
+        "uri": {
+            "nl": null
+        }
+    },
+    "infoUri": {
+        "nl": null
+    },
+    "breadcrumbRegions": [
+        {
+            "id": 47477868,
+            "flag": "be",
+            "type": {
+                "id": 415
+            },
+            "name": {
+                "ca": "Mont-de-l'Enclus",
+                "de": "Mont-de-l'Enclus",
+                "en": "Mont-de-l'Enclus",
+                "es": "Mont-de-l'Enclus",
+                "fr": "Mont-de-l'Enclus",
+                "it": "Mont-de-l'Enclus",
+                "nl": "Mont-de-l'Enclus"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47418543,
+            "flag": "be",
+            "type": {
+                "id": 522
+            },
+            "name": {
+                "ca": "De Vlaamse Ardennen",
+                "de": "De Vlaamse Ardennen",
+                "en": "De Vlaamse Ardennen",
+                "es": "De Vlaamse Ardennen",
+                "fr": "De Vlaamse Ardennen",
+                "it": "De Vlaamse Ardennen",
+                "nl": "De Vlaamse Ardennen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407875,
+            "flag": "be",
+            "type": {
+                "id": 409
+            },
+            "name": {
+                "ca": "Hennegau",
+                "de": "Hennegau",
+                "en": "Hainault",
+                "es": "Hennegau",
+                "fr": "Hainaut",
+                "it": "Hennegau",
+                "nl": "Henegouwen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407865,
+            "type": {
+                "id": 407
+            },
+            "name": {
+                "ca": "Bèlgica",
+                "de": "Belgien",
+                "en": "Belgium",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "nl": "België"
+            },
+            "flag": "be",
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        }
+    ],
+    "viewCount": 2,
+    "viewCountThisMonth": 0,
+    "downloadCount": 2,
+    "geometry": {
+        "google": "yzxtHkmgTARG`CFXVXrBhBl@d@zA~AtFnGp@`BWv@g@vBkBrFGj@Ej@x@HPL`@d@n@hA~@nCz@Pd@PzAfArDzBv@{GRgAV_AhEuJFk@\\[|DsIBAC@cFgIAI^gBGoD`@oKw@uAoA}AcBgAaAe@mA}@g@Uu@U[e@s@aBOmA[sA?@Qt@sA~Bk@x@w@d@]XqAbBi@|@mA|AcA`Bg@nEW|Fa@nGsBiBWYGYFaC@S"
+    },
+    "elevation": {
+        "google": "_mljP??yL~hbEgxA~hbEwR?m^_ibEuoC?aw@~hbEavB~dvi@ecI~|hQ_uA~po]gm@~|hQu{A~tpzAmjE?g^~hbEw]_ibE_~@~flWuT?_l@~hbEkgA~zrc@gwB?}`A?{i@~|hQ{mB~reK_sE_glWgjE_ibEwt@_ibEyq@~hbE_oI?i^?sd@~nyo@}tH?oC?qC_glW}kI?eF~hbE_nA_ibEqwB_evi@wrG_seKksA_{rc@sjB_{rc@uuB_glW{jA_}hQg}A_{rc@wl@_ibEg{@_ibEyf@_{rc@mvA_evi@_w@_{rc@{_A?k@~hbEuh@~flW_}B_{rc@{|@~flWy`A?}c@_qo]{nB~po]a}@_ibE}hB_}hQkbB~flWosC~|hQmnD?m|D~hbEuoC?m^_ibEwR_ibEgxA?yL"
+    },
+    "instructions": [
+        {
+            "atGeometry": "POINT(3.48390 50.75901)",
+            "distance": 0,
+            "using": "",
+            "at": null,
+            "to": "33",
+            "fromBearing": null,
+            "toBearing": -81.016871972268,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(3.48380 50.75902)",
+            "distance": 7.1432215754887,
+            "using": "",
+            "at": "33",
+            "to": "32",
+            "fromBearing": -81.016871972268,
+            "toBearing": -84.443428421283,
+            "angle": -3.4265564490151
+        },
+        {
+            "atGeometry": "POINT(3.48236 50.75832)",
+            "distance": 154.19118295066,
+            "using": "",
+            "at": "32",
+            "to": "30",
+            "fromBearing": -149.96950234763,
+            "toBearing": -152.40934804313,
+            "angle": -2.439845695502
+        },
+        {
+            "atGeometry": "POINT(3.47752 50.75705)",
+            "distance": 648.74256782447,
+            "using": "",
+            "at": null,
+            "to": "30",
+            "fromBearing": -73.964763576926,
+            "toBearing": -77.835520731799,
+            "angle": -3.870757154873
+        },
+        {
+            "atGeometry": "POINT(3.47730 50.75708)",
+            "distance": 664.62123458198,
+            "using": "",
+            "at": "30",
+            "to": "28",
+            "fromBearing": -77.835520731799,
+            "toBearing": -173.7752808925,
+            "angle": -95.939760160705
+        },
+        {
+            "atGeometry": "POINT(3.47474 50.75412)",
+            "distance": 1053.2337264599,
+            "using": "",
+            "at": "28",
+            "to": "36",
+            "fromBearing": -156.45117081721,
+            "toBearing": 107.31051925697,
+            "angle": -96.238309925818
+        },
+        {
+            "atGeometry": "POINT(3.48077 50.75147)",
+            "distance": 1580.8754971274,
+            "using": "",
+            "at": "36",
+            "to": "38",
+            "fromBearing": 131.45239009368,
+            "toBearing": 162.44560404572,
+            "angle": 30.993213952042
+        },
+        {
+            "atGeometry": "POINT(3.48078 50.75145)",
+            "distance": 1583.2096109289,
+            "using": "",
+            "at": null,
+            "to": "36",
+            "fromBearing": 162.44560404572,
+            "toBearing": -17.554388212459,
+            "angle": -179.99999225818
+        },
+        {
+            "atGeometry": "POINT(3.48077 50.75147)",
+            "distance": 1585.5437247304,
+            "using": "",
+            "at": "36",
+            "to": "40",
+            "fromBearing": -17.554388212459,
+            "toBearing": 42.306824317177,
+            "angle": 59.861212529636
+        },
+        {
+            "atGeometry": "POINT(3.48586 50.75233)",
+            "distance": 2006.3832974503,
+            "using": "",
+            "at": "40",
+            "to": "37",
+            "fromBearing": 97.651132292039,
+            "toBearing": 44.174669492361,
+            "angle": -53.476462799678
+        },
+        {
+            "atGeometry": "POINT(3.48933 50.75532)",
+            "distance": 2436.809419851,
+            "using": "",
+            "at": "37",
+            "to": "32",
+            "fromBearing": 62.215212792113,
+            "toBearing": -89.999996140081,
+            "angle": -152.21520893219
+        },
+        {
+            "atGeometry": "POINT(3.48932 50.75532)",
+            "distance": 2437.5150809619,
+            "using": "",
+            "at": null,
+            "to": "32",
+            "fromBearing": -89.999996140081,
+            "toBearing": -62.215212817101,
+            "angle": 27.78478332298
+        },
+        {
+            "atGeometry": "POINT(3.48236 50.75832)",
+            "distance": 3069.4920589712,
+            "using": "",
+            "at": "32",
+            "to": "33",
+            "fromBearing": -78.821873144311,
+            "toBearing": 30.030087173707,
+            "angle": 108.85196031802
+        },
+        {
+            "atGeometry": "POINT(3.48380 50.75902)",
+            "distance": 3216.5400203463,
+            "using": "",
+            "at": "33",
+            "to": "7",
+            "fromBearing": 95.556068158763,
+            "toBearing": 98.983050575589,
+            "angle": 3.4269824168258
+        },
+        {
+            "atGeometry": "POINT(3.48390 50.75901)",
+            "distance": 3223.6832419218,
+            "using": "",
+            "at": null,
+            "to": "7",
+            "fromBearing": 98.983050575589,
+            "toBearing": null,
+            "angle": null
+        }
+    ],
+    "statistics": {
+        "routing": {
+            "hikingNodes": 1
+        }
+    },
+    "segments": [
+        [
+            3.4839,
+            50.75901,
+            63
+        ],
+        [
+            3.47752,
+            50.75705,
+            63
+        ],
+        [
+            3.48078,
+            50.75145,
+            63
+        ],
+        [
+            3.48932,
+            50.75532,
+            63
+        ],
+        [
+            3.4839,
+            50.75901,
+            63
+        ]
+    ],
+    "pois": [],
+    "languages": [
+        "nl"
+    ],
+    "lengthRelative": 0
+}

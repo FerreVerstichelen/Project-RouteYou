@@ -1,0 +1,4733 @@
+{
+    "scoreCalculated": 0.9714116,
+    "scoreAuthor": null,
+    "payable": false,
+    "updatedDate": "2024-05-23 22:45:09.830468+00",
+    "autoPois": {
+        "nl": false
+    },
+    "id": 6786851,
+    "length": 47212,
+    "begin": {
+        "wkt": "POINT(5.22333 51.07125)"
+    },
+    "beginAddress": null,
+    "end": {
+        "wkt": "POINT(5.22333 51.07124)"
+    },
+    "endAddress": null,
+    "centroid": {
+        "wkt": "POINT(5.18750941853297 51.08196866862827)"
+    },
+    "bounds": {
+        "wkt": "BOX(5.1053 51.04257,5.26572 51.12793)"
+    },
+    "owner": {
+        "id": 81970,
+        "type": {
+            "id": 3
+        },
+        "flag": "be",
+        "avatarRevision": 50,
+        "logoRevision": 48,
+        "headerRevision": 55,
+        "privileges": [
+            3,
+            5,
+            6,
+            10,
+            11,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            53,
+            54,
+            55,
+            56,
+            57,
+            60
+        ],
+        "configuration": {
+            "subdomain": "fietsparadijslimburg.routeyou.com",
+            "logo": {
+                "uri": {
+                    "nl": "http://www.visitlimburg.be/"
+                }
+            },
+            "links": [
+                {
+                    "type": "facebook",
+                    "uri": {
+                        "nl": "https://www.facebook.com/visitlimburg.be"
+                    }
+                },
+                {
+                    "type": "twitter",
+                    "uri": {
+                        "nl": "https://twitter.com/visitlimburg"
+                    }
+                },
+                {
+                    "type": "youTube",
+                    "uri": {
+                        "nl": "https://www.youtube.com/c/VisitLimburg"
+                    }
+                },
+                {
+                    "uri": {
+                        "nl": "https://www.instagram.com/visitlimburg.be"
+                    },
+                    "type": "instagram"
+                }
+            ],
+            "spotlightGroup": {
+                "id": 5815
+            },
+            "map": {
+                "overlays": [
+                    "cyclingNodes"
+                ]
+            },
+            "planner": {
+                "settings": {
+                    "map.bounds": {
+                        "min": {
+                            "lat": 50.874152,
+                            "lon": 5.214558
+                        },
+                        "max": {
+                            "lat": 50.995964,
+                            "lon": 5.503778
+                        }
+                    },
+                    "map.overlays": [
+                        "hybrid",
+                        "cyclingNodes"
+                    ],
+                    "suggest.params.owner.id": 81970,
+                    "suggest.show.basic": [
+                        "route.suggestionType.toggle",
+                        "route.length.slider",
+                        "route.type.choose",
+                        "routing.select",
+                        "route.beginLocation.search",
+                        "route.viaPointLocations.search",
+                        "route.endLocation.search",
+                        "route.actions.list"
+                    ],
+                    "suggest.params.route.type.id": 5,
+                    "suggest.route.type.choose.ids": [
+                        5,
+                        6,
+                        22
+                    ],
+                    "suggest.routing.ids.byRouteTypeId.fromTo": {
+                        "5": [
+                            38,
+                            0
+                        ],
+                        "6": [
+                            38,
+                            0
+                        ],
+                        "22": [
+                            38,
+                            0
+                        ]
+                    },
+                    "suggest.params.routing.id": 38
+                }
+            },
+            "downloadPrefix": "visitlimburg"
+        },
+        "name": {
+            "nl": "Visit Limburg"
+        },
+        "languages": [
+            "nl"
+        ],
+        "permission": {
+            "writable": false
+        },
+        "nick": "Visit Limburg"
+    },
+    "type": {
+        "id": 1,
+        "tree": [
+            {
+                "id": 0,
+                "name": {
+                    "nl": "Alle routes"
+                },
+                "languages": [
+                    "nl"
+                ]
+            }
+        ],
+        "name": {
+            "nl": "Fietsroute"
+        },
+        "languages": [
+            "nl"
+        ]
+    },
+    "flag": "be",
+    "score": 0,
+    "scoreMethod": {
+        "id": 3
+    },
+    "correctness": null,
+    "correctnessMethod": {
+        "id": null
+    },
+    "duration": 9442,
+    "downloadable": false,
+    "inputFormat": {
+        "id": 0,
+        "recording": false
+    },
+    "ascent": {
+        "total": 95,
+        "net": 0,
+        "totalRelative": 0.3
+    },
+    "descent": {
+        "total": 95,
+        "totalRelative": 0.3
+    },
+    "ascendingRate": {
+        "max": 0.016857665,
+        "avg": 0.0020122002,
+        "maxRelative": 0.3,
+        "avgRelative": 0.5
+    },
+    "difficulty": 0.3666666666666667,
+    "difficultyAuthor": null,
+    "permission": {
+        "id": 0,
+        "read": "public",
+        "write": "group",
+        "writable": false
+    },
+    "planner": {
+        "id": 5
+    },
+    "parent": null,
+    "configuration": {
+        "map": {
+            "overlays": [
+                "cyclingNodes"
+            ]
+        }
+    },
+    "editedDate": "2024-03-14 14:02:44.439506+00",
+    "createdDate": "2020-01-02 13:54:32.516707+00",
+    "lastReviewDate": "2024-03-20 19:40:16+00",
+    "otnId": {
+        "nl": null
+    },
+    "name": {
+        "nl": "Van mijnschacht naar natuurpracht"
+    },
+    "nameGenerated": {
+        "nl": false
+    },
+    "subName": {
+        "nl": null
+    },
+    "trackName": {
+        "nl": null
+    },
+    "description": {
+        "nl": "<p>Een relatief vlakke fietslus die natuur en erfgoed combineert. Je start op be-MINE, een van de best bewaarde mijnsites van West-Europa. De mijngebouwen, terrils en het belevingsvolle traject van het oude kolenspoor imponeren. Onderweg passeer je bossen, weidelandschappen, het Albertkanaal en de grootste garnizoenstad van België.</p>"
+    },
+    "descriptionGenerated": {
+        "nl": false
+    },
+    "generatedInfo": {
+        "nl": "<p><span class=\"routeYou_node routeYou_nodeVirtual\">SP</span> - <span class=\"routeYou_node\">341</span> - <span class=\"routeYou_node\">342</span> - <span class=\"routeYou_node\">554</span> - <span class=\"routeYou_node\">555</span> - <span class=\"routeYou_node\">278</span> - <span class=\"routeYou_node\">276</span> - <span class=\"routeYou_node\">339</span> - <span class=\"routeYou_node\">336</span> - <span class=\"routeYou_node\">332</span> - <span class=\"routeYou_node\">330</span> - <span class=\"routeYou_node\">345</span> - <span class=\"routeYou_node\">503</span> - <span class=\"routeYou_node routeYou_nodeVirtual\">341</span></p>"
+    },
+    "source": {
+        "name": {
+            "nl": null
+        },
+        "uri": {
+            "nl": null
+        }
+    },
+    "infoUri": {
+        "nl": null
+    },
+    "breadcrumbRegions": [
+        {
+            "id": 47307997,
+            "flag": "be",
+            "type": {
+                "id": 415
+            },
+            "name": {
+                "ca": "Ciutat de Beringen",
+                "de": "Stadt Beringen",
+                "en": "City of Beringen",
+                "es": "Ciudad de Beringen",
+                "fr": "Ville de Beringen",
+                "it": "Città di Beringen",
+                "nl": "Stad Beringen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47418548,
+            "flag": "be",
+            "type": {
+                "id": 522
+            },
+            "name": {
+                "ca": "Limburgse Kempen",
+                "de": "Limburgse Kempen",
+                "en": "Limburgse Kempen",
+                "es": "Limburgse Kempen",
+                "fr": "Limburgse Kempen",
+                "it": "Limburgse Kempen",
+                "nl": "Limburgse Kempen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407870,
+            "flag": "be",
+            "type": {
+                "id": 409
+            },
+            "name": {
+                "ca": "Limburg",
+                "de": "Limburg",
+                "en": "Limburg",
+                "es": "Limburg",
+                "fr": "Limbourg",
+                "it": "Limburg",
+                "nl": "Limburg"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407865,
+            "type": {
+                "id": 407
+            },
+            "name": {
+                "ca": "Bèlgica",
+                "de": "Belgien",
+                "en": "Belgium",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "nl": "België"
+            },
+            "flag": "be",
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        }
+    ],
+    "viewCount": 175,
+    "viewCountThisMonth": 2,
+    "downloadCount": 17,
+    "geometry": {
+        "google": "izuvHyd{^H?Hy@h@mAHe@?[CSG[gA{DSaAMcAGyA@m@DmApAiM@sJK?GL_BESLwFgA]?mEqA]E_@Ba@VkF}@GOC[u@ePOm@eCwDO_@cJm]mA\\e@F{BGcEYDf@h@lDd@dCJ|@MH[HOXG~@KhKDvAXnFF|HRxBA\\IF_[yDaBSYS{GiAc@Q]]Sc@Mq@Uk@gB_DOe@Eg@I?O?]NWRiCdAg@VyBjBa@F{Fu@eJ}@q@Ky@oCo@eDS}AOuBMeAMu@e@mEq@yD[NgN|@yGpAy@HSg@kAmCg@eBk@}Au@q@eImFaC}AE[rAeNe@cDG]ISaBiKkA\\s@CAw@_CcOwBkMaAkHdQhATEbAm@m@{D?MHIn@FTCFW@yPDc@DKJKhDw@_CaGKa@cA`AiKsAP}QqECwADsU|A}@@CIWI{QlBCCEOUwFEWIIOCyFn@WJyGv@@TNpFKLUH}APHvBADwALG?GQtA`c@I@AUe@FGECI@QAMIKKEy@Rm@RUGaBR}Ab@I@e@MmEl@m@RgA@m@JgBAw@NSAMFmBPOHINSr@OV[G]UOCOFq@n@_ClBcArAOBa@^[j@aAp@mA|A_@l@GV}AhDAH@NPZJ^]zDeI~|@uDfb@|QvFdJlCZBRAtBgAbFBfBDj@BRJfA`Al@b@pBu@`@_@vBfGb@bALN@Zh@dEv@xHd@|QFx@FNHl@p@nIeGdBvAvJxCqAz@lJH`BTfCaBdAYVzHxM@XpEzGd@v@`HdKvA`CAjKz@~_@PnFdBlDfAoTr@qMNsDFe@`A}@fBqBpE}@|Ae@`DyAPIr@m@TI@i@pAGfJ{AhAi@nDmCJZ~@dBz@~BzArFj@jB~BtGZfAn@tCJPGtF?fES~Z@tGMj[QrPCnRIjRCj@If@AjBUvJB`HM|J?tABl@s@xi@CrI@bAO|FIl@EdAItFFxC\\vFRpB`@xCf@vCXjA`BlEbBnDxA`DnGtMlFdLtIrQpBpEtEtJvFfLdA|AjE`IJTr@SVARDh@ZTVPXzCnKLj@Df@F~AJJvA`DrBnF`EjJjIfQxFxLDP?HKNCLFPt@|ABZFZRf@l@bA\\t@dAxAzAjDn^f~@BL?LGh@f@TLRT[b@YLOHTFrBDZfCnG~FdOtF~MbGhOnBvE`B`Dr@jAhClDnCrCjA|@f@ZXJXaDDqE`@{HVcGHyDCaA]yFS_C@c@NWtCgAVbBjEQlDTvAp@pDtAZVRr@pBAv@c@xAeATKRFJJM~@MzBSz@T^CfAz@p@z@f@fBr@hBVbADbA?pBSrBy@hAk@tAgA~b@w]HcANWRShAdDb@J~OkDFVn@OdAGl@HpCtA\\XvBzGpAnEJhABbAEb@Fh@d@bAhAbAh@?j@U|EgA~CcAzCm@xCq@XMw@}Ba@y@s@y@_@{@y@yBq@{AU[sAyAGKMu@GcAS{GAyDJoIBe@p@oI?e@Ia@}A}E[kAGe@eAwQGq@Ii@eDwMSiAQiBE{@UkGMuBo@qHIgBC}@@iAToQ@iACgBRMnFaC|@o@bCcCb@q@`ByChAaCRk@Ja@Fw@S[Oc@s@wDq@{EI}@Su@[o@_@]wAE}Ah@i@l@]h@oA~BUj@GX?VB`@ALGLeBlBiAhAWLC]ESaBmEM@]`@K?GCyCiDOAWVyEyLbA_CpA}DOUS}@aA{HWqCSaA_AeDKk@K{@Cu@IeFQyAQcAUaAyAeEQ{@Es@G{E?o@JuBOCyF`A@|BATCNw@tB[pAGV?lAC\\KXOVE^@l@Lp@B\\Eb@A|@BdAD|@N\\RHx@NFJtAdDNl@FjBXxA\\zAJn@H~@@lBR~A\\tBAXQ|@iAjCg@rAk@jBAbACLe@bAId@UVCTMf@Wb@QJc@ESRq@`@k@Ps@x@OIKa@KqAOGkBRaFv@q@CQKSYOi@g@_CWaBs@eHGiA?qCJ{@l@wD@g@KuAIc@}@wBe@iCi@cC_@gAiAcFK{@SoA{@yCM{@KeBGqEBi@VeBPq@n@qAPWb@a@|Aw@\\Y\\m@r@kBr@{AtIeOFW@WEyAB[B]\\gAdNmS`@[ZALFvBdEHVPvBv@OJEJKkN}[i@aAe@u@yC{Cc@e@q@}@{@y@o@`AMWE@sAtBG?cMwPo@wAuG_U}CwLgByGyB}JyAiJ{@aEMoEoBmQMeCEaA_@kC[c@bFqMJFTEJK~@aC\\wA\\aA|@oBNKH?JBLNdCdFBL?JK\\iBwCm@w@eHyIs@u@a@YJUjAn@b@HbAn@PINUNCRVoBjEQRw@f@OVERAZ}Lt[IBWA@k@GU}DgVEQMUaEf@qI?EAEMg@Va@XqDpBSJQQWPqF{Es@w@u@iAq@yAY_AyAuFs@kDs@wEWsBg@yFwEww@CG_Aw@EI?Gr@gBgAyQEmAE]SyH?{BL_BFi@R_AZaAl@gAv@{@r@k@?PjA[f@Cd@@|EnAd@BvAA^FlFN"
+    },
+    "elevation": {
+        "google": "_sonE??W?wA?yC_ibE{@?i@~hbE]?m@_ibEeI_ibEmB?iB?eC?cA?uB_ibEaU_{rc@gP?[~hbE[~flWaF~hbEs@?qQ?gA?sN_ibEgA~hbEkA?wA~|hQsP?]?i@?yX?mA?aL?{@_glWgs@~hbE{D?{A?cH~hbEoM~hbE{@_ibEuG?yE?_B?c@~hbEcA?u@?_B~hbEgQ?cC~hbEiJ?wM~hbEyD_ibEk@?[?saA?gF?cA_ibEgT?wA?sA_ibEgA?oA?sA?uI_ibEcA?{@?W?e@?iA~hbE_A_ibEuI?cB_ibEiI?qA~hbEwQ_ibEqY?uB_ibE}F?oG?qC?sD?kB?uA?}H~hbEkH?eA?cc@_ibEcT?iC?kA_ibEsG?qD?mD_ibEsC?mY?qI?i@?kV?aG?q@?e@_ibEsR?wD?yB?sA_ibEuX?aV_seKwM~|hQ_j@?u@?mD?iH?U?[?qB?s@?g@_ibEkY?w@?U?a@~hbEyK_ibEeN?y@?{D_ibEi\\_ibEc[?oN_ibEoE_seKqt@_ibEqC?Q_ibEy@?yk@?K?[_ibEqJ?e@?[?e@~hbEqQ?{@~hbE}S?a@~hbEgJ?c@?u@?}E?sD?I?oE?S?_@~hbEyt@?W?_@?{A?S?Q?Y?U?]?]_ibEkC~hbEoB?u@?gF?cF?W?{A?kN?oB?iD?mB?sF?gC?m@?c@?cG?i@?_@_ibEyA?s@~hbEcA?mA?e@?g@?iC?uI~hbEkE_ibEe@?}A?{A?kD~|hQgF_}hQcB?i@~hbEmI?O~reKW~hbE{@?u@?_H~|hQ}}A?{t@_}hQem@?eZ?aA?o@?iH_ibEyO_seKuF~hbEgB?q@_ibEcE~hbEwB?yG?{A?cN?cC?g@?i@?uH_ibEaN~reKe[?wA?_@?gA?}N~hbE}R~hbEqQ?}J_seKqP_ibEqC?oE_ibE}F~hbEeA_ibEa_@?e@~reKiS?yB?_[?{G?iQ~reKap@?eJ?aJ_ibEg_@?}T~hbEmG_ibEy@?uD_ibEiH?wN?cF~hbEuK?k@?kC?u@?}@~hbEaE~reK}Y~hbEwD~hbEqM?q@?uE?kF?eL?_E?}N?}B?yF?e@~hbEmJ?gH?oh@~hbE{K?ai@_seKcY_}hQ}[~hbEu[?aA?_A_ibE_D?oP?mL~hbEuP?_C?eA~reKq~@?uN_ibEeB?yJ~hbEgA_ibEgB~reKmJ?eF?uJ?mD?qF~hbEsF?aC?}J?_J?_I~|hQs\\~hbEgY~hbEkd@_ibE{K?mV_ibEyY_ibEwE_ibEeT~hbEk@_ibE}B?w@?o@_ibEkB?_A_ibEw@~dvi@yT_evi@iA~hbE{@~reKoC?a@_ibE{H~reKaM~hbEcU~reKoc@?oZ~hbE]?O?c@?W?_@?}D?i@?m@?iA?uC~hbEiB?sE_ibEoI~po]svB?W?S_ibEaA~hbEaB?m@?aA?}A?g@~hbEg@_ibEkD~hbEk@?cO~hbEq]?u[~hbE{]?}K_ibEmI~hbEeD?_L_ibEsK?iE?gB?_A?wF?wH?yM_ibEeK?uG?aB?wJ~hbEcE?u@?s@_seKqJ?}C?aN_ibE{K?{E?wL?iA?{A?kG~hbEmC_ibEmF?u@?o@?a@?cB?{D~hbEcB?eA?kB~hbE_D?yC?_G?}F?_D_ibE_D?oG~hbE}G?yD?eF~hbEm_B?gB?q@?w@?mH?wA?{g@?g@?sB?eD?mB?mJ?qA?{N?kJ_ibEoB?eB?w@~hbE_A~hbEgC?iE?aB?mB_ibEuO~hbEeK_ibEwJ?qJ?_A?eF?uB?uC?sB~hbEaF?uD?aA?mF?Y~hbEwA?eB?gL?sG_ibEsN?w@?_O?y@?u@?mK?aC?{@?i[?kA_ibEaA?cX?uB?cD?yA?oK?qD?sM_ibE{C?}A?mB_ibEoZ?kB?{C?s@?uQ?aD~hbEoJ~hbEoB?eI?cG?oA_ibEy@?uA?}@?aA?kH?yI?_B?{A?aB?wA?oE?eF?wB~hbE}A?kG?sA_ibEi@?c@?s@?S?[?cH_ibEmE?{@?m@~hbE_@_ibE_K_ibE_@~hbEwA?[?S?yL?e@?aA~hbEaY?yF_ibEsI?q@~hbEgB?mN?_F_ibEkB?aH?eA?}A?oA?uI?mC?kB?oB?iJ?aB?mA?gI?eA?qD?e@?uQ?{D?_@?Y?{E~hbEiC_ibEg@?sB?m@_ibEo@~hbEs@?o@?cA?qA~hbEm@?u@?{A?iB?{A?y@?q@?kC?Y_ibE}H?mA?aD?qC~hbEyC_ibEkA?aB~hbEcD?uC?{D?g@?cB?oG?{C~hbE_E_ibEcB?W~hbEeC?}@_ibE}@?a@~hbEcA?mA?m@_ibEuA?w@~hbE_C?iB?uC?i@?y@?{B?g@?_G?{O_ibEuB?m@~hbE{@?iA?sE?{C?cM?oB?wE?}A?eH?{@?aC?y@?eF?_F?{E?aC_ibE}J?{A?_C?mG?}A?yC?wH?}@?aD?uA?eD?w@?aB?mF?oA?aB?iE?wD?ya@?g@?c@?eC?i@?m@_ibE_C_seK}m@~hbE{A?aA?a@?wK?k@?uD?eC_ibE]?a@?ew@?kC~hbEwB_ibEmL?eB?uC?eD?uC?o@?M?gG?S?oi@_ibEkD?qe@?mV_ibEeN?{R_seK_Q~hbEaI_ibEuH_ibEq[?gE_ibEcB~|hQ{E~hbEuA?kZ_ibE]?s@_ibEa@?uF~hbEsC_ibEwB_ibE}E~reKi@?W?[_ibEg@_}hQqM?U?Q?u@_ibEoI_ibEgC~reK_Z?qC?yA~reKi@?aE?uA?oD?k@?q@~hbEe@~hbE{@?qK_ibEs@?oC~hbEs@?_@?i@?yt@_ibEW?w@?aA?e@_seKed@?]?o@?kM?}W?M?Y?cB?yA?cM~hbEs@_ibEq@~hbE}@_ibEqS?sC?gD_ibEqD?qB?eL_ibEyG_ibEwI?sD?}J_ibEutA?M~hbEkD_ibEU?K~hbEcE_seKk[_ibEuB~hbEm@~hbEsM_ibEwD?qC~hbEaA_ibEgB~hbEwB?wC_ibE}C?kC?Y~hbEwD?}A?yA~hbEyO?yA?oE?kA?qP"
+    },
+    "instructions": [
+        {
+            "atGeometry": "POINT(5.22333 51.07125)",
+            "distance": 0,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": null,
+            "toBearing": 180,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(5.22434 51.07089)",
+            "distance": 86.83953349897571,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 89.9999455458378,
+            "toBearing": 68.30415792808505,
+            "angle": -21.695787617752757
+        },
+        {
+            "atGeometry": "POINT(5.22458 51.07095)",
+            "distance": 104.96783769521456,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 68.30415792808505,
+            "toBearing": 62.054700740815996,
+            "angle": -6.249457187269051
+        },
+        {
+            "atGeometry": "POINT(5.22476 51.07101)",
+            "distance": 119.48738672976542,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 62.054700740815996,
+            "toBearing": 57.862377503379875,
+            "angle": -4.192323237436121
+        },
+        {
+            "atGeometry": "POINT(5.22664 51.07152)",
+            "distance": 264.6599301694628,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 81.94796516420104,
+            "toBearing": 93.95814553227257,
+            "angle": 12.01018036807153
+        },
+        {
+            "atGeometry": "POINT(5.22765 51.07141)",
+            "distance": 336.7764630666286,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 103.75756219124133,
+            "toBearing": 108.83077961318631,
+            "angle": 5.073217421944975
+        },
+        {
+            "atGeometry": "POINT(5.22779 51.07138)",
+            "distance": 347.03995034462315,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 108.83077961318631,
+            "toBearing": 105.65824253093957,
+            "angle": -3.172537082246734
+        },
+        {
+            "atGeometry": "POINT(5.2297 51.07107)",
+            "distance": 485.7319975597004,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 89.99994165680717,
+            "toBearing": 89.99997665866266,
+            "angle": 0.00003500185549398793
+        },
+        {
+            "atGeometry": "POINT(5.22976 51.07107)",
+            "distance": 489.93745214649016,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 89.99997665866266,
+            "toBearing": 90.55196912219039,
+            "angle": 0.5519924635277249
+        },
+        {
+            "atGeometry": "POINT(5.23141 51.07106)",
+            "distance": 605.5912330647768,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 90.55196912219039,
+            "toBearing": 0,
+            "angle": -90.55196912219039
+        },
+        {
+            "atGeometry": "POINT(5.23132 51.07168)",
+            "distance": 678.4513917227204,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": -38.14730835649169,
+            "toBearing": -11.82953586658732,
+            "angle": 26.31777248990437
+        },
+        {
+            "atGeometry": "POINT(5.23203 51.07407)",
+            "distance": 949.0638354664137,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 13.891384202884295,
+            "toBearing": 10.38466149259901,
+            "angle": -3.5067227102852847
+        },
+        {
+            "atGeometry": "POINT(5.232 51.07479)",
+            "distance": 1031.854331673902,
+            "using": "Steenstortstraat",
+            "at": null,
+            "to": "341",
+            "fromBearing": -51.48752078384016,
+            "toBearing": 10.031701092823901,
+            "angle": 61.51922187666406
+        },
+        {
+            "atGeometry": "POINT(5.23229 51.07582)",
+            "distance": 1149.4153977394062,
+            "using": "Steenstortstraat",
+            "at": null,
+            "to": "341",
+            "fromBearing": 10.031701092823901,
+            "toBearing": 43.30253839816343,
+            "angle": 33.270837305339526
+        },
+        {
+            "atGeometry": "POINT(5.24142 51.07876)",
+            "distance": 1886.119077590716,
+            "using": "Steenstortstraat",
+            "at": "341",
+            "to": "342",
+            "fromBearing": 59.808670131296715,
+            "toBearing": -13.584174194936862,
+            "angle": -73.39284432623357
+        },
+        {
+            "atGeometry": "POINT(5.2414 51.08094)",
+            "distance": 2130.5208084862957,
+            "using": "Genemeerstraat",
+            "at": null,
+            "to": "342",
+            "fromBearing": 4.186065421231438,
+            "toBearing": -103.42894997795875,
+            "angle": -107.61501539919018
+        },
+        {
+            "atGeometry": "POINT(5.23935 51.08045)",
+            "distance": 2284.432303554707,
+            "using": "",
+            "at": null,
+            "to": "342",
+            "fromBearing": -107.12321932702153,
+            "toBearing": -24.167392663199315,
+            "angle": 82.95582666382222
+        },
+        {
+            "atGeometry": "POINT(5.2393 51.08052)",
+            "distance": 2292.97171969641,
+            "using": "",
+            "at": null,
+            "to": "342",
+            "fromBearing": -24.167392663199315,
+            "toBearing": -12.645820542727561,
+            "angle": 11.521572120471754
+        },
+        {
+            "atGeometry": "POINT(5.23624 51.08081)",
+            "distance": 2524.2989032762803,
+            "using": "",
+            "at": null,
+            "to": "342",
+            "fromBearing": -93.08839735990294,
+            "toBearing": -97.04754345856526,
+            "angle": -3.959146098662316
+        },
+        {
+            "atGeometry": "POINT(5.23299 51.08053)",
+            "distance": 2754.7622930930584,
+            "using": "",
+            "at": null,
+            "to": "342",
+            "fromBearing": -117.95004300664414,
+            "toBearing": -78.01743934473092,
+            "angle": 39.93260366191322
+        },
+        {
+            "atGeometry": "POINT(5.23373 51.08508)",
+            "distance": 3274.203016825837,
+            "using": "",
+            "at": null,
+            "to": "342",
+            "fromBearing": 7.429468704928658,
+            "toBearing": 7.305228697313034,
+            "angle": -0.12424000761562404
+        },
+        {
+            "atGeometry": "POINT(5.23638 51.08841)",
+            "distance": 3718.237754245712,
+            "using": "Genemeerstraat",
+            "at": "342",
+            "to": "554",
+            "fromBearing": 0,
+            "toBearing": 0,
+            "angle": 0
+        },
+        {
+            "atGeometry": "POINT(5.23638 51.08841)",
+            "distance": 3718.237754245712,
+            "using": "Genemeerstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": 0,
+            "toBearing": 0,
+            "angle": 0
+        },
+        {
+            "atGeometry": "POINT(5.23519 51.09066)",
+            "distance": 3986.6089535653387,
+            "using": "",
+            "at": null,
+            "to": "554",
+            "fromBearing": 6.233875830623642,
+            "toBearing": 7.983654746156029,
+            "angle": 1.7497789155323868
+        },
+        {
+            "atGeometry": "POINT(5.23558 51.09265)",
+            "distance": 4209.764275656823,
+            "using": "",
+            "at": null,
+            "to": "554",
+            "fromBearing": 5.975795310944466,
+            "toBearing": 6.475546261421851,
+            "angle": 0.4997509504773845
+        },
+        {
+            "atGeometry": "POINT(5.23579 51.09373)",
+            "distance": 4330.895417956381,
+            "using": "Sint-Maartenbergstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": 8.571754343714577,
+            "toBearing": 58.234024546134215,
+            "angle": 49.662270202419634
+        },
+        {
+            "atGeometry": "POINT(5.23597 51.0938)",
+            "distance": 4345.792300780431,
+            "using": "Sint-Maartenbergstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": 58.234024546134215,
+            "toBearing": 57.02869308798259,
+            "angle": -1.2053314581516261
+        },
+        {
+            "atGeometry": "POINT(5.2384 51.09444)",
+            "distance": 4531.788849730493,
+            "using": "Sint-Maartenbergstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": 77.81664860673261,
+            "toBearing": 72.33568265651898,
+            "angle": -5.48096595021363
+        },
+        {
+            "atGeometry": "POINT(5.24098 51.09502)",
+            "distance": 4723.997764742773,
+            "using": "Groenhoekstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": 66.82722225685022,
+            "toBearing": -19.741718739016413,
+            "angle": -86.56894099586663
+        },
+        {
+            "atGeometry": "POINT(5.24065 51.09716)",
+            "distance": 4963.704321300099,
+            "using": "Grootdonckstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": -4.488525036026284,
+            "toBearing": -4.894626517950163,
+            "angle": -0.40610148192387907
+        },
+        {
+            "atGeometry": "POINT(5.24013 51.0993)",
+            "distance": 5204.790318908307,
+            "using": "Grootdonckstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": -6.179407384183061,
+            "toBearing": 51.47262824624849,
+            "angle": 57.65203563043155
+        },
+        {
+            "atGeometry": "POINT(5.24219 51.10039)",
+            "distance": 5395.149283800756,
+            "using": "",
+            "at": null,
+            "to": "554",
+            "fromBearing": 29.329741335690603,
+            "toBearing": 32.127031825996106,
+            "angle": 2.797290490305503
+        },
+        {
+            "atGeometry": "POINT(5.24291 51.10135)",
+            "distance": 5513.436157065328,
+            "using": "",
+            "at": null,
+            "to": "554",
+            "fromBearing": 24.545524002099775,
+            "toBearing": 24.725339227411904,
+            "angle": 0.17981522531212946
+        },
+        {
+            "atGeometry": "POINT(5.24346 51.1021)",
+            "distance": 5605.409240344474,
+            "using": "",
+            "at": null,
+            "to": "554",
+            "fromBearing": 24.62809598443334,
+            "toBearing": 24.41985034116774,
+            "angle": -0.2082456432655988
+        },
+        {
+            "atGeometry": "POINT(5.24393 51.10275)",
+            "distance": 5684.862752164473,
+            "using": "",
+            "at": null,
+            "to": "554",
+            "fromBearing": 24.41985034116774,
+            "toBearing": 71.15723678405888,
+            "angle": 46.737386442891136
+        },
+        {
+            "atGeometry": "POINT(5.2465 51.10236)",
+            "distance": 5871.722190767578,
+            "using": "",
+            "at": null,
+            "to": "554",
+            "fromBearing": 105.38881531133845,
+            "toBearing": 71.7097388390585,
+            "angle": -33.679076472279945
+        },
+        {
+            "atGeometry": "POINT(5.24757 51.10264)",
+            "distance": 5953.277830221647,
+            "using": "De Scheurhoeven",
+            "at": null,
+            "to": "554",
+            "fromBearing": 51.4706953143297,
+            "toBearing": 68.38990104239386,
+            "angle": 16.919205728064156
+        },
+        {
+            "atGeometry": "POINT(5.24954 51.10313)",
+            "distance": 6101.638990642802,
+            "using": "Bivakstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": 68.38990104239386,
+            "toBearing": -14.28189339615738,
+            "angle": -82.67179443855125
+        },
+        {
+            "atGeometry": "POINT(5.24941 51.10377)",
+            "distance": 6174.15900886471,
+            "using": "Bivakstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": 2.663021382036248,
+            "toBearing": 86.74453647202945,
+            "angle": 84.0815150899932
+        },
+        {
+            "atGeometry": "POINT(5.25607 51.10535)",
+            "distance": 6673.688510285048,
+            "using": "Bivakstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": 70.690058821105,
+            "toBearing": -175.435193455073,
+            "angle": 113.874747723822
+        },
+        {
+            "atGeometry": "POINT(5.25596 51.10199)",
+            "distance": 7051.991863910166,
+            "using": "Boskantstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": 156.9851594485481,
+            "toBearing": 68.71076862787363,
+            "angle": -88.27439082067447
+        },
+        {
+            "atGeometry": "POINT(5.26055 51.1008)",
+            "distance": 7505.28118657829,
+            "using": "Boskantstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": 168.3129182034569,
+            "toBearing": 51.68822129140121,
+            "angle": -116.62469691205567
+        },
+        {
+            "atGeometry": "POINT(5.26201 51.1015)",
+            "distance": 7633.971302276372,
+            "using": "Koolmeesstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": 60.66137048499678,
+            "toBearing": -31.360990145008582,
+            "angle": -92.02236063000537
+        },
+        {
+            "atGeometry": "POINT(5.26211 51.10381)",
+            "distance": 7900.128930248813,
+            "using": "Klauwierstraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": 7.804148644878815,
+            "toBearing": 92.71610047153264,
+            "angle": 84.91195182665382
+        },
+        {
+            "atGeometry": "POINT(5.26513 51.10372)",
+            "distance": 8111.888607256723,
+            "using": "Corspelsestraat",
+            "at": null,
+            "to": "554",
+            "fromBearing": 92.71610047153264,
+            "toBearing": 0.26648464916970527,
+            "angle": -92.44961582236293
+        },
+        {
+            "atGeometry": "POINT(5.26514 51.10507)",
+            "distance": 8262.0366047921,
+            "using": "Delannoylaan",
+            "at": null,
+            "to": "554",
+            "fromBearing": 0.26648464916970527,
+            "toBearing": -4.566972328476042,
+            "angle": -4.833456977645747
+        },
+        {
+            "atGeometry": "POINT(5.26464 51.109)",
+            "distance": 8700.706824965728,
+            "using": "Vlaanderenlaan",
+            "at": null,
+            "to": "554",
+            "fromBearing": -4.566972328476042,
+            "toBearing": 0,
+            "angle": 4.566972328476042
+        },
+        {
+            "atGeometry": "POINT(5.26464 51.10914)",
+            "distance": 8716.268893335091,
+            "using": "",
+            "at": null,
+            "to": "554",
+            "fromBearing": 0,
+            "toBearing": 57.49851394989813,
+            "angle": 57.49851394989813
+        },
+        {
+            "atGeometry": "POINT(5.26462 51.10994)",
+            "distance": 8808.121557090684,
+            "using": "",
+            "at": null,
+            "to": "554",
+            "fromBearing": -6.32219673027229,
+            "toBearing": -6.761073526265107,
+            "angle": -0.43887679599281704
+        },
+        {
+            "atGeometry": "POINT(5.26571 51.11254)",
+            "distance": 9184.853572566892,
+            "using": "",
+            "at": null,
+            "to": "554",
+            "fromBearing": 36.992579832909925,
+            "toBearing": 4.487030756543307,
+            "angle": -32.50554907636662
+        },
+        {
+            "atGeometry": "POINT(5.26549 51.11381)",
+            "distance": 9327.246014898905,
+            "using": "",
+            "at": null,
+            "to": "554",
+            "fromBearing": -6.918150246762085,
+            "toBearing": -14.493405519483993,
+            "angle": -7.575255272721908
+        },
+        {
+            "atGeometry": "POINT(5.26514 51.1154)",
+            "distance": 9506.0174525403,
+            "using": "",
+            "at": "554",
+            "to": "554",
+            "fromBearing": -7.105852234596797,
+            "toBearing": -98.24004369666055,
+            "angle": -91.13419146206375
+        },
+        {
+            "atGeometry": "POINT(5.26503 51.11539)",
+            "distance": 9513.799953999862,
+            "using": "",
+            "at": "554",
+            "to": "555",
+            "fromBearing": -98.24004369666055,
+            "toBearing": -96.01180979327297,
+            "angle": 2.2282339033875758
+        },
+        {
+            "atGeometry": "POINT(5.26503 51.11539)",
+            "distance": 9513.799953999862,
+            "using": "Koning Leopold III-laan",
+            "at": null,
+            "to": "555",
+            "fromBearing": -98.24004369666055,
+            "toBearing": -96.01180979327297,
+            "angle": 2.2282339033875758
+        },
+        {
+            "atGeometry": "POINT(5.26382 51.11531)",
+            "distance": 9598.994517953328,
+            "using": "",
+            "at": null,
+            "to": "555",
+            "fromBearing": -96.01180979327297,
+            "toBearing": -36.21829114116334,
+            "angle": 59.79351865210963
+        },
+        {
+            "atGeometry": "POINT(5.25723 51.116)",
+            "distance": 10185.637816412476,
+            "using": "",
+            "at": null,
+            "to": "555",
+            "fromBearing": -97.23607046815074,
+            "toBearing": -7.155985954613811,
+            "angle": 90.08008451353693
+        },
+        {
+            "atGeometry": "POINT(5.25743 51.11691)",
+            "distance": 10311.022765334092,
+            "using": "",
+            "at": null,
+            "to": "555",
+            "fromBearing": -15.773922378855671,
+            "toBearing": -11.818303704136248,
+            "angle": 3.955618674719423
+        },
+        {
+            "atGeometry": "POINT(5.25719 51.11809)",
+            "distance": 10445.01848505894,
+            "using": "",
+            "at": null,
+            "to": "555",
+            "fromBearing": 4.4865017752675405,
+            "toBearing": 11.098276829384472,
+            "angle": 6.611775054116932
+        },
+        {
+            "atGeometry": "POINT(5.25701 51.11928)",
+            "distance": 10578.673550499416,
+            "using": "",
+            "at": null,
+            "to": "555",
+            "fromBearing": -7.978952164270981,
+            "toBearing": -15.26497660041444,
+            "angle": -7.286024436143459
+        },
+        {
+            "atGeometry": "POINT(5.2567 51.12132)",
+            "distance": 10808.059092789827,
+            "using": "",
+            "at": null,
+            "to": "555",
+            "fromBearing": -5.734857467800342,
+            "toBearing": -5.9720784859542535,
+            "angle": -0.23722101815391117
+        },
+        {
+            "atGeometry": "POINT(5.25614 51.12193)",
+            "distance": 10892.657840583222,
+            "using": "",
+            "at": null,
+            "to": "555",
+            "fromBearing": -43.274031897774044,
+            "toBearing": 10.166916097990345,
+            "angle": 53.44094799576439
+        },
+        {
+            "atGeometry": "POINT(5.25506 51.12361)",
+            "distance": 11106.552081944115,
+            "using": "",
+            "at": null,
+            "to": "555",
+            "fromBearing": -37.7871780340965,
+            "toBearing": -8.917586360214065,
+            "angle": 28.869591673882432
+        },
+        {
+            "atGeometry": "POINT(5.25231 51.12524)",
+            "distance": 11403.731292242259,
+            "using": "Tunnelstraat",
+            "at": null,
+            "to": "555",
+            "fromBearing": -120.8580662794487,
+            "toBearing": -75.73424042476672,
+            "angle": 45.12382585468198
+        },
+        {
+            "atGeometry": "POINT(5.25137 51.12539)",
+            "distance": 11471.622065128682,
+            "using": "Tunnelstraat",
+            "at": null,
+            "to": "555",
+            "fromBearing": -75.73424042476672,
+            "toBearing": -75.32476545162181,
+            "angle": 0.4094749731449099
+        },
+        {
+            "atGeometry": "POINT(5.23581 51.12793)",
+            "distance": 12596.978905434049,
+            "using": "Engenstraat",
+            "at": "555",
+            "to": "278",
+            "fromBearing": -75.57983292448856,
+            "toBearing": -165.59495051607755,
+            "angle": -90.01511759158899
+        },
+        {
+            "atGeometry": "POINT(5.23419 51.12114)",
+            "distance": 13374.244503420905,
+            "using": "Middenlaan",
+            "at": null,
+            "to": "278",
+            "fromBearing": -179.36909254555798,
+            "toBearing": -171.75810385012176,
+            "angle": 7.61098869543622
+        },
+        {
+            "atGeometry": "POINT(5.23355 51.11974)",
+            "distance": 13542.196619264178,
+            "using": "Middenlaan",
+            "at": null,
+            "to": "278",
+            "fromBearing": -149.28673835018265,
+            "toBearing": 163.12272800579615,
+            "angle": -47.59053364402121
+        },
+        {
+            "atGeometry": "POINT(5.23401 51.11897)",
+            "distance": 13631.452463373173,
+            "using": "De Hengstbergen",
+            "at": null,
+            "to": "278",
+            "fromBearing": 147.8832689999304,
+            "toBearing": -126.153849249613,
+            "angle": 85.96288175045657
+        },
+        {
+            "atGeometry": "POINT(5.23226 51.11812)",
+            "distance": 13786.162251578007,
+            "using": "De Hengstbergen",
+            "at": null,
+            "to": "278",
+            "fromBearing": -139.004547389722,
+            "toBearing": -89.99996107816706,
+            "angle": 49.004586311554945
+        },
+        {
+            "atGeometry": "POINT(5.23216 51.11812)",
+            "distance": 13793.173358044922,
+            "using": "De Hengstbergen",
+            "at": null,
+            "to": "278",
+            "fromBearing": -89.99996107816706,
+            "toBearing": -108.79137480138952,
+            "angle": -18.791413723222462
+        },
+        {
+            "atGeometry": "POINT(5.22911 51.11759)",
+            "distance": 14015.110382079258,
+            "using": "De Hengstbergen",
+            "at": null,
+            "to": "278",
+            "fromBearing": -94.0497525317926,
+            "toBearing": -95.64116817786028,
+            "angle": -1.5914156460676736
+        },
+        {
+            "atGeometry": "POINT(5.22425 51.11705)",
+            "distance": 14362.507244896788,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -103.33569044347169,
+            "toBearing": -13.732614299673417,
+            "angle": 89.60307614379828
+        },
+        {
+            "atGeometry": "POINT(5.22374 51.11836)",
+            "distance": 14512.556692118873,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -13.732614299673417,
+            "toBearing": -110.44711092885534,
+            "angle": -96.71449662918192
+        },
+        {
+            "atGeometry": "POINT(5.22186 51.11792)",
+            "distance": 14652.999624634345,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -110.44711092885534,
+            "toBearing": 161.51799104200725,
+            "angle": -88.03489802913742
+        },
+        {
+            "atGeometry": "POINT(5.22132 51.11699)",
+            "distance": 14812.133477152498,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -105.01844836140397,
+            "toBearing": -104.2991982264683,
+            "angle": 0.7192501349356633
+        },
+        {
+            "atGeometry": "POINT(5.22082 51.11691)",
+            "distance": 14848.289355134295,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -104.2991982264683,
+            "toBearing": -104.11864611752227,
+            "angle": 0.18055210894603135
+        },
+        {
+            "atGeometry": "POINT(5.21927 51.11669)",
+            "distance": 14959.679006986395,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -104.45021077786902,
+            "toBearing": -23.9946259859579,
+            "angle": 80.45558479191112
+        },
+        {
+            "atGeometry": "POINT(5.21888 51.11724)",
+            "distance": 15026.180576561994,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -23.9946259859579,
+            "toBearing": -28.282578709215368,
+            "angle": -4.287952723257469
+        },
+        {
+            "atGeometry": "POINT(5.21882 51.11731)",
+            "distance": 15034.891050642915,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -28.282578709215368,
+            "toBearing": -127.986193938315,
+            "angle": -99.70361522909963
+        },
+        {
+            "atGeometry": "POINT(5.21768 51.11657)",
+            "distance": 15150.098067352585,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -137.937667958483,
+            "toBearing": -137.48806499497562,
+            "angle": 0.44960296350737394
+        },
+        {
+            "atGeometry": "POINT(5.21676 51.11594)",
+            "distance": 15244.721953586566,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -137.48806499497562,
+            "toBearing": -134.87424500783402,
+            "angle": 2.6138199871415964
+        },
+        {
+            "atGeometry": "POINT(5.21652 51.11579)",
+            "distance": 15268.731093187442,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -134.87424500783402,
+            "toBearing": -141.8791670821685,
+            "angle": -7.004922074334473
+        },
+        {
+            "atGeometry": "POINT(5.21625 51.11568)",
+            "distance": 15292.63963509756,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -105.70146175781335,
+            "toBearing": -139.58467865356047,
+            "angle": -33.883216895747125
+        },
+        {
+            "atGeometry": "POINT(5.21488 51.11467)",
+            "distance": 15440.484296255649,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -139.58467865356047,
+            "toBearing": -137.22713012431447,
+            "angle": 2.357548529246003
+        },
+        {
+            "atGeometry": "POINT(5.2146 51.11448)",
+            "distance": 15469.315325929136,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -137.22713012431447,
+            "toBearing": -139.82648569250597,
+            "angle": -2.5993555681914984
+        },
+        {
+            "atGeometry": "POINT(5.21265 51.11303)",
+            "distance": 15680.663307177856,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -139.82648569250597,
+            "toBearing": -137.15642429340792,
+            "angle": 2.6700613990980457
+        },
+        {
+            "atGeometry": "POINT(5.212 51.11259)",
+            "distance": 15747.506312499376,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -137.15642429340792,
+            "toBearing": -89.53830222164686,
+            "angle": 47.618122071761064
+        },
+        {
+            "atGeometry": "POINT(5.21002 51.1126)",
+            "distance": 15886.165505085974,
+            "using": "",
+            "at": null,
+            "to": "278",
+            "fromBearing": -89.53830222164686,
+            "toBearing": -95.11938797005479,
+            "angle": -5.581085748407929
+        },
+        {
+            "atGeometry": "POINT(5.20842 51.11251)",
+            "distance": 15998.661737866278,
+            "using": "Boskant",
+            "at": null,
+            "to": "278",
+            "fromBearing": -95.11938797005479,
+            "toBearing": -95.19236178710601,
+            "angle": -0.07297381705122064
+        },
+        {
+            "atGeometry": "POINT(5.20267 51.1117)",
+            "distance": 16425.296715969045,
+            "using": "Boskant",
+            "at": "278",
+            "to": "276",
+            "fromBearing": -133.0373875522107,
+            "toBearing": 99.46246937216927,
+            "angle": -127.50014307562003
+        },
+        {
+            "atGeometry": "POINT(5.20615 51.11134)",
+            "distance": 16672.313768068932,
+            "using": "Boskant",
+            "at": null,
+            "to": "276",
+            "fromBearing": 99.3556090813201,
+            "toBearing": 99.94530923017707,
+            "angle": 0.5897001488569771
+        },
+        {
+            "atGeometry": "POINT(5.20833 51.1111)",
+            "distance": 16827.333187246786,
+            "using": "Boskant",
+            "at": null,
+            "to": "276",
+            "fromBearing": 99.94530923017707,
+            "toBearing": 99.84114183488285,
+            "angle": -0.10416739529422614
+        },
+        {
+            "atGeometry": "POINT(5.20934 51.11099)",
+            "distance": 16899.01827295204,
+            "using": "Boskant",
+            "at": null,
+            "to": "276",
+            "fromBearing": 99.84114183488285,
+            "toBearing": 89.99995718855226,
+            "angle": -9.84118464633059
+        },
+        {
+            "atGeometry": "POINT(5.20945 51.11099)",
+            "distance": 16906.79625168958,
+            "using": "",
+            "at": null,
+            "to": "276",
+            "fromBearing": 89.99995718855226,
+            "toBearing": 144.34024706804738,
+            "angle": 54.34028987949512
+        },
+        {
+            "atGeometry": "POINT(5.20985 51.11064)",
+            "distance": 16955.50903184127,
+            "using": "",
+            "at": null,
+            "to": "276",
+            "fromBearing": 144.34024706804738,
+            "toBearing": 146.44110883695078,
+            "angle": 2.1008617689033997
+        },
+        {
+            "atGeometry": "POINT(5.21051 51.10981)",
+            "distance": 17060.13406074404,
+            "using": "",
+            "at": null,
+            "to": "276",
+            "fromBearing": 168.17992213725512,
+            "toBearing": 169.90462166999805,
+            "angle": 1.7246995327429318
+        },
+        {
+            "atGeometry": "POINT(5.2107 51.10914)",
+            "distance": 17135.708218251864,
+            "using": "",
+            "at": null,
+            "to": "276",
+            "fromBearing": 169.90462166999805,
+            "toBearing": 170.49541863900754,
+            "angle": 0.5907969690094887
+        },
+        {
+            "atGeometry": "POINT(5.21108 51.10831)",
+            "distance": 17232.326559701367,
+            "using": "Dennenstraat",
+            "at": null,
+            "to": "276",
+            "fromBearing": 160.43544063563002,
+            "toBearing": 160.26340000337063,
+            "angle": -0.1720406322593817
+        },
+        {
+            "atGeometry": "POINT(5.21116 51.10817)",
+            "distance": 17248.93784087268,
+            "using": "Dennenstraat",
+            "at": null,
+            "to": "276",
+            "fromBearing": 160.26340000337063,
+            "toBearing": 161.3207764931492,
+            "angle": 1.0573764897785622
+        },
+        {
+            "atGeometry": "POINT(5.21136 51.10778)",
+            "distance": 17294.068516308773,
+            "using": "Dennenstraat",
+            "at": null,
+            "to": "276",
+            "fromBearing": 160.77071617436732,
+            "toBearing": 160.7706983653138,
+            "angle": -0.000017809053531436803
+        },
+        {
+            "atGeometry": "POINT(5.21145 51.10728)",
+            "distance": 17350.512310391383,
+            "using": "",
+            "at": null,
+            "to": "276",
+            "fromBearing": -177.23492038856654,
+            "toBearing": 180,
+            "angle": -2.765079611433464
+        },
+        {
+            "atGeometry": "POINT(5.21145 51.10724)",
+            "distance": 17350.512310391383,
+            "using": "",
+            "at": null,
+            "to": "276",
+            "fromBearing": 180,
+            "toBearing": 93.79662983623236,
+            "angle": -86.20337016376764
+        },
+        {
+            "atGeometry": "POINT(5.21332 51.10385)",
+            "distance": 17767.30361274926,
+            "using": "Eindestraat",
+            "at": null,
+            "to": "276",
+            "fromBearing": 153.1327223148811,
+            "toBearing": -124.31485497866349,
+            "angle": 82.55242270645539
+        },
+        {
+            "atGeometry": "POINT(5.20888 51.10185)",
+            "distance": 18150.755934894456,
+            "using": "Grensstraat",
+            "at": null,
+            "to": "276",
+            "fromBearing": -126.25015356852765,
+            "toBearing": -121.7702111128417,
+            "angle": 4.479942455685958
+        },
+        {
+            "atGeometry": "POINT(5.20768 51.10141)",
+            "distance": 18248.504413778504,
+            "using": "",
+            "at": "276",
+            "to": "339",
+            "fromBearing": -136.71323194262047,
+            "toBearing": -87.03490137822394,
+            "angle": 49.67833056439653
+        },
+        {
+            "atGeometry": "POINT(5.20151 51.10151)",
+            "distance": 18680.9231854052,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -88.81428774146221,
+            "toBearing": -88.6706448788133,
+            "angle": 0.14364286264890325
+        },
+        {
+            "atGeometry": "POINT(5.19945 51.10154)",
+            "distance": 18825.288912006676,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -88.6706448788133,
+            "toBearing": -88.30889817780162,
+            "angle": 0.3617467010116826
+        },
+        {
+            "atGeometry": "POINT(5.19459 51.10163)",
+            "distance": 19165.852002141106,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -88.30889817780162,
+            "toBearing": -89.9997587389316,
+            "angle": -1.6908605611299805
+        },
+        {
+            "atGeometry": "POINT(5.18993 51.10171)",
+            "distance": 19492.46438799828,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -89.29714613374479,
+            "toBearing": -88.68789595249972,
+            "angle": 0.6092501812450735
+        },
+        {
+            "atGeometry": "POINT(5.18629 51.10178)",
+            "distance": 19747.511002286174,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -78.74158531703124,
+            "toBearing": -27.62223608031271,
+            "angle": -1.6276210564709572
+        },
+        {
+            "atGeometry": "POINT(5.1828 51.10196)",
+            "distance": 19993.762864156786,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -87.71962404449111,
+            "toBearing": -97.71827606597176,
+            "angle": -9.998652021480652
+        },
+        {
+            "atGeometry": "POINT(5.18205 51.10193)",
+            "distance": 20046.32725570108,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -86.74466647729399,
+            "toBearing": -86.4026798788029,
+            "angle": 0.3419865984910899
+        },
+        {
+            "atGeometry": "POINT(5.18129 51.10196)",
+            "distance": 20099.613645834936,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -86.4026798788029,
+            "toBearing": -87.29139053942507,
+            "angle": -0.8887106606221664
+        },
+        {
+            "atGeometry": "POINT(5.18028 51.10199)",
+            "distance": 20170.459512138943,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -87.29139053942507,
+            "toBearing": -86.8199810036138,
+            "angle": 0.47140953581126155
+        },
+        {
+            "atGeometry": "POINT(5.17924 51.10201)",
+            "distance": 20243.38545186388,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -95.05591331565036,
+            "toBearing": -109.48848850647157,
+            "angle": -14.432575190821211
+        },
+        {
+            "atGeometry": "POINT(5.17732 51.10206)",
+            "distance": 20378.238562188744,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -86.51336172609786,
+            "toBearing": -87.67595544423624,
+            "angle": -1.1625937181383819
+        },
+        {
+            "atGeometry": "POINT(5.17575 51.1021)",
+            "distance": 20488.35443462343,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -87.67595544423624,
+            "toBearing": -76.72489083148929,
+            "angle": 10.951064612746947
+        },
+        {
+            "atGeometry": "POINT(5.16889 51.10236)",
+            "distance": 20970.203926041373,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -59.15435466114244,
+            "toBearing": -73.8514705551039,
+            "angle": -14.69711589396146
+        },
+        {
+            "atGeometry": "POINT(5.16512 51.10229)",
+            "distance": 21236.90111114706,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -101.25817638468479,
+            "toBearing": -107.47375668452115,
+            "angle": -6.215580299836361
+        },
+        {
+            "atGeometry": "POINT(5.16151 51.10111)",
+            "distance": 21524.4428093287,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -129.92014265472642,
+            "toBearing": -132.16014362479478,
+            "angle": -2.2400009700683654
+        },
+        {
+            "atGeometry": "POINT(5.15845 51.09937)",
+            "distance": 21813.41229539388,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -132.16014362479478,
+            "toBearing": -132.06099094422856,
+            "angle": 0.0991526805662204
+        },
+        {
+            "atGeometry": "POINT(5.15508 51.09744)",
+            "distance": 22132.089517926448,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -133.09779912068043,
+            "toBearing": -132.39380287955112,
+            "angle": 0.7039962411293175
+        },
+        {
+            "atGeometry": "POINT(5.15301 51.09622)",
+            "distance": 22329.592743479734,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -135.16203174148774,
+            "toBearing": -129.80983103035965,
+            "angle": 5.352200711128091
+        },
+        {
+            "atGeometry": "POINT(5.14993 51.09451)",
+            "distance": 22618.0035566787,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -132.61284471391676,
+            "toBearing": -132.90912024610893,
+            "angle": -0.29627553219216907
+        },
+        {
+            "atGeometry": "POINT(5.1482 51.0935)",
+            "distance": 22783.212281245935,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -132.90912024610893,
+            "toBearing": -134.48257840156325,
+            "angle": -1.5734581554543183
+        },
+        {
+            "atGeometry": "POINT(5.1454 51.09173)",
+            "distance": 23062.16466533135,
+            "using": "",
+            "at": "339",
+            "to": "339",
+            "fromBearing": -135.24787834875528,
+            "toBearing": -130.97274960042162,
+            "angle": 4.275128748333657
+        },
+        {
+            "atGeometry": "POINT(5.14546 51.09176)",
+            "distance": 23056.561984029882,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -140.05606590153383,
+            "toBearing": -128.52266787857772,
+            "angle": 11.533398022956106
+        },
+        {
+            "atGeometry": "POINT(5.14538 51.09172)",
+            "distance": 23063.982949323577,
+            "using": "",
+            "at": null,
+            "to": "339",
+            "fromBearing": -128.52266787857772,
+            "toBearing": -131.49387388987807,
+            "angle": -2.971206011300353
+        },
+        {
+            "atGeometry": "POINT(5.14529 51.09167)",
+            "distance": 23072.360056751084,
+            "using": "",
+            "at": "339",
+            "to": "336",
+            "fromBearing": -130.97274960042162,
+            "toBearing": 166.41928704588145,
+            "angle": -62.60796335369696
+        },
+        {
+            "atGeometry": "POINT(5.14546 51.09176)",
+            "distance": 23056.561984029882,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -140.05606590153383,
+            "toBearing": -128.52266787857772,
+            "angle": 11.533398022956106
+        },
+        {
+            "atGeometry": "POINT(5.14538 51.09172)",
+            "distance": 23063.982949323577,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -128.52266787857772,
+            "toBearing": -131.49387388987807,
+            "angle": -2.971206011300353
+        },
+        {
+            "atGeometry": "POINT(5.14529 51.09167)",
+            "distance": 23072.360056751084,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -131.49387388987807,
+            "toBearing": 166.41928704588145,
+            "angle": -62.08683906424051
+        },
+        {
+            "atGeometry": "POINT(5.14217 51.08987)",
+            "distance": 23404.568861049054,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -99.19664823371684,
+            "toBearing": -104.86095193770304,
+            "angle": -5.664303703986192
+        },
+        {
+            "atGeometry": "POINT(5.14211 51.08986)",
+            "distance": 23408.83846698426,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -104.86095193770304,
+            "toBearing": -147.867011475745,
+            "angle": -43.00605953804195
+        },
+        {
+            "atGeometry": "POINT(5.13783 51.08761)",
+            "distance": 23800.60020005981,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -131.49131889489507,
+            "toBearing": -132.23646495200143,
+            "angle": -0.7451460571063535
+        },
+        {
+            "atGeometry": "POINT(5.13527 51.08615)",
+            "distance": 24042.424100269942,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -132.14529046362617,
+            "toBearing": -131.99981370815317,
+            "angle": 0.14547675547299832
+        },
+        {
+            "atGeometry": "POINT(5.13277 51.08494)",
+            "distance": 24275.611443501246,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -77.1877480615056,
+            "toBearing": -117.95234376566964,
+            "angle": -40.76459570416404
+        },
+        {
+            "atGeometry": "POINT(5.13215 51.08463)",
+            "distance": 24331.910467905218,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -104.8593460102159,
+            "toBearing": -101.25425447642753,
+            "angle": 3.605091533788368
+        },
+        {
+            "atGeometry": "POINT(5.13169 51.08445)",
+            "distance": 24370.562412864118,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -130.77072675074402,
+            "toBearing": -135.1545180505186,
+            "angle": -4.383791299774572
+        },
+        {
+            "atGeometry": "POINT(5.13067 51.08375)",
+            "distance": 24476.601128116734,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -140.25912653321305,
+            "toBearing": -131.48892398935894,
+            "angle": 8.770202543854111
+        },
+        {
+            "atGeometry": "POINT(5.13049 51.08365)",
+            "distance": 24493.29059063227,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -131.48892398935894,
+            "toBearing": -130.2205213531574,
+            "angle": 1.2684026362015288
+        },
+        {
+            "atGeometry": "POINT(5.12985 51.08331)",
+            "distance": 24552.036329411807,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -130.2205213531574,
+            "toBearing": -128.51758902000248,
+            "angle": 1.7029323331549335
+        },
+        {
+            "atGeometry": "POINT(5.12981 51.08329)",
+            "distance": 24555.660155102778,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -128.51758902000248,
+            "toBearing": -128.22150498821674,
+            "angle": 0.29608403178573894
+        },
+        {
+            "atGeometry": "POINT(5.12791 51.08235)",
+            "distance": 24725.165039134994,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -128.22150498821674,
+            "toBearing": -128.51622143971227,
+            "angle": -0.29471645149553183
+        },
+        {
+            "atGeometry": "POINT(5.12641 51.0816)",
+            "distance": 24859.267607078466,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -128.51622143971227,
+            "toBearing": -128.71050241121694,
+            "angle": -0.19428097150466783
+        },
+        {
+            "atGeometry": "POINT(5.12498 51.08088)",
+            "distance": 24987.291527445283,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -128.71050241121694,
+            "toBearing": -128.3546242613475,
+            "angle": 0.3558781498694259
+        },
+        {
+            "atGeometry": "POINT(5.11934 51.07826)",
+            "distance": 25486.277720131533,
+            "using": "Genebosstraat",
+            "at": null,
+            "to": "336",
+            "fromBearing": -77.18948512855124,
+            "toBearing": -160.01215093108257,
+            "angle": -82.82266580253133
+        },
+        {
+            "atGeometry": "POINT(5.11913 51.078)",
+            "distance": 25519.397787733615,
+            "using": "Genebosstraat",
+            "at": null,
+            "to": "336",
+            "fromBearing": -138.09146987274553,
+            "toBearing": 141.35387264831948,
+            "angle": -80.55465747893498
+        },
+        {
+            "atGeometry": "POINT(5.11948 51.07764)",
+            "distance": 25566.6783154036,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": 144.32091981886893,
+            "toBearing": -125.88535035730233,
+            "angle": 89.79372982382876
+        },
+        {
+            "atGeometry": "POINT(5.11221 51.07428)",
+            "distance": 26204.885387900227,
+            "using": "",
+            "at": null,
+            "to": "336",
+            "fromBearing": -129.28787000565538,
+            "toBearing": -128.42388809187847,
+            "angle": 0.8639819137769109
+        },
+        {
+            "atGeometry": "POINT(5.1053 51.0696)",
+            "distance": 26926.28416977041,
+            "using": "Rode Heide",
+            "at": "336",
+            "to": "332",
+            "fromBearing": -163.8268011131748,
+            "toBearing": 104.32730155231104,
+            "angle": -91.84589733451412
+        },
+        {
+            "atGeometry": "POINT(5.11385 51.06853)",
+            "distance": 27599.141449699,
+            "using": "Hulsterweg",
+            "at": null,
+            "to": "332",
+            "fromBearing": 163.2152382684105,
+            "toBearing": -108.27732554258165,
+            "angle": 88.50743618900788
+        },
+        {
+            "atGeometry": "POINT(5.11332 51.06842)",
+            "distance": 27636.645105990283,
+            "using": "Hofstraat",
+            "at": null,
+            "to": "332",
+            "fromBearing": -108.27732554258165,
+            "toBearing": 173.83558725804443,
+            "angle": -77.88708719937392
+        },
+        {
+            "atGeometry": "POINT(5.11333 51.06647)",
+            "distance": 27851.854997774353,
+            "using": "Hofstraat",
+            "at": null,
+            "to": "332",
+            "fromBearing": -176.07823900671903,
+            "toBearing": -151.69104288936458,
+            "angle": 24.38719611735445
+        },
+        {
+            "atGeometry": "POINT(5.1123 51.06497)",
+            "distance": 28039.23711193461,
+            "using": "Hofstraat",
+            "at": null,
+            "to": "332",
+            "fromBearing": -117.94207656755847,
+            "toBearing": -159.3403622810688,
+            "angle": -41.39828571351032
+        },
+        {
+            "atGeometry": "POINT(5.11278 51.06337)",
+            "distance": 28227.012398178726,
+            "using": "Hofstraat",
+            "at": null,
+            "to": "332",
+            "fromBearing": -154.76336767534733,
+            "toBearing": -67.00751184337243,
+            "angle": 87.7558558319749
+        },
+        {
+            "atGeometry": "POINT(5.1115 51.06364)",
+            "distance": 28318.70531123092,
+            "using": "Hofstraat",
+            "at": null,
+            "to": "332",
+            "fromBearing": -64.82037316913794,
+            "toBearing": -161.30413843381868,
+            "angle": -96.48376526468074
+        },
+        {
+            "atGeometry": "POINT(5.11143 51.06351)",
+            "distance": 28331.078250813167,
+            "using": "",
+            "at": null,
+            "to": "332",
+            "fromBearing": -161.30413843381868,
+            "toBearing": -85.450987737789,
+            "angle": 75.85315069602967
+        },
+        {
+            "atGeometry": "POINT(5.11084 51.06334)",
+            "distance": 28385.235236662855,
+            "using": "",
+            "at": null,
+            "to": "332",
+            "fromBearing": -152.35815416995877,
+            "toBearing": -156.25407018927342,
+            "angle": -3.8959160193146545
+        },
+        {
+            "atGeometry": "POINT(5.11063 51.06304)",
+            "distance": 28421.448740516724,
+            "using": "",
+            "at": null,
+            "to": "332",
+            "fromBearing": -156.25407018927342,
+            "toBearing": -159.7755491763518,
+            "angle": -3.521478987078382
+        },
+        {
+            "atGeometry": "POINT(5.11014 51.06152)",
+            "distance": 28594.857229095524,
+            "using": "",
+            "at": null,
+            "to": "332",
+            "fromBearing": -177.67807375404237,
+            "toBearing": 177.28430082699188,
+            "angle": -5.0376254189657175
+        },
+        {
+            "atGeometry": "POINT(5.11112 51.05925)",
+            "distance": 28859.951509255785,
+            "using": "",
+            "at": null,
+            "to": "332",
+            "fromBearing": 152.24663437312978,
+            "toBearing": 151.76712896413767,
+            "angle": -0.4795054089921109
+        },
+        {
+            "atGeometry": "POINT(5.11211 51.05808)",
+            "distance": 29007.188204704526,
+            "using": "",
+            "at": null,
+            "to": "332",
+            "fromBearing": 151.75490600769436,
+            "toBearing": 151.70171843896284,
+            "angle": -0.05318756873151642
+        },
+        {
+            "atGeometry": "POINT(5.11648 51.05338)",
+            "distance": 29622.06916635235,
+            "using": "",
+            "at": null,
+            "to": "332",
+            "fromBearing": 147.8466878626236,
+            "toBearing": 147.84666555086054,
+            "angle": -0.000022311763075322233
+        },
+        {
+            "atGeometry": "POINT(5.11652 51.05334)",
+            "distance": 29627.054528680394,
+            "using": "",
+            "at": null,
+            "to": "332",
+            "fromBearing": 147.84666555086054,
+            "toBearing": 147.84662990348323,
+            "angle": -0.000035647377302439054
+        },
+        {
+            "atGeometry": "POINT(5.11658 51.05328)",
+            "distance": 29634.944662006266,
+            "using": "",
+            "at": null,
+            "to": "332",
+            "fromBearing": 147.84662990348323,
+            "toBearing": 147.84660981312248,
+            "angle": -0.000020090360749236424
+        },
+        {
+            "atGeometry": "POINT(5.11572 51.05275)",
+            "distance": 29724.886453560957,
+            "using": "Oosterbergen",
+            "at": null,
+            "to": "332",
+            "fromBearing": -157.262913831144,
+            "toBearing": 168.87740068634974,
+            "angle": -33.85968548250628
+        },
+        {
+            "atGeometry": "POINT(5.11659 51.05003)",
+            "distance": 30034.39519330787,
+            "using": "Oosterbergen",
+            "at": null,
+            "to": "332",
+            "fromBearing": 163.82032104020587,
+            "toBearing": -142.4634279666718,
+            "angle": 53.716250993122344
+        },
+        {
+            "atGeometry": "POINT(5.11648 51.04994)",
+            "distance": 30049.433243864452,
+            "using": "Oosterbergen",
+            "at": null,
+            "to": "332",
+            "fromBearing": -142.4634279666718,
+            "toBearing": 171.53142572670717,
+            "angle": -46.00514630662104
+        },
+        {
+            "atGeometry": "POINT(5.11657 51.04956)",
+            "distance": 30091.688046143263,
+            "using": "Meilrijk",
+            "at": null,
+            "to": "332",
+            "fromBearing": 171.53142572670717,
+            "toBearing": 172.83380504950276,
+            "angle": 1.3023793227955878
+        },
+        {
+            "atGeometry": "POINT(5.11243 51.04715)",
+            "distance": 30528.1367464246,
+            "using": "Meilrijk",
+            "at": null,
+            "to": "332",
+            "fromBearing": -110.51913423121366,
+            "toBearing": -127.58390967909041,
+            "angle": -17.064775447876755
+        },
+        {
+            "atGeometry": "POINT(5.11188 51.04676)",
+            "distance": 30587.591667737943,
+            "using": "Meilrijk",
+            "at": null,
+            "to": "332",
+            "fromBearing": -147.8429757539488,
+            "toBearing": -154.40552169522485,
+            "angle": -6.562545941276056
+        },
+        {
+            "atGeometry": "POINT(5.11276 51.04347)",
+            "distance": 30965.15394937624,
+            "using": "",
+            "at": "332",
+            "to": "330",
+            "fromBearing": 169.49690204898184,
+            "toBearing": 168.4623463757945,
+            "angle": -1.0345556731873273
+        },
+        {
+            "atGeometry": "POINT(5.11308 51.04257)",
+            "distance": 31067.864601051133,
+            "using": "Meilrijk",
+            "at": null,
+            "to": "330",
+            "fromBearing": 161.2962706387462,
+            "toBearing": 54.74402437009396,
+            "angle": -106.55224626865223
+        },
+        {
+            "atGeometry": "POINT(5.12467 51.0451)",
+            "distance": 32000.85144608421,
+            "using": "Deurnestraat",
+            "at": null,
+            "to": "330",
+            "fromBearing": 59.62973055874402,
+            "toBearing": 71.48652759310701,
+            "angle": 11.856797034362991
+        },
+        {
+            "atGeometry": "POINT(5.14039 51.04701)",
+            "distance": 33142.81704204457,
+            "using": "Brelaarstraat",
+            "at": null,
+            "to": "330",
+            "fromBearing": 86.49892086366214,
+            "toBearing": 156.24672181776637,
+            "angle": 69.74780095410424
+        },
+        {
+            "atGeometry": "POINT(5.14435 51.0435)",
+            "distance": 33638.800487303255,
+            "using": "",
+            "at": "330",
+            "to": "345",
+            "fromBearing": 102.80103592846118,
+            "toBearing": 41.354868182401475,
+            "angle": -61.4461677460597
+        },
+        {
+            "atGeometry": "POINT(5.1461 51.04406)",
+            "distance": 33777.8782819563,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 69.48188853379683,
+            "toBearing": 70.68647726744312,
+            "angle": 1.2045887336462897
+        },
+        {
+            "atGeometry": "POINT(5.14769 51.04508)",
+            "distance": 33958.80178291795,
+            "using": "Sint-Jorisstraat",
+            "at": null,
+            "to": "345",
+            "fromBearing": 2.4545670894146205,
+            "toBearing": -15.69055465995284,
+            "angle": -18.145121749367462
+        },
+        {
+            "atGeometry": "POINT(5.14463 51.04749)",
+            "distance": 34320.49804747465,
+            "using": "Engeldonk",
+            "at": null,
+            "to": "345",
+            "fromBearing": -20.139381930895354,
+            "toBearing": 78.02574187500835,
+            "angle": 98.1651238059037
+        },
+        {
+            "atGeometry": "POINT(5.1466 51.04912)",
+            "distance": 34573.53378664903,
+            "using": "Engeldonk",
+            "at": null,
+            "to": "345",
+            "fromBearing": 34.75932629169157,
+            "toBearing": 4.493160818940147,
+            "angle": -30.266165472751425
+        },
+        {
+            "atGeometry": "POINT(5.14649 51.04932)",
+            "distance": 34598.24195420697,
+            "using": "Deurnestraat",
+            "at": null,
+            "to": "345",
+            "fromBearing": -32.155557694563385,
+            "toBearing": 51.88260884843945,
+            "angle": 84.03816654300283
+        },
+        {
+            "atGeometry": "POINT(5.1487 51.05041)",
+            "distance": 34795.01657855677,
+            "using": "Tessenderlosesteenweg",
+            "at": null,
+            "to": "345",
+            "fromBearing": 51.88260884843945,
+            "toBearing": 130.20023526934898,
+            "angle": 78.31762642090953
+        },
+        {
+            "atGeometry": "POINT(5.15029 51.04966)",
+            "distance": 34934.4438967374,
+            "using": "Holststraat",
+            "at": null,
+            "to": "345",
+            "fromBearing": 124.47015704106403,
+            "toBearing": 40.83970889878541,
+            "angle": -83.63044814227862
+        },
+        {
+            "atGeometry": "POINT(5.16072 51.05174)",
+            "distance": 35721.48365951983,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 99.18920346669732,
+            "toBearing": 8.93123057773803,
+            "angle": -90.25797288895929
+        },
+        {
+            "atGeometry": "POINT(5.16068 51.05204)",
+            "distance": 35755.35820679908,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": -9.728228273471968,
+            "toBearing": -10.181984164028385,
+            "angle": -0.4537558905564172
+        },
+        {
+            "atGeometry": "POINT(5.16066 51.05211)",
+            "distance": 35763.295035151496,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": -10.181984164028385,
+            "toBearing": -9.10329210364541,
+            "angle": 1.0786920603829753
+        },
+        {
+            "atGeometry": "POINT(5.16053 51.05262)",
+            "distance": 35820.68310492638,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": -9.10329210364541,
+            "toBearing": -17.44809281404107,
+            "angle": -8.344800710395658
+        },
+        {
+            "atGeometry": "POINT(5.16052 51.05264)",
+            "distance": 35823.07005700787,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": -17.44809281404107,
+            "toBearing": -9.135226708582346,
+            "angle": 8.312866105458722
+        },
+        {
+            "atGeometry": "POINT(5.16041 51.05307)",
+            "distance": 35871.46698201562,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": -9.135226708582346,
+            "toBearing": -91.44624415094049,
+            "angle": -82.31101744235814
+        },
+        {
+            "atGeometry": "POINT(5.15689 51.05364)",
+            "distance": 36142.92441835241,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": -101.9756857293091,
+            "toBearing": -75.15006417460397,
+            "angle": 26.825621554705137
+        },
+        {
+            "atGeometry": "POINT(5.1555 51.05327)",
+            "distance": 36269.86410618926,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": -172.04790299647794,
+            "toBearing": -167.12445033883418,
+            "angle": 4.9234526576437645
+        },
+        {
+            "atGeometry": "POINT(5.15108 51.05201)",
+            "distance": 36623.551540366985,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": -112.41251757113825,
+            "toBearing": -111.15384602679963,
+            "angle": 1.2586715443386254
+        },
+        {
+            "atGeometry": "POINT(5.14979 51.05227)",
+            "distance": 36728.35396180849,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": -50.35657403751322,
+            "toBearing": -51.500764940445904,
+            "angle": -1.144190902932685
+        },
+        {
+            "atGeometry": "POINT(5.14827 51.05282)",
+            "distance": 36854.48831650509,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": -87.32100713218482,
+            "toBearing": -65.5571209451474,
+            "angle": 21.763886187037414
+        },
+        {
+            "atGeometry": "POINT(5.14668 51.05663)",
+            "distance": 37368.30207002194,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 1.99993042567156,
+            "toBearing": 5.130999525689422,
+            "angle": 3.1310691000178617
+        },
+        {
+            "atGeometry": "POINT(5.15252 51.05733)",
+            "distance": 37817.826910821845,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 78.39892048084548,
+            "toBearing": 69.63347158815935,
+            "angle": -8.765448892686123
+        },
+        {
+            "atGeometry": "POINT(5.153 51.05749)",
+            "distance": 37856.47549872454,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 51.497920738806044,
+            "toBearing": 50.1928028586146,
+            "angle": -1.305117880191446
+        },
+        {
+            "atGeometry": "POINT(5.15556 51.05841)",
+            "distance": 38064.097486955245,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 62.6154245835213,
+            "toBearing": 62.73305638030717,
+            "angle": 0.1176317967858651
+        },
+        {
+            "atGeometry": "POINT(5.16851 51.05177)",
+            "distance": 39619.30611641579,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": -103.42065719910325,
+            "toBearing": 172.83415887625728,
+            "angle": -83.74518392463949
+        },
+        {
+            "atGeometry": "POINT(5.16852 51.05172)",
+            "distance": 39624.83008698268,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 172.83415887625728,
+            "toBearing": 167.76941773871394,
+            "angle": -5.064741137543336
+        },
+        {
+            "atGeometry": "POINT(5.16868 51.05137)",
+            "distance": 39665.84578293109,
+            "using": "Rijsselstraat",
+            "at": null,
+            "to": "345",
+            "fromBearing": 147.84556518391057,
+            "toBearing": 49.79268747585228,
+            "angle": -98.05287770805828
+        },
+        {
+            "atGeometry": "POINT(5.17565 51.05559)",
+            "distance": 40351.77389521939,
+            "using": "Industrieweg",
+            "at": null,
+            "to": "345",
+            "fromBearing": 61.04128328013996,
+            "toBearing": -39.59250154852485,
+            "angle": -100.6337848286648
+        },
+        {
+            "atGeometry": "POINT(5.17515 51.05597)",
+            "distance": 40387.10407280842,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": -39.59250154852485,
+            "toBearing": 47.13720419740036,
+            "angle": 86.7297057459252
+        },
+        {
+            "atGeometry": "POINT(5.17467 51.05653)",
+            "distance": 40468.83382081368,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 0,
+            "toBearing": 38.30213415711042,
+            "angle": 38.30213415711042
+        },
+        {
+            "atGeometry": "POINT(5.17984 51.05978)",
+            "distance": 40986.822596926126,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 57.73215838747329,
+            "toBearing": 58.37014364543186,
+            "angle": 0.6379852579585688
+        },
+        {
+            "atGeometry": "POINT(5.18201 51.06062)",
+            "distance": 41165.30400816853,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 58.37014364543186,
+            "toBearing": 62.06005073867637,
+            "angle": 3.689907093244507
+        },
+        {
+            "atGeometry": "POINT(5.18207 51.06064)",
+            "distance": 41170.10570367681,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 62.06005073867637,
+            "toBearing": 60.4534476946065,
+            "angle": -1.606603044069864
+        },
+        {
+            "atGeometry": "POINT(5.18839 51.06269)",
+            "distance": 41669.27807890882,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 68.30728025277153,
+            "toBearing": 68.78911393012962,
+            "angle": 0.48183367735808247
+        },
+        {
+            "atGeometry": "POINT(5.18965 51.06305)",
+            "distance": 41766.45624850687,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 64.0469173106692,
+            "toBearing": 62.05877737649169,
+            "angle": -1.9881399341775108
+        },
+        {
+            "atGeometry": "POINT(5.19443 51.06379)",
+            "distance": 42112.8020868029,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 80.56091937966983,
+            "toBearing": 81.76884575383777,
+            "angle": 1.2079263741679398
+        },
+        {
+            "atGeometry": "POINT(5.19546 51.06398)",
+            "distance": 42188.374521437414,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 70.01316171111847,
+            "toBearing": 38.938444047334265,
+            "angle": -31.074717663784206
+        },
+        {
+            "atGeometry": "POINT(5.19564 51.06412)",
+            "distance": 42208.41939255371,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 38.938444047334265,
+            "toBearing": 127.90074909579292,
+            "angle": 88.96230504845866
+        },
+        {
+            "atGeometry": "POINT(5.19797 51.06298)",
+            "distance": 42415.21259320779,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 127.90074909579292,
+            "toBearing": -157.26739957648792,
+            "angle": 74.83185132771916
+        },
+        {
+            "atGeometry": "POINT(5.19802 51.06275)",
+            "distance": 42442.75916114774,
+            "using": "Scheepvaartstraat",
+            "at": null,
+            "to": "345",
+            "fromBearing": 147.85190970066355,
+            "toBearing": 128.07283201034386,
+            "angle": -19.779077690319696
+        },
+        {
+            "atGeometry": "POINT(5.19853 51.06093)",
+            "distance": 42780.10551907154,
+            "using": "Beverlosesteenweg",
+            "at": null,
+            "to": "345",
+            "fromBearing": -57.52555244912912,
+            "toBearing": 42.02585867352613,
+            "angle": 99.55141112265525
+        },
+        {
+            "atGeometry": "POINT(5.2017 51.06359)",
+            "distance": 43150.98444126059,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": 28.310341618923193,
+            "toBearing": 130.95549900589938,
+            "angle": 102.6451573869762
+        },
+        {
+            "atGeometry": "POINT(5.20133 51.0627)",
+            "distance": 43259.85347345963,
+            "using": "",
+            "at": null,
+            "to": "345",
+            "fromBearing": -156.14227255817548,
+            "toBearing": -155.82432669423844,
+            "angle": 0.31794586393704094
+        },
+        {
+            "atGeometry": "POINT(5.20134 51.06228)",
+            "distance": 43313.75184282128,
+            "using": "",
+            "at": "345",
+            "to": "503",
+            "fromBearing": -142.97746849763192,
+            "toBearing": -48.85981626991353,
+            "angle": 94.1176522277184
+        },
+        {
+            "atGeometry": "POINT(5.20002 51.06321)",
+            "distance": 43454.97231064171,
+            "using": "",
+            "at": null,
+            "to": "503",
+            "fromBearing": -25.45947786123735,
+            "toBearing": -43.310294446561485,
+            "angle": -17.850816585324136
+        },
+        {
+            "atGeometry": "POINT(5.19506 51.06573)",
+            "distance": 43910.26133601939,
+            "using": "Zandhoefstraat",
+            "at": "503",
+            "to": "341",
+            "fromBearing": 2.9977862357759437,
+            "toBearing": 94.13694210019457,
+            "angle": 91.13915586441863
+        },
+        {
+            "atGeometry": "POINT(5.19931 51.0668)",
+            "distance": 44233.63753586237,
+            "using": "Schipperstraat",
+            "at": null,
+            "to": "341",
+            "fromBearing": 49.042448553254054,
+            "toBearing": -7.842142403490013,
+            "angle": -56.88459095674407
+        },
+        {
+            "atGeometry": "POINT(5.19915 51.06784)",
+            "distance": 44349.582671194934,
+            "using": "Schipperstraat",
+            "at": null,
+            "to": "341",
+            "fromBearing": 0,
+            "toBearing": -1.6117001789357799,
+            "angle": -1.6117001789357799
+        },
+        {
+            "atGeometry": "POINT(5.19837 51.07079)",
+            "distance": 44691.81237337062,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": -21.921432771079008,
+            "toBearing": -20.65719376789028,
+            "angle": 1.2642390031887274
+        },
+        {
+            "atGeometry": "POINT(5.1984 51.07098)",
+            "distance": 44715.539619064315,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": -20.65715843734589,
+            "toBearing": -25.232931620006138,
+            "angle": -4.5757731826602495
+        },
+        {
+            "atGeometry": "POINT(5.19831 51.0711)",
+            "distance": 44730.30491444961,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": -25.232931620006138,
+            "toBearing": 29.94147276495543,
+            "angle": 55.17440438496157
+        },
+        {
+            "atGeometry": "POINT(5.19853 51.07134)",
+            "distance": 44761.19012308673,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 29.94147276495543,
+            "toBearing": 28.713441917240186,
+            "angle": -1.228030847715246
+        },
+        {
+            "atGeometry": "POINT(5.19887 51.07173)",
+            "distance": 44810.261790392535,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 28.713441917240186,
+            "toBearing": 30.686077906342543,
+            "angle": 1.9726359891023577
+        },
+        {
+            "atGeometry": "POINT(5.19955 51.07245)",
+            "distance": 44903.53196790186,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 30.686077906342543,
+            "toBearing": 36.79708104305408,
+            "angle": 6.111003136711535
+        },
+        {
+            "atGeometry": "POINT(5.1998 51.07266)",
+            "distance": 44932.68103954629,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 36.79708104305408,
+            "toBearing": 39.955522898639444,
+            "angle": 3.158441855585366
+        },
+        {
+            "atGeometry": "POINT(5.19988 51.07272)",
+            "distance": 44941.34396923566,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 39.955522898639444,
+            "toBearing": 43.304382808385064,
+            "angle": 3.34885990974562
+        },
+        {
+            "atGeometry": "POINT(5.20121 51.07336)",
+            "distance": 45059.63055042751,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 59.61447322862414,
+            "toBearing": 59.8669231734809,
+            "angle": 0.25244994485675676
+        },
+        {
+            "atGeometry": "POINT(5.20331 51.07403)",
+            "distance": 45224.71644455066,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 65.37437915811682,
+            "toBearing": 70.3198647129794,
+            "angle": 4.945485554862572
+        },
+        {
+            "atGeometry": "POINT(5.2042 51.07423)",
+            "distance": 45291.1154477989,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 70.3198647129794,
+            "toBearing": 72.72419172031505,
+            "angle": 2.4043270073356524
+        },
+        {
+            "atGeometry": "POINT(5.20591 51.07452)",
+            "distance": 45415.26553678764,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 77.19025336700983,
+            "toBearing": 79.51457007398967,
+            "angle": 2.324316706979843
+        },
+        {
+            "atGeometry": "POINT(5.2072 51.07467)",
+            "distance": 45507.24382210406,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 79.51457007398967,
+            "toBearing": 79.26246224914405,
+            "angle": -0.25210782484562344
+        },
+        {
+            "atGeometry": "POINT(5.20997 51.075)",
+            "distance": 45704.81273178543,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 79.26246224914405,
+            "toBearing": 79.09635165298072,
+            "angle": -0.16611059616333534
+        },
+        {
+            "atGeometry": "POINT(5.21311 51.07538)",
+            "distance": 45928.819599601025,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 79.09635165298072,
+            "toBearing": 79.48000294340171,
+            "angle": 0.38365129042099966
+        },
+        {
+            "atGeometry": "POINT(5.21491 51.07559)",
+            "distance": 46057.164860973615,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 79.48000294340171,
+            "toBearing": 39.953761734708145,
+            "angle": -39.52624120869357
+        },
+        {
+            "atGeometry": "POINT(5.21495 51.07562)",
+            "distance": 46061.46334321666,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 39.953761734708145,
+            "toBearing": 29.57435047731793,
+            "angle": -10.379411257390213
+        },
+        {
+            "atGeometry": "POINT(5.21552 51.07586)",
+            "distance": 46126.931458114654,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 125.61127560127886,
+            "toBearing": 126.7254056153838,
+            "angle": 1.1141300141049442
+        },
+        {
+            "atGeometry": "POINT(5.21584 51.07571)",
+            "distance": 46155.20558293463,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 126.7254056153838,
+            "toBearing": 79.51361518282485,
+            "angle": -47.211790432558956
+        },
+        {
+            "atGeometry": "POINT(5.21885 51.07606)",
+            "distance": 46370.28184254343,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 79.51361518282485,
+            "toBearing": 83.01970232219091,
+            "angle": 3.506087139366059
+        },
+        {
+            "atGeometry": "POINT(5.21924 51.07609)",
+            "distance": 46397.817156424244,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 83.01970232219091,
+            "toBearing": 77.190000927723,
+            "angle": -5.829701394467904
+        },
+        {
+            "atGeometry": "POINT(5.22283 51.07591)",
+            "distance": 46658.05085380543,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 123.55129710611207,
+            "toBearing": 128.51303742871974,
+            "angle": 4.9617403226076675
+        },
+        {
+            "atGeometry": "POINT(5.22358 51.07536)",
+            "distance": 46739.22630436203,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 146.05246650087994,
+            "toBearing": 152.00310546280036,
+            "angle": 5.9506389619204185
+        },
+        {
+            "atGeometry": "POINT(5.2238 51.0751)",
+            "distance": 46772.00406456321,
+            "using": "Randstraat",
+            "at": null,
+            "to": "341",
+            "fromBearing": 152.00310546280036,
+            "toBearing": -89.99996499219583,
+            "angle": 117.99692954500381
+        },
+        {
+            "atGeometry": "POINT(5.22371 51.0751)",
+            "distance": 46778.311651107404,
+            "using": "Randstraat",
+            "at": null,
+            "to": "341",
+            "fromBearing": -89.99996499219583,
+            "toBearing": 166.9666510413892,
+            "angle": -103.03338396641493
+        },
+        {
+            "atGeometry": "POINT(5.22362 51.07367)",
+            "distance": 46940.52518871327,
+            "using": "Randstraat",
+            "at": null,
+            "to": "341",
+            "fromBearing": -166.61264821706624,
+            "toBearing": -164.7205117443558,
+            "angle": 1.8921364727104333
+        },
+        {
+            "atGeometry": "POINT(5.22345 51.07311)",
+            "distance": 47004.028803210604,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": -176.73077467820357,
+            "toBearing": -175.5091418430637,
+            "angle": 1.2216328351398715
+        },
+        {
+            "atGeometry": "POINT(5.22344 51.07303)",
+            "distance": 47012.966653636075,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": -175.5091418430637,
+            "toBearing": 180,
+            "angle": -4.4908581569362696
+        },
+        {
+            "atGeometry": "POINT(5.22344 51.07295)",
+            "distance": 47021.86294463072,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": 180,
+            "toBearing": 179.00007484920673,
+            "angle": -0.999925150793274
+        },
+        {
+            "atGeometry": "POINT(5.22333 51.07124)",
+            "distance": 47212.44667632828,
+            "using": "",
+            "at": null,
+            "to": "341",
+            "fromBearing": -177.58113477246252,
+            "toBearing": null,
+            "angle": null
+        }
+    ],
+    "statistics": {
+        "match": 1,
+        "routing": {
+            "cyclingNodes": 1
+        },
+        "roadCondition": {
+            "paved": {
+                "good": 0.8961539023293119,
+                "bad": 0.006085436729338007
+            },
+            "unpaved": {
+                "good": 0.06182508542809938,
+                "bad": 0
+            },
+            "unknown": 0.035935575513250696,
+            "google": "?A_eyCAo_ABozHAg}L@_zFEsUDmqFAs}w@@{eBAcgc@@kyQAwdhF@ozJEweDDcaBAkf]C_~bABidZCmdKBczFCqzBBiX@ok@AafkLActG@{a|ACuy]BenhE@wpEAqykJAqR@awsAAeR@{jP@"
+        },
+        "cobblestone": {
+            "score": 0
+        },
+        "cycleway": {
+            "score": 0.5622852086280211,
+            "google": "?AcaX@yGAomP@ibs@Aghz@@_{JAg}L@_zFAsU@{bb@A}lV@wkxAAkrx@@q{ZAgoq@@gkp@Aw|N@}qQAweD@qkHAywhB@cqBAmq`@@woCAeS@usc@Aee}@@cSA_nkF@}mBAsmw@@myZA}p@@ub[Aavx@@g|NAuy]@}~sBAm_K@azVAypA@scGAkmD@azbEAexY@ip@Ae{kA@odf@AwlE@k`h@AykI@awDAuifB@"
+        },
+        "carFree": {
+            "score": 0.5255357718952873,
+            "google": "?Am~T@ip@Akp@@yGAomP@ibs@Aghz@@_{JAg}L@_zFAsU@{bb@A}lV@kiqBAwt_@@q{ZAgoq@@gkp@Aw|N@}qQAweD@qkHAywhB@cqBAmq`@@sxh@Aee}@@cSA_nkF@}mBAsmw@@aox@Ao|t@@yuRAuy]@}~sBAm_K@akhGAqtjA@odf@AwlE@k`h@AykI@awDAi`dA@ciBAg~]@"
+        },
+        "urban": {
+            "score": 0.43974647397555194,
+            "google": "??mmpCAypa@@}sv@A{w|B@y{XAkaQ@_yCA_l}A@ke`@AebdA@wh~AAuo`@@ydqAAcbsC@__xAAq|z@@qr|@A_yp@@w}lEA_rL@}w`EAygjB@uaGA}r@@{`LAiY@mqZAoheB@"
+        },
+        "nature": {
+            "score": 0.720141677679704,
+            "google": "?Am~T@ip@AgpmC@g}LAmbbA@gml@AkyQ@w`q@Ag_w@@}dvAAke`@@ge`@A}bQ@_xDAccnB@iu\\AydqA@iaq@Ai|U@mml@AatuB@oo]Au`}I@uiIA}w`E@saiBAkifA@ihd@AuuaB@"
+        },
+        "water": {
+            "score": -0.00002118105566381429,
+            "google": "??mxi@Coj]B{cvDCaqP@auQ@kyQCucDBuetCA}wE@sb_@CsgPB}yoLAm{Q@qyeEAkk[@ui\\Cuw`@Bo~tDC}m_@@_i`D@iz[A}vA@kniAAcufAAqcLBapCCifE@s_LAm|BB"
+        },
+        "traffic": {
+            "score": 0.0312402598784342,
+            "google": "??mooICs|WBwt_@AivE@cqCEygOD_gkKAcS@_fcIA}p@@qcgHAkmD@qd_FCse@BkgbBAuqN@}zx@AawD@"
+        },
+        "noise": {
+            "score": 0.13122399456902017
+        },
+        "accessibility": {
+            "score": 1,
+            "google": "?A_c`|@@"
+        },
+        "bearing": "west",
+        "colaScore": 1
+    },
+    "segments": [
+        [
+            5.22333,
+            51.07125,
+            38
+        ],
+        [
+            5.23373,
+            51.08508,
+            38
+        ],
+        [
+            5.24346,
+            51.1021,
+            38
+        ],
+        [
+            5.25137,
+            51.12539,
+            38
+        ],
+        [
+            5.21136,
+            51.10778,
+            38
+        ],
+        [
+            5.13527,
+            51.08615,
+            38
+        ],
+        [
+            5.11112,
+            51.05925,
+            38
+        ],
+        [
+            5.14827,
+            51.05282,
+            38
+        ],
+        [
+            5.19837,
+            51.07079,
+            38
+        ],
+        [
+            5.22333,
+            51.07124,
+            38
+        ]
+    ],
+    "pois": [
+        {
+            "location": {
+                "id": 49293982,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 7777582,
+                    "street": "Holststraat 85",
+                    "number": null,
+                    "box": null,
+                    "city": "Beringen (paal)",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.504,
+                "distance": 35721,
+                "name": {
+                    "nl": "Fietscafe Surplas"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.1626432 51.0508863)"
+                }
+            },
+            "text": {
+                "id": 3016273,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Even op adem komen na een stevige wandeling of pauzeren tijdens het fietsen? \nEen gezellig uitje met het gezin? Het kan allemaal! \nKom genieten tijdens een hapje en een drankje van ons mooi uitzicht! Puur genieten!<br/><br/><a href=\"https://www.routeyou.com/location/view/49293982.nl?toptext=3016273\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Toerisme Limburg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2116508,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "e3d04b4e01ffd7d0e6877e8448d5648f_eb968fe761b6dc4ed1b9c5ec2e51c00d7b6ce086.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Toerisme Limburg"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/e3d04b4e01ffd7d0e6877e8448d5648f_eb968fe761b6dc4ed1b9c5ec2e51c00d7b6ce086.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49294011,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "en": "Pub",
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 7777602,
+                    "street": "Sportlaan 10",
+                    "number": null,
+                    "box": null,
+                    "city": "Ham",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.609,
+                "distance": 22589,
+                "name": {
+                    "nl": "Tennisclub Ham",
+                    "en": "Tennis Club Ham"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.1481822 51.098269)"
+                }
+            },
+            "text": {
+                "id": 3016313,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Deze tussenstop is een leuke plek midden in het groen. Het smaakvol ingericht cafetaria heeft een verwarmd terras. Op de kaart staan heel wat lekkere biertjes en verfrissende drankjes. Voor de kinderen is er een mooie speeltuin.<br/><br/><a href=\"https://www.routeyou.com/location/view/49294011.nl?toptext=3016313\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Toerisme Limburg",
+                        "nl": "Toerisme Limburg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2116548,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "b2b6fb8e718f30659b278ab702c29589_d981954b2c110bbd86d10770635d2e2ff5da9e7a.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Toerisme Limburg"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/b2b6fb8e718f30659b278ab702c29589_d981954b2c110bbd86d10770635d2e2ff5da9e7a.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49293556,
+                "type": {
+                    "id": 25,
+                    "name": {
+                        "nl": "Toeristische informatie"
+                    }
+                },
+                "address": {
+                    "id": 7777901,
+                    "street": "Koolmijnlaan 203",
+                    "number": null,
+                    "box": null,
+                    "city": "Beringen",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.116,
+                "distance": 6,
+                "name": {
+                    "nl": "Onthaal Toerisme Beringen (be-MINE)"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2211758190491 51.070940948845)"
+                }
+            },
+            "text": {
+                "id": 4486024,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "<a href=\"https://www.routeyou.com/location/view/49293556.nl?toptext=4486024\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Toerisme Limburg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 51088989,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "en": "Pub",
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 7777579,
+                    "street": "Koolmijnlaan 201",
+                    "number": null,
+                    "box": null,
+                    "city": "Beringen",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.541,
+                "distance": 6,
+                "name": {
+                    "nl": "Café Mijnmuseum",
+                    "en": "Cafe Mining Museum"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2219146817536 51.07092043743)"
+                }
+            },
+            "text": {
+                "id": 7424157,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Daar waar de mijnwerkers vroeger melk dronken 'om stoflongen te voorkomen' kan je nu genieten van een stevig Koolputtersbier. Het terras van het fietscafé kijkt uit op de monumentale be-MINE site en garandeert je bij mooi weer het beste plekje in de zon.<br/><br/><a href=\"https://www.routeyou.com/location/view/51088989.nl?toptext=7424157\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 5697507,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "e8a9986ff8f82126a09fe06aab75c9b0_d43f2878661a49216563d51e952fae751a6ee8d5.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Toerisme Limburg"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/e8a9986ff8f82126a09fe06aab75c9b0_d43f2878661a49216563d51e952fae751a6ee8d5.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 51089156,
+                "type": {
+                    "id": 112,
+                    "name": {
+                        "en": "History museum",
+                        "nl": "Geschiedkundig museum"
+                    }
+                },
+                "address": {
+                    "id": 7777849,
+                    "street": "Koolmijnlaan 201",
+                    "number": null,
+                    "box": null,
+                    "city": "Beringen",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.586,
+                "distance": 6,
+                "name": {
+                    "nl": "Mijnmuseum",
+                    "en": "Mining Museum"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2209169 51.0680889)"
+                }
+            },
+            "text": {
+                "id": 7424458,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Bezoek het multimediale museum, maak een exclusieve wandeling doorheen de historische mijngebouwen tijdens de Mijnzondagen en geniet van een lekker Koolputtersbiertje in ons fietscafé. \n\nHet Mijnmuseum vertelt het verhaal van de mijnwerkers en het leven in en rond de mijn en dus ook het ontstaan van steenkool. We werken met getuigenissen, video's en geluidsfragmenten, aangevuld met een maquette die via een klank- en lichtspel de bovengrondse activiteiten duidt. \n\nKom zeker een kijkje nemen! Volledig coronaproof bezoek je op eigen tempo de 9 zalen tellende museumpresentatie en een gegidst bezoek (11 u.,13 u.en 15 u.) kan je brengen aan de ondergrondsimulatie. \n\nTip: De bekende Mijnzondagen gaan in 2023 ook weer door, kijk daarvoor op www.mijnmuseum.be\n\nWist je dat … het Mijnmuseum en de Stad Beringen fungeerden als locatie voor de film ‘Marina‘ van Stijn Coninx? De opnames gingen door in onze mijngebouwen, het stadion en de cité.<br/><br/><a href=\"https://www.routeyou.com/location/view/51089156.nl?toptext=7424458\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6317613,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "fb3437423734579632e9eaba3494f170_560d4444801bea69039b4fc17443775e50ca51b0.png"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/fb3437423734579632e9eaba3494f170_560d4444801bea69039b4fc17443775e50ca51b0.png"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 51877228,
+                "type": {
+                    "id": 288,
+                    "name": {
+                        "en": "Rent a bicycle",
+                        "nl": "Fietsverhuur"
+                    }
+                },
+                "address": {
+                    "id": 7777496,
+                    "street": "Caimolaan 43",
+                    "number": null,
+                    "box": null,
+                    "city": "Leopoldsburg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.498,
+                "distance": 10605,
+                "name": {
+                    "nl": "Sportenevents",
+                    "en": "Sports events"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2516579000001 51.1188939)"
+                }
+            },
+            "text": {
+                "id": 8270692,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Professioneel opgeleide fietsgidsen, met gewone fiets, koersfiets of E-bike laten de deelnemer kennis maken met unieke uitgestippelde routes in de vele regio's van fietsparadijs Limburg. Ook voor het MTB of E-MTB hebben we specialisten MTB gidsen  die de deelnemers veilig laten genieten van tochten via de mooiste plekken en routes doorheen de Limburgse bossen en velden.\nTevens is er de mogelijkheid om een fiets of E-bike te huren.\nTransport is ter beschikking.<br/><br/><a href=\"https://www.routeyou.com/location/view/51877228.nl?toptext=8270692\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6317544,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "cf5cd059366caa5d470f7ee958dbe68c_238d79bfd9507dadd3a484e04da1acbc4b49aa7c.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/cf5cd059366caa5d470f7ee958dbe68c_238d79bfd9507dadd3a484e04da1acbc4b49aa7c.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 51089112,
+                "type": {
+                    "id": 23,
+                    "name": {
+                        "nl": "Informatiecentrum"
+                    }
+                },
+                "address": {
+                    "id": 7777912,
+                    "street": "Dorpsstraat 17",
+                    "number": null,
+                    "box": null,
+                    "city": "Ham",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.135,
+                "distance": 22356,
+                "name": {
+                    "nl": "VrijeTijdsPunt Ham"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.1495332192292 51.101623530289)"
+                }
+            },
+            "text": {
+                "id": 8694127,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "<a href=\"https://www.routeyou.com/location/view/51089112.nl?toptext=8694127\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 52259634,
+                "type": {
+                    "id": 23,
+                    "name": {
+                        "nl": "Informatiecentrum"
+                    }
+                },
+                "address": {
+                    "id": 7777925,
+                    "street": "Koningin Louisa-marialaan 2",
+                    "number": null,
+                    "box": null,
+                    "city": "Leopoldsburg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.116,
+                "distance": 9231,
+                "name": {
+                    "nl": "Visit Leopoldsburg"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2659456380981 51.11300254022)"
+                }
+            },
+            "text": {
+                "id": 8694129,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "<a href=\"https://www.routeyou.com/location/view/52259634.nl?toptext=8694129\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 52259637,
+                "type": {
+                    "id": 288,
+                    "name": {
+                        "nl": "Fietsverhuur"
+                    }
+                },
+                "address": {
+                    "id": 7777942,
+                    "street": "Koolmijnlaan 203",
+                    "number": null,
+                    "box": null,
+                    "city": "Beringen",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.377,
+                "distance": 6,
+                "name": {
+                    "nl": "Verhuur e-steps Visit Beringen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2216197 51.0691061)"
+                }
+            },
+            "text": {
+                "id": 8694134,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Vanaf be-MINE rol je met de e-step langs de mooiste plekjes in de cité en omgeving (±1 - 2 uur, max. 40 km, tot max. 8 personen).\n\nVerhuurperiode: vanaf midden maart tot midden oktober.<br/><br/><a href=\"https://www.routeyou.com/location/view/52259637.nl?toptext=8694134\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6726021,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "48f2d3bc292f6fe122136dd267bab8b0-952a03d082e3a3f5cd84cf251ec7d6de7a9b30ec.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/48f2d3bc292f6fe122136dd267bab8b0-952a03d082e3a3f5cd84cf251ec7d6de7a9b30ec.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 52259640,
+                "type": {
+                    "id": 288,
+                    "name": {
+                        "nl": "Fietsverhuur"
+                    }
+                },
+                "address": {
+                    "id": 7777948,
+                    "street": "Lidostraat 111",
+                    "number": null,
+                    "box": null,
+                    "city": "Leopoldsburg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.433,
+                "distance": 11935,
+                "name": {
+                    "nl": "Leopark: Verhuur elektrische fietsen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2459596 51.1325111)"
+                }
+            },
+            "text": {
+                "id": 8694140,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Heb je ze al eens geprobeerd? Die leuke milieuvriendelijke, elektrische fietsen? Met een elektrische fiets rijd je door het mooie Limburg. Als je de aangereikte route volgt, passeer je de mooiste plekjes en natuurlijk ontbreken hierbij de nodige terrasjes niet.\nBijzonder leuk met familie, vrienden en collega's.<br/><br/><a href=\"https://www.routeyou.com/location/view/52259640.nl?toptext=8694140\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6726026,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "bd273298a23bd8f2253cf03b9bda8324-1905eba6fa66bafe4b6fcb5a8d78cf27be36510c.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/bd273298a23bd8f2253cf03b9bda8324-1905eba6fa66bafe4b6fcb5a8d78cf27be36510c.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 52259658,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": 7777985,
+                    "street": "Poststraat 15",
+                    "number": null,
+                    "box": null,
+                    "city": "Ham",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.514,
+                "distance": 22716,
+                "name": {
+                    "nl": "'t Klein Geluk"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.1456925882985 51.099400743984)"
+                }
+            },
+            "text": {
+                "id": 8694176,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "In ons gezellig huisje kom je helemaal tot rust. De kamer is geschikt voor 2 personen. Alle luxe is aanwezig om van je verblijf een unieke ervaring te maken. Je kan wegdromen in een royale boxspring met comfortabel matras of genieten van een momentje met een goed boek. Water, thee en koffie zijn steeds voorzien op de kamer. De kamer heeft directe toegang tot de tuin met zwembad. De tuin is een oase van rust en biedt vele zitplekjes waar je comfortabel kan ontspannen in de zon en wegdromen tussen het groen.\n\nHet poolhouse biedt je een heerlijk schuilplekje voor zon of regen. Voor de kille avonden zijn warmtestralers voorzien. Verder is overal Wifi beschikbaar.<br/><br/><a href=\"https://www.routeyou.com/location/view/52259658.nl?toptext=8694176\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6726064,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "d3eef9348601d8e09213d2a6822d288d-640124c70cd525702d7698bea8ab729d6f0861c1.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/d3eef9348601d8e09213d2a6822d288d-640124c70cd525702d7698bea8ab729d6f0861c1.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 51897919,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": 7777986,
+                    "street": "Genendijkerveld 19",
+                    "number": null,
+                    "box": null,
+                    "city": "Ham",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.607,
+                "distance": 26304,
+                "name": {
+                    "nl": "Parkhoeve Hotel"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.1085947660153 51.078766172417)"
+                }
+            },
+            "text": {
+                "id": 8694177,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "De Parkhoeve is een nieuw pareltje in het Limburgse logement landschap. Gelegen in de bosrijke omgeving van Ham. \n\nOvernacht in de vernieuwde hotelkamers en glamping tenten midden in de natuur.\n\nWie denkt aan rust en genieten is bij de Parkhoeve aan het juiste adres. Hotelgasten kunnen ontspannen bij het verwarmde buitenzwembad, de hottub, de sauna met sterrenhemel en hamman in onze wellnesstuin \n\nKinderen kunnen zich uitleven in de tuin met trampoline, speeltuig met schommel, schapen en vogels spotten.  Binnen kunnen ze zich vermaken in de speelhoek met 'winkeltje' en tekenplek.\nFietsen kunnen gestald worden in een afgesloten fietsenstalling en er kunnen ook e-bikes en een elektrische bakfiets gehuurd worden.\n\nDaarnaast kan je de vergaderzaal reserveren om een dag uit je kantooromgeving te stappen. \n\nJouw vandaag voor morgen, dat weerspiegelt de Parkhoeve. Ontdek, beleef en geniet.\n\nTot binnenkort, \n\nTeam Parkhoeve<br/><br/><a href=\"https://www.routeyou.com/location/view/51897919.nl?toptext=8694177\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6726065,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "f84a193394a31bd40187539e35d3145d-49a34ec76e1aa4c3fcb46232ace53f817bc98e34.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/f84a193394a31bd40187539e35d3145d-49a34ec76e1aa4c3fcb46232ace53f817bc98e34.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 52259524,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 7778096,
+                    "street": "Koolmijnlaan, 189",
+                    "number": null,
+                    "box": null,
+                    "city": "Beringen",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.537,
+                "distance": 6,
+                "name": {
+                    "nl": "Foodmaker Beringen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2218244 51.0689928)"
+                }
+            },
+            "text": {
+                "id": 8694283,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Ontdek bij Foodmaker Beringen de essentie van gezonde, smaakvolle voeding. Ons menu, rijk aan verse groenten en voedingsstoffen, biedt de perfecte keuze voor een gezonde lunch in Beringen. Bij ons vind je geen kunstmatige smaakstoffen of bewaarmiddelen. Kies voor een maaltijd die goed is voor jou en onze planeet. Foodmaker Beringen maakt het gemakkelijk en lekker om elke dag gezond te eten!<br/><br/><a href=\"https://www.routeyou.com/location/view/52259524.nl?toptext=8694283\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6726169,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "7351ff963dcf60c07715122da289c06f-052a8f65c36962f678be4dd9cdfdd328ffc3fed5.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/7351ff963dcf60c07715122da289c06f-052a8f65c36962f678be4dd9cdfdd328ffc3fed5.jpg"
+                    }
+                }
+            }
+        }
+    ],
+    "languages": [
+        "nl"
+    ],
+    "lengthRelative": 0.5
+}

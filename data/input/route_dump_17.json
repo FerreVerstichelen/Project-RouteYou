@@ -1,0 +1,5373 @@
+{
+    "scoreCalculated": 0.89478886,
+    "scoreAuthor": null,
+    "payable": false,
+    "updatedDate": "2024-05-21 18:49:04.22388+00",
+    "autoPois": {
+        "nl": false
+    },
+    "id": 6788003,
+    "length": 54231,
+    "begin": {
+        "wkt": "POINT(5.45479 51.13199)"
+    },
+    "beginAddress": "Markt 27, 3990 Peer, België / Belgique / Belgien",
+    "end": {
+        "wkt": "POINT(5.45477 51.13201)"
+    },
+    "endAddress": "Markt 27, 3990 Peer, België / Belgique / Belgien",
+    "centroid": {
+        "wkt": "POINT(5.51904565537905 51.1588941290092)"
+    },
+    "bounds": {
+        "wkt": "BOX(5.42984 51.10539,5.62249 51.21531)"
+    },
+    "owner": {
+        "id": 81970,
+        "type": {
+            "id": 3
+        },
+        "flag": "be",
+        "avatarRevision": 50,
+        "logoRevision": 48,
+        "headerRevision": 55,
+        "privileges": [
+            3,
+            5,
+            6,
+            10,
+            11,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            53,
+            54,
+            55,
+            56,
+            57,
+            60
+        ],
+        "configuration": {
+            "subdomain": "fietsparadijslimburg.routeyou.com",
+            "logo": {
+                "uri": {
+                    "nl": "http://www.visitlimburg.be/"
+                }
+            },
+            "links": [
+                {
+                    "type": "facebook",
+                    "uri": {
+                        "nl": "https://www.facebook.com/visitlimburg.be"
+                    }
+                },
+                {
+                    "type": "twitter",
+                    "uri": {
+                        "nl": "https://twitter.com/visitlimburg"
+                    }
+                },
+                {
+                    "type": "youTube",
+                    "uri": {
+                        "nl": "https://www.youtube.com/c/VisitLimburg"
+                    }
+                },
+                {
+                    "uri": {
+                        "nl": "https://www.instagram.com/visitlimburg.be"
+                    },
+                    "type": "instagram"
+                }
+            ],
+            "spotlightGroup": {
+                "id": 5815
+            },
+            "map": {
+                "overlays": [
+                    "cyclingNodes"
+                ]
+            },
+            "planner": {
+                "settings": {
+                    "map.bounds": {
+                        "min": {
+                            "lat": 50.874152,
+                            "lon": 5.214558
+                        },
+                        "max": {
+                            "lat": 50.995964,
+                            "lon": 5.503778
+                        }
+                    },
+                    "map.overlays": [
+                        "hybrid",
+                        "cyclingNodes"
+                    ],
+                    "suggest.params.owner.id": 81970,
+                    "suggest.show.basic": [
+                        "route.suggestionType.toggle",
+                        "route.length.slider",
+                        "route.type.choose",
+                        "routing.select",
+                        "route.beginLocation.search",
+                        "route.viaPointLocations.search",
+                        "route.endLocation.search",
+                        "route.actions.list"
+                    ],
+                    "suggest.params.route.type.id": 5,
+                    "suggest.route.type.choose.ids": [
+                        5,
+                        6,
+                        22
+                    ],
+                    "suggest.routing.ids.byRouteTypeId.fromTo": {
+                        "5": [
+                            38,
+                            0
+                        ],
+                        "6": [
+                            38,
+                            0
+                        ],
+                        "22": [
+                            38,
+                            0
+                        ]
+                    },
+                    "suggest.params.routing.id": 38
+                }
+            },
+            "downloadPrefix": "visitlimburg"
+        },
+        "name": {
+            "nl": "Visit Limburg"
+        },
+        "languages": [
+            "nl"
+        ],
+        "permission": {
+            "writable": false
+        },
+        "nick": "Visit Limburg"
+    },
+    "type": {
+        "id": 5,
+        "tree": [
+            {
+                "id": 0,
+                "name": {
+                    "nl": "Alle routes"
+                },
+                "languages": [
+                    "nl"
+                ]
+            },
+            {
+                "id": 1,
+                "name": {
+                    "nl": "Fietsroute"
+                },
+                "languages": [
+                    "nl"
+                ]
+            }
+        ],
+        "name": {
+            "nl": "Recreatieve fietsroute"
+        },
+        "languages": [
+            "nl"
+        ]
+    },
+    "flag": "be",
+    "score": 0.8,
+    "scoreMethod": {
+        "id": 4
+    },
+    "correctness": null,
+    "correctnessMethod": {
+        "id": null
+    },
+    "duration": 13015,
+    "downloadable": false,
+    "inputFormat": {
+        "id": 0,
+        "recording": false
+    },
+    "ascent": {
+        "total": 147,
+        "net": 0,
+        "totalRelative": 0.6
+    },
+    "descent": {
+        "total": 147,
+        "totalRelative": 0.6
+    },
+    "ascendingRate": {
+        "max": 0.020320754,
+        "avg": 0.0027106267,
+        "maxRelative": 0.5,
+        "avgRelative": 0.5
+    },
+    "difficulty": 0.6,
+    "difficultyAuthor": null,
+    "permission": {
+        "id": 0,
+        "read": "public",
+        "write": "group",
+        "writable": false
+    },
+    "planner": {
+        "id": 5
+    },
+    "parent": null,
+    "configuration": {
+        "map": {
+            "overlays": [
+                "cyclingNodes"
+            ]
+        }
+    },
+    "editedDate": "2023-05-04 15:06:19.113244+00",
+    "createdDate": "2020-01-03 09:28:25.228783+00",
+    "lastReviewDate": "2024-05-09 06:04:13+00",
+    "otnId": {
+        "nl": null
+    },
+    "name": {
+        "nl": "In het spoor van Bruegel"
+    },
+    "nameGenerated": {
+        "nl": false
+    },
+    "subName": {
+        "nl": null
+    },
+    "trackName": {
+        "nl": null
+    },
+    "description": {
+        "nl": "<p>Deze grotendeels vlakke fietslus voert je langs kanalen en zand, door landelijke dorpen en schaduwrijke bossen. <br/>\n </p>"
+    },
+    "descriptionGenerated": {
+        "nl": false
+    },
+    "generatedInfo": {
+        "nl": "<p><span class=\"routeYou_node\">530</span> - <span class=\"routeYou_node\">207</span> - <span class=\"routeYou_node\">206</span> - <span class=\"routeYou_node\">209</span> - <span class=\"routeYou_node\">205</span> - <span class=\"routeYou_node\">203</span> - <span class=\"routeYou_node\">8</span> - <span class=\"routeYou_node\">211</span> - <span class=\"routeYou_node\">263</span> - <span class=\"routeYou_node\">7</span> - <span class=\"routeYou_node\">196</span> - <span class=\"routeYou_node\">197</span> - <span class=\"routeYou_node\">214</span> - <span class=\"routeYou_node\">208</span> - <span class=\"routeYou_node\">6</span> - <span class=\"routeYou_node\">1</span> - <span class=\"routeYou_node\">3</span> - <span class=\"routeYou_node\">531</span> - <span class=\"routeYou_node\">530</span></p>"
+    },
+    "source": {
+        "name": {
+            "nl": null
+        },
+        "uri": {
+            "nl": null
+        }
+    },
+    "infoUri": {
+        "nl": null
+    },
+    "breadcrumbRegions": [
+        {
+            "id": 47307951,
+            "flag": "be",
+            "type": {
+                "id": 415
+            },
+            "name": {
+                "ca": "Ciutat de Peer",
+                "de": "Stadt Peer",
+                "en": "City of Peer",
+                "es": "Ciudad de Peer",
+                "fr": "Ville de Peer",
+                "it": "Città di Peer",
+                "nl": "Stad Peer"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47418548,
+            "flag": "be",
+            "type": {
+                "id": 522
+            },
+            "name": {
+                "ca": "Limburgse Kempen",
+                "de": "Limburgse Kempen",
+                "en": "Limburgse Kempen",
+                "es": "Limburgse Kempen",
+                "fr": "Limburgse Kempen",
+                "it": "Limburgse Kempen",
+                "nl": "Limburgse Kempen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407870,
+            "flag": "be",
+            "type": {
+                "id": 409
+            },
+            "name": {
+                "ca": "Limburg",
+                "de": "Limburg",
+                "en": "Limburg",
+                "es": "Limburg",
+                "fr": "Limbourg",
+                "it": "Limburg",
+                "nl": "Limburg"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407865,
+            "type": {
+                "id": 407
+            },
+            "name": {
+                "ca": "Bèlgica",
+                "de": "Belgien",
+                "en": "Belgium",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "nl": "België"
+            },
+            "flag": "be",
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        }
+    ],
+    "viewCount": 1385,
+    "viewCountThisMonth": 17,
+    "downloadCount": 197,
+    "geometry": {
+        "google": "}uawHmkh`@oDlFe@xBXtFQlBFx@d@vCPnK_@DIHiEbJm@`BaEjNQp@MTUTSuARiB_@ISHQLmArA^t@fApB\\dASPiAjFy@fDmApEkArDwDzMu@dDg@pCAVFXUPQX]hAc@t@_AhC_AzCw@bB]^e@XgBj@aDvAkCv@i@@iAMyEMoCUo@Q]WiDkF{@oBy@wBMWOU}@k@sBgAuEgAyAg@gLqEw`@aO}VyJcJcDYEiFiAcBY_@OOg@FoEA]I_@a@m@eEy@iG}AeAFwCZu@Dw@@yBSo@Aq@LyCzBc@jAg@bB}@lAsAz@oA\\_BHcBBcIa@mDi@uDs@aEo@mIoAiArKMt@OD_@G}Ae@uCs@OxBOxAkDK_CAe@IYOi@iAKEQ@qHxAQXa@pBmA~Ag@^_@F_BQk@OeA{@q@o@m@a@wBe@iAcAwGcHi@wAcAmAeBA{@RYGYW]s@g@i@kBcBQWYq@Uw@u@yCy@{AeBsA}CaBaA}@iBmBo@_AYw@]{CKwB?aGj@uEj@{BTq@`AmB|@cAbAeArAsBz@wAgC{JoLkMiKcGoBcAqBkAqBaAhBcNbFgc@gKuLtLo]qDuEfHiNcT{_@uA`EuCkGyAmDMEKFsAjDKF_J}JyHgBFm@?kAI_JEUOWEQh@uBVmAAaAi@kEw@eIg@qELcEAkAIy@i@yAM_AOeCYw@uBaDpBYcJie@eA}E{CtAqBl@}CfBaBjAQBKMY{KqLKqC?G_[Ci^KaTz@aHPcA?c@PcBl@kDDw@e@kCdAyAdNkRb@AlD}EFo@FMjLePhT_ZlBgCLET@LIbBaCRmAxIqL~@sAb@C`DmE`@s@Ns@f@u@nKwNZe@`Ag@pDaFVcAvCkEvOqTd`@gi@`CiEp@gAx@kB^iAXkAl@eDH_AJiCBcCQ_G^mDmDHoAHc@NW\\[r@q@tBa@|AUj@YPI[MY[a@Lc@hAoCNIjDeJTy@n@mEbAoB`EwQfBmHlAeDzA}ChA_BjAqAxEwFdLwMxCkErAqCh@wAFmAPw@`@iAZi@Je@@a@T{AXoAzB}O|B}QjAcHJyA^wAl@kBrAcFlAcEt@yBjBeFfDkH~@wArEaIhAaBL_@tEqHrK{RdGgIlEkErC_C`EkCbDeBd@a@dBuBXO`@nFZxCd@`A|@n@fABvHbGASIOkGqJlByDz^sDr\\yCfO}A|Fq@jAEvAR^ArAQLs@fMaVfEyLd@{@pBcC`AyA~@kBH_@HcAt@oBFIRCRLRz@Lz@jAwAr@cBjC}CNATJbOnWd@d@j@PnAd@bAt@tBnDdA`AzCtBRMvC{Ad@e@PALJJPpAjAbBlAx@b@TTxBjCn@vAZ`AJ`@nApGhDhJ\\n@{@vBw@~BsAvE_@~AAd@_@BG~DD`CGf@aCvFcDjFmBpCm@v@oBvAUVSd@_BrFiAfCa@pBe@`Bw@~A{AhCk@b@gAj@[VUV{@pA_BiAu@WDo@h@uBwAG?LOj@E`@M\\W]}IsHOOIQ]HIDMXOnEETGQETKX[`Cw@y@MWa@Ye@m@SM]JKTy@dAESO_CMUeAjAS{@eCdAOFGNOL_DnAqB|@WNVt@d@x@p@r@d@b@d@p@LZn@|B_BfAUHm@FE^oDxCoArAcAxAoJtPa@^k@M_@@m@To@d@IPI^IpCCXGZ[x@w@bAKb@Cx@f@xCKn@A`@@\\TnCFL`@NHlAF|EBn@rApNg@v@iBpBoF|GeBnBgBfBkCrByDhD{@pBSfAOlBBjC^rOJvMBvGF|AhBzSLlB_@@mGdCw@T]Ac@IKb@O`@Hh@\\rFZ`C\\tBHzDAdCF`IAzAUhE^zDL~@BbA@jBE`@@p@Nv@Vr@Fl@Dx@Hx@tBjGFT?PIXmBnCMd@x@~DPd@rDjFn@hAqK`JKDUTi@TYj@AfAFlFPhBThB^tFl@`Db@`BJdBDbED|Qd@nGLrCJ~E@pCGdC|HjJZZfCpAnGlCd@h@bKbQjIhKtCzDhArCfBvDhApBzAzBxBfChBxBvGxInD~EVp@LB^\\pD`FpDvE`JtN|ArAd@dBr@pAjArAnLhHHuCRoNLaB^}ApA_DpBsEzCoG^}@XkAPiATiDR{HrAaU|HxD|@ZTLj@bAl@rAx@nCTdAb@nC`@hAv@vAl@~AhInVJj@zAzN@\\G`@iB~GsA~FaAzFBb@L\\h@f@n@\\Z^N`@b@nDp@nH^pCh@vAn@nAx@v@R`@Ld@ZdDSdD?Xl@@fAPz@d@xAjAnAnApFdGrF|FdHfL^TbAPVRbDbFhAbBt@\\fBp@hAWbArB`JdOqI|QeCzFU`@sA`AIPz@h@bHnDh@`@hCfCrEbGVTpDzAPNJPLl@dBfLfF~YJv@F`AH~GBlANp@hBtGt@tBd@`COZjAjMvAA|AHJV`@|C_BvD{ApEwIdSkAdEaAhGuDeEc@HwF]_DMaKSUO}BtAuChBa@ZqB~BwEvEqC|AuUvK_HtFgCzBuB|@MAOScDcHME_@BSUeBkFMGQBy@rAQPKEaEqGqBkDe@iA}@oC{BaMY_DgATeAZ_A@FaFK}EI{AI[SU]Mq@MDvCCpBOt@Ud@{CfE"
+    },
+    "elevation": {
+        "google": "_klyJ?_seKyM_ibEoD~hbEaI~hbEqC?kA?sE?cO?aA?W?kR?{C~reKmV?iA?g@?u@?uB?mC?cA?i@?i@?aE?_B?oE?kB?o@?sI_ibEwF_ibEyH_seKwG~flWoU?oF?mE?_@?c@?s@?q@~hbEoB?eB~hbE}E_ibEoF?kD?iA?uA?{E~hbE_J~hbEgH?uA_ibEyC?_M?iH?cB~hbEeA~hbEmM_ibE}D?cE_ibEi@?k@?iC_seK_G?aM~reK_E~hbEo[~reKigA_seKor@~po]wV?u@~hbEiN?oE?eA?{@?mG?e@?m@~hbE{A?}K?mP~hbEoC?{H?mB?sB?{F?aB~hbEgB?aJ?{B?wC?aD?}D?gD_ibEeE?mE?yS~hbEiJ?{J~hbEqK~hbEuT~hbE}O?kA?a@?aA?gE?yH?_D?yB?_J?gG?mA?y@?_C?Y~hbEe@?}R?q@~hbEcD?iE_ibE{A~hbEaA_ibEeE?}A?aD?wB?gB~hbE{F?oD_seKmT?mC?kD?qE?}B?u@?}@?{A?aB?_G?o@?sA?sA?cF?gD?kF~hbE{I?}C?cG?_C_ibEyA~hbEqE?{C~hbEkI_ibEaH~hbEwD?mA?cE_ibEyC?eD_seKcF_seKgD~|hQsP~hbEi`@~hbEkZ_ibEuF_ibE}F?wF?sS_ibE}o@_}hQu]~reKio@~reKiM_oyo@kZ~po]q{@~reKqH~hbEoM?aH?]?Y_seKwG?[~flWiZ~hbEqS?}@~reKaB?eM?]?m@?Y_seKmD_ibEoB?sA_ibEuG~hbEqL~reKyG~|hQ}F?aB?mA?oC?wA?oD_ibEwA?_I?mF_ibEiu@_ibE_I?qI_seKqF~hbE_J~hbE_F?c@?]~reKuO_seK{Z_ibEkH_evi@_c@~|hQig@~|hQaZ~reKiK?}A?o@_ibEeC?oF_ibEgA?eE?wD_seK}f@~hbEiA_ibEiM_ibE_A?W~reKgb@~reK{v@?}G?]?m@?]_seKiG?kB~hbEg[_ibEiD?iA~reKiL?_B?kA?iB?w_@?kA?oC_ibEsM~reKcB?wK~hbEek@_ibEevA~hbEuJ?iC?wD?qB?oB?iF?sA?sD?iD_seKkI?iF~reKeJ?cD~hbEkA~hbE_A_ibEwA?wD?iC?iA?y@?g@?m@?gA~hbEu@?oF?a@_ibEeQ?uA?{G?gE?eZ~hbE{L_seKiG?uG_ibEcE?{D~hbEeP?c`@_ibEyK?_G?mC~hbEeB~hbEoA?uB~hbEoA~hbEu@?k@_ibE_C?sB_ibEeV_seKuX_ibEwK?uB~hbEcC?gD?sI~hbEiH~hbEaE?qJ_ibEeO~hbEkD_ibEyQ_ibEeE?q@_seKmQ~flWmc@?kT~hbEqN_ibEyI?uL_ibEiJ?wA?cG?w@_ibE}H?mE?sB?mC?sC~hbEqU?Y?]_seKwU~hbEgI~hbE{`A?e|@_ibEs`@_ibEkO?}C~reKuD?aA?mD?gA?wh@~hbE}T?mB_ibE_H_ibEsD?}D?m@?yA~hbEuD?U?i@?k@?wA_ibEqA~hbE_E~reKgD~hbE_J~hbEa@?o@_}hQwl@?{A?}A?iD?{C?kI?gD_ibEaJ?m@_ibEmI?{A?c@?a@?a@?aE?cF?_C?u@_ibEsH?uC?gB?q@_ibEeK_glWeQ?wA_ibEeE?gE~|hQgI_ibEkC?q@?aA_ibEwF_ibEgD?u@~|hQ_L~hbEeM?eH?uB?aG?u@?_A?sJ?gF_seKaD?sC?iD_ibEaG?eB?}C?aA_ibEu@?cD~hbEyE?sB?}@~hbEoD?sD?Q_ibEaA?m@?o@?}@~reKuX?e@?_@?}@?U?k@?mG?_@?[?]?i@_ibEqD?gC~hbEi@?mA?aB?m@?}@?e@?uC?[?gD?g@?mD~hbEwA?aH?a@?Y?e@?wI?wF~hbEu@_ibEsA?kB?{B?yA?eB~hbEm@?}D?yE?m@~hbE_B?i@_ibE}K?cE?uD~hbEy_@?oA~reK}A?_A?cB?mB?]?m@_ibE}D?a@?g@_ibE}A_ibEoC?u@?iA_ibEwE?aA?k@?e@?_E?W?gA_ibEgB?}G?}@~hbEwS_ibEmB?eG_ibEgR~reK}F~hbE{F~hbEeI?wL?_E?cB?qC?sD_seKqT~hbE_R_ibEgJ?yB_seKwZ?qC?aA~hbEcQ?uB?}@?kA?s@_ibEu@?y@?_I?qD~hbEcD?qF_ibEmD_seK}K~hbEwB?gG?yF?wA?wA?iC?m@?_A?oA?sA?{@?kA?mA?eL?_@?W?g@?cH_ibEw@?qG_ibE}@~hbE}M?iC_evi@o\\?Y?s@_}hQ{A_seKmA?{A_ibEsH~hbEkC~hbEoC?cI~hbEeF~hbEqC?eC~reK{F~po]kW_ibEgJ_ibE_E_}hQaH_seK{D_seKmD~hbEcX?cA~|hQiH_ibEkQ~hbE_B_ibEca@_seKqY_seKgK?sF_ibE_I?qE?wF~hbEqH?kG_ibEwU?mM?qA?]?kA~hbEqM?kM_ibEm]?}E?wC~hbEuC?}D_}hQg]~hbEaE~reK_S~hbEaC~hbEiC?iG?gJ?yM?gB?oB?eB~hbE_F_ibEyK~hbE}[?wT?cC?o@?}B~hbEoC_ibE{E?eB?gE?uB_ibEaD_ibEyC_}hQ_d@?}@~hbEiT?e@?m@_}hQoL_ibEsJ?_J?m@?o@~hbEeB~reKiB~hbEeA?u@?oF_ibEsK_ibEgE?mC~hbEoC_ibEiC?{@?y@?}E_ibEyE?_@?_B?sC?eC?oE~hbEaE~hbEyQ?uQ?mX?gA_ibEmC?w@~hbE}L?gE?uB?}E?{C?kE?{]_ibEu_@~hbEiL?}@~hbE_E?_@?eC_ibEaS?_B_ibEmI?cP?y@_ibE_K?i@?a@_ibEaA~hbEiQ_seK{d@?kA?uA?sJ?eB?gA_ibEcL?{D~hbEwD?q@_ibEeR?sD?aE?e@?wE~hbEsH~hbEkI~reKca@?iH_seKqJ~hbEcM_ibEkA~reK}N~hbEiI?wW~hbEq@_ibEyG_ibEoI?oA~hbE}G~hbEkO?cI~hbEkp@~hbE_T~hbEaI~hbE}F?]?i@_ibEwN_ibE]?aA_ibEq@_ibEqJ?]?e@?_D?k@?Y?sO?cI?yB?aF_ibEwR?uE?uC?sC?cC?cH?_H_ibEwB~hbEi@?q@?_A~hbEgB_ibEcE?sC?kA?aA~hbE{K"
+    },
+    "instructions": [
+        {
+            "atGeometry": "POINT(5.45479 51.13199)",
+            "distance": 0,
+            "using": "Markt",
+            "at": null,
+            "to": "530",
+            "fromBearing": null,
+            "toBearing": -40.31686,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(5.45359 51.13287)",
+            "distance": 129.2537,
+            "using": "Kerkstraat",
+            "at": null,
+            "to": "530",
+            "fromBearing": -40.55355,
+            "toBearing": -69.80883,
+            "angle": -29.25528
+        },
+        {
+            "atGeometry": "POINT(5.4532 51.13296)",
+            "distance": 159.0165,
+            "using": "Kerkstraat",
+            "at": null,
+            "to": "530",
+            "fromBearing": -69.80883,
+            "toBearing": -56.416,
+            "angle": 13.39283
+        },
+        {
+            "atGeometry": "POINT(5.45028 51.1328)",
+            "distance": 372.6072,
+            "using": "Steenweg Wijchmaal",
+            "at": null,
+            "to": "530",
+            "fromBearing": -116.0044,
+            "toBearing": -96.61069,
+            "angle": 19.39371
+        },
+        {
+            "atGeometry": "POINT(5.44816 51.13269)",
+            "distance": 521.6432,
+            "using": "Rustoordlaan",
+            "at": null,
+            "to": "530",
+            "fromBearing": -94.0635,
+            "toBearing": -5.514309,
+            "angle": 88.54919
+        },
+        {
+            "atGeometry": "POINT(5.44808 51.13291)",
+            "distance": 546.1387,
+            "using": "Rustoordlaan",
+            "at": null,
+            "to": "530",
+            "fromBearing": -32.10892,
+            "toBearing": -47.87831,
+            "angle": -15.76939
+        },
+        {
+            "atGeometry": "POINT(5.44297 51.1353)",
+            "distance": 993.654,
+            "using": "",
+            "at": null,
+            "to": "530",
+            "fromBearing": -43.26575,
+            "toBearing": 8.915358,
+            "angle": 52.18111
+        },
+        {
+            "atGeometry": "POINT(5.443 51.13542)",
+            "distance": 1014.4724,
+            "using": "",
+            "at": null,
+            "to": "530",
+            "fromBearing": 8.915358,
+            "toBearing": 70.20802,
+            "angle": 61.29266
+        },
+        {
+            "atGeometry": "POINT(5.44331 51.13549)",
+            "distance": 1037.5707,
+            "using": "",
+            "at": null,
+            "to": "530",
+            "fromBearing": 70.20802,
+            "toBearing": 109.1086,
+            "angle": 38.90057
+        },
+        {
+            "atGeometry": "POINT(5.44354 51.13544)",
+            "distance": 1054.4654,
+            "using": "",
+            "at": null,
+            "to": "530",
+            "fromBearing": 109.1086,
+            "toBearing": 104.8749,
+            "angle": -4.233725
+        },
+        {
+            "atGeometry": "POINT(5.44384 51.13539)",
+            "distance": 1076.2994,
+            "using": "",
+            "at": null,
+            "to": "530",
+            "fromBearing": 106.7355,
+            "toBearing": 11.09422,
+            "angle": -95.64128
+        },
+        {
+            "atGeometry": "POINT(5.44384 51.13567)",
+            "distance": 1107.64629,
+            "using": "",
+            "at": null,
+            "to": "530",
+            "fromBearing": -17.41869,
+            "toBearing": -34.88382,
+            "angle": -17.46513
+        },
+        {
+            "atGeometry": "POINT(5.44334 51.13612)",
+            "distance": 1170.79197,
+            "using": "Industrieweg",
+            "at": null,
+            "to": "530",
+            "fromBearing": -34.88382,
+            "toBearing": -126.639,
+            "angle": -91.7552
+        },
+        {
+            "atGeometry": "POINT(5.44215 51.13545)",
+            "distance": 1281.7915,
+            "using": "Molhemstraat",
+            "at": null,
+            "to": "530",
+            "fromBearing": -122.1731,
+            "toBearing": -32.10746,
+            "angle": 90.06566
+        },
+        {
+            "atGeometry": "POINT(5.43572 51.13791)",
+            "distance": 1810.6348,
+            "using": "Molhemstraat",
+            "at": null,
+            "to": "530",
+            "fromBearing": -58.36317,
+            "toBearing": -62.59507,
+            "angle": -4.2319
+        },
+        {
+            "atGeometry": "POINT(5.43391 51.13835)",
+            "distance": 1950.3593,
+            "using": "Molhemstraat",
+            "at": "530",
+            "to": "207",
+            "fromBearing": -116.1229,
+            "toBearing": -27.17416,
+            "angle": 88.94874
+        },
+        {
+            "atGeometry": "POINT(5.42985 51.14217)",
+            "distance": 2486.5156,
+            "using": "Molhemstraat",
+            "at": null,
+            "to": "207",
+            "fromBearing": -14.08778,
+            "toBearing": -1.711236,
+            "angle": 12.376544
+        },
+        {
+            "atGeometry": "POINT(5.43345 51.14743)",
+            "distance": 3159.5105,
+            "using": "Molhemstraat",
+            "at": null,
+            "to": "207",
+            "fromBearing": 21.27444,
+            "toBearing": 11.91769,
+            "angle": -9.35675
+        },
+        {
+            "atGeometry": "POINT(5.44037 51.16221)",
+            "distance": 4874.2055,
+            "using": "",
+            "at": "207",
+            "to": "206",
+            "fromBearing": 8.234644,
+            "toBearing": 11.21702,
+            "angle": 2.982381
+        },
+        {
+            "atGeometry": "POINT(5.44115 51.16412)",
+            "distance": 5098.5225,
+            "using": "Molhemstraat",
+            "at": null,
+            "to": "206",
+            "fromBearing": 57.46756,
+            "toBearing": 93.50933,
+            "angle": 36.04177
+        },
+        {
+            "atGeometry": "POINT(5.4424 51.16411)",
+            "distance": 5186.67211,
+            "using": "Molhemstraat",
+            "at": null,
+            "to": "206",
+            "fromBearing": 80.93947,
+            "toBearing": 66.49534,
+            "angle": -14.44412
+        },
+        {
+            "atGeometry": "POINT(5.44274 51.16436)",
+            "distance": 5224.7999,
+            "using": "Gijzenstraat",
+            "at": null,
+            "to": "206",
+            "fromBearing": 26.99926,
+            "toBearing": 10.81661,
+            "angle": -16.18265
+        },
+        {
+            "atGeometry": "POINT(5.44328 51.16801)",
+            "distance": 5637.1153,
+            "using": "Gijzenstraat",
+            "at": null,
+            "to": "206",
+            "fromBearing": -3.985413,
+            "toBearing": -1.282873,
+            "angle": 2.70254
+        },
+        {
+            "atGeometry": "POINT(5.44335 51.16934)",
+            "distance": 5785.0358,
+            "using": "Gijzenstraat",
+            "at": null,
+            "to": "206",
+            "fromBearing": -5.965952,
+            "toBearing": -23.46518,
+            "angle": -17.49923
+        },
+        {
+            "atGeometry": "POINT(5.44264 51.17019)",
+            "distance": 5892.0529,
+            "using": "Schansstraat",
+            "at": null,
+            "to": "206",
+            "fromBearing": -28.36565,
+            "toBearing": -55.54296,
+            "angle": -27.17731
+        },
+        {
+            "atGeometry": "POINT(5.44097 51.17167)",
+            "distance": 6103.0976,
+            "using": "Schansstraat",
+            "at": null,
+            "to": "206",
+            "fromBearing": -13.23111,
+            "toBearing": -3.736719,
+            "angle": 9.494391
+        },
+        {
+            "atGeometry": "POINT(5.44095 51.1719)",
+            "distance": 6128.69479,
+            "using": "Groenewoudstraat",
+            "at": null,
+            "to": "206",
+            "fromBearing": -4.675289,
+            "toBearing": 1.436637,
+            "angle": 6.111926
+        },
+        {
+            "atGeometry": "POINT(5.44218 51.17869)",
+            "distance": 6890.7265,
+            "using": "Dommellaan",
+            "at": null,
+            "to": "206",
+            "fromBearing": 8.419587,
+            "toBearing": -73.61364,
+            "angle": -82.03323
+        },
+        {
+            "atGeometry": "POINT(5.43989 51.17913)",
+            "distance": 7058.2788,
+            "using": "Dommellaan",
+            "at": null,
+            "to": "206",
+            "fromBearing": -67.5316,
+            "toBearing": -13.22903,
+            "angle": 54.30257
+        },
+        {
+            "atGeometry": "POINT(5.44033 51.18054)",
+            "distance": 7219.0008,
+            "using": "Dommellaan",
+            "at": null,
+            "to": "206",
+            "fromBearing": 12.60043,
+            "toBearing": -77.35593,
+            "angle": -89.95636
+        },
+        {
+            "atGeometry": "POINT(5.43929 51.18075)",
+            "distance": 7301.0612,
+            "using": "",
+            "at": "206",
+            "to": "209",
+            "fromBearing": -74.16661,
+            "toBearing": 2.504178,
+            "angle": 76.67079
+        },
+        {
+            "atGeometry": "POINT(5.43929 51.18075)",
+            "distance": 7301.0612,
+            "using": "Dommellaan",
+            "at": null,
+            "to": "209",
+            "fromBearing": 8.906743,
+            "toBearing": 5.964456,
+            "angle": -2.942288
+        },
+        {
+            "atGeometry": "POINT(5.43986 51.18278)",
+            "distance": 7539.8248,
+            "using": "Dommellaan",
+            "at": null,
+            "to": "209",
+            "fromBearing": 47.8408,
+            "toBearing": 17.40196,
+            "angle": -30.43884
+        },
+        {
+            "atGeometry": "POINT(5.43988 51.18281)",
+            "distance": 7543.5565,
+            "using": "Herenthoek",
+            "at": null,
+            "to": "209",
+            "fromBearing": 32.08103,
+            "toBearing": -3.261478,
+            "angle": -35.34251
+        },
+        {
+            "atGeometry": "POINT(5.43822 51.18617)",
+            "distance": 7964.247,
+            "using": "Herenthoek",
+            "at": null,
+            "to": "209",
+            "fromBearing": 12.83976,
+            "toBearing": 28.24672,
+            "angle": 15.40696
+        },
+        {
+            "atGeometry": "POINT(5.44092 51.18937)",
+            "distance": 8370.9845,
+            "using": "Herenthoek",
+            "at": null,
+            "to": "209",
+            "fromBearing": 33.16882,
+            "toBearing": 52.71027,
+            "angle": 19.54145
+        },
+        {
+            "atGeometry": "POINT(5.44279 51.19188)",
+            "distance": 8699.3699,
+            "using": "Herenthoek",
+            "at": null,
+            "to": "209",
+            "fromBearing": 30.12616,
+            "toBearing": 39.8827,
+            "angle": 9.75654
+        },
+        {
+            "atGeometry": "POINT(5.44328 51.19214)",
+            "distance": 8744.81047,
+            "using": "Willebrordusstraat",
+            "at": null,
+            "to": "209",
+            "fromBearing": 56.212,
+            "toBearing": 58.74037,
+            "angle": 2.528363
+        },
+        {
+            "atGeometry": "POINT(5.44842 51.19551)",
+            "distance": 9295.2906,
+            "using": "Willebrordusstraat",
+            "at": "209",
+            "to": "205",
+            "fromBearing": 80.93324,
+            "toBearing": 89.9995,
+            "angle": 9.06626
+        },
+        {
+            "atGeometry": "POINT(5.45391 51.19326)",
+            "distance": 9782.6158,
+            "using": "Willebrordusstraat",
+            "at": null,
+            "to": "205",
+            "fromBearing": 137.4121,
+            "toBearing": 60.26915,
+            "angle": -77.14295
+        },
+        {
+            "atGeometry": "POINT(5.45391 51.19325)",
+            "distance": 9782.6158,
+            "using": "",
+            "at": null,
+            "to": "205",
+            "fromBearing": 147.9248,
+            "toBearing": 59.81014,
+            "angle": -88.11466
+        },
+        {
+            "atGeometry": "POINT(5.45926 51.19783)",
+            "distance": 10433.4152,
+            "using": "",
+            "at": null,
+            "to": "205",
+            "fromBearing": 22.31448,
+            "toBearing": 20.37177,
+            "angle": -1.942712
+        },
+        {
+            "atGeometry": "POINT(5.45942 51.1981)",
+            "distance": 10464.9942,
+            "using": "",
+            "at": null,
+            "to": "205",
+            "fromBearing": 20.37177,
+            "toBearing": 22.07034,
+            "angle": 1.698564
+        },
+        {
+            "atGeometry": "POINT(5.46047 51.19978)",
+            "distance": 10665.3175,
+            "using": "Herent",
+            "at": null,
+            "to": "205",
+            "fromBearing": 19.70045,
+            "toBearing": 110.6462,
+            "angle": 90.94578
+        },
+        {
+            "atGeometry": "POINT(5.46509 51.19881)",
+            "distance": 11005.6918,
+            "using": "Herent",
+            "at": null,
+            "to": "205",
+            "fromBearing": 107.5438,
+            "toBearing": 77.15709,
+            "angle": -30.38674
+        },
+        {
+            "atGeometry": "POINT(5.4653 51.19884)",
+            "distance": 11020.0838,
+            "using": "Peerderbaan",
+            "at": null,
+            "to": "205",
+            "fromBearing": 77.15709,
+            "toBearing": 25.17183,
+            "angle": -51.98527
+        },
+        {
+            "atGeometry": "POINT(5.46536 51.19892)",
+            "distance": 11023.2058,
+            "using": "",
+            "at": null,
+            "to": "205",
+            "fromBearing": 25.17183,
+            "toBearing": 107.7017,
+            "angle": 82.52986
+        },
+        {
+            "atGeometry": "POINT(5.46541 51.19891)",
+            "distance": 11026.8698,
+            "using": "",
+            "at": null,
+            "to": "205",
+            "fromBearing": 107.7017,
+            "toBearing": 110.2175,
+            "angle": 2.515853
+        },
+        {
+            "atGeometry": "POINT(5.46554 51.19888)",
+            "distance": 11036.4528,
+            "using": "",
+            "at": null,
+            "to": "205",
+            "fromBearing": 110.2175,
+            "toBearing": 107.7017,
+            "angle": -2.515867
+        },
+        {
+            "atGeometry": "POINT(5.46559 51.19887)",
+            "distance": 11040.1168,
+            "using": "Peerderbaan",
+            "at": null,
+            "to": "205",
+            "fromBearing": 107.7017,
+            "toBearing": -165.9288,
+            "angle": 86.36951
+        },
+        {
+            "atGeometry": "POINT(5.4662 51.19867)",
+            "distance": 11085.9018,
+            "using": "Torenstraat",
+            "at": null,
+            "to": "205",
+            "fromBearing": 109.7515,
+            "toBearing": 106.4158,
+            "angle": -3.335704
+        },
+        {
+            "atGeometry": "POINT(5.46685 51.19855)",
+            "distance": 11133.3998,
+            "using": "Torenstraat",
+            "at": null,
+            "to": "205",
+            "fromBearing": 106.4158,
+            "toBearing": 109.5261,
+            "angle": 3.110379
+        },
+        {
+            "atGeometry": "POINT(5.46712 51.19849)",
+            "distance": 11153.2698,
+            "using": "Torenstraat",
+            "at": null,
+            "to": "205",
+            "fromBearing": 109.5261,
+            "toBearing": 107.9043,
+            "angle": -1.621878
+        },
+        {
+            "atGeometry": "POINT(5.46868 51.1981)",
+            "distance": 11268.6778,
+            "using": "Torenstraat",
+            "at": "205",
+            "to": "203",
+            "fromBearing": 107.4128,
+            "toBearing": 34.99685,
+            "angle": -72.41595
+        },
+        {
+            "atGeometry": "POINT(5.47083 51.20004)",
+            "distance": 11531.1862,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 33.95089,
+            "toBearing": 125.0917,
+            "angle": 91.14079
+        },
+        {
+            "atGeometry": "POINT(5.47376 51.19875)",
+            "distance": 11783.7562,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 125.0917,
+            "toBearing": 125.6666,
+            "angle": 0.5749223
+        },
+        {
+            "atGeometry": "POINT(5.47575 51.19789)",
+            "distance": 11955.4139,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 99.06695,
+            "toBearing": 59.87325,
+            "angle": -39.1937
+        },
+        {
+            "atGeometry": "POINT(5.47679 51.19877)",
+            "distance": 12078.3604,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 34.75119,
+            "toBearing": 133.6184,
+            "angle": 98.86717
+        },
+        {
+            "atGeometry": "POINT(5.47818 51.19794)",
+            "distance": 12210.1667,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 133.6184,
+            "toBearing": 134.2289,
+            "angle": 0.6105221
+        },
+        {
+            "atGeometry": "POINT(5.47927 51.19728)",
+            "distance": 12315.9268,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 133.9494,
+            "toBearing": 44.27716,
+            "angle": -89.67224
+        },
+        {
+            "atGeometry": "POINT(5.47927 51.1973)",
+            "distance": 12316.8362332,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 32.07292,
+            "toBearing": 59.10243,
+            "angle": 27.0295
+        },
+        {
+            "atGeometry": "POINT(5.4829 51.1996)",
+            "distance": 12678.2888,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 44.41883,
+            "toBearing": 44.48132,
+            "angle": 0.0624903
+        },
+        {
+            "atGeometry": "POINT(5.48363 51.20109)",
+            "distance": 12919.8,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": -25.17079,
+            "toBearing": 20.6039,
+            "angle": 45.77469
+        },
+        {
+            "atGeometry": "POINT(5.48582 51.20238)",
+            "distance": 13137.6241,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 20.60339,
+            "toBearing": -32.07007,
+            "angle": -52.67346
+        },
+        {
+            "atGeometry": "POINT(5.4849 51.20284)",
+            "distance": 13220.4367,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": -52.06539,
+            "toBearing": -22.67076,
+            "angle": 29.39463
+        },
+        {
+            "atGeometry": "POINT(5.48486 51.20288)",
+            "distance": 13226.003559,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": -32.0698,
+            "toBearing": 25.16989,
+            "angle": 57.23969
+        },
+        {
+            "atGeometry": "POINT(5.48684 51.20476)",
+            "distance": 13477.2659,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 23.30374,
+            "toBearing": 10.78537,
+            "angle": -12.51838
+        },
+        {
+            "atGeometry": "POINT(5.48729 51.20624)",
+            "distance": 13643.0581,
+            "using": "Rooie Pier",
+            "at": null,
+            "to": "203",
+            "fromBearing": 10.78537,
+            "toBearing": 120.9024,
+            "angle": 110.117
+        },
+        {
+            "atGeometry": "POINT(5.48989 51.20635)",
+            "distance": 13830.028,
+            "using": "Rooie Pier",
+            "at": null,
+            "to": "203",
+            "fromBearing": 43.2217,
+            "toBearing": 61.98512,
+            "angle": 18.76342
+        },
+        {
+            "atGeometry": "POINT(5.49836 51.20723)",
+            "distance": 14459.1445,
+            "using": "Rooie Pier",
+            "at": null,
+            "to": "203",
+            "fromBearing": 53.45882,
+            "toBearing": 40.69891,
+            "angle": -12.75991
+        },
+        {
+            "atGeometry": "POINT(5.49919 51.20783)",
+            "distance": 14545.82037,
+            "using": "Lillerbaan",
+            "at": null,
+            "to": "203",
+            "fromBearing": 41.73161,
+            "toBearing": 172.0066,
+            "angle": 130.275
+        },
+        {
+            "atGeometry": "POINT(5.49932 51.20725)",
+            "distance": 14611.3017,
+            "using": "Souheideweg",
+            "at": null,
+            "to": "203",
+            "fromBearing": 172.0066,
+            "toBearing": 65.01957,
+            "angle": -106.987
+        },
+        {
+            "atGeometry": "POINT(5.50655 51.20936)",
+            "distance": 15168.6155,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 65.01957,
+            "toBearing": -19.43991,
+            "angle": -84.45948
+        },
+        {
+            "atGeometry": "POINT(5.50588 51.21073)",
+            "distance": 15325.8665,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": -14.18612,
+            "toBearing": -22.40852,
+            "angle": -8.2224
+        },
+        {
+            "atGeometry": "POINT(5.50495 51.21214)",
+            "distance": 15493.3729,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": -3.981611,
+            "toBearing": 78.71531,
+            "angle": 82.69692
+        },
+        {
+            "atGeometry": "POINT(5.50511 51.21216)",
+            "distance": 15505.5893,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 78.71531,
+            "toBearing": 84.44535,
+            "angle": 5.730041
+        },
+        {
+            "atGeometry": "POINT(5.50708 51.21228)",
+            "distance": 15643.9209,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 84.44535,
+            "toBearing": 1.106058,
+            "angle": -83.33929
+        },
+        {
+            "atGeometry": "POINT(5.50717 51.2152)",
+            "distance": 15968.7365,
+            "using": "Kettingbrugweg",
+            "at": null,
+            "to": "203",
+            "fromBearing": 1.106058,
+            "toBearing": 89.58952,
+            "angle": 88.48346
+        },
+        {
+            "atGeometry": "POINT(5.52001 51.21531)",
+            "distance": 16866.0255,
+            "using": "Kettingbrugweg",
+            "at": null,
+            "to": "203",
+            "fromBearing": 88.3706,
+            "toBearing": 108.2776,
+            "angle": 19.907
+        },
+        {
+            "atGeometry": "POINT(5.5218 51.21492)",
+            "distance": 16998.477,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 111.757,
+            "toBearing": 89.99993,
+            "angle": -21.75709
+        },
+        {
+            "atGeometry": "POINT(5.52432 51.21476)",
+            "distance": 17185.8399,
+            "using": "",
+            "at": "203",
+            "to": "203",
+            "fromBearing": 66.57206,
+            "toBearing": 141.1526,
+            "angle": 74.58055
+        },
+        {
+            "atGeometry": "POINT(5.52433 51.21474)",
+            "distance": 17187.6108,
+            "using": "",
+            "at": null,
+            "to": "203",
+            "fromBearing": 63.48626,
+            "toBearing": 141.5133,
+            "angle": 78.02706
+        },
+        {
+            "atGeometry": "POINT(5.52477 51.21441)",
+            "distance": 17235.8884,
+            "using": "",
+            "at": "203",
+            "to": "8",
+            "fromBearing": 141.1526,
+            "toBearing": 141.369,
+            "angle": 0.2163597
+        },
+        {
+            "atGeometry": "POINT(5.52488 51.21432)",
+            "distance": 17248.3854,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": 139.2612,
+            "toBearing": 141.2979,
+            "angle": 2.036643
+        },
+        {
+            "atGeometry": "POINT(5.52788 51.2118)",
+            "distance": 17602.3464,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": 178.0068,
+            "toBearing": 141.3655,
+            "angle": -36.6413
+        },
+        {
+            "atGeometry": "POINT(5.53777 51.204)",
+            "distance": 18719.2964,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": 140.8366,
+            "toBearing": 112.2563,
+            "angle": -28.5803
+        },
+        {
+            "atGeometry": "POINT(5.54031 51.20218)",
+            "distance": 18991.8458,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": 141.7352,
+            "toBearing": 138.8876,
+            "angle": -2.847562
+        },
+        {
+            "atGeometry": "POINT(5.5408 51.20164)",
+            "distance": 19063.7016,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": 173.2994,
+            "toBearing": 141.5139,
+            "angle": -31.78543
+        },
+        {
+            "atGeometry": "POINT(5.5453 51.19827)",
+            "distance": 19555.2241,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": 139.6214,
+            "toBearing": 159.2044,
+            "angle": 19.583
+        },
+        {
+            "atGeometry": "POINT(5.54919 51.19525)",
+            "distance": 19991.7561,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": 132.3601,
+            "toBearing": 141.4462,
+            "angle": 9.086063
+        },
+        {
+            "atGeometry": "POINT(5.5582 51.18818)",
+            "distance": 20999.0281,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": 141.4121,
+            "toBearing": 135.7571,
+            "angle": -5.655
+        },
+        {
+            "atGeometry": "POINT(5.55945 51.18736)",
+            "distance": 21125.2695,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": 136.5347,
+            "toBearing": 131.1605,
+            "angle": -5.374211
+        },
+        {
+            "atGeometry": "POINT(5.56157 51.1865)",
+            "distance": 21303.2382,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": 114.5051,
+            "toBearing": 104.8906,
+            "angle": -9.614484
+        },
+        {
+            "atGeometry": "POINT(5.56193 51.18644)",
+            "distance": 21329.5519,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": 104.8906,
+            "toBearing": 104.1391,
+            "angle": -0.7514998
+        },
+        {
+            "atGeometry": "POINT(5.56408 51.18639)",
+            "distance": 21480.9484,
+            "using": "",
+            "at": null,
+            "to": "8",
+            "fromBearing": 84.7002,
+            "toBearing": 165.9252,
+            "angle": 81.22496
+        },
+        {
+            "atGeometry": "POINT(5.5641 51.18634)",
+            "distance": 21482.1024,
+            "using": "Kapelstraat",
+            "at": null,
+            "to": "8",
+            "fromBearing": 165.9252,
+            "toBearing": 84.83955,
+            "angle": -81.08561
+        },
+        {
+            "atGeometry": "POINT(5.56464 51.18643)",
+            "distance": 21520.3487,
+            "using": "Kapelstraat",
+            "at": null,
+            "to": "8",
+            "fromBearing": 83.59888,
+            "toBearing": 106.352,
+            "angle": 22.75312
+        },
+        {
+            "atGeometry": "POINT(5.56551 51.18625)",
+            "distance": 21583.72674,
+            "using": "Achelsedijk",
+            "at": null,
+            "to": "8",
+            "fromBearing": 109.7052,
+            "toBearing": -2.781647,
+            "angle": -112.4868
+        },
+        {
+            "atGeometry": "POINT(5.56355 51.18864)",
+            "distance": 21910.0135,
+            "using": "",
+            "at": "8",
+            "to": "8",
+            "fromBearing": -23.45648,
+            "toBearing": 60.32434,
+            "angle": 83.78082
+        },
+        {
+            "atGeometry": "POINT(5.56399 51.1889)",
+            "distance": 21952.8322,
+            "using": "",
+            "at": "8",
+            "to": "211",
+            "fromBearing": 37.27326,
+            "toBearing": 121.8187,
+            "angle": 84.54544
+        },
+        {
+            "atGeometry": "POINT(5.56399 51.1889)",
+            "distance": 21952.8322,
+            "using": "Snellewindstraat",
+            "at": null,
+            "to": "211",
+            "fromBearing": null,
+            "toBearing": 121.9778,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(5.56488 51.18846)",
+            "distance": 22031.94159,
+            "using": "",
+            "at": null,
+            "to": "211",
+            "fromBearing": 130.2345,
+            "toBearing": 162.6,
+            "angle": 32.36556
+        },
+        {
+            "atGeometry": "POINT(5.56538 51.18818)",
+            "distance": 22080.5486,
+            "using": "",
+            "at": null,
+            "to": "211",
+            "fromBearing": 126.7533,
+            "toBearing": 128.021,
+            "angle": 1.267709
+        },
+        {
+            "atGeometry": "POINT(5.56861 51.18683)",
+            "distance": 22354.6719,
+            "using": "",
+            "at": null,
+            "to": "211",
+            "fromBearing": 134.088,
+            "toBearing": 117.2861,
+            "angle": -16.8019
+        },
+        {
+            "atGeometry": "POINT(5.57273 51.18548)",
+            "distance": 22679.7061,
+            "using": "",
+            "at": null,
+            "to": "211",
+            "fromBearing": 117.5977,
+            "toBearing": 119.2725,
+            "angle": 1.674743
+        },
+        {
+            "atGeometry": "POINT(5.58142 51.17914)",
+            "distance": 23618.2029,
+            "using": "",
+            "at": null,
+            "to": "211",
+            "fromBearing": 127.2833,
+            "toBearing": 99.2916,
+            "angle": -27.9917
+        },
+        {
+            "atGeometry": "POINT(5.58389 51.17839)",
+            "distance": 23813.9949,
+            "using": "",
+            "at": "211",
+            "to": "263",
+            "fromBearing": 117.4033,
+            "toBearing": 110.048,
+            "angle": -7.35522
+        },
+        {
+            "atGeometry": "POINT(5.59124 51.17674)",
+            "distance": 24360.0695,
+            "using": "",
+            "at": null,
+            "to": "263",
+            "fromBearing": 101.2761,
+            "toBearing": 104.8876,
+            "angle": 3.611498
+        },
+        {
+            "atGeometry": "POINT(5.59187 51.17658)",
+            "distance": 24408.176,
+            "using": "",
+            "at": null,
+            "to": "263",
+            "fromBearing": 132.3486,
+            "toBearing": 119.0221,
+            "angle": -13.32653
+        },
+        {
+            "atGeometry": "POINT(5.5921 51.1765)",
+            "distance": 24426.8612,
+            "using": "",
+            "at": null,
+            "to": "263",
+            "fromBearing": 119.0221,
+            "toBearing": 130.8271,
+            "angle": 11.80506
+        },
+        {
+            "atGeometry": "POINT(5.5979 51.17385)",
+            "distance": 24929.2459,
+            "using": "",
+            "at": null,
+            "to": "263",
+            "fromBearing": 131.7709,
+            "toBearing": 139.2361,
+            "angle": 7.4652
+        },
+        {
+            "atGeometry": "POINT(5.60041 51.17214)",
+            "distance": 25188.7207,
+            "using": "",
+            "at": null,
+            "to": "263",
+            "fromBearing": 137.2624,
+            "toBearing": 137.2025,
+            "angle": -0.05994583
+        },
+        {
+            "atGeometry": "POINT(5.60484 51.16914)",
+            "distance": 25640.4931,
+            "using": "",
+            "at": null,
+            "to": "263",
+            "fromBearing": 137.2025,
+            "toBearing": 138.899,
+            "angle": 1.696537
+        },
+        {
+            "atGeometry": "POINT(5.60531 51.16894)",
+            "distance": 25682.7896,
+            "using": "",
+            "at": "263",
+            "to": "7",
+            "fromBearing": 135.3713,
+            "toBearing": 141.8678,
+            "angle": 6.496462
+        },
+        {
+            "atGeometry": "POINT(5.6094 51.16448)",
+            "distance": 26255.5889,
+            "using": "",
+            "at": null,
+            "to": "7",
+            "fromBearing": 158.7327,
+            "toBearing": 124.7349,
+            "angle": -33.9978
+        },
+        {
+            "atGeometry": "POINT(5.60963 51.16438)",
+            "distance": 26276.5249,
+            "using": "",
+            "at": null,
+            "to": "7",
+            "fromBearing": 124.7349,
+            "toBearing": 157.9729,
+            "angle": 33.23804
+        },
+        {
+            "atGeometry": "POINT(5.60982 51.16407)",
+            "distance": 26313.4059,
+            "using": "",
+            "at": null,
+            "to": "7",
+            "fromBearing": 158.6932,
+            "toBearing": 150.7039,
+            "angle": -7.9893
+        },
+        {
+            "atGeometry": "POINT(5.61066 51.16325)",
+            "distance": 26422.4619,
+            "using": "Mariahofstraat",
+            "at": null,
+            "to": "7",
+            "fromBearing": 153.3579,
+            "toBearing": -105.2424,
+            "angle": 101.3998
+        },
+        {
+            "atGeometry": "POINT(5.6081 51.16207)",
+            "distance": 26675.174,
+            "using": "Mariahofstraat",
+            "at": null,
+            "to": "7",
+            "fromBearing": -178.0046,
+            "toBearing": -152.4075,
+            "angle": 25.5971
+        },
+        {
+            "atGeometry": "POINT(5.6068 51.16051)",
+            "distance": 26871.1088,
+            "using": "Kerkstraat",
+            "at": "7",
+            "to": "196",
+            "fromBearing": -152.4075,
+            "toBearing": 80.9402,
+            "angle": -126.6523
+        },
+        {
+            "atGeometry": "POINT(5.60882 51.16191)",
+            "distance": 27082.7967,
+            "using": "",
+            "at": null,
+            "to": "196",
+            "fromBearing": 51.43485,
+            "toBearing": 109.5118,
+            "angle": 58.07699
+        },
+        {
+            "atGeometry": "POINT(5.60979 51.16124)",
+            "distance": 27186.4083,
+            "using": "",
+            "at": null,
+            "to": "196",
+            "fromBearing": 165.9178,
+            "toBearing": 173.9416,
+            "angle": 8.023829
+        },
+        {
+            "atGeometry": "POINT(5.61022 51.15888)",
+            "distance": 27450.8322,
+            "using": "",
+            "at": null,
+            "to": "196",
+            "fromBearing": 175.6961,
+            "toBearing": 174.1548,
+            "angle": -1.541306
+        },
+        {
+            "atGeometry": "POINT(5.61093 51.15453)",
+            "distance": 27936.943,
+            "using": "",
+            "at": null,
+            "to": "196",
+            "fromBearing": 174.1548,
+            "toBearing": 173.82,
+            "angle": -0.3347965
+        },
+        {
+            "atGeometry": "POINT(5.61179 51.14941)",
+            "distance": 28509.58,
+            "using": "Kanaalkom",
+            "at": null,
+            "to": "196",
+            "fromBearing": -175.5165,
+            "toBearing": 160.2796,
+            "angle": -24.20384
+        },
+        {
+            "atGeometry": "POINT(5.61215 51.14765)",
+            "distance": 28707.231,
+            "using": "Kanaalkom",
+            "at": null,
+            "to": "196",
+            "fromBearing": 172.9603,
+            "toBearing": 177.1647,
+            "angle": 4.2044
+        },
+        {
+            "atGeometry": "POINT(5.61208 51.14678)",
+            "distance": 28804.5518,
+            "using": "Kanaalkom",
+            "at": null,
+            "to": "196",
+            "fromBearing": -171.4685,
+            "toBearing": 173.0213,
+            "angle": -15.51016
+        },
+        {
+            "atGeometry": "POINT(5.61215 51.14625)",
+            "distance": 28863.9685,
+            "using": "Kanaalkaai",
+            "at": null,
+            "to": "196",
+            "fromBearing": -177.0074,
+            "toBearing": 107.6827,
+            "angle": -75.30989
+        },
+        {
+            "atGeometry": "POINT(5.62029 51.14149)",
+            "distance": 29644.7692,
+            "using": "Kanaalkaai",
+            "at": null,
+            "to": "196",
+            "fromBearing": 133.3657,
+            "toBearing": 116.4773,
+            "angle": -16.8884
+        },
+        {
+            "atGeometry": "POINT(5.62074 51.1407)",
+            "distance": 29806.2706,
+            "using": "Panhovenstraat",
+            "at": null,
+            "to": "196",
+            "fromBearing": -109.5035,
+            "toBearing": 142.9064,
+            "angle": -107.5901
+        },
+        {
+            "atGeometry": "POINT(5.62248 51.13937)",
+            "distance": 29999.4791,
+            "using": "Panhovenstraat",
+            "at": null,
+            "to": "196",
+            "fromBearing": 144.6977,
+            "toBearing": 175.5155,
+            "angle": 30.8178
+        },
+        {
+            "atGeometry": "POINT(5.62248 51.13935)",
+            "distance": 30001.676651,
+            "using": "Panhovenstraat",
+            "at": null,
+            "to": "196",
+            "fromBearing": 162.5826,
+            "toBearing": 180,
+            "angle": 17.41738
+        },
+        {
+            "atGeometry": "POINT(5.61823 51.13619)",
+            "distance": 30468.6512,
+            "using": "",
+            "at": "196",
+            "to": "197",
+            "fromBearing": -165.6034,
+            "toBearing": -163.4032,
+            "angle": 2.200184
+        },
+        {
+            "atGeometry": "POINT(5.61656 51.13451)",
+            "distance": 30692.6652,
+            "using": "Panhovenstraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": -149.3898,
+            "toBearing": -154.6086,
+            "angle": -5.2188
+        },
+        {
+            "atGeometry": "POINT(5.61597 51.13373)",
+            "distance": 30788.76653,
+            "using": "Panhovenstraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": -154.6086,
+            "toBearing": 156.2863,
+            "angle": -49.10514
+        },
+        {
+            "atGeometry": "POINT(5.61647 51.13258)",
+            "distance": 30944.4336,
+            "using": "",
+            "at": null,
+            "to": "197",
+            "fromBearing": -47.67855,
+            "toBearing": -143.0193,
+            "angle": -95.34076
+        },
+        {
+            "atGeometry": "POINT(5.61641 51.13253)",
+            "distance": 30944.4336,
+            "using": "",
+            "at": null,
+            "to": "197",
+            "fromBearing": -143.0193,
+            "toBearing": -143.0193,
+            "angle": 0.00002981043
+        },
+        {
+            "atGeometry": "POINT(5.6156 51.13126)",
+            "distance": 31093.8346,
+            "using": "Coenenstraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": -158.7188,
+            "toBearing": -147.8901,
+            "angle": 10.8287
+        },
+        {
+            "atGeometry": "POINT(5.61043 51.1287)",
+            "distance": 31561.7699,
+            "using": "Dingensstraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": -134.8823,
+            "toBearing": -51.45465,
+            "angle": 83.4276
+        },
+        {
+            "atGeometry": "POINT(5.60742 51.13003)",
+            "distance": 31828.0865,
+            "using": "Roterstraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": -4.485347,
+            "toBearing": -86.20103,
+            "angle": -81.715683
+        },
+        {
+            "atGeometry": "POINT(5.60742 51.13003)",
+            "distance": 31828.0865,
+            "using": "Houbornstraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": null,
+            "toBearing": -86.20103,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(5.60143 51.1331)",
+            "distance": 32405.4182,
+            "using": "Houbornstraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": -50.01231,
+            "toBearing": -57.91222,
+            "angle": -7.89991
+        },
+        {
+            "atGeometry": "POINT(5.59625 51.13618)",
+            "distance": 32916.6766,
+            "using": "",
+            "at": null,
+            "to": "197",
+            "fromBearing": -40.61449,
+            "toBearing": 25.81168,
+            "angle": 66.42617
+        },
+        {
+            "atGeometry": "POINT(5.59757 51.13669)",
+            "distance": 33071.7867,
+            "using": "",
+            "at": null,
+            "to": "197",
+            "fromBearing": -18.19424,
+            "toBearing": 3.26471,
+            "angle": 21.45895
+        },
+        {
+            "atGeometry": "POINT(5.59761 51.13713)",
+            "distance": 33120.817,
+            "using": "",
+            "at": null,
+            "to": "197",
+            "fromBearing": 3.26471,
+            "toBearing": -89.99997,
+            "angle": -93.26468
+        },
+        {
+            "atGeometry": "POINT(5.597 51.13731)",
+            "distance": 33168.9306,
+            "using": "",
+            "at": null,
+            "to": "197",
+            "fromBearing": -53.36016,
+            "toBearing": 38.10771,
+            "angle": 91.46787
+        },
+        {
+            "atGeometry": "POINT(5.59699 51.13731)",
+            "distance": 33168.9306,
+            "using": "",
+            "at": null,
+            "to": "197",
+            "fromBearing": null,
+            "toBearing": -68.27595,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(5.59695 51.13732)",
+            "distance": 33168.9306,
+            "using": "",
+            "at": null,
+            "to": "197",
+            "fromBearing": -68.27595,
+            "toBearing": 57.48265,
+            "angle": 125.7586
+        },
+        {
+            "atGeometry": "POINT(5.59705 51.13736)",
+            "distance": 33175.144134,
+            "using": "Oudestraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": 57.48265,
+            "toBearing": 41.87188,
+            "angle": -15.61077
+        },
+        {
+            "atGeometry": "POINT(5.59748 51.14092)",
+            "distance": 33745.0798,
+            "using": "Markt",
+            "at": null,
+            "to": "197",
+            "fromBearing": -14.08815,
+            "toBearing": -48.99693,
+            "angle": -34.90878
+        },
+        {
+            "atGeometry": "POINT(5.59702 51.14127)",
+            "distance": 33795.77671,
+            "using": "Vrijthof",
+            "at": null,
+            "to": "197",
+            "fromBearing": -37.13331,
+            "toBearing": 64.4446,
+            "angle": 101.5779
+        },
+        {
+            "atGeometry": "POINT(5.59734 51.14133)",
+            "distance": 33819.24974,
+            "using": "Vrijthof",
+            "at": null,
+            "to": "197",
+            "fromBearing": 77.73759,
+            "toBearing": 77.17262,
+            "angle": -0.5649675
+        },
+        {
+            "atGeometry": "POINT(5.59741 51.14134)",
+            "distance": 33824.25539,
+            "using": "Vrijthof",
+            "at": null,
+            "to": "197",
+            "fromBearing": 77.17262,
+            "toBearing": 79.67621,
+            "angle": 2.50359
+        },
+        {
+            "atGeometry": "POINT(5.59787 51.14144)",
+            "distance": 33859.6952,
+            "using": "Vrijthof",
+            "at": null,
+            "to": "197",
+            "fromBearing": 48.99665,
+            "toBearing": -33.51449,
+            "angle": -82.51113
+        },
+        {
+            "atGeometry": "POINT(5.59779 51.1419)",
+            "distance": 33931.0594,
+            "using": "Augustijnenstraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": 62.01827,
+            "toBearing": -18.14594,
+            "angle": -80.16421
+        },
+        {
+            "atGeometry": "POINT(5.59779 51.1419)",
+            "distance": 33931.0594,
+            "using": "Augustijnenstraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": null,
+            "toBearing": -18.14594,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(5.59732 51.14269)",
+            "distance": 34026.00054,
+            "using": "Glycinestraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": -32.10345,
+            "toBearing": -28.76498,
+            "angle": 3.338466
+        },
+        {
+            "atGeometry": "POINT(5.59646 51.14426)",
+            "distance": 34210.9566,
+            "using": "Stift",
+            "at": null,
+            "to": "197",
+            "fromBearing": -22.69668,
+            "toBearing": -125.3149,
+            "angle": -102.6182
+        },
+        {
+            "atGeometry": "POINT(5.59444 51.14301)",
+            "distance": 34412.7336,
+            "using": "Stift",
+            "at": null,
+            "to": "197",
+            "fromBearing": -121.2665,
+            "toBearing": -25.19833,
+            "angle": 96.06817
+        },
+        {
+            "atGeometry": "POINT(5.59444 51.14301)",
+            "distance": 34412.7336,
+            "using": "Gerdingerpoort",
+            "at": null,
+            "to": "197",
+            "fromBearing": null,
+            "toBearing": -25.19833,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(5.59399 51.14383)",
+            "distance": 34510.24702,
+            "using": "Gerdingerpoort",
+            "at": null,
+            "to": "197",
+            "fromBearing": -6.226762,
+            "toBearing": -73.36022,
+            "angle": -67.13345
+        },
+        {
+            "atGeometry": "POINT(5.5892 51.14748)",
+            "distance": 35042.3378,
+            "using": "Thijsstraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": -32.10077,
+            "toBearing": 10.80894,
+            "angle": 42.90971
+        },
+        {
+            "atGeometry": "POINT(5.58896 51.14834)",
+            "distance": 35142.3454,
+            "using": "Thijsstraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": -26.40978,
+            "toBearing": -48.47118,
+            "angle": -22.0614
+        },
+        {
+            "atGeometry": "POINT(5.58584 51.14885)",
+            "distance": 35392.4937,
+            "using": "",
+            "at": null,
+            "to": "197",
+            "fromBearing": -112.4923,
+            "toBearing": -68.27094,
+            "angle": 44.22135
+        },
+        {
+            "atGeometry": "POINT(5.58456 51.1488)",
+            "distance": 35484.9125,
+            "using": "",
+            "at": null,
+            "to": "197",
+            "fromBearing": -103.6875,
+            "toBearing": -132.3314,
+            "angle": -28.6439
+        },
+        {
+            "atGeometry": "POINT(5.58441 51.14858)",
+            "distance": 35511.34404,
+            "using": "Sint-Jansstraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": -164.4215,
+            "toBearing": -99.28555,
+            "angle": 65.13591
+        },
+        {
+            "atGeometry": "POINT(5.58018 51.14806)",
+            "distance": 35814.2339,
+            "using": "Pannenbakkersstraat",
+            "at": null,
+            "to": "197",
+            "fromBearing": -105.0491,
+            "toBearing": -37.83524,
+            "angle": 67.21391
+        },
+        {
+            "atGeometry": "POINT(5.5799 51.14826)",
+            "distance": 35843.8809,
+            "using": "",
+            "at": "197",
+            "to": "214",
+            "fromBearing": -41.29053,
+            "toBearing": -34.00525,
+            "angle": 7.285287
+        },
+        {
+            "atGeometry": "POINT(5.57685 51.15098)",
+            "distance": 36214.5986,
+            "using": "Bormanstraat",
+            "at": null,
+            "to": "214",
+            "fromBearing": -32.5266,
+            "toBearing": -28.09457,
+            "angle": 4.432032
+        },
+        {
+            "atGeometry": "POINT(5.57446 51.15305)",
+            "distance": 36505.8925,
+            "using": "Bormanstraat",
+            "at": "214",
+            "to": "208",
+            "fromBearing": -66.11345,
+            "toBearing": -76.94391,
+            "angle": -10.83046
+        },
+        {
+            "atGeometry": "POINT(5.56243 51.15223)",
+            "distance": 37358.0727,
+            "using": "Reppelerweg",
+            "at": null,
+            "to": "208",
+            "fromBearing": -101.4697,
+            "toBearing": -2.245028,
+            "angle": 99.224672
+        },
+        {
+            "atGeometry": "POINT(5.56158 51.15449)",
+            "distance": 37616.5926,
+            "using": "Bergerheidestraat",
+            "at": null,
+            "to": "208",
+            "fromBearing": 25.19309,
+            "toBearing": -67.23891,
+            "angle": -92.432
+        },
+        {
+            "atGeometry": "POINT(5.56139 51.15454)",
+            "distance": 37631.4479,
+            "using": "Monshofstraat",
+            "at": null,
+            "to": "208",
+            "fromBearing": -67.23891,
+            "toBearing": -130.1662,
+            "angle": -62.9273
+        },
+        {
+            "atGeometry": "POINT(5.55868 51.154)",
+            "distance": 37826.7258,
+            "using": "Monshofstraat",
+            "at": null,
+            "to": "208",
+            "fromBearing": -112.0642,
+            "toBearing": -94.84694,
+            "angle": 17.21726
+        },
+        {
+            "atGeometry": "POINT(5.55777 51.15397)",
+            "distance": 37890.55281,
+            "using": "Monshofstraat",
+            "at": null,
+            "to": "208",
+            "fromBearing": -89.99977,
+            "toBearing": -91.48403,
+            "angle": -1.484258
+        },
+        {
+            "atGeometry": "POINT(5.55399 51.15404)",
+            "distance": 38156.2691,
+            "using": "Monshofstraat",
+            "at": "208",
+            "to": "6",
+            "fromBearing": -80.1491,
+            "toBearing": -105.1825,
+            "angle": -25.03337
+        },
+        {
+            "atGeometry": "POINT(5.55143 51.1538)",
+            "distance": 38339.6771,
+            "using": "Monshofstraat",
+            "at": null,
+            "to": "6",
+            "fromBearing": -93.64884,
+            "toBearing": -114.4899,
+            "angle": -20.84106
+        },
+        {
+            "atGeometry": "POINT(5.54864 51.15284)",
+            "distance": 38565.3943,
+            "using": "Monshofstraat",
+            "at": null,
+            "to": "6",
+            "fromBearing": -126.1963,
+            "toBearing": -100.0452,
+            "angle": 26.15105
+        },
+        {
+            "atGeometry": "POINT(5.54769 51.15345)",
+            "distance": 38661.6103,
+            "using": "Monshofstraat",
+            "at": null,
+            "to": "6",
+            "fromBearing": -39.38965,
+            "toBearing": -59.57114,
+            "angle": -20.18149
+        },
+        {
+            "atGeometry": "POINT(5.54481 51.15201)",
+            "distance": 38933.9722,
+            "using": "Kraaikenshofweg",
+            "at": null,
+            "to": "6",
+            "fromBearing": -125.3196,
+            "toBearing": -29.51469,
+            "angle": 95.80488
+        },
+        {
+            "atGeometry": "POINT(5.5426 51.15451)",
+            "distance": 39254.6613,
+            "using": "Reppelerweg",
+            "at": null,
+            "to": "6",
+            "fromBearing": -46.2707,
+            "toBearing": -81.75294,
+            "angle": -35.48224
+        },
+        {
+            "atGeometry": "POINT(5.54101 51.15449)",
+            "distance": 39366.5161,
+            "using": "Reppelerweg",
+            "at": null,
+            "to": "6",
+            "fromBearing": -93.06714,
+            "toBearing": -105.1486,
+            "angle": -12.08146
+        },
+        {
+            "atGeometry": "POINT(5.5308 51.15334)",
+            "distance": 40100.5366,
+            "using": "Reppelerweg",
+            "at": null,
+            "to": "6",
+            "fromBearing": -98.57594,
+            "toBearing": -94.88126,
+            "angle": 3.69468
+        },
+        {
+            "atGeometry": "POINT(5.52828 51.15331)",
+            "distance": 40277.3578,
+            "using": "Hoogstraat",
+            "at": "6",
+            "to": "1",
+            "fromBearing": -84.56263,
+            "toBearing": -144.3216,
+            "angle": -59.75894
+        },
+        {
+            "atGeometry": "POINT(5.52209 51.14741)",
+            "distance": 41075.8562,
+            "using": "Hoogstraat",
+            "at": null,
+            "to": "1",
+            "fromBearing": -136.8396,
+            "toBearing": -143.3322,
+            "angle": -6.4926
+        },
+        {
+            "atGeometry": "POINT(5.51195 51.13973)",
+            "distance": 42190.7992,
+            "using": "Laarderweg",
+            "at": null,
+            "to": "1",
+            "fromBearing": -128.5517,
+            "toBearing": -162.5827,
+            "angle": -34.03107
+        },
+        {
+            "atGeometry": "POINT(5.50743 51.13623)",
+            "distance": 42693.7572,
+            "using": "",
+            "at": null,
+            "to": "1",
+            "fromBearing": -138.4185,
+            "toBearing": -111.7235,
+            "angle": 26.69501
+        },
+        {
+            "atGeometry": "POINT(5.50705 51.13596)",
+            "distance": 42733.8092,
+            "using": "",
+            "at": null,
+            "to": "1",
+            "fromBearing": -138.3366,
+            "toBearing": -150.7194,
+            "angle": -12.3828
+        },
+        {
+            "atGeometry": "POINT(5.50593 51.13524)",
+            "distance": 42851.4431,
+            "using": "",
+            "at": null,
+            "to": "1",
+            "fromBearing": -132.323,
+            "toBearing": -138.5746,
+            "angle": -6.251597
+        },
+        {
+            "atGeometry": "POINT(5.50531 51.13476)",
+            "distance": 42920.0695,
+            "using": "",
+            "at": null,
+            "to": "1",
+            "fromBearing": -146.3082,
+            "toBearing": -153.3436,
+            "angle": -7.03534
+        },
+        {
+            "atGeometry": "POINT(5.5038 51.1325)",
+            "distance": 43189.4756,
+            "using": "Vaeshofweg",
+            "at": null,
+            "to": "1",
+            "fromBearing": -156.5934,
+            "toBearing": 96.06395,
+            "angle": -107.34265
+        },
+        {
+            "atGeometry": "POINT(5.50704 51.13234)",
+            "distance": 43417.022,
+            "using": "Leyssenhofweg",
+            "at": null,
+            "to": "1",
+            "fromBearing": 94.20522,
+            "toBearing": 103.3513,
+            "angle": 9.146097
+        },
+        {
+            "atGeometry": "POINT(5.51067 51.13067)",
+            "distance": 43736.2805,
+            "using": "Brogelerweg",
+            "at": null,
+            "to": "1",
+            "fromBearing": 132.4518,
+            "toBearing": 132.1265,
+            "angle": -0.3252733
+        },
+        {
+            "atGeometry": "POINT(5.51823 51.12935)",
+            "distance": 44296.9456,
+            "using": "Brogelerweg",
+            "at": "1",
+            "to": "3",
+            "fromBearing": 100.734,
+            "toBearing": -159.8429,
+            "angle": 99.4231
+        },
+        {
+            "atGeometry": "POINT(5.51821 51.12935)",
+            "distance": 44297.97887,
+            "using": "Brogelerweg",
+            "at": null,
+            "to": "3",
+            "fromBearing": -147.8891,
+            "toBearing": -159.7005,
+            "angle": -11.81139
+        },
+        {
+            "atGeometry": "POINT(5.51371 51.12585)",
+            "distance": 44826.7134,
+            "using": "Ellikommerdijk",
+            "at": null,
+            "to": "3",
+            "fromBearing": -133.0462,
+            "toBearing": -127.944,
+            "angle": 5.102189
+        },
+        {
+            "atGeometry": "POINT(5.50949 51.12398)",
+            "distance": 45188.0934,
+            "using": "Ellikommerdijk",
+            "at": null,
+            "to": "3",
+            "fromBearing": -124.9594,
+            "toBearing": -113.4863,
+            "angle": 11.4731
+        },
+        {
+            "atGeometry": "POINT(5.50142 51.12401)",
+            "distance": 45842.4386,
+            "using": "Ellikommerdijk",
+            "at": null,
+            "to": "3",
+            "fromBearing": -126.8617,
+            "toBearing": -108.0503,
+            "angle": 18.8114
+        },
+        {
+            "atGeometry": "POINT(5.49515 51.12247)",
+            "distance": 46337.4714,
+            "using": "Ellikommerdijk",
+            "at": null,
+            "to": "3",
+            "fromBearing": -79.13366,
+            "toBearing": -89.99995,
+            "angle": -10.86629
+        },
+        {
+            "atGeometry": "POINT(5.49503 51.12248)",
+            "distance": 46345.872926,
+            "using": "Erpekommerweg",
+            "at": null,
+            "to": "3",
+            "fromBearing": -75.12896,
+            "toBearing": -175.7768,
+            "angle": -100.6478
+        },
+        {
+            "atGeometry": "POINT(5.49138 51.11831)",
+            "distance": 46881.7643,
+            "using": "Mgr. Broekxstraat",
+            "at": null,
+            "to": "3",
+            "fromBearing": -154.7896,
+            "toBearing": -151.7179,
+            "angle": 3.071718
+        },
+        {
+            "atGeometry": "POINT(5.48925 51.11683)",
+            "distance": 47103.929,
+            "using": "Mgr. Broekxstraat",
+            "at": null,
+            "to": "3",
+            "fromBearing": -137.845,
+            "toBearing": -156.6565,
+            "angle": -18.8115
+        },
+        {
+            "atGeometry": "POINT(5.48703 51.11386)",
+            "distance": 47486.2781,
+            "using": "Mgr. Broekxstraat",
+            "at": "3",
+            "to": "531",
+            "fromBearing": 168.4917,
+            "toBearing": -133.0386,
+            "angle": 58.4697
+        },
+        {
+            "atGeometry": "POINT(5.48386 51.11174)",
+            "distance": 47809.4921,
+            "using": "Stevenstraat",
+            "at": null,
+            "to": "531",
+            "fromBearing": -137.4451,
+            "toBearing": -47.96018,
+            "angle": 89.48497
+        },
+        {
+            "atGeometry": "POINT(5.479 51.1147)",
+            "distance": 48286.098,
+            "using": "Stevenstraat",
+            "at": null,
+            "to": "531",
+            "fromBearing": -28.11407,
+            "toBearing": -153.3336,
+            "angle": -125.2196
+        },
+        {
+            "atGeometry": "POINT(5.47877 51.11439)",
+            "distance": 48322.5691,
+            "using": "Stevenstraat",
+            "at": null,
+            "to": "531",
+            "fromBearing": -156.2775,
+            "toBearing": -159.2737,
+            "angle": -2.9962
+        },
+        {
+            "atGeometry": "POINT(5.47263 51.10923)",
+            "distance": 49080.2638,
+            "using": "Kapellekestraat",
+            "at": null,
+            "to": "531",
+            "fromBearing": -111.1866,
+            "toBearing": -113.2645,
+            "angle": -2.077874
+        },
+        {
+            "atGeometry": "POINT(5.46805 51.10801)",
+            "distance": 49428.4771,
+            "using": "Kapellekestraat",
+            "at": null,
+            "to": "531",
+            "fromBearing": -108.8446,
+            "toBearing": -100.9268,
+            "angle": 7.9178
+        },
+        {
+            "atGeometry": "POINT(5.46301 51.10682)",
+            "distance": 49815.151,
+            "using": "Overes",
+            "at": null,
+            "to": "531",
+            "fromBearing": -116.3022,
+            "toBearing": -43.28333,
+            "angle": 73.01883
+        },
+        {
+            "atGeometry": "POINT(5.46289 51.1069)",
+            "distance": 49826.5595,
+            "using": "Monseigneur Morisstraat",
+            "at": null,
+            "to": "531",
+            "fromBearing": -43.28333,
+            "toBearing": -104.62,
+            "angle": -61.33667
+        },
+        {
+            "atGeometry": "POINT(5.46057 51.10652)",
+            "distance": 49996.044,
+            "using": "Monseigneur Morisstraat",
+            "at": null,
+            "to": "531",
+            "fromBearing": -104.62,
+            "toBearing": 180,
+            "angle": -75.37999
+        },
+        {
+            "atGeometry": "POINT(5.46053 51.10562)",
+            "distance": 50096.2919,
+            "using": "Monseigneur Morisstraat",
+            "at": null,
+            "to": "531",
+            "fromBearing": -176.1785,
+            "toBearing": -128.531,
+            "angle": 47.6475
+        },
+        {
+            "atGeometry": "POINT(5.45956 51.10538)",
+            "distance": 50169.41503,
+            "using": "Croixdijk",
+            "at": null,
+            "to": "531",
+            "fromBearing": -107.4342,
+            "toBearing": -32.12425,
+            "angle": 75.30992
+        },
+        {
+            "atGeometry": "POINT(5.45211 51.10876)",
+            "distance": 50815.6846,
+            "using": "Steenweg Linde",
+            "at": null,
+            "to": "531",
+            "fromBearing": -67.54005,
+            "toBearing": 34.06355,
+            "angle": 101.6036
+        },
+        {
+            "atGeometry": "POINT(5.45309 51.10967)",
+            "distance": 50939.097,
+            "using": "Steenweg Linde",
+            "at": null,
+            "to": "531",
+            "fromBearing": 34.33396,
+            "toBearing": -9.89272,
+            "angle": -44.22668
+        },
+        {
+            "atGeometry": "POINT(5.45308 51.10967)",
+            "distance": 50939.3882451,
+            "using": "Broekstraat",
+            "at": null,
+            "to": "531",
+            "fromBearing": -90,
+            "toBearing": -6.713848,
+            "angle": 83.28615
+        },
+        {
+            "atGeometry": "POINT(5.45344 51.11392)",
+            "distance": 51414.3971,
+            "using": "Broekstraat",
+            "at": null,
+            "to": "531",
+            "fromBearing": 22.71008,
+            "toBearing": -22.70953,
+            "angle": -45.41961
+        },
+        {
+            "atGeometry": "POINT(5.44811 51.12149)",
+            "distance": 52339.702,
+            "using": "Broekstraat",
+            "at": null,
+            "to": "531",
+            "fromBearing": -19.42974,
+            "toBearing": -28.1965,
+            "angle": -8.76676
+        },
+        {
+            "atGeometry": "POINT(5.44626 51.12361)",
+            "distance": 52608.801,
+            "using": "Kruisstraat",
+            "at": "531",
+            "to": "530",
+            "fromBearing": -29.78081,
+            "toBearing": -18.2512,
+            "angle": 11.52961
+        },
+        {
+            "atGeometry": "POINT(5.44753 51.1254)",
+            "distance": 52860,
+            "using": "Kruisstraat",
+            "at": null,
+            "to": "530",
+            "fromBearing": -4.485795,
+            "toBearing": 34.62034,
+            "angle": 39.106135
+        },
+        {
+            "atGeometry": "POINT(5.44886 51.12612)",
+            "distance": 52986.305,
+            "using": "Kloosterveld",
+            "at": null,
+            "to": "530",
+            "fromBearing": 7.154442,
+            "toBearing": -28.27798,
+            "angle": -35.43243
+        },
+        {
+            "atGeometry": "POINT(5.44835 51.12657)",
+            "distance": 53050.4132,
+            "using": "Kloosterveld",
+            "at": null,
+            "to": "530",
+            "fromBearing": -21.77093,
+            "toBearing": 25.20642,
+            "angle": 46.97735
+        },
+        {
+            "atGeometry": "POINT(5.45168 51.12865)",
+            "distance": 53380.9287,
+            "using": "Kloosterveld",
+            "at": null,
+            "to": "530",
+            "fromBearing": 55.54721,
+            "toBearing": 66.29363,
+            "angle": 10.74642
+        },
+        {
+            "atGeometry": "POINT(5.45473 51.12939)",
+            "distance": 53610.6009,
+            "using": "Wittesteenstraat",
+            "at": null,
+            "to": "530",
+            "fromBearing": 76.05346,
+            "toBearing": -11.64354,
+            "angle": -87.697
+        },
+        {
+            "atGeometry": "POINT(5.45449 51.13041)",
+            "distance": 53724.9657,
+            "using": "Zuidervest",
+            "at": null,
+            "to": "530",
+            "fromBearing": 11.81495,
+            "toBearing": 91.96233,
+            "angle": 80.14737
+        },
+        {
+            "atGeometry": "POINT(5.45742 51.13065)",
+            "distance": 53941.9471,
+            "using": "Zuidervest",
+            "at": null,
+            "to": "530",
+            "fromBearing": 34.61736,
+            "toBearing": 16.32289,
+            "angle": -18.29447
+        },
+        {
+            "atGeometry": "POINT(5.45755 51.13105)",
+            "distance": 53988.28056,
+            "using": "Oudestraat",
+            "at": null,
+            "to": "530",
+            "fromBearing": 12.38771,
+            "toBearing": -94.20611,
+            "angle": -106.5938
+        },
+        {
+            "atGeometry": "POINT(5.45595 51.13112)",
+            "distance": 54102.4496,
+            "using": "Markt",
+            "at": null,
+            "to": "530",
+            "fromBearing": -62.87821,
+            "toBearing": -39.76039,
+            "angle": 23.11782
+        },
+        {
+            "atGeometry": "POINT(5.45477 51.13201)",
+            "distance": 54231.2998,
+            "using": "Markt",
+            "at": null,
+            "to": "530",
+            "fromBearing": -38.81733,
+            "toBearing": null,
+            "angle": null
+        }
+    ],
+    "statistics": {
+        "match": 1,
+        "routing": {
+            "cyclingNodes": 1
+        },
+        "roadCondition": {
+            "paved": {
+                "good": 0.89786312187109,
+                "bad": 0.0090508762021323
+            },
+            "unpaved": {
+                "good": 0.0016812631658368,
+                "bad": 0
+            },
+            "unknown": 0.090366349138149,
+            "google": "?AifRAkb@@g|EAiT@etAAiT@e~e@Am^Bc`FAqm`B@a}KA}ygC@ixw@Aq}W@i}GA_vjA@_q_@Acjr@@izc@AayeDAox@@ogmCAwU@oxr@CchBBs`o@@mlIAc|eDAkaB@u_BAc~E@mS@c`@AaQAcQB{^Cic@@ctw@@i}IAcyuS@"
+        },
+        "cobblestone": {
+            "score": 0
+        },
+        "cycleway": {
+            "score": 0.16354139389174,
+            "google": "??svLAunD@e~OAeoE@_buIA}~J@sjRA_vjA@_q_@AamA@{fjGAibaC@cg\\AwqA@s}RAchB@{|pEA{qB@sDAedA@kbHAsnB@u_BA}zC@ebAAmS@c`@Aec@@{^Aic@@mhBAwmE@upFAafB@u{^AofC@ytaAAoeH@}iyHAapR@}rlCAwrT@"
+        },
+        "carFree": {
+            "score": 0.11748177959682,
+            "google": "??gd_LA_vjA@}fmHAojrA@coBAufj@@oxr@AchB@}}_FAsnB@y~HAmS@c`@Aec@@{^Aic@@kecRAwmP@"
+        },
+        "urban": {
+            "score": 0.17186445311881,
+            "google": "?Asur@@wuzFAu`U@}qq@A}c^@wllEAqxX@o|cKAawm@@ynb@AgoD@ua`AAkee@@c`@Aec@@{^Amxx@@ytaAA}fE@ytwDAiuC@oymJAask@@"
+        },
+        "nature": {
+            "score": 0.83806427216889,
+            "google": "??sur@Akb_G@atPA}qq@@}c^AwllE@qxXAo|cK@awm@Aynb@@goDAua`A@um_BA{hcG@iuCAe|uJ@"
+        },
+        "water": {
+            "score": 0.29704009439258,
+            "google": "??aunDAmwT@sooHCs}EB}ufBAcnlM@q|nGC}fE@cmPAmlC@ev[@kio@Ag}O@uy~BAkpQA_|KB"
+        },
+        "traffic": {
+            "score": 0.023304444560393,
+            "google": "??svLAunD@kopFAg|A@wcxBAivT@g|tBAamA@k{gTAu_B@}e\\AafB@_yeBAoeH@eucDAgaRCcm@D_a}FAiT@aqb@A_dC@qxcBAchH@"
+        },
+        "noise": {
+            "score": 0.13049865099668
+        },
+        "accessibility": {
+            "score": 1,
+            "google": "?A}kae@@c`@Aec@@{^A{pzU@"
+        },
+        "bearing": "east",
+        "colaScore": 1
+    },
+    "segments": [
+        [
+            5.45479,
+            51.13199,
+            38
+        ],
+        [
+            5.44808,
+            51.13291,
+            38
+        ],
+        [
+            5.44384,
+            51.13539,
+            38
+        ],
+        [
+            5.43572,
+            51.13791,
+            38
+        ],
+        [
+            5.42985,
+            51.14217,
+            38
+        ],
+        [
+            5.43345,
+            51.14743,
+            38
+        ],
+        [
+            5.44115,
+            51.16412,
+            38
+        ],
+        [
+            5.44328,
+            51.16801,
+            38
+        ],
+        [
+            5.44097,
+            51.17167,
+            38
+        ],
+        [
+            5.43989,
+            51.17913,
+            38
+        ],
+        [
+            5.43986,
+            51.18278,
+            38
+        ],
+        [
+            5.43822,
+            51.18617,
+            38
+        ],
+        [
+            5.44092,
+            51.18937,
+            38
+        ],
+        [
+            5.44279,
+            51.19188,
+            38
+        ],
+        [
+            5.44842,
+            51.19551,
+            38
+        ],
+        [
+            5.45391,
+            51.19326,
+            38
+        ],
+        [
+            5.46868,
+            51.1981,
+            38
+        ],
+        [
+            5.47927,
+            51.19728,
+            38
+        ],
+        [
+            5.4849,
+            51.20284,
+            38
+        ],
+        [
+            5.48989,
+            51.20635,
+            38
+        ],
+        [
+            5.49836,
+            51.20723,
+            38
+        ],
+        [
+            5.50588,
+            51.21073,
+            38
+        ],
+        [
+            5.52001,
+            51.21531,
+            38
+        ],
+        [
+            5.52788,
+            51.2118,
+            38
+        ],
+        [
+            5.53777,
+            51.204,
+            38
+        ],
+        [
+            5.5453,
+            51.19827,
+            38
+        ],
+        [
+            5.5582,
+            51.18818,
+            38
+        ],
+        [
+            5.56464,
+            51.18643,
+            38
+        ],
+        [
+            5.56399,
+            51.1889,
+            38
+        ],
+        [
+            5.56861,
+            51.18683,
+            38
+        ],
+        [
+            5.58142,
+            51.17914,
+            38
+        ],
+        [
+            5.5979,
+            51.17385,
+            38
+        ],
+        [
+            5.60982,
+            51.16407,
+            38
+        ],
+        [
+            5.6081,
+            51.16207,
+            38
+        ],
+        [
+            5.61215,
+            51.14765,
+            38
+        ],
+        [
+            5.62029,
+            51.14149,
+            38
+        ],
+        [
+            5.62248,
+            51.13937,
+            38
+        ],
+        [
+            5.61656,
+            51.13451,
+            38
+        ],
+        [
+            5.6156,
+            51.13126,
+            38
+        ],
+        [
+            5.60742,
+            51.13003,
+            38
+        ],
+        [
+            5.60143,
+            51.1331,
+            38
+        ],
+        [
+            5.59625,
+            51.13618,
+            38
+        ],
+        [
+            5.597,
+            51.13731,
+            38
+        ],
+        [
+            5.59748,
+            51.14092,
+            38
+        ],
+        [
+            5.59779,
+            51.1419,
+            38
+        ],
+        [
+            5.59444,
+            51.14301,
+            38
+        ],
+        [
+            5.58896,
+            51.14834,
+            38
+        ],
+        [
+            5.58456,
+            51.1488,
+            38
+        ],
+        [
+            5.57446,
+            51.15305,
+            38
+        ],
+        [
+            5.56243,
+            51.15223,
+            38
+        ],
+        [
+            5.55868,
+            51.154,
+            38
+        ],
+        [
+            5.55143,
+            51.1538,
+            38
+        ],
+        [
+            5.54769,
+            51.15345,
+            38
+        ],
+        [
+            5.54101,
+            51.15449,
+            38
+        ],
+        [
+            5.5308,
+            51.15334,
+            38
+        ],
+        [
+            5.52209,
+            51.14741,
+            38
+        ],
+        [
+            5.50705,
+            51.13596,
+            38
+        ],
+        [
+            5.5038,
+            51.1325,
+            38
+        ],
+        [
+            5.51823,
+            51.12935,
+            38
+        ],
+        [
+            5.50949,
+            51.12398,
+            38
+        ],
+        [
+            5.50142,
+            51.12401,
+            38
+        ],
+        [
+            5.49515,
+            51.12247,
+            38
+        ],
+        [
+            5.48925,
+            51.11683,
+            38
+        ],
+        [
+            5.48703,
+            51.11386,
+            38
+        ],
+        [
+            5.47877,
+            51.11439,
+            38
+        ],
+        [
+            5.46805,
+            51.10801,
+            38
+        ],
+        [
+            5.46053,
+            51.10562,
+            38
+        ],
+        [
+            5.45309,
+            51.10967,
+            38
+        ],
+        [
+            5.44811,
+            51.12149,
+            38
+        ],
+        [
+            5.44753,
+            51.1254,
+            38
+        ],
+        [
+            5.45168,
+            51.12865,
+            38
+        ],
+        [
+            5.45742,
+            51.13065,
+            38
+        ],
+        [
+            5.45477,
+            51.13201,
+            38
+        ]
+    ],
+    "pois": [
+        {
+            "location": {
+                "id": 49293744,
+                "type": {
+                    "id": 25,
+                    "name": {
+                        "nl": "Toeristische informatie"
+                    }
+                },
+                "address": {
+                    "id": 7777932,
+                    "street": "Markt 3",
+                    "number": null,
+                    "box": null,
+                    "city": "Peer",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.181,
+                "distance": 54216,
+                "name": {
+                    "nl": "Toerisme Peer"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.4547 51.131641)"
+                }
+            },
+            "text": {
+                "id": 3015959,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "<a href=\"https://www.routeyou.com/location/view/49293744.nl?toptext=3015959\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Toerisme Limburg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 49293928,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 7777589,
+                    "street": "Vrijthof 6",
+                    "number": null,
+                    "box": null,
+                    "city": "Bree",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.575,
+                "distance": 33874,
+                "name": {
+                    "nl": "Café Den Augustijner"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.5977885799153 51.141593621572)"
+                }
+            },
+            "text": {
+                "id": 3016195,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "In onze zaak in het centrum van Bree kan je : ...\n* iedere dag terecht\n* kiezen uit een uitgebreide drankkaart\n* verse soep of boterhammen eten\n* meegebracht eten nuttigen\n* je fiets zien vanop het terras\n* je elektrische fiets opladen\n* kleine herstellingen doen aan je fiets\n* gebruik maken van gratis Wi-Fi\n* sport volgen op 3 TV-schermen\n* ... genieten<br/><br/><a href=\"https://www.routeyou.com/location/view/49293928.nl?toptext=3016195\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Toerisme Limburg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2116431,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "8416b82166ea52e7ab21dfc97bb8e8f3_1567978276dbe3c85fc3dc31d215b5f2bfb194c3.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Toerisme Limburg"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/8416b82166ea52e7ab21dfc97bb8e8f3_1567978276dbe3c85fc3dc31d215b5f2bfb194c3.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49294040,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "en": "Pub",
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 7777650,
+                    "street": "Burgemeester Voetslaan 6",
+                    "number": null,
+                    "box": null,
+                    "city": "Peer",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.514,
+                "distance": 5791,
+                "name": {
+                    "nl": "Run Inn fiets- & biercafé",
+                    "en": "Run Inn Bike & Beer Pub"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.4490360171967 51.172363791702)"
+                }
+            },
+            "text": {
+                "id": 3016347,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Het Bistro fietscafé Run Inn is gehuisvest in de oudste woning van Kleine-Brogel. Ideale plaats voor wie wil verpozen met een frisse pot gerstenat, een dampend kopje koffie of iets pittiger.<br/><br/><a href=\"https://www.routeyou.com/location/view/49294040.nl?toptext=3016347\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Toerisme Limburg",
+                        "nl": "Toerisme Limburg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2116582,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "707d96aa6dadaa4199633bff9322f561_69856024b0c90017b79c5cd9a093d1849e84d6fd.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Toerisme Limburg"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/707d96aa6dadaa4199633bff9322f561_69856024b0c90017b79c5cd9a093d1849e84d6fd.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 51089060,
+                "type": {
+                    "id": 310,
+                    "name": {
+                        "nl": "B&B"
+                    }
+                },
+                "address": {
+                    "id": 7777523,
+                    "street": "Oudeweg 3",
+                    "number": null,
+                    "box": null,
+                    "city": "Bocholt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.148,
+                "distance": 22987,
+                "name": {
+                    "nl": "Dageraad B&B"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.5778287208509 51.185835363721)"
+                }
+            },
+            "text": {
+                "id": 7424266,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Op loopafstand van het prachtige kanaal Bocholt-Herentals en het centrum, vind je de idyllische B&amp;B Dageraad.\nSlaap in één van de 3 stijlvolle, landelijk ingerichte hoevekamers. Geniet zowel winter als zomer van het sfeervolle buitenterras. Verwen jezelf in de gezellige ontbijtruimte met een tapasontbijt van lokale streekproducten dat aangepast kan worden voor vegetariërs en veganisten.\nB&amp;B Dageraad, het vertrekpunt voor wandelingen, fietstochten of uitstappen … Kortom de ideale plek om volledig tot rust te komen.<br/><br/><a href=\"https://www.routeyou.com/location/view/51089060.nl?toptext=7424266\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 5697632,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "c85374cb4ba4139c5481b950e6c41d66_b0cfc0e19360e6cdd62f41b1c3e8eefff1046b24.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Toerisme Limburg"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/c85374cb4ba4139c5481b950e6c41d66_b0cfc0e19360e6cdd62f41b1c3e8eefff1046b24.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 50023579,
+                "type": {
+                    "id": 25,
+                    "name": {
+                        "nl": "Toeristische informatie"
+                    }
+                },
+                "address": {
+                    "id": 7777906,
+                    "street": "Vrijthof 10",
+                    "number": null,
+                    "box": null,
+                    "city": "Bree",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.157,
+                "distance": 33797,
+                "name": {
+                    "nl": "Toerisme Bree"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.5968924 51.141732)"
+                }
+            },
+            "text": {
+                "id": 7424366,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "<a href=\"https://www.routeyou.com/location/view/50023579.nl?toptext=7424366\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 49293607,
+                "type": {
+                    "id": 110,
+                    "name": {
+                        "en": "Art museum",
+                        "nl": "Kunstmuseum"
+                    }
+                },
+                "address": {
+                    "id": 7777886,
+                    "street": "Markt 3",
+                    "number": null,
+                    "box": null,
+                    "city": "Peer",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.775,
+                "distance": 172,
+                "name": {
+                    "nl": "Bruegelmuseum",
+                    "en": "Bruegel Museum"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.4530145 51.13295)"
+                }
+            },
+            "text": {
+                "id": 7424435,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Pieter Bruegel de Oude maakte in zijn leven meer dan 40 schilderijen die heel divers van onderwerp en opzet zijn: boerentaferelen en drukke pleinen, maar ook Bijbelvoorstellingen en beeltenissen van hel en oorlog. De originele schilderijen zijn over de hele wereld verspreid. Maar in het Peerse Bruegelhuis kan je zijn volledige oeuvre in één keer aanschouwen: een unicum!\n\nHoe? Met een verrassende kortfilm -met sprekers als fotograaf Michiel Hendrickx en kunstenaar Koen Vanmechelen- wordt onderzocht of de schilder werkelijk in Peer geboren is. De film gaat op een originele manier dieper in op zijn totale oeuvre en legt de link met het Peer van vandaag.\n\nIndividueel kan je deze tentoonstelling bezoeken met een audiogids die op een levendige en originele manier vertelt over de diverse werken. Voor een bezoek in gezinsverband, hebben we een zoektocht met leuke doe-activiteiten voor de kinderen. Kom je in groepsverband (enkel op aanvraag en maximum 20 personen per groep), dan regelen we een erkende gids die je meeneemt naar het tijdperk van Bruegel.\n\nDe film, de audiogidsen en de familiezoektocht zijn beschikbaar in het Nederlands, Frans, Duits en Engels. Duur: +/- 1,30 u.\n\nAdres Toerisme Peer: \nMarkt 3 bus 2 in 3990 Peer\n\nOpeningsuren:\n\nVan 1 april tot 30 september:\nelke werkdag van 9 - 12.30 u. &amp; van 13.30 - 17 u.\nelke zaterdag en zondag van 10 - 12.30 u. &amp; van 13.00 - 17 u.\n\nVan 1 oktober tot 31 maart:\nelke werkdag van 9 - 12.30 u. &amp; van 13.30 - 17 u.\nelke zaterdag en zondag van 11 - 15 u.<br/><br/><a href=\"https://www.routeyou.com/location/view/49293607.nl?toptext=7424435\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6317611,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "e61bcf2d567af9c4e9d5cde12a9f9eee_39c6a5db6a58d2fe54994996cf720508d27828c0.png"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/e61bcf2d567af9c4e9d5cde12a9f9eee_39c6a5db6a58d2fe54994996cf720508d27828c0.png"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 51877207,
+                "type": {
+                    "id": 288,
+                    "name": {
+                        "en": "Rent a bicycle",
+                        "nl": "Fietsverhuur"
+                    }
+                },
+                "address": {
+                    "id": 7777482,
+                    "street": "Monshofstraat 9",
+                    "number": null,
+                    "box": null,
+                    "city": "Bocholt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.502,
+                "distance": 37811,
+                "name": {
+                    "nl": "Fietsverhuur De Watermolen",
+                    "en": "Bicycle rental De Watermolen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.5589067486877 51.153995942613)"
+                }
+            },
+            "text": {
+                "id": 8270668,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Direct gelegen aan het Grensoverschrijdend Fietsroutenetwerk Kempen en Maasland.  Het fietsroute netwerk is 1850 km lang met meer dan 800 km autovrije wegen. Via het knooppuntensysteem kan je zelf de afstand van je tocht doorheen onze prachtige natuur samenstellen. Diverse andere routes zijn beschikbaar alsook enkele thema routes.  Het **** hotel beschikt over een overdekte en afsluitbare fietsenstalling. Wij beschikken over 23 eigen fietsen.<br/><br/><a href=\"https://www.routeyou.com/location/view/51877207.nl?toptext=8270668\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6317520,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "6abf124bcf8fc0fa27662a24ccdc3085_4441b507ff7fda9ebac1ff9321e8816547b491ce.png"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/6abf124bcf8fc0fa27662a24ccdc3085_4441b507ff7fda9ebac1ff9321e8816547b491ce.png"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 51877233,
+                "type": {
+                    "id": 288,
+                    "name": {
+                        "nl": "Fietsverhuur"
+                    }
+                },
+                "address": {
+                    "id": 7777504,
+                    "street": "Markt 3",
+                    "number": null,
+                    "box": null,
+                    "city": "Peer",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.397,
+                "distance": 54224,
+                "name": {
+                    "nl": "Fietsverhuur Peer"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.454602 51.131655)"
+                }
+            },
+            "text": {
+                "id": 8270701,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Geen zin om zelf je fiets mee te sleuren? Geen probleem! Bij Toerisme Peer in Peer-centrum beschikken we over 2 gewone en 2 elektrische fietsen. \n\nInfo en reservaties fietsverhuur: https://www.peer.be/fiets-huren-toeristisch-onthaal<br/><br/><a href=\"https://www.routeyou.com/location/view/51877233.nl?toptext=8270701\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6317553,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "33e477674983c0dacb10d6b69c0dab79_328b6d4472dd9988c779ca8f659221ec34d1f070.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/33e477674983c0dacb10d6b69c0dab79_328b6d4472dd9988c779ca8f659221ec34d1f070.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 51877234,
+                "type": {
+                    "id": 288,
+                    "name": {
+                        "nl": "Fietsverhuur"
+                    }
+                },
+                "address": {
+                    "id": 7777503,
+                    "street": "Erperheidestraat 2",
+                    "number": null,
+                    "box": null,
+                    "city": "Peer",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.482,
+                "distance": 45541,
+                "name": {
+                    "nl": "Cycle Center Erperheide"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.5058143 51.1270683)"
+                }
+            },
+            "text": {
+                "id": 8270702,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "In het Cycle Center zijn gloednieuwe Gazelle fietsen te vinden. Een topmerk, voor een topvakantie. Ook andere fietsen met dezelfde nieuwe kwaliteit zijn hier beschikbaar: stevige mountainbikes, stoere kinderfietsen (eventueel met zijwieltjes). Je huurt ze heel gemakkelijk bij het Cycle Center. \nE-bikes kan je ook huren. Hiervoor dien je te reserveren.\nVoor de kinderen zijn er Kids Safari jeeps en Kids Haven bootjes te huur.<br/><br/><a href=\"https://www.routeyou.com/location/view/51877234.nl?toptext=8270702\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6317554,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "5a5ad58b0aec47c1787e60f5f5413e42_3aff9595b78566d21256317df2ee11d844348a40.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/5a5ad58b0aec47c1787e60f5f5413e42_3aff9595b78566d21256317df2ee11d844348a40.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 51868987,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 7777801,
+                    "street": "Steenweg Op Wijchmaal 3",
+                    "number": null,
+                    "box": null,
+                    "city": "Peer",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.423,
+                "distance": 454,
+                "name": {
+                    "nl": "De 3 Swaentjes"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.449136 51.1326049)"
+                }
+            },
+            "text": {
+                "id": 8694066,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Bij de 3 Swaentjes kun je terecht voor een lekker hapje en je kunt er even tot rust komen op het mooie en gezellige tuinterras.\nUniek tuinterras met buitenveranda.<br/><br/><a href=\"https://www.routeyou.com/location/view/51868987.nl?toptext=8694066\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6725925,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "b6d36c3056c7bb412e1ea983082ae0f1-a18e0832d41cd5b6dfa4db48d058941a0a3e48ec.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/b6d36c3056c7bb412e1ea983082ae0f1-a18e0832d41cd5b6dfa4db48d058941a0a3e48ec.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 52259601,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 7777804,
+                    "street": "Deusterstraat 89",
+                    "number": null,
+                    "box": null,
+                    "city": "Peer (grote-brogel)",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.507,
+                "distance": 46833,
+                "name": {
+                    "nl": "Fietscafé BABEL"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.4928164 51.11758)"
+                }
+            },
+            "text": {
+                "id": 8694069,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "We zijn een fietscafé waar je tot rust kan komen, een Zen momentje.\nAangename omgeving en gezellige inrichting.\nEen goed kopje koffie of thee, en onze streekbieren maken het verschil.\nWij spreken en begrijpen ook verschillende talen.\nUiteraard - Nederlands. Duits (Deutsch), Engels (English) Spaans (Espanol), Italiaans (Italiano).<br/><br/><a href=\"https://www.routeyou.com/location/view/52259601.nl?toptext=8694069\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6725927,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "bebecd49aff89bc8fb2e43504ffae505-290a3572990cd5e1ec236daf21f9c8b6e88c776a.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/bebecd49aff89bc8fb2e43504ffae505-290a3572990cd5e1ec236daf21f9c8b6e88c776a.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49095753,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": 7777973,
+                    "street": "Brugstraat 76",
+                    "number": null,
+                    "box": null,
+                    "city": "Bree",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.673,
+                "distance": 29518,
+                "name": {
+                    "nl": "Mussenburghof"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.61872426773 51.141929603296)"
+                }
+            },
+            "text": {
+                "id": 8694165,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Gerestaureerde langgevelhoeve uit 1895, rustig gelegen aan de Zuid-Willemsvaart, vlak aan het fietsroutenetwerk tussen knooppunt 7 en 196. Alle kamers hebben bad of douche en toilet. De maaltijden worden bereid door gastheer-kok Jan met verse streekproducten. Eigen traiteurdienst. Wandel- of fietsarrangementen mogelijk (2 overnachtingen in halfpension met gratis aperitief en een culinaire verrassing per kamer). Paardenweiden en -stallingen beschikbaar. Sinds 2007: 9 ruime themakamers. Opladen elektrische fietsen mogelijk (gratis).<br/><br/><a href=\"https://www.routeyou.com/location/view/49095753.nl?toptext=8694165\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6726051,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "17418bd9c1a5be96adaab4f84d68e16e-dff2e12936c3707fdaa7c59a7ad9152ac1b4ff24.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/17418bd9c1a5be96adaab4f84d68e16e-dff2e12936c3707fdaa7c59a7ad9152ac1b4ff24.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49163024,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": 7777974,
+                    "street": "Roterstraat 62",
+                    "number": null,
+                    "box": null,
+                    "city": "Bree",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.237,
+                "distance": 31911,
+                "name": {
+                    "nl": "'t Welthof"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.6061537298508 51.131893184472)"
+                }
+            },
+            "text": {
+                "id": 8694166,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "'t Welthof is een akkerbouwbedrijf en paardenfokkerij, verbouwd in een Engels landelijke stijl, in een groene en rustige omgeving, op wandelafstand van het gezellige centrum Bree.  Het verblijf is gelegen aan het fietsroutenetwerk, nabij het ruiterroutenetwerk en in de nabijheid is er gelegenheid tot wandelen, tennis, zwemmen, paardrijden, winkelen en restaurantbezoek.\nJe kunt er gratis genieten van wifi.<br/><br/><a href=\"https://www.routeyou.com/location/view/49163024.nl?toptext=8694166\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6726052,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "657c250208c3ff7a3fd34aab2963dc77-6a7eaebd92fe2fed51237bc2574c94bad42b1fa3.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/657c250208c3ff7a3fd34aab2963dc77-6a7eaebd92fe2fed51237bc2574c94bad42b1fa3.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 52259683,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": 7778048,
+                    "street": "Noordervest 13",
+                    "number": null,
+                    "box": null,
+                    "city": "Peer",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.514,
+                "distance": 220,
+                "name": {
+                    "nl": "In 't groene woud"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.4522391585394 51.134210527077)"
+                }
+            },
+            "text": {
+                "id": 8694237,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "In ’t groene woud heeft alles in huis om er van een heerlijke vakantie te genieten. Vanaf het binnenkomen voelt het als thuiskomen, maar dan op vakantie. Ons huis biedt plaats aan 9 gasten, met nog ruimte voor een extra baby-/peuterbedje. Het is dan ook uitgerust met alles wat je denkt nodig te hebben en meer.\n\nHet huis ligt op wandelafstand van het gezellige stadscentrum van Peer. De bakker en slager liggen om de hoek. Een hapje eten, iets drinken, cultuur of sport,… het behoort allemaal tot de mogelijkheden in Peer. In ’t groene woud is daarnaast ook de ideale uitvalsbasis voor een actieve fiets- en wandelvakantie. We liggen dan ook vlakbij de wandelroutes en het fietsroutenetwerk van Limburg en hebben een ruime afsluitbare fietsberging.\n\nOnze open keuken is volledig uitgerust met onder andere een vaatwasser, een oven, microgolfoven en inductiekookplaat, waar je een heerlijk ontbijt of maaltijd kan klaarmaken. \n\nHet middelpunt van ons huis is de eethoek die baadt in het licht en uitkijkt op de tuin. Aan onze grote eettafel is er plaats voor iedereen! Of het nu is om te genieten van lekker eten of om er een spel te spelen, het kan allemaal. Na het avondeten kan je je nestelen in de zithoek en genieten van een goed boek of een spannende film met een glaasje wijn.\n\nDe kinderen en jeugd amuseren zich ondertussen in de speel-en chillhoek op de mezzanine. Strips, gezelschapsspellen,... alles is aanwezig. Wedden dat ze er niet meer weg willen?\n\nIn onze knus ingerichte slaapkamers, zorgen wij voor fris opgemaakte bedden. Heerlijk toch! \nEen ontspannend bad of verkwikkende douche is mogelijk in onze fijne badkamer.\n\nOok buiten is het goed toeven. Wat denk je van een koffie in de ochtendzon? Of genieten van het samenzijn aan onze grote tuintafel, terwijl de kinderen spelen in de omheinde tuin op de trampoline of de schommel. Uiteraard kan je ook een spelletje petanque of darts spelen!\n\nWelkom in onze vakantiewoning In ’t groene woud, waar bijzondere herinneringen ontstaan<br/><br/><a href=\"https://www.routeyou.com/location/view/52259683.nl?toptext=8694237\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6726123,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "ae1da83577bce2b9f48e1037a4bbbb7d-8cc60495b67ddaacd3f5aa1d97d1481eeaeeb6cc.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/ae1da83577bce2b9f48e1037a4bbbb7d-8cc60495b67ddaacd3f5aa1d97d1481eeaeeb6cc.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 51155918,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": 7778055,
+                    "street": "Herenthoek 7",
+                    "number": null,
+                    "box": null,
+                    "city": "Pelt (neerpelt)",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.571,
+                "distance": 8012,
+                "name": {
+                    "nl": "De Zwaluwhoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.4391697018057 51.18595558652)"
+                }
+            },
+            "text": {
+                "id": 8694244,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "De Zwaluwhoeve staat voor duurzaamheid in combinatie met comfort.\nDe vakantiewoning van de familie Vaesen is een schoolvoorbeeld van luxe in combinatie met ecologie. En dat pal in het groen Nationaal Park Bosland.\nDaarmee is De Zwaluwhoeve ook meteen een ideale uitvalsbasis voor wandelingen en fietsroutes langs elzenbroekbossen, hooilanden, visvijvers en rietvelden.\n\nGrenzend aan een fiets-, wandel-, ruiter-, men- en mountainbikeroute vind je sinds kort vakantiewoning De Zwaluwhoeve. Omgeven door hectaren rustgevend groen. Noem het gerust een natuurparel.\nDe Zwaluwhoeve telt 8 luxekamers met telkens een ruime badkamer, flatscreen-tv, minikoelkast en kluis. Koppels, gezinnen en grote gezelschappen vinden hier alles wat ze nodig hebben.\nZowel op het gelijkvloers als op de eerste verdieping is er een gezellige zitruimte inclusief grote flatscreen met netflix en goed uitgeruste keuken. Op de zolderverdieping is er nog een polyvalente ruimte met alle nodige faciliteiten. Twee gezellige terrassen bieden privacy en geven uit op een ruim grasveld waar de allerkleinsten kunnen ravotten.\nParkeermogelijkheden zijn er meer dan voldoende! De Zwaluwhoeve is kortom de uitgelezen plek om te genieten, te onthaasten, fijne herinneringen aan te maken.\n\nDe luxe die je binnen overvalt, zit eveneens in de gekozen bouwmaterialen.\nZowel de muren als het dak zijn uitstekend geïsoleerd.\nFossiele brandstoffen? Die zijn er niet.\nZonnepanelen wekken de stroom op. Plafondverwarming in combinatie met twee warmtepompen zorgen voor behaaglijke temperaturen en warm water. Regenwater wordt gerecupereerd, en spoelwater gezuiverd. Neem daar nog het driedubbele glas, de ledverlichting en een domoticasysteem met aanwezigheidssensoren bij en je beseft waarom de ecologische voetafdruk minimaal is.\nZonder in te boeten aan comfort! Integendeel.<br/><br/><a href=\"https://www.routeyou.com/location/view/51155918.nl?toptext=8694244\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6726129,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "6e1cfbfdfa6263d7211bc5116d935eee-6832747e0e0616e426666723eb011faaf6aa75ca.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/6e1cfbfdfa6263d7211bc5116d935eee-6832747e0e0616e426666723eb011faaf6aa75ca.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 52259526,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 7778101,
+                    "street": "Kerkstraat 8",
+                    "number": null,
+                    "box": null,
+                    "city": "Bree (beek)",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.404,
+                "distance": 26871,
+                "name": {
+                    "nl": "De 4 Heerlijkheden - Café"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.6035361 51.1548342)"
+                }
+            },
+            "text": {
+                "id": 8694286,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Café \"De 4 Heerlijkheden\" is gelegen naast het prachtige kerkje van Beek in Bree.\nDe café naam verwijst naar de tijd van het Ancien Regime toen de Stad Bree samen met de omliggende dorpen Gerdingen, Reppel en Beek Dorpen van Overheide waren en samen de 4 Crispelen of 4 Heerlijkheden vormden.\n4 van de vele heerlijkheden die we in ons café serveren zijn: de vaak bekroonde streekbieren van Brouwerij Cornelissen, Rombouts-koffie en verschillende latte's met fluweel melkschuim, heerlijke cava en huiswijnen, taart en fingerfood.\nWe zijn met de fiets makkelijk te bereiken vanaf de fietsknooppunten 7, 195, 196 en 214.\nHet dichtsbijzijnde knooppunt ligt op 600m van de zaak.\nMet het openbaar vervoer kan je ons bereiken via Lijn 8 Pelt - Genk en belbus 746 Bocholt - Bree. De halte ligt op amper 50 meter van de zaak.\nVoor wie met de auto komt, hebben we een ruime parkeerplaats.\nWe verwelkomen je graag in ons gezellig interieur of op ons zonnig terras.<br/><br/><a href=\"https://www.routeyou.com/location/view/52259526.nl?toptext=8694286\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 52259599,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 7778138,
+                    "street": "Markt 33",
+                    "number": null,
+                    "box": null,
+                    "city": "Peer",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.473,
+                "distance": 54195,
+                "name": {
+                    "nl": "Vanille & Co"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.4552073 51.131905)"
+                }
+            },
+            "text": {
+                "id": 8694310,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "Vanille &amp; Co maakt dagelijks heerlijk vers ambachtelijk ijs op basis van verse hoevemelk en sorbets met heel veel fruit. \nHet beste adres voor een lekkere verse Brusselse wafel, of voor een verfrissend drankje, of een goeie koffie, centraal op de markt in Peer.<br/><br/><a href=\"https://www.routeyou.com/location/view/52259599.nl?toptext=8694310\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 6726207,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "7367be6c5b9da6a7fb529c6ed31e212c-221558e859957427c9129d2b31b17fa1908a15bc.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/7367be6c5b9da6a7fb529c6ed31e212c-221558e859957427c9129d2b31b17fa1908a15bc.jpg"
+                    }
+                }
+            }
+        }
+    ],
+    "languages": [
+        "nl"
+    ],
+    "lengthRelative": 0.7
+}

@@ -1,0 +1,4472 @@
+{
+    "scoreCalculated": 0.68601185,
+    "scoreAuthor": null,
+    "payable": false,
+    "updatedDate": "2023-10-22 12:09:38.411009+00",
+    "autoPois": {
+        "en": true
+    },
+    "id": 6803927,
+    "length": 64253,
+    "begin": {
+        "wkt": "POINT(4.4729 51.12793)"
+    },
+    "beginAddress": "Holle Weg, Kontich, Belgium",
+    "end": {
+        "wkt": "POINT(4.50349 51.12434)"
+    },
+    "endAddress": "Bouwenstraat, Lint, Belgium",
+    "centroid": {
+        "wkt": "POINT(4.55400584811729 51.0583574412715)"
+    },
+    "bounds": {
+        "wkt": "BOX(4.47151 50.99822,4.6552 51.12793)"
+    },
+    "owner": {
+        "id": 478366,
+        "type": {
+            "id": 1
+        },
+        "flag": null,
+        "avatarRevision": 0,
+        "logoRevision": 0,
+        "headerRevision": 0,
+        "privileges": [],
+        "configuration": null,
+        "name": {
+            "en": "Ritchie Mulleman"
+        },
+        "languages": [
+            "en"
+        ],
+        "permission": {
+            "writable": false
+        },
+        "nick": "Ritchie Mulleman"
+    },
+    "type": {
+        "id": 1,
+        "tree": [
+            {
+                "id": 0,
+                "name": {
+                    "en": "All routes"
+                },
+                "languages": [
+                    "en"
+                ]
+            }
+        ],
+        "name": {
+            "en": "Cycle route"
+        },
+        "languages": [
+            "en"
+        ]
+    },
+    "flag": "be",
+    "score": 0.4,
+    "scoreMethod": {
+        "id": 3
+    },
+    "correctness": null,
+    "correctnessMethod": {
+        "id": null
+    },
+    "duration": 12850,
+    "downloadable": false,
+    "inputFormat": {
+        "id": 0,
+        "recording": false
+    },
+    "ascent": {
+        "total": 157,
+        "net": -12,
+        "totalRelative": 0.4
+    },
+    "descent": {
+        "total": 169,
+        "totalRelative": 0.5
+    },
+    "ascendingRate": {
+        "max": 0.02323965,
+        "avg": null,
+        "maxRelative": 0.4,
+        "avgRelative": null
+    },
+    "difficulty": 0.4666666666666666,
+    "difficultyAuthor": null,
+    "permission": {
+        "id": 0,
+        "read": "public",
+        "write": "group",
+        "writable": false
+    },
+    "planner": {
+        "id": 2
+    },
+    "parent": null,
+    "configuration": null,
+    "editedDate": "2020-01-11 09:20:53.607658+00",
+    "createdDate": "2020-01-11 09:20:53.583923+00",
+    "lastReviewDate": null,
+    "otnId": {
+        "en": null
+    },
+    "name": {
+        "en": "Klein Mechelen"
+    },
+    "nameGenerated": {
+        "en": false
+    },
+    "subName": {
+        "en": null
+    },
+    "trackName": {
+        "en": null
+    },
+    "description": {
+        "en": "Klein Mechelen"
+    },
+    "descriptionGenerated": {
+        "en": false
+    },
+    "generatedInfo": {
+        "en": "<span class=\"routeYou_node\">60</span> - <span class=\"routeYou_node\">56</span> - <span class=\"routeYou_node\">25</span> - <span class=\"routeYou_node\">24</span> - <span class=\"routeYou_node\">65</span> - <span class=\"routeYou_node\">98</span> - <span class=\"routeYou_node\">99</span> - <span class=\"routeYou_node\">57</span> - <span class=\"routeYou_node\">64</span> - <span class=\"routeYou_node\">73</span> - <span class=\"routeYou_node\">74</span> - <span class=\"routeYou_node\">15</span> - <span class=\"routeYou_node\">26</span> - <span class=\"routeYou_node\">2</span> - <span class=\"routeYou_node\">17</span> - <span class=\"routeYou_node\">39</span> - <span class=\"routeYou_node\">35</span> - <span class=\"routeYou_node\">36</span> - <span class=\"routeYou_node\">42</span> - <span class=\"routeYou_node\">91</span> - <span class=\"routeYou_node\">56</span> - <span class=\"routeYou_node\">66</span> - <span class=\"routeYou_node\">31</span> - <span class=\"routeYou_node\">27</span> - <span class=\"routeYou_node\">13</span>"
+    },
+    "source": {
+        "name": {
+            "en": null
+        },
+        "uri": {
+            "en": null
+        }
+    },
+    "infoUri": {
+        "en": null
+    },
+    "breadcrumbRegions": [
+        {
+            "id": 47477810,
+            "flag": "be",
+            "type": {
+                "id": 415
+            },
+            "name": {
+                "ca": "Municipi de Kontich",
+                "de": "Gemeinde Kontich",
+                "en": "municipality of Kontich",
+                "es": "Municipio de Kontich",
+                "fr": "Commune de Kontich",
+                "it": "Comune di Kontich",
+                "nl": "Gemeente Kontich"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 52118184,
+            "flag": "be",
+            "type": {
+                "id": 522
+            },
+            "name": {
+                "nl": "Stadsregio Antwerpen"
+            },
+            "languages": [
+                "nl"
+            ]
+        },
+        {
+            "id": 47407873,
+            "flag": "be",
+            "type": {
+                "id": 409
+            },
+            "name": {
+                "ca": "Província d'Antwerp",
+                "de": "Provinz Antwerp",
+                "en": "Province of Antwerp",
+                "es": "Provincia de Antwerp",
+                "fr": "Province d'Anvers",
+                "it": "Provincia di Antwerp",
+                "nl": "Provincie Antwerpen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407865,
+            "type": {
+                "id": 407
+            },
+            "name": {
+                "ca": "Bèlgica",
+                "de": "Belgien",
+                "en": "Belgium",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "nl": "België"
+            },
+            "flag": "be",
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        }
+    ],
+    "viewCount": 5,
+    "viewCountThisMonth": 0,
+    "downloadCount": 2,
+    "geometry": {
+        "google": "q|`wHsrhZxCTnCTbBBzAWjABdC`@|AbA`DrCGYkAaJo@iGLi@JkBHw@N_@rAmB^a@b@Qj@Kd@OnBy@XcBe@uJ?w@k@uPO]YKdDyAvWmLlJmD~`@qH|NwBlCm@`F{@v@Ii@jBlE|GN[lBuBtBiCh@_BOmEYyELuDJm@~B~AhKjCfFQnU}EbN}EZIfNmCLzCzFs@`@_@j@p@|@m@zOwEfDaBlCw@RWnP{ClF@dU^|M`@tLi@jPNPBb@l@bEA~G]dLyA~FaBvAkCjBuDvGuL`KhQsB|EfGbGvGz@GpE|DtDGt@e@jBrBzD~DlJt@xA|AtAtAZtG|@dAKdAg@|AyAfAo@nCFpA?t@?Xd@lExKlBzF~@vDd@I~AwHzAyFn@wBn@mGd@Iz@PlKdM^OjHAFkTT}Ad@u@f@kL?}Lp@\\LsB~@gLFmERcDd@eBtHxKfDoKd@}@^Y`LoF`FmF\\QbBFfCi@m@oGvCIPpAl@ErF`@lCn@zFlEnA^x@WPDj@Ub@c@PB|@_@ZJFRHtGFnCFp@JLNCdFcCh@~DC`BDn@fD|VTm@Zi@`BcBP[RQRANHdC{@|DIxA_Al@{@Zu@FsCE_FLoA^uAl@s@t@g@nCk@hBm@hAgAfAyBp@kCZgDFkGJaCTsBx@cBbAk@VWnAoApBgB`AiApEyIl@eBDkASiCCiA\\cB^cAdBiAlAI`BSbAWl@gAd@sAP{@HeAHiCQoJ?sAFgBH[f@mDSUZcAFWAU@]Xq@Vw@v@uDfAwHv@mC|@k@~AUbAUv@cAZmALwACsCi@uBEsB`@yAfBaFrBcIr@aAlAkAHeAAaEXaAv@s@hA[\\c@^uDXoAnBoFdB{GhE}IpBqDlAmC\\oChAwKKeCwB}OqAuIq@gGDuAx@gCLm@|AoIdAcFv@gE`BaKn@_Dn@mBl@{AR_AEq@_@_AWkAEcDSkCMmCBiCVeCn@wA~AuAnCqAv@kEb@u@v@cARs@NaCRkFJuAv@gC`@eCJmC]_D[_ESwDQuAi@eAe@uBZ}Bz@wC\\{BRqH?yDYeIMWEM{A_Ao@m@Ya@Qk@MeACqBRaA{@{@Ni@NkA[eAcDwGgAqDwAoGwA}EkAyC_@AcBx@kCpBmB_FwFyQM}CUkAmCsEiDoGeCcEw@yB]qBsA|@eEzDkBjDwAmAs@y@a@sGe@aFaAqCYUcBnFcB`J}@c@yBMq@xGa@fDkA|BeBlCWj@L`A`ApNn@jHFnBi@xBcAvAqCzBgCjB_@Xg@lAu@{@qAsDoA_B}@EaAh@cBNq@e@mEiF_@?c@ZaC|Em@mCf@gBPeB@oAc@mDy@cCqByCu@}AaEJq@m@mB|@oE`AqElAuCdAcBv@w@MuAi@]SKm@g@m@k@WkBiDk@wA\\sB~@uE|@oDV{@p@w@nA]xAw@hK_Fm@sAtMnBo@{EmAwHuA{M@iENwGJuEcB_BkBmAgCqBo@oBs@o@kFpAq@H]uAcAqG_CsKoAwGYoAmAk@iBmBiDuF{B_E_AgC}@sFCoA@q@}CyL@kBLuDCu@_IcF{G_GUZwAkA}EmCoA`BwFzJq@uEWgCmI`FaB_GwChCcE~BeAcAmAuE[}@i@rAoEfIiFhJmG{SuBfGyFiTw@r@iBqImA`BmBcEjDiBEqBjFsEiCeKpDmCjUsVgJsd@cDmMsE_S{JjAaHp@cDh@qFcCyAk@}@QqBUaGWwB?iAHaAO_BBiCZw@aMI@JdBa@NcBJgAAaHqA}AbGgBvIStAuAjMe@|CqAdGgDdRyBbH_BhFfA~Aa@z@gAtAkBrG}BtGYPa@Ey@[s@Ew@pCyBdP[v@w@QmBaAa@?i@t@[j@[Sa@c@]RWdDm@rCqA_BsBxCoErH}@tA?b@Xh@Lp@kAvCWx@bBpCEz@Yf@UvB{@`CDf@lDrCzCrBHb@m@~BSpBVfBnA~BFVkAnAeAdBwExG{BdCkD`CoHpDqBx@_Cf@{Aj@Kp@jCxGnBfGzGvQbC`GvD~JpEdMfGlOdA|Br@}@nEeIfAaCVUtBdEzApFdCtLg@tBaBdIe@`Bu@~Eg@xELjB|AvKt@nExArJz@Wb@Gr@a@d@HxCvDrAnBtBjDvAdFb@pBr@hDnBnIbDrOp@xBwCxFeChEcAlBdJbXBf@wB|CiA[q@iBoD~E_@IsF|HeCgFcAr@{EdGqZvl@hApEq@vBeDhMwC|M}BzML|En@XVpC?hRXfDdApEZ`VGjDqBbQ_IoIM{Ia@{DoCeEeA_E_AqHq@q@uDuDQEOFuCnBq@z@yEhIkD|G~OpRpCdCeBPg@bAtCxO_@ZoA?}@v@kAvBbAfFnCbMhArJl@|@f@fAj@jC~C|KnAlCnKjQhFlLGxAiOlGyEEiJiBAbBYfLiCzg@rFkDf@InBAR`@l@|B~@nCPRZH~@Ig@vCyFjTyAfGYz@gCrEwCnF}F~Lt@tBoHtLsBvDb@`BElCSVmCv@gD`BgAwFwA{DqBwD{C}DkEaEqB_CsAsBwAiEyAcE}C{G_CeEsC{B{CyBoAe@yNmCiAi@{@o@gB_BgAyAgDuIcEkUcA}CaAmCwCqEmDuDgDoCqCeDuHwLeF{IaDsG}@fAsGyIMp@q@nAm@|@kF~E_@h@w@`BoAxBQZs@p@kAt@Qd@@l@Hh@kErDgBgCkAwCyBkB_BiBsBiE}@eCg@iCWzAy@xAeAbA`ElLE|AaAfC_BvCYx@TlBlAtFJrDs@xMJtCt@`LD~AeBfBgFbD_DpCe@|AWhAaF~F{HtJ{DbEkCvC"
+    },
+    "elevation": {
+        "google": "_}}rB?_seKkG?yF~hbEmD?aD~hbEcC?iF~hbEsD~hbEcI?_@?uK~hbEmH?s@~hbEuB?_A?k@~hbE{D~hbEcA?aA?kA~hbEcA?kE?uB?{K?}@?kR?k@?m@~hbEoH?il@?wS~hbEyz@~|hQ}Z?{F_seKkK?aB?iC_ibEyM?i@?eF?}F~hbE}B~hbEaF?qF?gE~hbEu@?uF~hbE{T_ibEqK~reKwf@?gZ?q@~hbE{Y_ibEkD?wL?eA?{A?wB_seKc]~hbEuH_ibE}F~hbEk@_}hQy]~reK{K~|hQoe@_seK}X~|hQwV_ibEc]?_@?oA_ibEsI~hbEsN?aV?gM?wE?oG~hbEiT~hbE{[_ibE{H?yO_ibEiN~hbEcF~hbEaK?{@?eC_ibE_H_ibEeO?gC?{D_ibEwC?gN?yB?_C?}D_seKgC?yF?mC~hbE}A?{@~hbE{P?oI?cF?cA~reKyJ?{H_ibEyC?qH?cA?iB?oY?y@~hbEgO_seKiV?mB?wA~reKwM~hbEeN?{A?aC?yM?aF_ibEuD?_C~reK{T_ibEkO?}A?}@_ibEcW_ibEuM?u@_ibEmD?oF?sH~hbEgG?}A?oA~hbEgL?{F?kN?mC?gB?_@?oA?iA?_@?oB?s@?W_ibEoH?}C?w@?Y?[~|hQgL?}E_ibEkB?s@_}hQuZ?}@~hbEaA?iE?k@?g@?a@?]?qF_ibEiI?iD?gB?kA?aD?sF?{A~hbEkB?aB~hbEgB?}F_ibE}D?uC_seKuD~hbEoD~hbE}D~hbEcH~hbEoC?cC_ibEsC?_C?o@_seKcD~hbEcF_ibEkC~hbEkO?iC?sA~hbEyC?oA?yB_ibE{A_ibEaE_seKgC_ibEkD_seKwB?oB~hbEqB~reKgA~hbEmA~reKwC~hbEqK?{A?qB?c@_seKiE?i@?wA?]?W?_@~hbEgA?iA?{E?iJ?wD?uB?gD?wB~hbEyB?aB?cB?_D?sC?_C?qB?qH?uK?sB?}C?mA?sE?uA_seKoB?cC~hbE_A?mE~hbEaB_ibEeI_ibEeJ~hbEeO~hbEsG_ibEmE~hbEeD_ibEoM?qC~hbEsR_ibEoK?kH~hbE}A?sD?w@?oK_ibEuG~hbEmF?eM?aE?qC?_C?mA?w@?wA?}A?qD?{C?}C?uC?wC_ibE_C?}D~hbEiG?qF?uA?yB_ibEcA?oC?cG?_B?oD?}C?{C_ibEwD?uE~hbEkE?aB?iB?oC?qC?cE?qC~hbEoI?iE?eJ?c@?Q?mD_ibEaB?y@?y@_ibEoA?{B?oA_ibE{B?s@?wA?yA?aL_seKeF?mI_seK}G?uE?w@_ibEwD?qG?uH_glWoW?mD?{A_seKqI~hbEaL~hbE{H_seKcD~hbEeC?aD~hbEoK~reKgG?mD?oB?qH?}F?eE?q@~reKyH~flWgL?qB?sE_ibE_I_ibE_E?}D~hbEkF?}@?kA~reKkP_seKqI_ibEyB?wC_ibEwC~reK_H_ibEeG~hbE_A_ibEkB?sB~hbEqF?mD~hbEiB?{B?mD?_B?wL?u@?eA~hbEkI?mD?cC?sB?wA_seKeE~hbEoD~hbEcG?iC_ibEqI_ibEcB?iE~hbEoJ~hbEuJ?mG?wD?aB?{C?w@?w@?sA?qA_seKeG~hbE{B?gC~hbEaG~hbE{E?mA_ibEiB?mC_ibEgD?uU?yB?wX_ibE{F_ibEoJ~hbE{O~hbE{E~hbEqH?iF?iE_ibEmE_ibEkG?qC_ibEiB_{rc@aL?wA?iB?aI~reKkN~reKoI?aB~reKoC?{E?mK~reKkH?yD~hbE}G?wA?u@?iP?uB_ibEgE?{@?_R_ibEuP?o@_ibEmD_ibE}K~hbEoD_seKsQ?yF_ibEyC?sR?gI_ibEoH_}hQmJ_}hQmC_ibEmG?sA_seKsB_seK{N~hbEuP_ibEaZ~hbE_J_ibE}Y?oB~hbE{K?kD?}G?_I?{B~reKuM~hbEgN~hbEyI~flWqm@~|hQkl@?aQ_ibEuW?wS_seKwN_ibE_H?{L_ibEcD?kB_ibEgE_seK_M?oE?_C_ibEsB?gD?oF?sN?Q?oB?}@?mD~hbE{B~hbE_O?eI~|hQ_L~hbEcB_ibEiO?yD?}H_}hQyU~hbE}J~reKoH?cD?wA~hbE{C?aJ~hbEsJ?q@?{@~hbEgB?yA?{D~hbEyR?mA~hbEcB_ibEkE?y@~hbE}A?cA?u@?eA?w@?yD?sD?oD?eG~hbEkN?oC?e@_ibE_A?{@~hbEsE?kA_seKkF?aA~hbE}@?gC?oD?k@_ibEuI_ibEkH?i@?_D_ibEaC?wB?cE?]~hbE}C?eD~hbEcN?cG?iI~hbEoP_ibEoE~hbEaF?gD~hbEy@?eK?{I_ibEqX?iJ?mO_ibEeR_glW}U?wD_ibEoB~reKyN?{D?o@?iH?sH~hbEqO?qC?iK_ibE}B_ibEeG?uF?yB?wM?uF?qL?kB?}@?aB?aA?mI?}D?uG_seKeH?iC~hbEmE_ibE}K_}hQeS_ibE}C~|hQ{J~hbE_I?gD~reKq`@?k@?mG_seKcC?oC?eK?y@~po]aP_ibEwI?aC~hbE{M~flWadA?eG?{C?_Q?gQ_seKsP~hbEqF?wA?cD?aT~hbE{D~hbEaG~reKeX?{D?uS_seKwS_seK{J?uE?iI_ibEqF~hbE}I?gB?sJ?_@?[~hbE_H?kB?iO_ibEoL~po]ic@?eH?qD?cB_seKaS?}@?kC~hbE{B?wD?wG_seKgP~reKgL?iB~hbEgB_ibEiD?qO~hbEoE?o\\?kR?aB?w\\_ibEyJ?}R?kB~hbEoM~hbEel@~hbEmM?eA?aE_ibEs@?}C?_E?e@?q@?oB?qD~|hQ}Y?gI?oA_ibEiI?qJ_}hQqS?}C_}hQgU~|hQ{G_ibE{B?yC_ibEk@~hbE}F_ibEuH~reKgH~hbE_G?yG_ibEsI_seK{K?qF~hbE_E~hbEkG?gG?}K?uH?aH?kH?qC_ibEyZ_ibEgC?sB?qE?}C?wM~hbEqY~hbEqE?_E~hbE{I?iJ_ibEiI?wH~hbEoU_ibEeP_ibEyK?eC~hbE_R?{@?yB~hbEiB~hbE{M?gA_ibEoC?_E?k@_ibEgB_ibEoC~hbEs@?q@?q@~hbEsK?iF?qE~hbEqF_ibEkE?iH?sD?eD?kB?kC_ibEmC~hbEaQ?eB?{D_ibEiF?mA?{B?kH?eE?kO_ibEcD_ibEoM_ibEiB~hbEqE?wL?_I?wB~hbE{A_ibE_N_ibEiT~hbEeK?eH"
+    },
+    "instructions": [
+        {
+            "atGeometry": "POINT(4.47290 51.12793)",
+            "distance": 0,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": null,
+            "toBearing": -174.87677023029,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(4.47151 51.12315)",
+            "distance": 553.15754901584,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": -150.16965340859,
+            "toBearing": 63.884448705441,
+            "angle": -145.94589788597
+        },
+        {
+            "atGeometry": "POINT(4.48331 51.12148)",
+            "distance": 1612.1158931605,
+            "using": "",
+            "at": null,
+            "to": "60",
+            "fromBearing": 161.20635285076,
+            "toBearing": 161.18027293453,
+            "angle": -0.026079916230003
+        },
+        {
+            "atGeometry": "POINT(4.48707 51.10476)",
+            "distance": 3627.641252727,
+            "using": "",
+            "at": "60",
+            "to": "56",
+            "fromBearing": -138.91971547866,
+            "toBearing": 132.30416299696,
+            "angle": -88.776121524375
+        },
+        {
+            "atGeometry": "POINT(4.49335 51.09362)",
+            "distance": 5189.7493427282,
+            "using": "",
+            "at": null,
+            "to": "56",
+            "fromBearing": 164.06713449687,
+            "toBearing": 164.93502513899,
+            "angle": 0.86789064211999
+        },
+        {
+            "atGeometry": "POINT(4.49482 51.08631)",
+            "distance": 6078.3125739804,
+            "using": "",
+            "at": "56",
+            "to": "25",
+            "fromBearing": 165.8958274717,
+            "toBearing": 159.87578458512,
+            "angle": -6.0200428865832
+        },
+        {
+            "atGeometry": "POINT(4.49648 51.08067)",
+            "distance": 6721.8500591851,
+            "using": "",
+            "at": null,
+            "to": "25",
+            "fromBearing": -179.69752655534,
+            "toBearing": -178.37801371339,
+            "angle": 1.31951284195
+        },
+        {
+            "atGeometry": "POINT(4.49628 51.06976)",
+            "distance": 7936.5053855742,
+            "using": "",
+            "at": "25",
+            "to": "24",
+            "fromBearing": -178.96405067799,
+            "toBearing": -172.05068363313,
+            "angle": 6.9133670448653
+        },
+        {
+            "atGeometry": "POINT(4.49529 51.05723)",
+            "distance": 9729.0926923456,
+            "using": "",
+            "at": "24",
+            "to": "65",
+            "fromBearing": -172.32910932401,
+            "toBearing": -86.531208965584,
+            "angle": 85.797900358428
+        },
+        {
+            "atGeometry": "POINT(4.48930 51.05474)",
+            "distance": 10291.841145326,
+            "using": "",
+            "at": "65",
+            "to": "98",
+            "fromBearing": -133.66740652646,
+            "toBearing": -150.097289364,
+            "angle": -16.429882837542
+        },
+        {
+            "atGeometry": "POINT(4.48933 51.04979)",
+            "distance": 10868.011313359,
+            "using": "",
+            "at": null,
+            "to": "98",
+            "fromBearing": 180,
+            "toBearing": 180,
+            "angle": 0
+        },
+        {
+            "atGeometry": "POINT(4.48750 51.04174)",
+            "distance": 12189.184690409,
+            "using": "",
+            "at": "98",
+            "to": "99",
+            "fromBearing": 179.75983504164,
+            "toBearing": 91.064346907733,
+            "angle": -88.695488133904
+        },
+        {
+            "atGeometry": "POINT(4.50379 51.02772)",
+            "distance": 14942.52398754,
+            "using": "",
+            "at": "99",
+            "to": "57",
+            "fromBearing": 147.83237281626,
+            "toBearing": -172.04355745306,
+            "angle": 40.124069730683
+        },
+        {
+            "atGeometry": "POINT(4.49650 51.02466)",
+            "distance": 15740.580843229,
+            "using": "",
+            "at": "57",
+            "to": null,
+            "fromBearing": -109.22183109872,
+            "toBearing": 127.24808362125,
+            "angle": -123.53008528003
+        },
+        {
+            "atGeometry": "POINT(4.52132 51.01162)",
+            "distance": 18351.061463897,
+            "using": "",
+            "at": "64",
+            "to": "73",
+            "fromBearing": 117.9148125427,
+            "toBearing": 81.778068792122,
+            "angle": -36.136743750582
+        },
+        {
+            "atGeometry": "POINT(4.58293 50.99861)",
+            "distance": 23413.454094017,
+            "using": "",
+            "at": null,
+            "to": "73",
+            "fromBearing": 47.172598494086,
+            "toBearing": 51.533385847036,
+            "angle": 4.36078735295
+        },
+        {
+            "atGeometry": "POINT(4.58642 50.99983)",
+            "distance": 23748.513806607,
+            "using": "",
+            "at": "73",
+            "to": "74",
+            "fromBearing": 57.559701836632,
+            "toBearing": 47.054701343906,
+            "angle": -10.505000492726
+        },
+        {
+            "atGeometry": "POINT(4.58929 51.01636)",
+            "distance": 27172.943782549,
+            "using": "",
+            "at": null,
+            "to": "74",
+            "fromBearing": -26.545671682942,
+            "toBearing": -28.830979384251,
+            "angle": -2.285307701309
+        },
+        {
+            "atGeometry": "POINT(4.58876 51.01672)",
+            "distance": 27228.545382062,
+            "using": "",
+            "at": "74",
+            "to": "15",
+            "fromBearing": -50.813896707939,
+            "toBearing": 34.953079023919,
+            "angle": 85.766975731859
+        },
+        {
+            "atGeometry": "POINT(4.60793 51.02454)",
+            "distance": 30578.363347414,
+            "using": "",
+            "at": null,
+            "to": "15",
+            "fromBearing": 95.190472040121,
+            "toBearing": 95.094079741175,
+            "angle": -0.096392298946
+        },
+        {
+            "atGeometry": "POINT(4.60900 51.02448)",
+            "distance": 30653.731444282,
+            "using": "",
+            "at": "15",
+            "to": "26",
+            "fromBearing": 95.094079741175,
+            "toBearing": 31.124463628091,
+            "angle": -63.969616113084
+        },
+        {
+            "atGeometry": "POINT(4.62705 51.04627)",
+            "distance": 34228.540429686,
+            "using": "",
+            "at": null,
+            "to": "26",
+            "fromBearing": -44.752245440123,
+            "toBearing": -44.202918678832,
+            "angle": 0.549326761291
+        },
+        {
+            "atGeometry": "POINT(4.62524 51.04744)",
+            "distance": 34410.345805736,
+            "using": "",
+            "at": "26",
+            "to": "2",
+            "fromBearing": -44.202918678832,
+            "toBearing": 57.260367308406,
+            "angle": 101.46328598724
+        },
+        {
+            "atGeometry": "POINT(4.64721 51.04839)",
+            "distance": 36901.372008149,
+            "using": "",
+            "at": "2",
+            "to": "17",
+            "fromBearing": 64.561527003509,
+            "toBearing": 60.547409431972,
+            "angle": -4.0141175715365
+        },
+        {
+            "atGeometry": "POINT(4.64258 51.06706)",
+            "distance": 39962.422086636,
+            "using": "",
+            "at": null,
+            "to": "17",
+            "fromBearing": -56.381053775292,
+            "toBearing": -56.860981184092,
+            "angle": -0.47992740879999
+        },
+        {
+            "atGeometry": "POINT(4.64141 51.06754)",
+            "distance": 40060.287162448,
+            "using": "",
+            "at": "17",
+            "to": "39",
+            "fromBearing": -56.860981184092,
+            "toBearing": -140.04101103636,
+            "angle": -83.180029852269
+        },
+        {
+            "atGeometry": "POINT(4.63232 51.07292)",
+            "distance": 41155.248840889,
+            "using": "",
+            "at": "39",
+            "to": "35",
+            "fromBearing": -63.679956954167,
+            "toBearing": 36.338144942396,
+            "angle": 100.01810189656
+        },
+        {
+            "atGeometry": "POINT(4.58965 51.06982)",
+            "distance": 45845.35853161,
+            "using": "",
+            "at": "35",
+            "to": "36",
+            "fromBearing": -111.05702180791,
+            "toBearing": 165.89093498191,
+            "angle": -83.052043210184
+        },
+        {
+            "atGeometry": "POINT(4.58587 51.06649)",
+            "distance": 46349.074291746,
+            "using": "",
+            "at": null,
+            "to": "36",
+            "fromBearing": -116.68003330537,
+            "toBearing": -115.95409700742,
+            "angle": 0.72593629795
+        },
+        {
+            "atGeometry": "POINT(4.57304 51.06456)",
+            "distance": 47444.959761397,
+            "using": "",
+            "at": "36",
+            "to": "42",
+            "fromBearing": -99.041205118779,
+            "toBearing": -39.605623730429,
+            "angle": 59.43558138835
+        },
+        {
+            "atGeometry": "POINT(4.54751 51.07970)",
+            "distance": 51429.06693186,
+            "using": "",
+            "at": null,
+            "to": "42",
+            "fromBearing": 32.138602765694,
+            "toBearing": 32.138022464176,
+            "angle": -0.00058030151800637
+        },
+        {
+            "atGeometry": "POINT(4.54845 51.08070)",
+            "distance": 51558.945465856,
+            "using": "",
+            "at": "42",
+            "to": "91",
+            "fromBearing": 11.827309761577,
+            "toBearing": -17.438130460572,
+            "angle": -29.265440222149
+        },
+        {
+            "atGeometry": "POINT(4.52156 51.07508)",
+            "distance": 54225.924279959,
+            "using": "",
+            "at": "91",
+            "to": "56",
+            "fromBearing": -81.947353829814,
+            "toBearing": -18.002307792934,
+            "angle": 63.94504603688
+        },
+        {
+            "atGeometry": "POINT(4.50405 51.08095)",
+            "distance": 56504.243243592,
+            "using": "",
+            "at": null,
+            "to": "56",
+            "fromBearing": -44.400223321795,
+            "toBearing": -44.767148693725,
+            "angle": -0.36692537192999
+        },
+        {
+            "atGeometry": "POINT(4.49571 51.08466)",
+            "distance": 57294.947476909,
+            "using": "",
+            "at": "56",
+            "to": "66",
+            "fromBearing": -86.151560119341,
+            "toBearing": -37.009117940659,
+            "angle": 49.142442178682
+        },
+        {
+            "atGeometry": "POINT(4.50669 51.09431)",
+            "distance": 58732.176766232,
+            "using": "",
+            "at": "66",
+            "to": "31",
+            "fromBearing": 26.158366915589,
+            "toBearing": 16.610708463827,
+            "angle": -9.5476584517622
+        },
+        {
+            "atGeometry": "POINT(4.52459 51.10799)",
+            "distance": 60791.714423509,
+            "using": "",
+            "at": "31",
+            "to": "27",
+            "fromBearing": 46.927913065396,
+            "toBearing": -36.096358425812,
+            "angle": -83.024271491208
+        },
+        {
+            "atGeometry": "POINT(4.52257 51.11225)",
+            "distance": 61406.24257842,
+            "using": "",
+            "at": null,
+            "to": "27",
+            "fromBearing": -43.752820851143,
+            "toBearing": -44.320848219243,
+            "angle": -0.5680273681
+        },
+        {
+            "atGeometry": "POINT(4.52038 51.11403)",
+            "distance": 61678.698109531,
+            "using": "",
+            "at": "27",
+            "to": "13",
+            "fromBearing": -28.982726694421,
+            "toBearing": 39.383287370452,
+            "angle": 68.366014064873
+        },
+        {
+            "atGeometry": "POINT(4.52401 51.11787)",
+            "distance": 62297.06270667,
+            "using": "",
+            "at": "13",
+            "to": "52",
+            "fromBearing": -31.374194578877,
+            "toBearing": -125.70489695643,
+            "angle": -94.330702377552
+        },
+        {
+            "atGeometry": "POINT(4.50349 51.12434)",
+            "distance": 64253.48639997,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": -34.620932692493,
+            "toBearing": null,
+            "angle": null
+        }
+    ],
+    "statistics": {
+        "routing": {
+            "cyclingNodes": 1
+        }
+    },
+    "segments": [
+        [
+            4.4729,
+            51.12793,
+            38
+        ],
+        [
+            4.47279,
+            51.12716,
+            38
+        ],
+        [
+            4.47151,
+            51.12315,
+            38
+        ],
+        [
+            4.48331,
+            51.12148,
+            38
+        ],
+        [
+            4.4933640397644,
+            51.093621139595,
+            38
+        ],
+        [
+            4.49648,
+            51.08067,
+            38
+        ],
+        [
+            4.48933,
+            51.04979,
+            38
+        ],
+        [
+            4.50839,
+            51.01704,
+            38
+        ],
+        [
+            4.58292,
+            50.99861,
+            38
+        ],
+        [
+            4.58928,
+            51.01636,
+            38
+        ],
+        [
+            4.60793,
+            51.02454,
+            38
+        ],
+        [
+            4.62705,
+            51.04627,
+            38
+        ],
+        [
+            4.64258,
+            51.06706,
+            38
+        ],
+        [
+            4.58587,
+            51.06649,
+            38
+        ],
+        [
+            4.54751,
+            51.0797,
+            38
+        ],
+        [
+            4.50405,
+            51.08095,
+            38
+        ],
+        [
+            4.52257,
+            51.11225,
+            38
+        ],
+        [
+            4.50425,
+            51.12364,
+            38
+        ],
+        [
+            4.50349,
+            51.12434,
+            38
+        ]
+    ],
+    "pois": [
+        {
+            "location": {
+                "id": 47310351,
+                "type": {
+                    "id": 553,
+                    "name": {
+                        "ca": "Districte",
+                        "de": "Arrondissement",
+                        "en": "Arrondissement",
+                        "es": "Distrito",
+                        "fr": "Arrondissement",
+                        "it": "Distretto",
+                        "nl": "Arrondissement"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.308,
+                "distance": 53912,
+                "name": {
+                    "en": "Arrondissement of Mechelen",
+                    "ca": "Districte de Mechelen",
+                    "de": "Arrondissement Mechelen",
+                    "es": "Distrito de Mechelen",
+                    "fr": "Arrondissement de Malines",
+                    "it": "Distretto di Mechelen",
+                    "nl": "Arrondissement Mechelen"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.52613145930327 51.0747515566929)"
+                }
+            },
+            "text": {
+                "id": 758010,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 396355
+                },
+                "description": {
+                    "en": "This region is the Mechelen in Antwerp<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/396355.en\">RouteYou Regios</a><br/><a href=\"https://www.routeyou.com/location/view/47310351.en?toptext=758010\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "ca": null,
+                        "de": null,
+                        "en": null,
+                        "es": null,
+                        "fr": null,
+                        "it": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "ca": null,
+                        "de": null,
+                        "es": null,
+                        "fr": null,
+                        "it": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 47310342,
+                "type": {
+                    "id": 416,
+                    "name": {
+                        "ca": null,
+                        "de": "Teil der Gemeinde",
+                        "en": "Sub-Municipality",
+                        "es": null,
+                        "fr": "Partie de la Municipalité",
+                        "it": null,
+                        "nl": "Deelgemeente"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.129,
+                "distance": 33896,
+                "name": {
+                    "en": "Sub-Municipality of Putte",
+                    "ca": "Part del Municipi de Putte",
+                    "de": "Teil der Gemeinde Putte",
+                    "es": "Parte del Municipio de Putte",
+                    "fr": "Section de Putte",
+                    "it": "Parte del Comune di Putte",
+                    "nl": "Deelgemeente Putte"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6273367248224 51.047378855033)"
+                }
+            },
+            "text": {
+                "id": 838657,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 396355
+                },
+                "description": {
+                    "en": "The village Putte (Putte)<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/396355.en\">RouteYou Regios</a><br/><a href=\"https://www.routeyou.com/location/view/47310342.en?toptext=838657\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "ca": null,
+                        "de": null,
+                        "en": null,
+                        "es": null,
+                        "fr": null,
+                        "it": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "ca": null,
+                        "de": null,
+                        "es": null,
+                        "fr": null,
+                        "it": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 47492329,
+                "type": {
+                    "id": 416,
+                    "name": {
+                        "ca": null,
+                        "de": "Teil der Gemeinde",
+                        "en": "Sub-Municipality",
+                        "es": null,
+                        "fr": "Partie de la Municipalité",
+                        "it": null,
+                        "nl": "Deelgemeente"
+                    }
+                },
+                "address": {
+                    "id": 1726176,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Mechelen,Muizen",
+                    "state": "Antwerpen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.268,
+                "distance": 17153,
+                "name": {
+                    "en": "Muizen",
+                    "ca": "Muizen",
+                    "de": "Muizen",
+                    "es": "Muizen",
+                    "fr": "Muizen",
+                    "it": "Muizen",
+                    "nl": "Muizen"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.52182482499935 51.0088601560718)"
+                }
+            },
+            "text": {
+                "id": 840796,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 396355
+                },
+                "description": {
+                    "en": "The village Muizen (Mechelen)<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/396355.en\">RouteYou Regios</a><br/><a href=\"https://www.routeyou.com/location/view/47492329.en?toptext=840796\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "ca": null,
+                        "de": null,
+                        "en": null,
+                        "es": null,
+                        "fr": null,
+                        "it": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "ca": null,
+                        "de": null,
+                        "es": null,
+                        "fr": null,
+                        "it": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 47398008,
+                "type": {
+                    "id": 18,
+                    "name": {
+                        "en": "Restaurant",
+                        "fr": "Restaurants",
+                        "nl": "Restaurant"
+                    }
+                },
+                "address": {
+                    "id": 1107325,
+                    "street": "Kiliaanstraat",
+                    "number": "2",
+                    "box": null,
+                    "city": "DUFFEL",
+                    "state": null,
+                    "postalCode": "2570",
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.415,
+                "distance": 58832,
+                "name": {
+                    "en": "Grand Café Bacchus",
+                    "fr": "Grand Café Bacchus",
+                    "nl": "Grand Café Bacchus"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5056512 51.0957077)"
+                }
+            },
+            "text": {
+                "id": 875190,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 79665
+                },
+                "description": {
+                    "en": "Author: <a href=\"https://www.routeyou.com/user/view/79665.en\">rudyV</a><br/><a href=\"https://www.routeyou.com/location/view/47398008.en?toptext=875190\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 243384,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 79665
+                    },
+                    "filename": {
+                        "fr": "919aa45093894543afcbbb56ef305133_700935c542d9ec6e69ee76117ff9bb775cb0203f.jpg",
+                        "en": "919aa45093894543afcbbb56ef305133_700935c542d9ec6e69ee76117ff9bb775cb0203f.jpg",
+                        "nl": "919aa45093894543afcbbb56ef305133_700935c542d9ec6e69ee76117ff9bb775cb0203f.jpg"
+                    },
+                    "description": {
+                        "fr": "",
+                        "en": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "fr": null,
+                            "en": null,
+                            "nl": null
+                        },
+                        "description": {
+                            "fr": "",
+                            "en": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "fr": "http://www.resto.be",
+                            "en": "http://www.resto.be",
+                            "nl": "http://www.resto.be"
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/919aa45093894543afcbbb56ef305133_700935c542d9ec6e69ee76117ff9bb775cb0203f.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/919aa45093894543afcbbb56ef305133_700935c542d9ec6e69ee76117ff9bb775cb0203f.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/919aa45093894543afcbbb56ef305133_700935c542d9ec6e69ee76117ff9bb775cb0203f.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47393060,
+                "type": {
+                    "id": 18,
+                    "name": {
+                        "en": "Restaurant",
+                        "fr": "Restaurants",
+                        "nl": "Restaurant"
+                    }
+                },
+                "address": {
+                    "id": 1102377,
+                    "street": "Mechelsesteenweg 436",
+                    "number": null,
+                    "box": null,
+                    "city": "Lier",
+                    "state": null,
+                    "postalCode": "2500",
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.416,
+                "distance": 60042,
+                "name": {
+                    "en": "Tables",
+                    "fr": "Tables",
+                    "nl": "Tables"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.516576 51.104336)"
+                }
+            },
+            "text": {
+                "id": 875191,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 79665
+                },
+                "description": {
+                    "en": "Author: <a href=\"https://www.routeyou.com/user/view/79665.en\">rudyV</a><br/><a href=\"https://www.routeyou.com/location/view/47393060.en?toptext=875191\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 245014,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 79665
+                    },
+                    "filename": {
+                        "en": "1318dc8ca451ebb36b7a8bbd1567c0cd_d2fe458d39b5f31966f77ca1ea91240235fdc018.jpg",
+                        "fr": "1318dc8ca451ebb36b7a8bbd1567c0cd_d2fe458d39b5f31966f77ca1ea91240235fdc018.jpg",
+                        "nl": "1318dc8ca451ebb36b7a8bbd1567c0cd_d2fe458d39b5f31966f77ca1ea91240235fdc018.jpg"
+                    },
+                    "description": {
+                        "en": "",
+                        "fr": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "en": null,
+                            "fr": null,
+                            "nl": null
+                        },
+                        "description": {
+                            "en": "",
+                            "fr": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "en": "http://www.resto.be",
+                            "fr": "http://www.resto.be",
+                            "nl": "http://www.resto.be"
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/1318dc8ca451ebb36b7a8bbd1567c0cd_d2fe458d39b5f31966f77ca1ea91240235fdc018.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/1318dc8ca451ebb36b7a8bbd1567c0cd_d2fe458d39b5f31966f77ca1ea91240235fdc018.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/1318dc8ca451ebb36b7a8bbd1567c0cd_d2fe458d39b5f31966f77ca1ea91240235fdc018.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47396458,
+                "type": {
+                    "id": 18,
+                    "name": {
+                        "en": "Restaurant",
+                        "fr": "Restaurants",
+                        "nl": "Restaurant"
+                    }
+                },
+                "address": {
+                    "id": 1105775,
+                    "street": "Netelei ",
+                    "number": "26",
+                    "box": null,
+                    "city": "DUFFEL",
+                    "state": null,
+                    "postalCode": "2570",
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.416,
+                "distance": 58176,
+                "name": {
+                    "en": "De Lage Polder",
+                    "fr": "De Lage Polder",
+                    "nl": "De Lage Polder"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5007596 51.0918952)"
+                }
+            },
+            "text": {
+                "id": 890224,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 105986
+                },
+                "description": {
+                    "en": "Author: <a href=\"https://www.routeyou.com/user/view/105986.en\">VCD</a><br/><a href=\"https://www.routeyou.com/location/view/47396458.en?toptext=890224\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 242963,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 105986
+                    },
+                    "filename": {
+                        "en": "6f4a5ec31df9c1c891e27566d958badc_1495b22be19087a8342feb5886f364adc38af785.jpg",
+                        "fr": "6f4a5ec31df9c1c891e27566d958badc_1495b22be19087a8342feb5886f364adc38af785.jpg",
+                        "nl": "6f4a5ec31df9c1c891e27566d958badc_1495b22be19087a8342feb5886f364adc38af785.jpg"
+                    },
+                    "description": {
+                        "en": "",
+                        "fr": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "en": null,
+                            "fr": null,
+                            "nl": null
+                        },
+                        "description": {
+                            "en": "",
+                            "fr": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "en": "http://www.resto.be",
+                            "fr": "http://www.resto.be",
+                            "nl": "http://www.resto.be"
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/6f4a5ec31df9c1c891e27566d958badc_1495b22be19087a8342feb5886f364adc38af785.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/6f4a5ec31df9c1c891e27566d958badc_1495b22be19087a8342feb5886f364adc38af785.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/6f4a5ec31df9c1c891e27566d958badc_1495b22be19087a8342feb5886f364adc38af785.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47556331,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "en": "Church",
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": 1823865,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Rijmenam",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.604,
+                "distance": 22784,
+                "name": {
+                    "en": "St. Martin's Church",
+                    "nl": "Sint Martinuskerk"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5826935768127 51.000725571527)"
+                }
+            },
+            "text": {
+                "id": 963288,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 119131
+                },
+                "description": {
+                    "en": "St. Martin's Church Rijmenam\nOn this site stood a church or chapel built between 940 and 1050 which was replaced by a Gothic church in the 14th century. Figurative murals from that period are still visible in the left aisle.\nDuring the restoration of 2004, underfloor heating was installed (condition for restoring the church organ). The original oak portal was then demolished and replaced by a glass door and the marble tabernacle in the choir of the church was replaced by \"wooden boxes\". The oak seats for the notables have been removed. (source: wikipedia)<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/119131.en\">Blauwkruikje</a><br/><a href=\"https://www.routeyou.com/location/view/47556331.en?toptext=963288\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 324688,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 119131
+                    },
+                    "filename": {
+                        "nl": "085d96e5e5c465fe42b0d9aad9be015d_6e01107baef1d3d64eb6c587a9bb9cca12d3c0b8.jpeg",
+                        "en": "085d96e5e5c465fe42b0d9aad9be015d_6e01107baef1d3d64eb6c587a9bb9cca12d3c0b8.jpeg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null,
+                            "en": ""
+                        },
+                        "description": {
+                            "nl": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/085d96e5e5c465fe42b0d9aad9be015d_6e01107baef1d3d64eb6c587a9bb9cca12d3c0b8.jpeg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/085d96e5e5c465fe42b0d9aad9be015d_6e01107baef1d3d64eb6c587a9bb9cca12d3c0b8.jpeg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47491696,
+                "type": {
+                    "id": 416,
+                    "name": {
+                        "en": "Sub-Municipality",
+                        "fr": "Partie de la Municipalité",
+                        "nl": "Deelgemeente"
+                    }
+                },
+                "address": {
+                    "id": 1511425,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Rijmenam",
+                    "state": "Antwerpen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.53,
+                "distance": 26124,
+                "name": {
+                    "en": "Rijmenam",
+                    "fr": "Rijmenam",
+                    "nl": "Rijmenam"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.58583333 51.00194444)"
+                }
+            },
+            "text": {
+                "id": 1661062,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "en": "Rijmenam is a village located in the Belgian province of Antwerp and is part of the municipality of Bonheiden.The area around Rijmenam had been settled since the Roman era. A chapel has been known to exist since the 11th chapel. Rijmenam used to belong the Duchy of Brabant. In 1578, the Battle of Rijmenam was fought between the Dutch States Army and the Spanish forces over control of Mechelen. The village was almost complete destroyed, and rebuilt twenty years later. It used to be an agricultural community, but during the 20th century, it became a residential area.<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/165089.en\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47491696.en?toptext=1661062\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": "https://en.wikipedia.org/w/index.php?curid=2260851",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=3189150",
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=189566"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 850667,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "en": "e6020d7654692cb9fadbe0911ac1087f_1897415644170dba760bdecf3d09e53915050038.jpg",
+                        "fr": "e6020d7654692cb9fadbe0911ac1087f_1897415644170dba760bdecf3d09e53915050038.jpg",
+                        "nl": "e6020d7654692cb9fadbe0911ac1087f_1897415644170dba760bdecf3d09e53915050038.jpg"
+                    },
+                    "description": {
+                        "en": "",
+                        "fr": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "en": "Funkyxian",
+                            "fr": "Funkyxian",
+                            "nl": "Funkyxian"
+                        },
+                        "description": {
+                            "en": "",
+                            "fr": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "en": "https://en.wikipedia.org/w/index.php?curid=2260851#/media/File:Sint-Maartensberg_1,_Rijmenam.JPG",
+                            "fr": "https://en.wikipedia.org/w/index.php?curid=2260851#/media/File:Sint-Maartensberg_1,_Rijmenam.JPG",
+                            "nl": "https://en.wikipedia.org/w/index.php?curid=2260851#/media/File:Sint-Maartensberg_1,_Rijmenam.JPG"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/e6020d7654692cb9fadbe0911ac1087f_1897415644170dba760bdecf3d09e53915050038.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/e6020d7654692cb9fadbe0911ac1087f_1897415644170dba760bdecf3d09e53915050038.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/e6020d7654692cb9fadbe0911ac1087f_1897415644170dba760bdecf3d09e53915050038.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48103901,
+                "type": {
+                    "id": 48,
+                    "name": {
+                        "en": "Trainstation",
+                        "fr": "Gare",
+                        "nl": "Treinstation"
+                    }
+                },
+                "address": {
+                    "id": 1722047,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Antwerpen",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.358,
+                "distance": 4766,
+                "name": {
+                    "en": "Duffel railway station",
+                    "fr": "Gare de Duffel",
+                    "nl": "Station Duffel"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.49305556 51.09138889)"
+                }
+            },
+            "text": {
+                "id": 1661091,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "en": "Duffel is a railway station in the town of Duffel, Antwerp, Belgium. The station opened on 16 June 1836 on the Lines 25 and 27. The train services are operated by National Railway Company of Belgium .<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/165089.en\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/48103901.en?toptext=1661091\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": "https://en.wikipedia.org/w/index.php?curid=41722985",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=13943541",
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=677695"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 850693,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "en": "731353b40bb365624e5b3ed4de463c4f_1ad240b59f4b644e43c61a4a2e2d205f22932127.jpg",
+                        "nl": "731353b40bb365624e5b3ed4de463c4f_1ad240b59f4b644e43c61a4a2e2d205f22932127.jpg",
+                        "fr": "731353b40bb365624e5b3ed4de463c4f_1ad240b59f4b644e43c61a4a2e2d205f22932127.jpg"
+                    },
+                    "description": {
+                        "en": "",
+                        "nl": "",
+                        "fr": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "en": "Japplemedia",
+                            "nl": "Japplemedia",
+                            "fr": "Japplemedia"
+                        },
+                        "description": {
+                            "en": "",
+                            "nl": "",
+                            "fr": ""
+                        },
+                        "link": {
+                            "en": "https://nl.wikipedia.org/w/index.php?curid=677695#/media/Bestand:Station_Duffel_Plein.jpg",
+                            "nl": "https://nl.wikipedia.org/w/index.php?curid=677695#/media/Bestand:Station_Duffel_Plein.jpg",
+                            "fr": "https://nl.wikipedia.org/w/index.php?curid=677695#/media/Bestand:Station_Duffel_Plein.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 7,
+                        "name": {
+                            "ca": "Creative Commons 4.0",
+                            "de": "Creative Commons 4.0",
+                            "en": "Creative Commons 4.0",
+                            "es": "Creative Commons 4.0",
+                            "fr": "Creative Commons 4.0",
+                            "it": "Creative Commons 4.0",
+                            "nl": "Creative Commons 4.0"
+                        }
+                    },
+                    "url": {
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/731353b40bb365624e5b3ed4de463c4f_1ad240b59f4b644e43c61a4a2e2d205f22932127.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/731353b40bb365624e5b3ed4de463c4f_1ad240b59f4b644e43c61a4a2e2d205f22932127.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/731353b40bb365624e5b3ed4de463c4f_1ad240b59f4b644e43c61a4a2e2d205f22932127.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 4363846,
+                "type": {
+                    "id": 48,
+                    "name": {
+                        "en": "Trainstation",
+                        "fr": "Gare",
+                        "nl": "Treinstation"
+                    }
+                },
+                "address": {
+                    "id": 1722121,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Antwerpen",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.408,
+                "distance": 6757,
+                "name": {
+                    "en": "Sint-Katelijne-Waver railway station",
+                    "fr": "Gare de Wavre-Sainte-Catherine",
+                    "nl": "Station Sint-Katelijne-Waver"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.49611111 51.07)"
+                }
+            },
+            "text": {
+                "id": 1661167,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "en": "Sint-Katelijne-Waver is a railway station in the town of Sint-Katelijne-Waver, Antwerp, Belgium. The station opened on 1 June 1865 on the Lines 25 and 27. The train services are operated by National Railway Company of Belgium .<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/165089.en\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/4363846.en?toptext=1661167\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": "https://en.wikipedia.org/w/index.php?curid=39606575",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=11727774",
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=677685"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 850756,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "en": "291cf48f339e7200243c88167910f70b_e3a9b0036471753e2f5144bb285cb4c5233dc455.jpg",
+                        "nl": "291cf48f339e7200243c88167910f70b_e3a9b0036471753e2f5144bb285cb4c5233dc455.jpg",
+                        "fr": "291cf48f339e7200243c88167910f70b_e3a9b0036471753e2f5144bb285cb4c5233dc455.jpg"
+                    },
+                    "description": {
+                        "en": "",
+                        "nl": "",
+                        "fr": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "en": "Japplemedia",
+                            "nl": "Japplemedia",
+                            "fr": "Japplemedia"
+                        },
+                        "description": {
+                            "en": "",
+                            "nl": "",
+                            "fr": ""
+                        },
+                        "link": {
+                            "en": "https://nl.wikipedia.org/w/index.php?curid=677685#/media/Bestand:Station_Sint-Katelijne-Waver_Sporen.jpg",
+                            "nl": "https://nl.wikipedia.org/w/index.php?curid=677685#/media/Bestand:Station_Sint-Katelijne-Waver_Sporen.jpg",
+                            "fr": "https://nl.wikipedia.org/w/index.php?curid=677685#/media/Bestand:Station_Sint-Katelijne-Waver_Sporen.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 7,
+                        "name": {
+                            "ca": "Creative Commons 4.0",
+                            "de": "Creative Commons 4.0",
+                            "en": "Creative Commons 4.0",
+                            "es": "Creative Commons 4.0",
+                            "fr": "Creative Commons 4.0",
+                            "it": "Creative Commons 4.0",
+                            "nl": "Creative Commons 4.0"
+                        }
+                    },
+                    "url": {
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/291cf48f339e7200243c88167910f70b_e3a9b0036471753e2f5144bb285cb4c5233dc455.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/291cf48f339e7200243c88167910f70b_e3a9b0036471753e2f5144bb285cb4c5233dc455.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/291cf48f339e7200243c88167910f70b_e3a9b0036471753e2f5144bb285cb4c5233dc455.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47307974,
+                "type": {
+                    "id": 415,
+                    "name": {
+                        "ca": null,
+                        "de": "Gemeinde",
+                        "en": "Municipality",
+                        "es": null,
+                        "fr": "Municipalité",
+                        "nl": "Gemeente"
+                    }
+                },
+                "address": {
+                    "id": 1722486,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Putte",
+                    "state": "Antwerpen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.384,
+                "distance": 35217,
+                "name": {
+                    "en": "Putte",
+                    "ca": "Putte",
+                    "de": "Putte",
+                    "es": "Putte",
+                    "fr": "Putte",
+                    "nl": "Putte"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.62944444 51.05416667)"
+                }
+            },
+            "text": {
+                "id": 1661565,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "en": "Putte is a municipality located in the Belgian province of Antwerp. The municipality includes the towns of Putte, Beerzel, and the hamlets Grasheide and Peulis. The town of Putte is around 8 kilometres east of Mechelen. In 2021, Putte had a total population of 18,109. The total area is 34.96 km2.<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/165089.en\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47307974.en?toptext=1661565\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "ca": "Wikipedia.org",
+                        "de": "Wikipedia.org",
+                        "en": "Wikipedia.org",
+                        "es": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": "https://en.wikipedia.org/w/index.php?curid=156171",
+                        "ca": "https://ca.wikipedia.org/w/index.php?curid=659403",
+                        "de": "https://de.wikipedia.org/w/index.php?curid=2494658",
+                        "es": "https://es.wikipedia.org/w/index.php?curid=8011228",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=1193428",
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=32936"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 851089,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "ca": "9e6d876be943401ba1e4e8352e0476cc_0d15079329f307da2e741075e695bf6da3675a49.jpg",
+                        "de": "9e6d876be943401ba1e4e8352e0476cc_0d15079329f307da2e741075e695bf6da3675a49.jpg",
+                        "en": "9e6d876be943401ba1e4e8352e0476cc_0d15079329f307da2e741075e695bf6da3675a49.jpg",
+                        "es": "9e6d876be943401ba1e4e8352e0476cc_0d15079329f307da2e741075e695bf6da3675a49.jpg",
+                        "fr": "9e6d876be943401ba1e4e8352e0476cc_0d15079329f307da2e741075e695bf6da3675a49.jpg",
+                        "nl": "9e6d876be943401ba1e4e8352e0476cc_0d15079329f307da2e741075e695bf6da3675a49.jpg"
+                    },
+                    "description": {
+                        "ca": "",
+                        "de": "",
+                        "en": "",
+                        "es": "",
+                        "fr": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "ca": "Sally V",
+                            "de": "Sally V",
+                            "en": "Sally V",
+                            "es": "Sally V",
+                            "fr": "Sally V",
+                            "nl": "Sally V"
+                        },
+                        "description": {
+                            "ca": "",
+                            "de": "",
+                            "en": "",
+                            "es": "",
+                            "fr": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "ca": "https://en.wikipedia.org/w/index.php?curid=156171#/media/File:Putte_Parochiekerk_Sint-Niklaas_01.jpg",
+                            "de": "https://en.wikipedia.org/w/index.php?curid=156171#/media/File:Putte_Parochiekerk_Sint-Niklaas_01.jpg",
+                            "en": "https://en.wikipedia.org/w/index.php?curid=156171#/media/File:Putte_Parochiekerk_Sint-Niklaas_01.jpg",
+                            "es": "https://en.wikipedia.org/w/index.php?curid=156171#/media/File:Putte_Parochiekerk_Sint-Niklaas_01.jpg",
+                            "fr": "https://en.wikipedia.org/w/index.php?curid=156171#/media/File:Putte_Parochiekerk_Sint-Niklaas_01.jpg",
+                            "nl": "https://en.wikipedia.org/w/index.php?curid=156171#/media/File:Putte_Parochiekerk_Sint-Niklaas_01.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 7,
+                        "name": {
+                            "ca": "Creative Commons 4.0",
+                            "de": "Creative Commons 4.0",
+                            "en": "Creative Commons 4.0",
+                            "es": "Creative Commons 4.0",
+                            "fr": "Creative Commons 4.0",
+                            "it": "Creative Commons 4.0",
+                            "nl": "Creative Commons 4.0"
+                        }
+                    },
+                    "url": {
+                        "ca": "https://image.routeyou.com/shrink/fit/500x500/9e6d876be943401ba1e4e8352e0476cc_0d15079329f307da2e741075e695bf6da3675a49.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/9e6d876be943401ba1e4e8352e0476cc_0d15079329f307da2e741075e695bf6da3675a49.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/9e6d876be943401ba1e4e8352e0476cc_0d15079329f307da2e741075e695bf6da3675a49.jpg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/9e6d876be943401ba1e4e8352e0476cc_0d15079329f307da2e741075e695bf6da3675a49.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/9e6d876be943401ba1e4e8352e0476cc_0d15079329f307da2e741075e695bf6da3675a49.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/9e6d876be943401ba1e4e8352e0476cc_0d15079329f307da2e741075e695bf6da3675a49.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47492329,
+                "type": {
+                    "id": 416,
+                    "name": {
+                        "fr": "Partie de la Municipalité",
+                        "nl": "Deelgemeente"
+                    }
+                },
+                "address": {
+                    "id": 1726176,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Mechelen,Muizen",
+                    "state": "Antwerpen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.283,
+                "distance": 17153,
+                "name": {
+                    "en": "Muizen",
+                    "fr": "Muizen",
+                    "nl": "Muizen"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.51472222 51.01055556)"
+                }
+            },
+            "text": {
+                "id": 1665455,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "en": "Author: <a href=\"https://www.routeyou.com/user/view/165089.en\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47492329.en?toptext=1665455\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=3190128",
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=269874"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 47561368,
+                "type": {
+                    "id": 183,
+                    "name": {
+                        "en": "Bridge",
+                        "nl": "Brug"
+                    }
+                },
+                "address": {
+                    "id": 1728328,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Bonheiden,Rijmenam",
+                    "state": "Antwerpen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.515,
+                "distance": 23004,
+                "name": {
+                    "en": "Rijmenam Bridge",
+                    "nl": "Rijmenambrug"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.58638934 50.99888934)"
+                }
+            },
+            "text": {
+                "id": 1667714,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "en": "The Rijmenam Bridge is a concrete girder bridge over the Dijle in Rijmenam, a borough of Bonheiden, in the Belgian province of Antwerp. The bridge consists of one span of 26.5 m, the width is 12.2 m. The bridge provides the connection from Rijmenam to Boortmeerbeek.<br/>Already in 1906 there was a bridge over the Dijle here. This was then a cast iron girder bridge on two stone pillars in the river. In 1987 the current concrete bridge was built.<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/165089.en\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47561368.en?toptext=1667714\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": "https://nl.wikipedia.org/w/index.php?curid=1882931",
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=1882931"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 855228,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "134321fcd245a7cad1266063e7aa275f_7f123b8dbe08b12ec878d3bcdd1510eedfac9c07.jpg",
+                        "en": "134321fcd245a7cad1266063e7aa275f_7f123b8dbe08b12ec878d3bcdd1510eedfac9c07.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Rafaël Delaedt (Arafi)",
+                            "en": ""
+                        },
+                        "description": {
+                            "nl": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": "https://nl.wikipedia.org/w/index.php?curid=1882931#/media/Bestand:Rijmenambrug.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/134321fcd245a7cad1266063e7aa275f_7f123b8dbe08b12ec878d3bcdd1510eedfac9c07.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/134321fcd245a7cad1266063e7aa275f_7f123b8dbe08b12ec878d3bcdd1510eedfac9c07.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48104422,
+                "type": {
+                    "id": 389,
+                    "name": {
+                        "en": "Natural area",
+                        "nl": "Natuurgebied"
+                    }
+                },
+                "address": {
+                    "id": 1722880,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Kontich",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.532,
+                "distance": 1388,
+                "name": {
+                    "en": "Overstromingsgebied Babbelse Plassen",
+                    "nl": "Overstromingsgebied Babbelse Plassen"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.4814777374268 51.122677429651)"
+                }
+            },
+            "text": {
+                "id": 1698995,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 188207
+                },
+                "description": {
+                    "en": "In 2012, the province of Antwerp completed construction of a flood plain along the Babbelsebeek in Kontich. This measure is part of a larger plan to protect the environment of the valley of the Lachene- and Babbelsebeek against flooding during extreme weather conditions. The construction of the Babbelse Lakes is a sustainable solution to prevent flooding in basements and gardens in the center of Lint. Some pond berms were constructed and banks were leveled to create more storage. The result is a green lung in the town of Kontich, maintained by volunteers of Natuurpunt and local farmers.<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/188207.en\">Veleau | Fietsen langs water</a><br/><a href=\"https://www.routeyou.com/location/view/48104422.en?toptext=1698995\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": "Provincie Antwerpen"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "nl": "http://www.provincieantwerpen.be/waterlopen"
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 908712,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 188207
+                    },
+                    "filename": {
+                        "nl": "6b4fb543adf708db2c62c39df5e49b87_e9887f5e43683d304f34ef9670e4999b4a6dd394.jpg",
+                        "en": "2d5d00f437f7c76bfedec842998c4af0_79971617ce4588507bced38aab161d2d680f7d30.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Provincie Antwerpen",
+                            "en": null
+                        },
+                        "description": {
+                            "nl": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": "http://www.provincieantwerpen.be/waterlopen",
+                            "en": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/6b4fb543adf708db2c62c39df5e49b87_e9887f5e43683d304f34ef9670e4999b4a6dd394.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/2d5d00f437f7c76bfedec842998c4af0_79971617ce4588507bced38aab161d2d680f7d30.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48155480,
+                "type": {
+                    "id": 250,
+                    "name": {
+                        "en": "Water",
+                        "nl": "Water"
+                    }
+                },
+                "address": {
+                    "id": 1784347,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Lier",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.568,
+                "distance": 60937,
+                "name": {
+                    "en": "Itterbeek pumping station",
+                    "nl": "Pompstation Itterbeek"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5268285274506 51.107941071585)"
+                }
+            },
+            "text": {
+                "id": 1726148,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 188207
+                },
+                "description": {
+                    "en": "<p>On the waterfront of the Nete, opposite the PIME, you will see a pumping station at the point where the Itterbeek flows into the Nete.</p>\n\n<p>The water from the Itterbeek flows up to the dike and then flows gently through an adjustable lock with a non-return valve into the Nete. When there is an increased influx of water, the pumping station kicks into action and the water is spewed through the 2 large pipes into the Nete at a speed of 1,400 liters per second per pump. An impressive spectacle!</p>\n\n<p>The pumping station was built after the severe floods of 1998, and was one of the province's measures to better protect the valley. The Itterbeek flows through an intensively built-up area, as a result of which part of the valley area has been taken over and can no longer be occupied by water. The source of the stream is in Beerzel, close to the highest point of the province of Antwerp, the Beerzelberg. Due to the large difference in height, the Itterbeek has to deal with large flows during heavy precipitation, causing the water to run downstream faster.</p>\n\n<p>In addition to the pumping installation, the province has also constructed a large flood plain in Koningshooikt, the Jutse Plassen. This beautiful nature reserve is well worth a visit!</p><br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/188207.en\">Veleau | Fietsen langs water</a><br/><a href=\"https://www.routeyou.com/location/view/48155480.en?toptext=1726148\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Provincie Antwerpen",
+                        "nl": "Provincie Antwerpen"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 897921,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 188207
+                    },
+                    "filename": {
+                        "nl": "85051c193b29cf61b64e1ed6fc83c402_920be406bc5184da3c389515869f35140d2c8cc2.jpg",
+                        "en": "85051c193b29cf61b64e1ed6fc83c402_920be406bc5184da3c389515869f35140d2c8cc2.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Provincie Antwerpen",
+                            "en": ""
+                        },
+                        "description": {
+                            "nl": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": "http://www.provincieantwerpen.be/waterlopen"
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/85051c193b29cf61b64e1ed6fc83c402_920be406bc5184da3c389515869f35140d2c8cc2.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/85051c193b29cf61b64e1ed6fc83c402_920be406bc5184da3c389515869f35140d2c8cc2.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48159983,
+                "type": {
+                    "id": 292,
+                    "name": {
+                        "en": "Garden",
+                        "nl": "Tuin"
+                    }
+                },
+                "address": {
+                    "id": 1789022,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Lier",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.561,
+                "distance": 60971,
+                "name": {
+                    "en": "Hive",
+                    "nl": "Bijenkast"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5263497531414 51.109484467419)"
+                }
+            },
+            "text": {
+                "id": 1733093,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 188867
+                },
+                "description": {
+                    "en": "Bees are irreplaceable for pollination of flowers, plants and trees. By sharing our space with a beekeeper, we give the bees a place and strengthen an important link in our ecosystem. \n\nWithout the bees, we can no longer grow and eat a lot of fruit and vegetables. But the bees are threatened by, among other things, the disappearance and fragmentation of nature, diseases and pests and the use of pesticides.\n\nFrom March we will place our first beehive in the garden. In this way we protect their survival and also our nature. \n\nThe delicious honey they make is a nice extra that we get from it!<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/188867.en\">PIME</a><br/><a href=\"https://www.routeyou.com/location/view/48159983.en?toptext=1733093\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 904261,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 188867
+                    },
+                    "filename": {
+                        "nl": "eb574854e989f997915e4f62763ca82f_cc88fe9e7b1cd1eb9e1f6ada238aee7f429d9692.jpg",
+                        "en": "eb574854e989f997915e4f62763ca82f_cc88fe9e7b1cd1eb9e1f6ada238aee7f429d9692.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null,
+                            "en": ""
+                        },
+                        "description": {
+                            "nl": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/eb574854e989f997915e4f62763ca82f_cc88fe9e7b1cd1eb9e1f6ada238aee7f429d9692.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/eb574854e989f997915e4f62763ca82f_cc88fe9e7b1cd1eb9e1f6ada238aee7f429d9692.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48159990,
+                "type": {
+                    "id": 321,
+                    "name": {
+                        "en": "Arts Centre",
+                        "nl": "Kunst"
+                    }
+                },
+                "address": {
+                    "id": 1789039,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Lier",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.561,
+                "distance": 60971,
+                "name": {
+                    "en": "Upcycle angle",
+                    "nl": "Upcyclehoek"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5266970992088 51.108957377856)"
+                }
+            },
+            "text": {
+                "id": 1733111,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 188867
+                },
+                "description": {
+                    "en": "'Upcycle' is a term that is used when you are going to 'upgrade' waste into something that you can use again. Often it will get a completely new function. There are no real rules for it, all you need is a good dose of creativity.\n\nOur upcycle corner can be found at the large table in the cafeteria. In the 'upcycle' box you will find all kinds of waste and craft materials to get started with yourself. There are two books and sheets with examples.\n\nHave you finished your assignment and do you still have time left? Then test out how big your upcycle content is!<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/188867.en\">PIME</a><br/><a href=\"https://www.routeyou.com/location/view/48159990.en?toptext=1733111\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 904269,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 188867
+                    },
+                    "filename": {
+                        "nl": "fc7aa25d713f0d92758fa8163f6c2cf8_b13e1d837f6a0f6ef292231ae731c9c76a71daea.jpg",
+                        "en": "fc7aa25d713f0d92758fa8163f6c2cf8_b13e1d837f6a0f6ef292231ae731c9c76a71daea.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null,
+                            "en": ""
+                        },
+                        "description": {
+                            "nl": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/fc7aa25d713f0d92758fa8163f6c2cf8_b13e1d837f6a0f6ef292231ae731c9c76a71daea.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/fc7aa25d713f0d92758fa8163f6c2cf8_b13e1d837f6a0f6ef292231ae731c9c76a71daea.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48184879,
+                "type": {
+                    "id": 388,
+                    "name": {
+                        "en": "Visitingcenter",
+                        "nl": "Bezoekerscentrum"
+                    }
+                },
+                "address": {
+                    "id": 1819423,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Muizen",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.652,
+                "distance": 16959,
+                "name": {
+                    "en": "Visitor Centre Natuurpunt vzw",
+                    "nl": "Bezoekerscentrum Natuurpunt vzw"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5204881513928 51.012014576175)"
+                }
+            },
+            "text": {
+                "id": 1774941,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 119131
+                },
+                "description": {
+                    "en": "'Come and have a look inside to see more outside', vzw Natuurpunt invites the hiker. Here you will find all information about the Mechels Rivierengebied, including the Mechels Broek. The visitor center is located in a side street of the track between Muizen and Rijmenam, near the bridge over the Dijle in Muizen. There is only a small parking lot, so it is best to park along the road.<br/><br/>Muizen station is a 10-minute walk away. Every hour a train stops here from Leuven and Mechelen. You can also take city bus 3 in the direction of Muizen at Mechelen station and get off at the Brugstraat stop.<br/><br/>By bike you will find the Visitor Centre at junction 64 of Fietskaart 4 of the Fietsknooppuntennetwerk Provincie Antwerpen.<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/119131.en\">Blauwkruikje</a><br/><a href=\"https://www.routeyou.com/location/view/48184879.en?toptext=1774941\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 914194,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 119131
+                    },
+                    "filename": {
+                        "nl": "fdc8ff575bfad3aa4c62622ab6fac3d1_2d101de461005352ecc61c0f73895a900b1ec4e6.jpg",
+                        "en": "fdc8ff575bfad3aa4c62622ab6fac3d1_2d101de461005352ecc61c0f73895a900b1ec4e6.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Blauwkruikje",
+                            "en": ""
+                        },
+                        "description": {
+                            "nl": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/fdc8ff575bfad3aa4c62622ab6fac3d1_2d101de461005352ecc61c0f73895a900b1ec4e6.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/fdc8ff575bfad3aa4c62622ab6fac3d1_2d101de461005352ecc61c0f73895a900b1ec4e6.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47424704,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "en": "POI"
+                    }
+                },
+                "address": {
+                    "id": 1576844,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Duffel",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.101,
+                "distance": 58757,
+                "name": {
+                    "en": "1-12"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.5076561 51.0940647)"
+                }
+            },
+            "text": {
+                "id": 2572303,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 115657
+                },
+                "description": {
+                    "en": "O.L. Vrouwlaan en Handelsstraat<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/115657.en\">115657</a><br/><a href=\"https://www.routeyou.com/location/view/47424704.en?toptext=2572303\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 49096712,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "en": "Hotel",
+                        "fr": "Hôtel",
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": 5902086,
+                    "street": "Mechelsesteenweg",
+                    "number": "380-386",
+                    "box": null,
+                    "city": "Lier",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.47,
+                "distance": 60900,
+                "name": {
+                    "en": "Pure Hotel",
+                    "fr": "Pure Hotel",
+                    "nl": "Pure Hotel"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.525282 51.109182)"
+                }
+            },
+            "text": {
+                "id": 2811661,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 1099381
+                },
+                "description": {
+                    "en": "Author: <a href=\"https://www.routeyou.com/user/view/1099381.en\">tvl</a><br/><a href=\"https://www.routeyou.com/location/view/49096712.en?toptext=2811661\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 5778512,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 1099381
+                    },
+                    "filename": {
+                        "nl": "1637115a00cff33755a480ffa56eb2cb_0dd4b939e6e401d6f713ff7b2bd3b9b866cda5ca.jpg",
+                        "fr": "1637115a00cff33755a480ffa56eb2cb_0dd4b939e6e401d6f713ff7b2bd3b9b866cda5ca.jpg",
+                        "en": "1637115a00cff33755a480ffa56eb2cb_0dd4b939e6e401d6f713ff7b2bd3b9b866cda5ca.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "fr": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null,
+                            "fr": null,
+                            "en": null
+                        },
+                        "description": {
+                            "nl": "",
+                            "fr": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": null,
+                            "fr": null,
+                            "en": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/1637115a00cff33755a480ffa56eb2cb_0dd4b939e6e401d6f713ff7b2bd3b9b866cda5ca.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/1637115a00cff33755a480ffa56eb2cb_0dd4b939e6e401d6f713ff7b2bd3b9b866cda5ca.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/1637115a00cff33755a480ffa56eb2cb_0dd4b939e6e401d6f713ff7b2bd3b9b866cda5ca.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49096746,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "en": "Hotel",
+                        "fr": "Hôtel",
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": 5902124,
+                    "street": "Weynesbaan",
+                    "number": "34",
+                    "box": null,
+                    "city": "Bonheiden",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.353,
+                "distance": 25604,
+                "name": {
+                    "en": "Thermen Mineraal",
+                    "fr": "Thermen Mineraal",
+                    "nl": "Thermen Mineraal"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.6011573363657 51.0153701389257)"
+                }
+            },
+            "text": {
+                "id": 2811702,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 1099381
+                },
+                "description": {
+                    "en": "Author: <a href=\"https://www.routeyou.com/user/view/1099381.en\">tvl</a><br/><a href=\"https://www.routeyou.com/location/view/49096746.en?toptext=2811702\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1916910,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 1099381
+                    },
+                    "filename": {
+                        "fr": "cb0f7a312b67f50efec711a606a8e085_c4ba6bec9013552dac7c21b755ac89bb85e118e4.jpg",
+                        "en": "cb0f7a312b67f50efec711a606a8e085_c4ba6bec9013552dac7c21b755ac89bb85e118e4.jpg",
+                        "nl": "cb0f7a312b67f50efec711a606a8e085_c4ba6bec9013552dac7c21b755ac89bb85e118e4.jpg"
+                    },
+                    "description": {
+                        "fr": "",
+                        "en": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "fr": null,
+                            "en": null,
+                            "nl": null
+                        },
+                        "description": {
+                            "fr": "",
+                            "en": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "fr": null,
+                            "en": null,
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/cb0f7a312b67f50efec711a606a8e085_c4ba6bec9013552dac7c21b755ac89bb85e118e4.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/cb0f7a312b67f50efec711a606a8e085_c4ba6bec9013552dac7c21b755ac89bb85e118e4.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/cb0f7a312b67f50efec711a606a8e085_c4ba6bec9013552dac7c21b755ac89bb85e118e4.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47913744,
+                "type": {
+                    "id": 111,
+                    "name": {
+                        "en": "Flok museum",
+                        "fr": "Musée national",
+                        "nl": "Volksmuseum"
+                    }
+                },
+                "address": {
+                    "id": 5906097,
+                    "street": "Hoogstraat",
+                    "number": "52",
+                    "box": null,
+                    "city": "Bonheiden",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.508,
+                "distance": 23360,
+                "name": {
+                    "en": "Heemmuseum 't Smiske",
+                    "fr": "Heemmuseum 't Smiske",
+                    "nl": "Heemmuseum 't Smiske"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.58992538482008 51.0012407430301)"
+                }
+            },
+            "text": {
+                "id": 2811804,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 1099381
+                },
+                "description": {
+                    "en": "Author: <a href=\"https://www.routeyou.com/user/view/1099381.en\">tvl</a><br/><a href=\"https://www.routeyou.com/location/view/47913744.en?toptext=2811804\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1917011,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 1099381
+                    },
+                    "filename": {
+                        "nl": "5774a9df3b15429e78175577edb7fda0_afe8f19cab10f4cf94fc8c5f3a01fb4724380993.jpg",
+                        "fr": "5774a9df3b15429e78175577edb7fda0_afe8f19cab10f4cf94fc8c5f3a01fb4724380993.jpg",
+                        "en": "5774a9df3b15429e78175577edb7fda0_afe8f19cab10f4cf94fc8c5f3a01fb4724380993.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "fr": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null,
+                            "fr": null,
+                            "en": null
+                        },
+                        "description": {
+                            "nl": "",
+                            "fr": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": null,
+                            "fr": null,
+                            "en": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/5774a9df3b15429e78175577edb7fda0_afe8f19cab10f4cf94fc8c5f3a01fb4724380993.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/5774a9df3b15429e78175577edb7fda0_afe8f19cab10f4cf94fc8c5f3a01fb4724380993.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/5774a9df3b15429e78175577edb7fda0_afe8f19cab10f4cf94fc8c5f3a01fb4724380993.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49096935,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "en": "Hotel",
+                        "fr": "Hôtel",
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": 2723296,
+                    "street": "Duivenstraat 56",
+                    "number": null,
+                    "box": null,
+                    "city": "Mechelen",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.585,
+                "distance": 10032,
+                "name": {
+                    "en": "Park Hotel Montreal",
+                    "fr": "Park Hotel Montreal",
+                    "nl": "Parkhotel Montreal"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.4864928 51.0465487)"
+                }
+            },
+            "text": {
+                "id": 2811937,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 1099381
+                },
+                "description": {
+                    "en": " <br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/1099381.en\">tvl</a><br/><a href=\"https://www.routeyou.com/location/view/49096935.en?toptext=2811937\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 1917143,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 1099381
+                    },
+                    "filename": {
+                        "nl": "4a2fe91e0c58baa99304d8f6fca6fd1a_213cc6feab24e285016c74968e3d58d8001f3006.jpg",
+                        "en": "2c183754776943953bed935782903339_a606089344998e96b032f2b58066b48a13fd9e48.jpg",
+                        "fr": "2c183754776943953bed935782903339_a606089344998e96b032f2b58066b48a13fd9e48.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "en": "",
+                        "fr": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Stad Mechelen",
+                            "en": null,
+                            "fr": null
+                        },
+                        "description": {
+                            "nl": "",
+                            "en": "",
+                            "fr": ""
+                        },
+                        "link": {
+                            "nl": null,
+                            "en": null,
+                            "fr": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/4a2fe91e0c58baa99304d8f6fca6fd1a_213cc6feab24e285016c74968e3d58d8001f3006.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/2c183754776943953bed935782903339_a606089344998e96b032f2b58066b48a13fd9e48.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/2c183754776943953bed935782903339_a606089344998e96b032f2b58066b48a13fd9e48.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49138865,
+                "type": {
+                    "id": 129,
+                    "name": {
+                        "en": "Chapel",
+                        "nl": "Kapel"
+                    }
+                },
+                "address": {
+                    "id": 2765230,
+                    "street": "Stormsschranslaan",
+                    "number": null,
+                    "box": null,
+                    "city": "Duffel",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.566,
+                "distance": 57147,
+                "name": {
+                    "en": "Chapel of St. Gummarus and St. Rumoldus",
+                    "nl": "Kapel Sint-Gummarus en Sint-Rumoldus"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.4978284835815 51.084264159694)"
+                }
+            },
+            "text": {
+                "id": 2855402,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 144797
+                },
+                "description": {
+                    "en": "Chapel originally located on the Mechelsebaan, see location on Popp map (third quarter of the 19th century), but demolished when the road was widened in 1971 and rebuilt according to the original appearance with old brick on the Stormschranslaan. Presumably built by the abbess of Rozendaal or her tenant on the Stormschranshoeve in 1688 at the place where Sint-Rumoldus and Sint-Gummarus met, as evidenced by an inscription in the 17th century.\n\nChapel on rectangular plan with three-sided closure under gable roof (ridge perpendicular to the street, artificial slates). Gabled gable with shoulder pieces and crowning iron cross. Pointed arch door with imposts.\n\nSource:\nhttps://inventaris.onroerenderfgoed.be/erfgoedobjecten/2708<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/144797.en\">Rudy Wuyts</a><br/><a href=\"https://www.routeyou.com/location/view/49138865.en?toptext=2855402\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1960213,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 144797
+                    },
+                    "filename": {
+                        "nl": "6a880b813a86e3b1f735d2d2ed8c1dd9_2ddac574d9e20ebea5999de4411dae0be36b2085.jpg",
+                        "en": "6a880b813a86e3b1f735d2d2ed8c1dd9_2ddac574d9e20ebea5999de4411dae0be36b2085.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null,
+                            "en": ""
+                        },
+                        "description": {
+                            "nl": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/6a880b813a86e3b1f735d2d2ed8c1dd9_2ddac574d9e20ebea5999de4411dae0be36b2085.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/6a880b813a86e3b1f735d2d2ed8c1dd9_2ddac574d9e20ebea5999de4411dae0be36b2085.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49138866,
+                "type": {
+                    "id": 128,
+                    "name": {
+                        "en": "Castle",
+                        "nl": "Kasteel"
+                    }
+                },
+                "address": {
+                    "id": 2765231,
+                    "street": "Handelsstraat",
+                    "number": "2",
+                    "box": null,
+                    "city": "Duffel",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.556,
+                "distance": 58872,
+                "name": {
+                    "en": "Castle Perwijsbroek",
+                    "nl": "Kasteeltje Perwijsbroek"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.508530497551 51.095388225811)"
+                }
+            },
+            "text": {
+                "id": 2855403,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 144797
+                },
+                "description": {
+                    "en": "\"Kasteeltje van Perwijsbroeck\", modo \"Castle of Coorebijter\" after a Brussels family that lived in it for a long time (1901-1933) as a country estate.\n\nBuilt circa 1850 on the site of an earlier redoubt from the Spanish era, to guard the nearby Nete crossing; Within the earthen ramparts were barracks, a prison and a chapel.\n\nAfter the peace of Munster in 1648, the redoubt gave way to dwellings; the lands came into the hands of Johannes Baptist Van Holen, tax collector at Duffel; In 1849-1850 he had the houses demolished and replaced by a country house, a garden with pond, fenced on the street side with iron fence, was laid out to the south. Repaired after the heavy war damage of 1914 and purchased in 1933 by the municipality, which sold the mansion again after two years, but converted the garden, laid out in the second half of the 19th century, as a municipal park in 1934/6; the construction on the English model includes red horse chestnut, marsh cypress and fern beech. The open space to the north and northwest was transformed into parking.\n\nSource:\nhttps://inventaris.onroerenderfgoed.be/erfgoedobjecten/2601<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/144797.en\">Rudy Wuyts</a><br/><a href=\"https://www.routeyou.com/location/view/49138866.en?toptext=2855403\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1960214,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 144797
+                    },
+                    "filename": {
+                        "nl": "f1e5c4635d7a42b79fb50033e936c848_34c474ec37e56a04ef393d5d1d48610c29412f61.jpg",
+                        "en": "f1e5c4635d7a42b79fb50033e936c848_34c474ec37e56a04ef393d5d1d48610c29412f61.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null,
+                            "en": ""
+                        },
+                        "description": {
+                            "nl": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/f1e5c4635d7a42b79fb50033e936c848_34c474ec37e56a04ef393d5d1d48610c29412f61.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/f1e5c4635d7a42b79fb50033e936c848_34c474ec37e56a04ef393d5d1d48610c29412f61.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49435478,
+                "type": {
+                    "id": 128,
+                    "name": {
+                        "en": "Castle",
+                        "nl": "Kasteel"
+                    }
+                },
+                "address": {
+                    "id": 2766722,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Sint-Katelijne-Waver",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.566,
+                "distance": 6874,
+                "name": {
+                    "en": "Fruytenborg Castle",
+                    "nl": "Kasteel Fruytenborg"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.4968414306641 51.068746985743)"
+                }
+            },
+            "text": {
+                "id": 2856931,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 144797
+                },
+                "description": {
+                    "en": "Located in a park with a preserved moat. Former farm in 1874, (W. Van Hoof) or 1877 (P. Diriken) converted into a castle, donated in 1900 to the poor board of the municipality as a home for the elderly, but the property was sold in 1903 and with the proceeds the old people's home was founded in the Wilsonstraat in 1908. Destroyed during the First World War and then rebuilt and modified several times, it is said to have preserved the foundations of the former castle.\n\nEclectic country house of one + two storeys with staggered volumes under a slate roof. Cemented plinth and bands, rectangular and arched wall openings. Perpendicular gardener's house to the southwest. Access bridge with preserved iron fence between bluestone posts. In the surrounding park there may be an ice cellar to the west of the house.\n\nSource:\nhttps://inventaris.onroerenderfgoed.be/erfgoedobjecten/3220<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/144797.en\">Rudy Wuyts</a><br/><a href=\"https://www.routeyou.com/location/view/49435478.en?toptext=2856931\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": null,
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1961734,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 144797
+                    },
+                    "filename": {
+                        "nl": "01f403f49f13b975f10fa9e602cffd42_d70d69833cbd74c2f56dd513813dfc2fddae0f4e.jpg",
+                        "en": "01f403f49f13b975f10fa9e602cffd42_d70d69833cbd74c2f56dd513813dfc2fddae0f4e.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null,
+                            "en": ""
+                        },
+                        "description": {
+                            "nl": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/01f403f49f13b975f10fa9e602cffd42_d70d69833cbd74c2f56dd513813dfc2fddae0f4e.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/01f403f49f13b975f10fa9e602cffd42_d70d69833cbd74c2f56dd513813dfc2fddae0f4e.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49768252,
+                "type": {
+                    "id": 145,
+                    "name": {
+                        "en": "Place of worship"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.154,
+                "distance": 0,
+                "name": {
+                    "en": "O.LV. Onbevlekt Ontvangen"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.472821 51.128101)"
+                }
+            },
+            "text": {
+                "id": 4454486,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 3983
+                },
+                "description": {
+                    "en": "The speech harbour \"O.LV. Onbevlekt Ontvangen\" is located in Kontich.<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/3983.en\">Depechie</a><br/><a href=\"https://www.routeyou.com/location/view/49768252.en?toptext=4454486\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "TeleAtlas"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": "http://www.routeyou.com/user/view/2593"
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 48656778,
+                "type": {
+                    "id": 204,
+                    "name": {
+                        "en": "Village centre"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.111,
+                "distance": 58846,
+                "name": {
+                    "en": "Duffel"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.505273 51.095985)"
+                }
+            },
+            "text": {
+                "id": 4454517,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 3983
+                },
+                "description": {
+                    "en": "This is the center of Duffel.<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/3983.en\">Depechie</a><br/><a href=\"https://www.routeyou.com/location/view/48656778.en?toptext=4454517\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "TeleAtlas"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": "http://www.routeyou.com/user/view/2593"
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 47013423,
+                "type": {
+                    "id": 250,
+                    "name": {
+                        "en": "Water"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.119,
+                "distance": 58053,
+                "name": {
+                    "en": "Nete"
+                },
+                "centroid": {
+                    "wkt": "POINT(4.500358 51.08952)"
+                }
+            },
+            "text": {
+                "id": 4454525,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 3983
+                },
+                "description": {
+                    "en": "The water element \"Nete\" is located in Duffel.<br/><br/>Author: <a href=\"https://www.routeyou.com/user/view/3983.en\">Depechie</a><br/><a href=\"https://www.routeyou.com/location/view/47013423.en?toptext=4454525\">More information</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "TeleAtlas"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "link": {
+                        "en": "http://www.routeyou.com/user/view/2593"
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": null
+            }
+        }
+    ],
+    "languages": [
+        "en"
+    ],
+    "lengthRelative": 0.6
+}

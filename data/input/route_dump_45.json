@@ -1,0 +1,4565 @@
+{
+    "scoreCalculated": 0.00001,
+    "scoreAuthor": null,
+    "payable": false,
+    "updatedDate": "2023-10-04 18:36:33.071472+00",
+    "autoPois": {
+        "nl": true
+    },
+    "id": 6810093,
+    "length": 6900,
+    "begin": {
+        "wkt": "POINT(5.19903 50.94209)"
+    },
+    "beginAddress": "Herkkantstraat, 3540 Herk-de-Stad, België / Belgique / Belgien",
+    "end": {
+        "wkt": "POINT(5.27549 50.92083)"
+    },
+    "endAddress": "Kleine Roost, 3512 Hasselt, België / Belgique / Belgien",
+    "centroid": {
+        "wkt": "POINT(5.23518063745844 50.9258052590973)"
+    },
+    "bounds": {
+        "wkt": "BOX(5.19903 50.91815,5.27549 50.94209)"
+    },
+    "owner": {
+        "id": 102763,
+        "type": {
+            "id": 1
+        },
+        "flag": "be",
+        "avatarRevision": 2,
+        "logoRevision": 1,
+        "headerRevision": 1,
+        "privileges": [],
+        "configuration": null,
+        "name": {
+            "nl": "kbaker @ RouteYou"
+        },
+        "languages": [
+            "nl"
+        ],
+        "permission": {
+            "writable": false
+        },
+        "nick": "kbaker @ RouteYou"
+    },
+    "type": {
+        "id": 5,
+        "tree": [
+            {
+                "id": 0,
+                "name": {
+                    "nl": "Alle routes"
+                },
+                "languages": [
+                    "nl"
+                ]
+            },
+            {
+                "id": 1,
+                "name": {
+                    "nl": "Fietsroute"
+                },
+                "languages": [
+                    "nl"
+                ]
+            }
+        ],
+        "name": {
+            "nl": "Recreatieve fietsroute"
+        },
+        "languages": [
+            "nl"
+        ]
+    },
+    "flag": "be",
+    "score": 0,
+    "scoreMethod": {
+        "id": 2
+    },
+    "correctness": null,
+    "correctnessMethod": {
+        "id": null
+    },
+    "duration": 1656,
+    "downloadable": false,
+    "inputFormat": {
+        "id": 0,
+        "recording": false
+    },
+    "ascent": {
+        "total": 17,
+        "net": 2,
+        "totalRelative": 0.1
+    },
+    "descent": {
+        "total": 15,
+        "totalRelative": 0.1
+    },
+    "ascendingRate": {
+        "max": 0.007206316,
+        "avg": 0.002463768,
+        "maxRelative": 0.1,
+        "avgRelative": 0.5
+    },
+    "difficulty": 0.10000000000000002,
+    "difficultyAuthor": null,
+    "permission": {
+        "id": 0,
+        "read": "public",
+        "write": "group",
+        "writable": false
+    },
+    "planner": {
+        "id": 5
+    },
+    "parent": null,
+    "configuration": {
+        "planner": {
+            "owner": {
+                "id": 81970
+            }
+        },
+        "map": {
+            "overlays": [
+                "cyclingNodes"
+            ]
+        }
+    },
+    "editedDate": "2023-09-21 12:50:46.312747+00",
+    "createdDate": "2020-01-15 14:43:19.501444+00",
+    "lastReviewDate": "2023-09-21 12:50:58+00",
+    "otnId": {
+        "nl": null
+    },
+    "name": {
+        "nl": "test"
+    },
+    "nameGenerated": {
+        "nl": false
+    },
+    "subName": {
+        "nl": null
+    },
+    "trackName": {
+        "nl": null
+    },
+    "description": {
+        "nl": "<p>Van: Herkkantstraat, Herk-de-Stad, Limburg, Vlaanderen<br/>\nNaar: Buurtweg SLH°47, Hasselt, Limburg, Vlaanderen</p>\n\n<p>Routering: Recreatief fietsen - knooppunten</p>"
+    },
+    "descriptionGenerated": {
+        "nl": false
+    },
+    "generatedInfo": {
+        "nl": "<p><span class=\"routeYou_node routeYou_nodeVirtual\">SP</span> - <span class=\"routeYou_node\">193</span> - <span class=\"routeYou_node\">179</span> - <span class=\"routeYou_node\">573</span> - <span class=\"routeYou_node routeYou_nodeVirtual\">177</span></p>"
+    },
+    "source": {
+        "name": {
+            "nl": null
+        },
+        "uri": {
+            "nl": null
+        }
+    },
+    "infoUri": {
+        "nl": null
+    },
+    "breadcrumbRegions": [
+        {
+            "id": 47308010,
+            "flag": "be",
+            "type": {
+                "id": 415
+            },
+            "name": {
+                "ca": "Ciutat de Herk-de-Stad",
+                "de": "Stadt Herk-de-Stad",
+                "en": "City of Herk-de-Stad",
+                "es": "Ciudad de Herk-de-Stad",
+                "fr": "Ville de Herk-de-Stad",
+                "it": "Città di Herk-de-Stad",
+                "nl": "Stad Herk-de-Stad"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47418548,
+            "flag": "be",
+            "type": {
+                "id": 522
+            },
+            "name": {
+                "ca": "Limburgse Kempen",
+                "de": "Limburgse Kempen",
+                "en": "Limburgse Kempen",
+                "es": "Limburgse Kempen",
+                "fr": "Limburgse Kempen",
+                "it": "Limburgse Kempen",
+                "nl": "Limburgse Kempen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407870,
+            "flag": "be",
+            "type": {
+                "id": 409
+            },
+            "name": {
+                "ca": "Limburg",
+                "de": "Limburg",
+                "en": "Limburg",
+                "es": "Limburg",
+                "fr": "Limbourg",
+                "it": "Limburg",
+                "nl": "Limburg"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407865,
+            "type": {
+                "id": 407
+            },
+            "name": {
+                "ca": "Bèlgica",
+                "de": "Belgien",
+                "en": "Belgium",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "nl": "België"
+            },
+            "flag": "be",
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        }
+    ],
+    "viewCount": 12,
+    "viewCountThisMonth": 0,
+    "downloadCount": 1,
+    "geometry": {
+        "google": "as|uH}lv^vI}CRC\\@dBPTAZO|AwBvBgDvDiHbDuG`BuEn@eCJy@Ak@K{@aAgGKwA@aFEu@dBqC^_@^Qh@EjAAf@ORYJe@R{@VaBhAsGLe@Zq@T[p@{ArAcFPS\\GpBl@\\Fx@Qd@WdByBlAiBNc@Ry@`A}GTkAb@uAhFeOp@iChAmFPm@|AaEhAoC|C}Hp@eAhC}BVe@dAsCh@cAjCmFrA}CbA{Cf@aBLeABcAC_EHu@TaAn@gAbAeAd@{@Pw@Ju@b@yBl@yArA{AXk@|@{B\\cCr@uGPuBJcCE}CMmFBs@LeA`@uBJoBFaCh@oDPi@wHyH|@aB|@wAdFaJhByCpAc@IiCImE@wCF{CXcHDsDEaFGkAMsBmDc\\u@oGKmAOkA}@gIYyDcDq_@"
+    },
+    "elevation": {
+        "google": "_a_pD?_ibEwsD?eI~hbEcN?yr@?cJ?_N~hbE{{@~hbEyoA_ibEucC~reKcxB_ibEcsA?_p@_ibEmR?_M?aS_seKiyA?s[~hbE}fA?mP~reKidA?aR?cP~hbEiT~hbEke@?yS?aL?oL?qT?o`@?k~A?_M?gT_ibEgM_ibEse@_seKasA~hbEaJ_ibEkN~hbEkz@?iN~hbEy\\?uS~hbEm_A?{r@~hbE_M?_T?{_B?sY_ibE{_@_seKuiE~hbEsq@_ibEmsA?gP~hbEylA_ibEcz@?y_C~hbEu`@_ibEioA?cP?{y@?i]?qfB_ibEw`A_ibEi{@?ed@?iV?wT?c|@?{P?yV~hbEi`@?}g@?aZ?_S~hbEeQ?{i@?{c@_ibEor@?eR_ibEkq@?sk@~hbEg{A?se@?mi@~hbEkq@?akA?sO?kV?ih@~hbEcc@_ibEqh@_ibE{z@?eO~hbEmyD?ek@_ibE_i@?w`D_ibEqgA~hbE}i@?ek@?w`A_ibEko@_ibEyp@_ibEy|A~hbEkx@~hbE}fA?oW?sd@?gtH~hbEwyA?qX~hbEoX_ibE}kB?s{@_seKutI"
+    },
+    "instructions": [
+        {
+            "atGeometry": "POINT(5.19903 50.94209)",
+            "distance": 0,
+            "using": "Herkkantstraat",
+            "at": null,
+            "to": "193",
+            "fromBearing": null,
+            "toBearing": 163.8585,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(5.20984 50.93624)",
+            "distance": 1184.29,
+            "using": "Nieuwmolenstraat",
+            "at": null,
+            "to": "193",
+            "fromBearing": 76.61122,
+            "toBearing": 135.7566,
+            "angle": 59.14539
+        },
+        {
+            "atGeometry": "POINT(5.21207 50.93424)",
+            "distance": 1480.945,
+            "using": "",
+            "at": "193",
+            "to": "179",
+            "fromBearing": 111.2358,
+            "toBearing": 113.0461,
+            "angle": 1.810343
+        },
+        {
+            "atGeometry": "POINT(5.21397 50.93359)",
+            "distance": 1634.632,
+            "using": "Herkkantstraat",
+            "at": null,
+            "to": "179",
+            "fromBearing": 136.6097,
+            "toBearing": 133.0995,
+            "angle": -3.51025
+        },
+        {
+            "atGeometry": "POINT(5.22979 50.92461)",
+            "distance": 3211.66,
+            "using": "",
+            "at": "179",
+            "to": "573",
+            "fromBearing": 134.4171,
+            "toBearing": 133.0203,
+            "angle": -1.396809
+        },
+        {
+            "atGeometry": "POINT(5.24801 50.91928)",
+            "distance": 4685.356,
+            "using": "",
+            "at": null,
+            "to": "573",
+            "fromBearing": 125.1839,
+            "toBearing": 29.56929,
+            "angle": -95.61465
+        },
+        {
+            "atGeometry": "POINT(5.2496 50.92095)",
+            "distance": 4894.781,
+            "using": "Hofbeemdenstraat",
+            "at": null,
+            "to": "573",
+            "fromBearing": 29.81629,
+            "toBearing": 136.1502,
+            "angle": 106.3339
+        },
+        {
+            "atGeometry": "POINT(5.25321 50.91826)",
+            "distance": 5291.996,
+            "using": "",
+            "at": "573",
+            "to": "177",
+            "fromBearing": 164.5293,
+            "toBearing": 83.44272,
+            "angle": -81.0866
+        },
+        {
+            "atGeometry": "POINT(5.25323 50.91822)",
+            "distance": 5293.2,
+            "using": "",
+            "at": null,
+            "to": "177",
+            "fromBearing": 165.8467,
+            "toBearing": 77.23205,
+            "angle": -88.61466
+        },
+        {
+            "atGeometry": "POINT(5.25481 50.91836)",
+            "distance": 5405.035,
+            "using": "",
+            "at": null,
+            "to": "177",
+            "fromBearing": 86.63758,
+            "toBearing": 89.99977,
+            "angle": 3.362188
+        },
+        {
+            "atGeometry": "POINT(5.25793 50.91818)",
+            "distance": 5625.647,
+            "using": "",
+            "at": null,
+            "to": "177",
+            "fromBearing": 97.56823,
+            "toBearing": 94.42422,
+            "angle": -3.144013
+        },
+        {
+            "atGeometry": "POINT(5.26014 50.91819)",
+            "distance": 5781.322,
+            "using": "",
+            "at": null,
+            "to": "177",
+            "fromBearing": 85.28911,
+            "toBearing": 79.88176,
+            "angle": -5.407351
+        },
+        {
+            "atGeometry": "POINT(5.26238 50.91855)",
+            "distance": 5944.056,
+            "using": "",
+            "at": null,
+            "to": "177",
+            "fromBearing": 73.43603,
+            "toBearing": 73.34748,
+            "angle": -0.0885498
+        },
+        {
+            "atGeometry": "POINT(5.27549 50.92083)",
+            "distance": 6900.372,
+            "using": "Kleine Roost",
+            "at": null,
+            "to": "177",
+            "fromBearing": 75.97971,
+            "toBearing": null,
+            "angle": null
+        }
+    ],
+    "statistics": {
+        "match": 1,
+        "routing": {
+            "cyclingNodes": 1
+        },
+        "roadCondition": {
+            "paved": {
+                "good": 0.99457824592655,
+                "bad": 0.0054217540734477
+            },
+            "unpaved": {
+                "good": 0,
+                "bad": 0
+            },
+            "unknown": 0,
+            "google": "?Au}lh@A{qI@mqgR@"
+        },
+        "cobblestone": {
+            "score": 0
+        },
+        "cycleway": {
+            "score": 0.23065001300494,
+            "google": "??ks}m@AsnaM@"
+        },
+        "carFree": {
+            "score": 0.23065001300494,
+            "google": "??ks}m@AsnaM@"
+        },
+        "urban": {
+            "score": 0.53145170714641,
+            "google": "??gcr[Aw~l_@@"
+        },
+        "nature": {
+            "score": 0.72310658284153,
+            "google": "?Aqy`]@yx{OAsnaM@"
+        },
+        "water": {
+            "score": 0.093330827525204,
+            "google": "??ejgh@AehuD@"
+        },
+        "traffic": {
+            "score": 0.029941181627592,
+            "google": "??cgrh@Ciny@B"
+        },
+        "noise": {
+            "score": 0.2933308275252
+        },
+        "accessibility": {
+            "score": 1,
+            "google": "?A_c`|@@"
+        },
+        "bearing": "southeast",
+        "colaScore": 1
+    },
+    "segments": [
+        [
+            5.19903,
+            50.94209,
+            38
+        ],
+        [
+            5.27549,
+            50.92083,
+            38
+        ]
+    ],
+    "pois": [
+        {
+            "location": {
+                "id": 47906366,
+                "type": {
+                    "id": 345,
+                    "name": {
+                        "nl": "Straat"
+                    }
+                },
+                "address": {
+                    "id": 1504509,
+                    "street": "Kleine Roost",
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.356,
+                "distance": 6900,
+                "name": {
+                    "nl": "Zeer geschikte fietsweg"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.27905416387 50.917830879)"
+                }
+            },
+            "text": {
+                "id": 1413734,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 169878
+                },
+                "description": {
+                    "nl": "Deze weg werd geselecteerd door de RouteYou-community als zeer geschikt om te fietsen (gebaseerd op het AskMe-vraagsysteem van RouteYou).<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/169878.nl\">Tim Baert</a><br/><a href=\"https://www.routeyou.com/location/view/47906366.nl?toptext=1413734\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 685842,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 169878
+                    },
+                    "filename": {
+                        "nl": "b0683b55225bf27eeef81b4052c3cf14_055f3ee8c9ff47d70744f7fafac65813cd3b52ef.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Google StreetView"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "http://maps.google.com/"
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/b0683b55225bf27eeef81b4052c3cf14_055f3ee8c9ff47d70744f7fafac65813cd3b52ef.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47490862,
+                "type": {
+                    "id": 128,
+                    "name": {
+                        "fr": "Château",
+                        "nl": "Kasteel"
+                    }
+                },
+                "address": {
+                    "id": 1736955,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Limburg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.606,
+                "distance": 4730,
+                "name": {
+                    "nl": "Kasteel van Stevoort",
+                    "fr": "Château de Stevoort"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.24956667 50.91849722)"
+                }
+            },
+            "text": {
+                "id": 1676834,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Het kasteel van Stevoort is een voormalig waterkasteel van de heren van Klein Stevoort, gelegen aan Hasseltse Dreef 115.Vermoedelijk stond hier in de 11e eeuw reeds een kasteel. In de 16e eeuw kwam het aan de familie Salm-de Rougrave. Uit deze tijd stamt de vierkante, zuidoostelijke hoektoren. In 1630 werd de familie De Groote eigenaar. In 1701 kwam het kasteel aan de familie De Libotton. Deze verbouwde het kasteel ingrijpend en breidde het ook uit.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47490862.nl?toptext=1676834\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=2081946",
+                        "fr": "https://nl.wikipedia.org/w/index.php?curid=2081946"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 1806934,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "89aa2ae813d058da397048c38267c958_043698d49ec5f33e5949bb7a34fd70d1cdee32c7.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Sonuwe"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://commons.wikimedia.org/w/index.php?curid=16610971"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/89aa2ae813d058da397048c38267c958_043698d49ec5f33e5949bb7a34fd70d1cdee32c7.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49768484,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "en": "Hotel",
+                        "fr": "Hôtel",
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": 5901923,
+                    "street": "Sint-Maartenplein",
+                    "number": "56",
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.383,
+                "distance": 4685,
+                "name": {
+                    "nl": "Het Koetshuis",
+                    "en": "Het Koetshuis",
+                    "fr": "Het Koetshuis"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.248126 50.916098)"
+                }
+            },
+            "text": {
+                "id": 2811487,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 1099381
+                },
+                "description": {
+                    "nl": "Auteur: <a href=\"https://www.routeyou.com/user/view/1099381.nl\">tvl</a><br/><a href=\"https://www.routeyou.com/location/view/49768484.nl?toptext=2811487\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 5778422,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 1099381
+                    },
+                    "filename": {
+                        "fr": "437efc70a9d2c86424b42a527e3cc022_74f4b834c1a2ba062f8013b1428a7465e3e03ab2.png",
+                        "en": "437efc70a9d2c86424b42a527e3cc022_74f4b834c1a2ba062f8013b1428a7465e3e03ab2.png",
+                        "nl": "437efc70a9d2c86424b42a527e3cc022_74f4b834c1a2ba062f8013b1428a7465e3e03ab2.png"
+                    },
+                    "description": {
+                        "fr": "",
+                        "en": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "fr": null,
+                            "en": null,
+                            "nl": null
+                        },
+                        "description": {
+                            "fr": "",
+                            "en": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "fr": null,
+                            "en": null,
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/437efc70a9d2c86424b42a527e3cc022_74f4b834c1a2ba062f8013b1428a7465e3e03ab2.png",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/437efc70a9d2c86424b42a527e3cc022_74f4b834c1a2ba062f8013b1428a7465e3e03ab2.png",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/437efc70a9d2c86424b42a527e3cc022_74f4b834c1a2ba062f8013b1428a7465e3e03ab2.png"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49294043,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "fr": "Café",
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 7777606,
+                    "street": "Sint-maartenplein 10",
+                    "number": null,
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.825,
+                "distance": 5153,
+                "name": {
+                    "nl": "Herberg bij Tante Julia",
+                    "fr": "Auberge chez tante Julia"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2500700000001 50.9160921)"
+                }
+            },
+            "text": {
+                "id": 3016350,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "In het kruidenierswinkeltje van Julia Bex bleef de tijd stilstaan. Terwijl je er vriendelijk werd bediend, sprak je er over de kleine dingen van elke dag. Je voelde je er op je gemak. Vinod en al zijn fijne medewerkers namen de fakkel over. In hun herberg kun je terecht als je dorst of honger hebt of gewoon zin hebt om uit te rusten op het tuinterras. Ze laten je met een goed gevoel en een gerust hart weer naar huis vertrekken. Net zoals vroeger…<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/81970.nl\">Visit Limburg</a><br/><a href=\"https://www.routeyou.com/location/view/49294043.nl?toptext=3016350\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "fr": "Toerisme Limburg",
+                        "nl": "Toerisme Limburg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2116586,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "40c31b90ea3538759b7d46f6f514434c_1446daa19feb5c4abc716f2afef8ff47bb52c5d1.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Toerisme Limburg"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/40c31b90ea3538759b7d46f6f514434c_1446daa19feb5c4abc716f2afef8ff47bb52c5d1.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49416565,
+                "type": {
+                    "id": 79,
+                    "name": {
+                        "nl": "Park"
+                    }
+                },
+                "address": {
+                    "id": 3041771,
+                    "street": "Hasseltse dreef 115",
+                    "number": null,
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.339,
+                "distance": 5673,
+                "name": {
+                    "nl": "Park en sterrebos van Mariaburcht"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2587321477566 50.921908705291)"
+                }
+            },
+            "text": {
+                "id": 3149243,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Park in landschappelijke stijl met riant karakter (26 hectare) van rond 1890, horend bij het voormalig kasteeldo­mein van de heren van Klein Stevoort, die er, vertrekkend van een oudere kern, in de 18de eeuw een nieuw water­kasteel bouwden en twee sterrebossen aanlegden.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49416565.nl?toptext=3149243\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "De Maegd, Christiane & van den Bossche, Herman (2006)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2233940,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "30a64ec770eec1057866a450ada4e940_ad00281850a443e364016599d257526e1b2dca2f.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Pauwels, Oswald, 01-01-2006, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/30a64ec770eec1057866a450ada4e940_ad00281850a443e364016599d257526e1b2dca2f.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49421718,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3046946,
+                    "street": "Herkkantstraat",
+                    "number": "105",
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.318,
+                "distance": 3213,
+                "name": {
+                    "nl": "Semi-gesloten hoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.229998492841 50.924939154394)"
+                }
+            },
+            "text": {
+                "id": 3154544,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Semi-gesloten hoeve op U-vormige plattegrond, uit de 19de eeuw. Gebouwen in stijl- en regelwerk met lemen vullingen onder zadeldaken (Vlaamse en mechanische pannen), gelegen rondom een rechthoekig erf.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49421718.nl?toptext=3154544\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2238977,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "1aad1f9ba9ba45e01b025d28b6038efb_9cd85485fd534277971fd6d3ad29034746768389.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-03-1976, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/1aad1f9ba9ba45e01b025d28b6038efb_9cd85485fd534277971fd6d3ad29034746768389.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49422852,
+                "type": {
+                    "id": 137,
+                    "name": {
+                        "nl": "Huis"
+                    }
+                },
+                "address": {
+                    "id": 3048085,
+                    "street": "Grote Roost",
+                    "number": "113",
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.352,
+                "distance": 6652,
+                "name": {
+                    "nl": "Landarbeiderswoning"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2727174550047 50.916120352946)"
+                }
+            },
+            "text": {
+                "id": 3155730,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Landarbeidershuisje van twee traveeën onder zadeldak (nok loodrecht op de straat, mechanische pannen), uit het begin van de 20ste eeuw. Overkalkt stijl- en regelwerk met lemen vullingen op lage, bakstenen stoel en gepikte plint. Twee vensters, een zolderluik en een deur. Pannen beschieting van de rechterzijgevel.        <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49422852.nl?toptext=3155730\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2240101,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "ed92c9c80e4d5adcca8768d0ed39acde_da39436366b3a786f6fcee8749fdb43d119e7223.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-04-1976, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/ed92c9c80e4d5adcca8768d0ed39acde_da39436366b3a786f6fcee8749fdb43d119e7223.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49422880,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": 3048113,
+                    "street": "Hasseltse dreef",
+                    "number": "115",
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.404,
+                "distance": 4727,
+                "name": {
+                    "nl": "Schoolinrichting Mariaburcht"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2494452987125 50.918576720889)"
+                }
+            },
+            "text": {
+                "id": 3155761,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": " Voormalig waterkasteel van de Heren van Stevoort. Thans omgebouwd tot schoolinrichting \"Mariaburcht\". Eertijds gelegen in een ruim park, het zogenaamde \"Sterbos\", thans grotendeels verdwenen door schooluitbreiding, verkaveling en aanleg van de Hasseltse Dreef. De zuidzijde van het park wordt gedomineerd door de grote vijver, aansluitend op de omgrachting. Gesloten aanleg met verschillende bouwfazen: 16de eeuw, 1705, tweede helft 18de eeuw, en ingrijpende verbouwingen tijdens de 20ste eeuw.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49422880.nl?toptext=3155761\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2240127,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "222f94ffdcb2b70d8aa66f004c1ce2ae_29d4660667c2e1bd43a31e870b3a05db1b031432.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-03-1976, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/222f94ffdcb2b70d8aa66f004c1ce2ae_29d4660667c2e1bd43a31e870b3a05db1b031432.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49426105,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3051341,
+                    "street": "Grote Roost",
+                    "number": "147",
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.359,
+                "distance": 6473,
+                "name": {
+                    "nl": "Semi-gesloten hoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.269933294353 50.917487565916)"
+                }
+            },
+            "text": {
+                "id": 3159200,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Semi-gesloten hoeve, met kern uit eind 18de - eerste helft 19de eeuw. Bakstenen gebouwen onder zadeldaken (Vlaamse pannen), gelegen rondom het rechthoekig erf, dat met een recente poort van de straat is afgesloten. Van de oude kern blijven slechts het woonhuis en de schuur over, de noordwestvleugel werd in 1936 van nieuwe gevels voorzien.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49426105.nl?toptext=3159200\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2243352,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "d7e64504e5ce8d1d957e14d4dcd79882_5bac426840027c2057458c65213b47d8992d7966.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-04-1976, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/d7e64504e5ce8d1d957e14d4dcd79882_5bac426840027c2057458c65213b47d8992d7966.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49431164,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3056408,
+                    "street": "Stevoortweg",
+                    "number": "207",
+                    "box": null,
+                    "city": "Herk-de-Stad",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.304,
+                "distance": 2865,
+                "name": {
+                    "nl": "Hoeve Halt van Wijer"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2239615690488 50.921937149945)"
+                }
+            },
+            "text": {
+                "id": 3164601,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Hoeve op L-vormige plattegrond, naar verluidt gebouwd in 1901, en vroeger ook café en winkel; gelegen op een kruispunt; belangrijk element in de straat.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49431164.nl?toptext=3164601\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2248417,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "008182641ebc7010c2a3754874a511ff_2c73d7faa7a9358fab2237ccbc05a117a3d56ead.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-07-1977, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/008182641ebc7010c2a3754874a511ff_2c73d7faa7a9358fab2237ccbc05a117a3d56ead.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49431724,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": 3056969,
+                    "street": "Kolmenstraat",
+                    "number": "22",
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.309,
+                "distance": 4516,
+                "name": {
+                    "nl": "Vakwerkhoeve met losse bestanddelen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2448219110132 50.915812631836)"
+                }
+            },
+            "text": {
+                "id": 3165207,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Hoeve met losstaande bestanddelen, uit de eerste helft van de 19de eeuw, ietwat achteruitgelegen ten opzichte van de straat, en aan de straatzijde met een haag afgezoomd. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49431724.nl?toptext=3165207\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2249000,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "37c8ba21b8d9832896212c8868f85744_82a72ce7aed1d4da3558919704c0c4bab3b39563.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-03-1976, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/37c8ba21b8d9832896212c8868f85744_82a72ce7aed1d4da3558919704c0c4bab3b39563.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49437848,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": 3063106,
+                    "street": "Kannaertsstraat",
+                    "number": "5",
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.404,
+                "distance": 6838,
+                "name": {
+                    "nl": "Kasteelhoeve Kannaerts Hof"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2744398075123 50.92188380334)"
+                }
+            },
+            "text": {
+                "id": 3171707,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Kasteelhoeve, eertijds Loons leen gelegen op het gehucht KleinStevoort. In 1332 eerste vermelding der familie Kannaert, verwant met het geslacht van Hamel; in 1404 eerste verheffing bij de Leenzaal van Kuringen. Na verkoop in 1604 aan Gerard van den Bossche de Mopertingen, verworven door Jan van Hinnisdael in 1644; deze laatste bouwde het poortgebouw en de stalling, en verbouwde het woonhuis. In 1818 aangekocht door de familie Palmers, die het zeer recent aan de huidige bewoners verkocht.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49437848.nl?toptext=3171707\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2255124,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "f3c103cae2dbd846b21d815ced8ed1c0_3a5c24b5b8b129166a7dd6c2f0c1160c77843760.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-04-1976, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/f3c103cae2dbd846b21d815ced8ed1c0_3a5c24b5b8b129166a7dd6c2f0c1160c77843760.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49440528,
+                "type": {
+                    "id": 140,
+                    "name": {
+                        "nl": "Postgebouw"
+                    }
+                },
+                "address": {
+                    "id": 3065791,
+                    "street": "Sint-Maartenplein",
+                    "number": "80",
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.315,
+                "distance": 4620,
+                "name": {
+                    "nl": "Postgebouw en station buurtspoorwegen Stevoort"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2466086471589 50.917369108197)"
+                }
+            },
+            "text": {
+                "id": 3174533,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Voormalig postgebouw en station van de buurtspoorwegen, gebouwd in 1901 door timmerman Jef De Mot. Vier traveeën en één bouwlaag onder wolvedak (mechanische pannen met geometrisch patroon). <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49440528.nl?toptext=3174533\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2257785,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "72e47a788a01d7a23dab0ed2088cbe1a_4d06d3108785e3edf8acca8f8b29ad753c49dfa1.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-03-1976, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/72e47a788a01d7a23dab0ed2088cbe1a_4d06d3108785e3edf8acca8f8b29ad753c49dfa1.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49450871,
+                "type": {
+                    "id": 148,
+                    "name": {
+                        "nl": "Windmolen (Nieuw)"
+                    }
+                },
+                "address": {
+                    "id": 3076157,
+                    "street": "Herkkantstraat",
+                    "number": "60",
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.3,
+                "distance": 3399,
+                "name": {
+                    "nl": "Elsartmolen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2314436660177 50.92283721716)"
+                }
+            },
+            "text": {
+                "id": 3185887,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Waterradmolen op de Herk. Woonhuis en aanhorigheden gegroepeerd langsheen de gekasseide weg. Enkele treurwilgen achter woonhuis en schuur.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49450871.nl?toptext=3185887\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2268400,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "b8be04f92c64e0e087c5cf8fde46e426_593f67a570c4ab126e06afeb70fa5e3833edd4af.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-03-1976, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/b8be04f92c64e0e087c5cf8fde46e426_593f67a570c4ab126e06afeb70fa5e3833edd4af.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49455075,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3080373,
+                    "street": "Herkkantstraat",
+                    "number": "29",
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.334,
+                "distance": 4339,
+                "name": {
+                    "nl": "Hoeve met losse bestanddelen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.24325001612 50.920196978201)"
+                }
+            },
+            "text": {
+                "id": 3190542,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Hoeve met losstaande bestanddelen, uit de 19de eeuw, gegroeid uit een langgerekt hoevetje in stijl- en regelwerk met witgekalkte lemen vullingen op gecementeerde bakstenen stoel, vijf traveeën onder zadeldak (nok loodrecht op de straat, Vlaamse pannen). <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49455075.nl?toptext=3190542\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2272796,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "1fd93d0d72e2cef7aa102d5fc9016a7a_93ac98ac06dcfd75abb86f383e1ee09a461dbaa6.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-03-1976, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/1fd93d0d72e2cef7aa102d5fc9016a7a_93ac98ac06dcfd75abb86f383e1ee09a461dbaa6.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49468148,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3093489,
+                    "street": "Gasterbosstraat",
+                    "number": "6",
+                    "box": null,
+                    "city": "Herk-de-Stad",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.39,
+                "distance": 0,
+                "name": {
+                    "nl": "Langgestrekte hoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.1944119093689 50.942434409862)"
+                }
+            },
+            "text": {
+                "id": 3205267,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Hoeve, met kern uit begin 19de eeuw (?), grotendeels aangepast in de 19de en 20ste eeuw. Gewijzigde ordonnantie. Bakstenen gebouw onder zadeldak (Vlaamse pannen), afgewolfd aan de rechter zijde. De eerste drie traveeën van de achtergevel bleven bewaard in stijl- en regelwerk met bakstenen vullingen, sporadisch afgewerkt met een stroomlaag; zes stijlen en drie regels; enkele kleine houten kozijnen. Recentere haakse aanbouwsels op de voorgevel.         <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49468148.nl?toptext=3205267\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2286738,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "2f3f9fa1a578a9aa2b7eae4536d4ff88_57faab62560dacda90ec2b070ff1e2cbec667fcd.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-08-1977, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/2f3f9fa1a578a9aa2b7eae4536d4ff88_57faab62560dacda90ec2b070ff1e2cbec667fcd.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49469767,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3095110,
+                    "street": "Herkkantstraat",
+                    "number": "66",
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.302,
+                "distance": 3096,
+                "name": {
+                    "nl": "Hoeve 't Molenhuys"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2282031851822 50.924755163852)"
+                }
+            },
+            "text": {
+                "id": 3207120,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Gerestaureerde hoeve op L-vormige plattegrond, in kern opklimmend tot 1616 (gevelsteen op de schoorsteen), doch in latere perioden sterk aangepast. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49469767.nl?toptext=3207120\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2288471,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "00f44cb0cf332e92ef2c4f96d9c60d9b_a5e90ecf5c579d1c6bd6a81d4d31efd80285dfca.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-05-1976, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/00f44cb0cf332e92ef2c4f96d9c60d9b_a5e90ecf5c579d1c6bd6a81d4d31efd80285dfca.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49471591,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3096939,
+                    "street": "Gasterbosstraat",
+                    "number": "4",
+                    "box": null,
+                    "city": "Herk-de-Stad",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.406,
+                "distance": 313,
+                "name": {
+                    "nl": "Hoeve Herkkantwinning"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.1957216910587 50.935263804069)"
+                }
+            },
+            "text": {
+                "id": 3209186,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Hoeve, vermeld in 1478 wanneer de hoeve bij testament wordt overgemaakt aan de armentafels van Alken, Stevoort en Berbroek. Gesloten hoeve, met huidig uitzicht uit de tweede helft van de 18de eeuw, vlak bij de Herk gelegen; de huidige inrit bevindt zich aan de noordzijde en verbindt de hoeve met de Herkkantstraat; de oorspronkelijke inrit, die op het poortgebouw uitmondt, loopt over de beide vertakkingen van de Herk naar de weg Stevoort-Herk-de-Stad; deze verbinding is thans buiten gebruik. Bakstenen gebouwen, gegroepeerd rondom het rechthoekige, gedeeltelijk gekasseid erf met voormalige vaalt.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49471591.nl?toptext=3209186\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2290417,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "2c41164338a9ac7d5edf51e58a210564_13155c09b706c25ac93ce576dda07c7671b5a2ef.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-08-1977, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/2c41164338a9ac7d5edf51e58a210564_13155c09b706c25ac93ce576dda07c7671b5a2ef.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49472070,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3097418,
+                    "street": "Herkkantstraat",
+                    "number": "41",
+                    "box": null,
+                    "city": "Herk-de-Stad",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.406,
+                "distance": 199,
+                "name": {
+                    "nl": "Langgestrekte hoeve"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.202238739689 50.941341330374)"
+                }
+            },
+            "text": {
+                "id": 3209734,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Hoevetje, naar verluidt van circa 1920, thans gerestaureerd en als woonhuis in gebruik. Wat achteruit gelegen ten opzichte van de straat. Vijf traveeën onder zadeldak (nok evenwijdig aan de straat, kunstleien), met recente dakkapellen.  Stijl- en regelwerk met witgekalkte lemen vullingen op een hoge bakstenen stoel. Gepikte stijlen (tien) en hoekstijlschoren. Twee beluikte vensters, een woonhuisdeur en een tot venster omgevormde staldeur. Beluikte venstertjes in de achtergevel. Kunstleien beschieting der linker zijgevel; bakstenen aanbouwsel onder lessenaarsdak tegen dezelfde gevel. Waterput vóór het woonhuis.        <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49472070.nl?toptext=3209734\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2290937,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "e3a90ee15e24fa53b1d30a63eb9b0453_4e57cdd9332fe9bdd7283aea53f777eb13e7060f.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-08-1977, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/e3a90ee15e24fa53b1d30a63eb9b0453_4e57cdd9332fe9bdd7283aea53f777eb13e7060f.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49473591,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": 3098942,
+                    "street": "Wijerstraat",
+                    "number": "5",
+                    "box": null,
+                    "city": "Herk-de-Stad",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.406,
+                "distance": 2796,
+                "name": {
+                    "nl": "Vakwerkhoeve met losse bestanddelen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2225786184686 50.921294190561)"
+                }
+            },
+            "text": {
+                "id": 3211474,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "De vakwerkhoeve met losse bestanddelen is reeds weergegeven in de Atlas van de Buurtwegen (1840-1845). Het huidige bakhuis in baksteen werd opgetrokken in 1941.  Historiek De hoeve wordt in de Atlas van de Buurtwegen (1840-1845) reeds gedocumenteerd als een hoeve met losse bestanddelen, bestaande uit drie volumes (woonhuis, stal en bakhuis). In 1888 wordt op de mutatieschets het bakhuis niet meer ingetekend en wordt het volume van de stal verkort weergegeven. Dit volume is vergelijkbaar met de huidige vakwerk-kern van de stal. Ten laatste in 1941 wordt het woonhuis langs de rechter zijgevel verlengd met een smal aanbouwsel, terwijl de stal eveneens aanbouwsels krijgt tegen de achter- en beide zijgevels. Tevens wordt opnieuw een bakhuis gedocumenteerd ten oosten van het woonhuis, dat kan geassocieerd worden met de huidige bakstenen constructie. Deze situatie wordt ook weergegeven op een tekening die door een familielid van de huidige eigenaar op het eind van de jaren 1940 gemaakt werd. Het aanbouwsel tegen de linker zijgevel van de stal deed volgens de eigenaar oorspronkelijk dienst als kippenhok maar werd rond de jaren 1950 vervangen door de huidige bakstenen stal onder lessenaarsdak. Ten laatste in 1959 wordt volgens de mutatieschets het smalle aanbouwsel tegen de rechter zijgevel van het woonhuis verbreed of vervangen door een nieuw volume, dat waarschijnlijk identificeerbaar is met het huidige bakstenen aanbouwsel onder lessenaarsdak. In hetzelfde jaar is de aanbouw uit ten laatste 1941 tegen de achtergevel van de stal verdwenen. Vervolgens wordt het woonhuis ten laatste in 1982 over de volledige lengte van de achtergevel verbreed met een bijkomend volume, dat mogelijk kan geïdentificeerd worden met de nog bestaande schob. Volgens de eigenaar bevond zich reeds vroeger een aanbouwsel tegen de achtergevel, maar werd dit op een bepaald moment vergroot. In ieder geval staat de nog bestaande schob reeds afgebeeld op de zwart-wit foto’s, die in 1977 in het kader van de inventarisatie voor de reeks Bouwen door de Eeuwen Heen gemaakt werden. Ook de schuur blijkt volgens de mutatieschets tegen 1982 veranderingen ondergaan te hebben, waarbij een uitgestrekt aanbouwsel verschijnt tegen de rechter zijgevel dat doorloopt langs de achtergevel. Volgens de eigenaar dateert dit aanbouwsel (huidige stal) van de jaren 1960. Het staat in ieder geval al afgebeeld op de inventarisfoto’s uit 1977. Verder wordt ten laatste in 1982 de huidige loods opgetrokken achter de hoevegebouwen. Op het huidige kadasterplan is de schob tegen de achtergevel van het woonhuis duidelijk afgebeeld en lijkt de hoek tussen het aanbouwsel tegen de achtergevel en de linker zijgevel van de stal opgevuld te zijn. Het aanbouwsel tegen de rechter zijgevel van de stal lijkt nog iets verlengd te zijn. Verder is nog een dwarse constructie tegen de loods zichtbaar, die kan geassocieerd worden met de huidige overdekte hangar voor landbouwmachines.  Beschrijving De huidige hoeve met losstaande bestanddelen (woonhuis, stal en bakhuis) is gelegen rond een rechthoekig voorerf, dat geopend is naar de straatzijde toe. Op het bakhuis na zijn de gebouwen opgetrokken in stijl- en regelwerk met witgekalkte lemen vullingen en gepikte timmer onder zadeldaken met Vlaamse pannen. Het woonhuis bevindt zich ten noordwesten van het voorerf en omvat vijf traveeën op een bakstenen stoel, die verhoogd is langs de voorgevel. De voorgevel bevat zes stijlen, regels boven de vensters en de deur, en twee tussenstijlschoren. De muuropeningen bestaan uit een lage deur en twee aangepaste vensters. De linker zijgevel heeft een asbestplaten beschieting. Tegen de rechter zijgevel bevindt zich een onbelangrijk en recenter (ten laatste 1959) bakstenen aanbouwsel onder golfplaten lessenaarsdak. De achtergevel wordt door een waardeloze schob met golfplaten lessenaarsdak grotendeels aan het zicht onttrokken. De stal met hooizolder bevindt zich ten zuidwesten van het voorerf en is een vrij hoge constructie van drie traveeën op een bakstenen stoel. De voorgevel bevat een staldeur, een laadvenster en twee kleine venstertjes. Beide zijgevels dragen een asbestplaten beschieting. Zowel tegen beide zijgevels als tegen de achtergevel bevinden zich recentere bakstenen aanbouwsels. Het oorspronkelijke bakhuis bevond zich volgens de Atlas van de Buurtwegen rechts vooraan op het voorerf tegen de straatkant en bestond hoogstwaarschijnlijk uit een vakwerkconstructie met lemen vullingen. Volgens de mutatieschetsen en de huidige eigenaar werd omstreeks 1941 het huidige bakhuis in baksteen opgetrokken dichter naar het woonhuis toe. De bakoven is nog aanwezig.  Interieur Het woonhuis heeft de traditionele indeling grotendeels bewaard, bestaande uit een inkom, twee grote vertrekken met een centrale haard aan de noordzijde, en oorspronkelijk drie kleinere vertrekken (waaronder een keuken) en een opkamer met steile trap aan de zuidzijde. Twee van de kleine vertrekken werden samengevoegd tot een grotere ruimte (de huidige slaapkamer), die bereikbaar is via een trap. De ankerbalkgebinten zijn nog duidelijk herkenbaar. De lemen muren worden binnenin bedekt door platen. Omgeving<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49473591.nl?toptext=3211474\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2292564,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "107739998206cbd152fbf9fdff955d18_7909c52b0e2e919ad0a8163391f02727729f3319.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-07-1977, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/107739998206cbd152fbf9fdff955d18_7909c52b0e2e919ad0a8163391f02727729f3319.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49473715,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3099066,
+                    "street": "Sint-Maartenplein",
+                    "number": "62",
+                    "box": null,
+                    "city": "Hasselt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.312,
+                "distance": 4685,
+                "name": {
+                    "nl": "Hoeve met losstaande bestanddelen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2476347679235 50.916626679202)"
+                }
+            },
+            "text": {
+                "id": 3211611,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Hoeve met losstaande bestanddelen, uit de tweede helft van de 19de eeuw, gelegen bij een kruising van twee wegen; het woonhuis is voorzien van een voortuintje, afgezet met een haag.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49473715.nl?toptext=3211611\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2292693,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "286c354547e4215ba3eb77b140c2956f_5f4e7ad05e652eb227fe1e6009190775ecaf1707.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-03-1976, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/286c354547e4215ba3eb77b140c2956f_5f4e7ad05e652eb227fe1e6009190775ecaf1707.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49480435,
+                "type": {
+                    "id": 266,
+                    "name": {
+                        "nl": "Watermolen"
+                    }
+                },
+                "address": {
+                    "id": 3105815,
+                    "street": "Nieuwmolenstraat",
+                    "number": "8",
+                    "box": null,
+                    "city": "Herk-de-Stad",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.479,
+                "distance": 918,
+                "name": {
+                    "nl": "Nieuwe Molen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2062477263038 50.930988499887)"
+                }
+            },
+            "text": {
+                "id": 3219218,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "U-vormige watermolen op de Herk, gedateerd 1725 door middel van een gevelsteen op de zuidoostelijke woonhuisgevel. Merkwaardig complex, met de dwarse noordwestvleugel over de Herk gebouwd; gelegen in een landschap met vochtige beemden en populieraanplantingen, en door een weg met de straat verbonden. Restauratie is aan de gang. Woonhuis in de haakse noordoostvleugel; zes traveeën en anderhalve bouwlaag onder wolfsdak (kunstleien). Stijl- en regelwerk met witgekalkte lemen vullingen op een lage bakstenen stoel. Onderkelderde opkamer zichtbaar in de vijfde travee van de noordoostgevel; gepikte stijlen (zeven) hoekstijlschoor (laatste travee) en tussenstijlschoor (tweede travee, tegen de tweede ankerbalk); getraliede en oorspronkelijk beluikte vensters: een houten kruiskozijn met sponningbeloop, een groot en een klein bolkozijn met sponningbeloop; twee kleine venstertjes op de halve verdieping. De zuidwestgevel gaat gedeeltelijk schuil achter de noordoostelijke vleugel; drie zichtbare, gepikte stijlen; een groot getralied kruiskozijn met sponningbeloop, oorspronkelijk beluikt; kleine bovenvensters. Zuidoostelijke zijgevel met enkele kleinere vensters, de noorwestelijke zijgevel gedeeltelijk versteend en met gerestaureerde vensters.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49480435.nl?toptext=3219218\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Schlusmans, Frieda (1981)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2299921,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "da803d5703373b4ec70e7cb1c95f7d77_e1581634f03d07e3bb4bfd7f1de4841d08d6a440.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Schlusmans, Frieda, 01-08-1977, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/da803d5703373b4ec70e7cb1c95f7d77_e1581634f03d07e3bb4bfd7f1de4841d08d6a440.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49765392,
+                "type": {
+                    "id": 128,
+                    "name": {
+                        "nl": "Kasteel"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.508,
+                "distance": 0,
+                "name": {
+                    "nl": "kasteel Gasterbos"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.1918125 50.9407717)"
+                }
+            },
+            "text": {
+                "id": 3850388,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 8911
+                },
+                "description": {
+                    "nl": "Het kasteel Gasterbos, gebouwd op het einde van de 19de eeuw, werd nauwelijks een eeuw later alweer afgebroken en vervangen door een meer hedendaags bouwsel. Bij het oorspronkelijke kasteel staat een kasteelhoeve uit 1902 met een monumentaal poortgebouw.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/8911.nl\">Lannoo</a><br/><a href=\"https://www.routeyou.com/location/view/49765392.nl?toptext=3850388\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Lannoo"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "http://www.lannoo.com"
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 2912083,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 8911
+                    },
+                    "filename": {
+                        "nl": "top_castle.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/top_castle.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49765394,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.432,
+                "distance": 5406,
+                "name": {
+                    "nl": "Cannaertshof"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2548552 50.9176992)"
+                }
+            },
+            "text": {
+                "id": 3850390,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 8911
+                },
+                "description": {
+                    "nl": "Ooit was het Cannaertshof een kasteelhoeve die deel uitmaakte van een Loons leen in het gehucht Klein Stevoort. Onderdelen van de woning gaan terug tot in de 16de eeuw. Uit de 17de eeuw stammen het poortgebouw met duiventil en enkele stallingen. De dwarsschuur werd gebouwd in 1714. De hoeve ligt aan de Wanbeek, een zijbeek van de Herk.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/8911.nl\">Lannoo</a><br/><a href=\"https://www.routeyou.com/location/view/49765394.nl?toptext=3850390\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Lannoo"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "http://www.lannoo.com"
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 50593068,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.342,
+                "distance": 5292,
+                "name": {
+                    "nl": "Sint-Martinuskerk"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.25075833 50.91657222)"
+                }
+            },
+            "text": {
+                "id": 5658366,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "De kerk heeft een laatgotische westtoren uit 1557. Deze is geflankeerd door kapellen. De toren heeft drie geledingen en is gebouwd in baksteen met mergelstenen speklagen. De plint is van ijzerzandsteen. Boven de ingang is een recenter roosvenster. Ook is daar een chronogram met de tekst: palMers CIViusque pagI aDIUVantIbUs ChrIsto auCta, een zonnewijzer en een verweerde gevelsteen met drie wapenschilden.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/50593068.nl?toptext=5658366\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=4266372"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 4062303,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "bba00a8892225c13842db444ff4862af_cfa397f6fb067921b063e33d1785f6d2b7699142.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Paul Hermans"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://nl.wikipedia.org/w/index.php?curid=4266372#/media/Bestand:Kerkstevoort_29-04-2007_19-44-48.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/bba00a8892225c13842db444ff4862af_cfa397f6fb067921b063e33d1785f6d2b7699142.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 50593077,
+                "type": {
+                    "id": 266,
+                    "name": {
+                        "nl": "Watermolen"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.382,
+                "distance": 3368,
+                "name": {
+                    "nl": "Elsartmolen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.23109638 50.92303249)"
+                }
+            },
+            "text": {
+                "id": 5658375,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Reeds in 1237 werd al melding gemaakt van een molen op deze plaats. Het huidige molenhuis is 19e-eeuws, met mogelijk een oudere kern. Daaraan vastgebouwd is het molenaarshuis uit 1926. Het huidige sluiswerk stamt uit 1930.<br/><br/>De molen heeft een metalen onderslagrad en ook het binnenwerk is nog aanwezig. De molen is draaivaardig, en draait af en toe. Maar gemalen wordt er niet meer: De molen is ingericht als restaurant.<br/><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/50593077.nl?toptext=5658375\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=4266888"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 5859665,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "5d2b089113ed699ece0f2040039a87f3_81e42a1db22cdcd93cde9caf3ffd367c808ce08f.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Sonuwe"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://nl.wikipedia.org/w/index.php?curid=4266888#/media/Bestand:Stevoort_-_Elsartmolen.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/5d2b089113ed699ece0f2040039a87f3_81e42a1db22cdcd93cde9caf3ffd367c808ce08f.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 50593088,
+                "type": {
+                    "id": 266,
+                    "name": {
+                        "nl": "Watermolen"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.343,
+                "distance": 918,
+                "name": {
+                    "nl": "Vinckemolen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.206248 50.93098967)"
+                }
+            },
+            "text": {
+                "id": 5658387,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "De Vinckemolen  is een watermolen op de Herk, gelegen aan Nieuwmolenstraat 8 te Berbroek. De molen fungeerde als korenmolen en oliemolen.<br/><br/>Het betreft een U-vormige dubbelmolen, welke in 1725 werd opgericht. Vóór 1844 werkte er ook een hennepbraakmolen, die echter in 1878 werd gesloopt.<br/><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/50593088.nl?toptext=5658387\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=4387657"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 5859666,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "afcd872c4acdef4e3216cb702137d535_6df2ba09a87f0aec609be4b6633fa7c0b4f5fae4.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Eebie"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://nl.wikipedia.org/w/index.php?curid=4387657#/media/Bestand:Watermolen_Nieuwmolen_Vinckemolen_Berbroek_HerkdeStad.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 7,
+                        "name": {
+                            "ca": "Creative Commons 4.0",
+                            "de": "Creative Commons 4.0",
+                            "en": "Creative Commons 4.0",
+                            "es": "Creative Commons 4.0",
+                            "fr": "Creative Commons 4.0",
+                            "it": "Creative Commons 4.0",
+                            "nl": "Creative Commons 4.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/afcd872c4acdef4e3216cb702137d535_6df2ba09a87f0aec609be4b6633fa7c0b4f5fae4.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 50593091,
+                "type": {
+                    "id": 128,
+                    "name": {
+                        "nl": "Kasteel"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.54,
+                "distance": 1789,
+                "name": {
+                    "nl": "Kasteel Rijsdaal"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.21756024 50.93376857)"
+                }
+            },
+            "text": {
+                "id": 5658391,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Het huis werd in de 2e helft van de 19e eeuw gebouwd door H.J. Pollenus  die burgemeester was van Spalbeek. Na hem kwam Emile Polenus er te wonen die eveneens, gedurende 50 jaren, burgemeester van Spalbeek is geweest.<br/><br/>Het is een statig bakstenen neoclassicistisch herenhuis, waarvan de voorgevel gesierd is door pilasters en een fronton. De toegangsdeur wordt bereikt via een trap en een balustrade, waarbij de leuningen voorzien zijn van leeuwen.<br/><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/50593091.nl?toptext=5658391\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=4271682"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 4062320,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "36554a8a2b010a71e346055fcda8343a_cf5fd547f2ee24c9b196d36e7653c69cb3c507b8.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Sonuwe"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://commons.wikimedia.org/w/index.php?curid=16593863"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/36554a8a2b010a71e346055fcda8343a_cf5fd547f2ee24c9b196d36e7653c69cb3c507b8.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 51770119,
+                "type": {
+                    "id": 266,
+                    "name": {
+                        "fr": "Moulins d'eau",
+                        "nl": "Watermolen"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.609,
+                "distance": 4685,
+                "name": {
+                    "nl": "Dorpsmolen",
+                    "fr": "Moulin du village"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.24792587248252 50.9171101737474)"
+                }
+            },
+            "text": {
+                "id": 8145698,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 84656
+                },
+                "description": {
+                    "nl": "<p>De Dorpermolen van Stevoort is een molen van het type ‘onderslagmolen’ met ijzeren draad en ligt aan de Herk. Deze molen was oorspronkelijk een dubbelmolen, een graan- en oliemolen, die in 1774 werd gebouwd voor de familie de Libotton, Heren van Stevoort. IN 1826 kwam deze in bezit van de familie Palmers, kasteelheren van Stevoort, molenaars en industriëlen. Zij verhuurden de molen aan tal van molenaars. De huidige molengebouwen werden in de 2e helft van de 19e eeuw gebouwd. Vanaf 1933 mocht de familie Palmers zich: <em>Palmers de </em><em>Terlamen</em> noemen. In 1963 vond in de molen een ernstig ongeval plaats, waarbij molenaar Guillaume Grauls om het leven kwam. In 1964 werd de molen verkocht maar door een gebrek aan onderhoud zette het verval zich snel in. In 1974 kocht Aloïs Boiten de ruïne naast zijn kapperszaak en redde zo de Dorpermolen van Stevoort. Hij zette de procedure</p>\n\n<p>in gang om de molen als monument te klasseren. In 1979 werd de molen en de omgeving ervan als monument geklasseerd.</p>\n\n<p>In 1984 begon men met de restauratie. Hierbij werd ook voorzien in elektriciteitsopwekking door de molen. Na de restauratie was de molen weer maalvaardig. Sindsdien kan de molen worden bezocht in groepsverband.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/84656.nl\">Landelijke Gilden fiets-, wandel- en autoroutes</a><br/><a href=\"https://www.routeyou.com/location/view/51770119.nl?toptext=8145698\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "fr": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 6211183,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 84656
+                    },
+                    "filename": {
+                        "nl": "2dde977a0fb7ddcec93cd932966103cb_001321589f0c29998f77979f323d953167250eb8.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Stefanie Jansen"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/2dde977a0fb7ddcec93cd932966103cb_001321589f0c29998f77979f323d953167250eb8.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 51770120,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.46,
+                "distance": 4685,
+                "name": {
+                    "nl": "Glasraam van Sint-Maarten"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.24986901803599 50.9167398727015)"
+                }
+            },
+            "text": {
+                "id": 8145699,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 84656
+                },
+                "description": {
+                    "nl": "<p>Op vrijdag 11 juli 1970 werd het nieuwe gemeentehuis van Stevoort plechtig ingehuldigd. Het pronkstuk van dit prachtige gebouw was het glasraam op de tussenverdieping. Het stelt Sint-Maarten voor, de patroonheilige van Stevoort, die ook zijn naam gaf aan de Sint-Martinuskerk. Het kunstwerk werd gemaakt door Amand van Rompaey, inwoner van Stevoort. Toen in 2016 de beslissing viel om het gemeentehuis af te breken, werd het glasraam gedemonteerd en gerestaureerd. Het kreeg een mooie plaats in het paviljoen en werd op zondag 11 november 2018 ingehuldigd.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/84656.nl\">Landelijke Gilden fiets-, wandel- en autoroutes</a><br/><a href=\"https://www.routeyou.com/location/view/51770120.nl?toptext=8145699\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 6211185,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 84656
+                    },
+                    "filename": {
+                        "nl": "94c737551f016e7bf5337889bccc8aa7_edde9fbab69bb2d4ab013abb393b29df8f9b4c8c.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Stefanie Jansen"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/94c737551f016e7bf5337889bccc8aa7_edde9fbab69bb2d4ab013abb393b29df8f9b4c8c.jpg"
+                    }
+                }
+            }
+        }
+    ],
+    "languages": [
+        "nl"
+    ],
+    "lengthRelative": 0.1
+}

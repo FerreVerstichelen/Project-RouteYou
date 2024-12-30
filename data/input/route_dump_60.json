@@ -1,0 +1,490 @@
+{
+    "scoreCalculated": 0.2881524,
+    "scoreAuthor": null,
+    "payable": false,
+    "updatedDate": "2023-10-04 18:37:11.74677+00",
+    "autoPois": {
+        "nl": false
+    },
+    "id": 6818169,
+    "length": 2793,
+    "begin": {
+        "wkt": "POINT(4.8244 51.40247)"
+    },
+    "beginAddress": "Kolonie, Hoogstraten, België",
+    "end": {
+        "wkt": "POINT(4.8244 51.40247)"
+    },
+    "endAddress": "Kolonie, Hoogstraten, België",
+    "centroid": {
+        "wkt": "POINT(4.81965874225864 51.4038702540354)"
+    },
+    "bounds": {
+        "wkt": "BOX(4.81448 51.39971,4.8249000000001 51.40792)"
+    },
+    "owner": {
+        "id": 172924,
+        "type": {
+            "id": 1
+        },
+        "flag": "be",
+        "avatarRevision": 1,
+        "logoRevision": 1,
+        "headerRevision": 1,
+        "privileges": [],
+        "configuration": {
+            "subdomain": "wandelroutesorg.routeyou.com",
+            "logo": {
+                "uri": {
+                    "nl": "http://www.wandelroutes.org/"
+                }
+            },
+            "planner": {
+                "settings": {
+                    "map.bounds": {
+                        "min": {
+                            "lat": 51.267,
+                            "lon": 4.7915
+                        },
+                        "max": {
+                            "lat": 51.2991,
+                            "lon": 4.9079
+                        }
+                    },
+                    "map.overlays": [
+                        "hikingNodes"
+                    ],
+                    "suggest.show.basic": [
+                        "route.suggestionType.toggle",
+                        "route.length.slider",
+                        "route.type.choose",
+                        "routing.select",
+                        "route.beginLocation.search",
+                        "route.viaPointLocations.search",
+                        "route.endLocation.search",
+                        "route.actions.list"
+                    ],
+                    "suggest.params.route.type.id": 2,
+                    "suggest.route.type.choose.ids": [
+                        2
+                    ],
+                    "suggest.params.routing.id": 63
+                }
+            }
+        },
+        "name": {
+            "nl": "wandelroutes.org"
+        },
+        "languages": [
+            "nl"
+        ],
+        "permission": {
+            "writable": false
+        },
+        "nick": "wandelroutes.org"
+    },
+    "type": {
+        "id": 24,
+        "tree": [
+            {
+                "id": 0,
+                "name": {
+                    "nl": "Alle routes"
+                },
+                "languages": [
+                    "nl"
+                ]
+            },
+            {
+                "id": 1,
+                "name": {
+                    "nl": "Fietsroute"
+                },
+                "languages": [
+                    "nl"
+                ]
+            },
+            {
+                "id": 5,
+                "name": {
+                    "nl": "Recreatieve fietsroute"
+                },
+                "languages": [
+                    "nl"
+                ]
+            }
+        ],
+        "name": {
+            "nl": "Handbikeroute"
+        },
+        "languages": [
+            "nl"
+        ]
+    },
+    "flag": "be",
+    "score": 0,
+    "scoreMethod": {
+        "id": 2
+    },
+    "correctness": null,
+    "correctnessMethod": {
+        "id": null
+    },
+    "duration": 1005,
+    "downloadable": false,
+    "inputFormat": {
+        "id": 0,
+        "recording": false
+    },
+    "ascent": {
+        "total": 4,
+        "net": 0,
+        "totalRelative": 0
+    },
+    "descent": {
+        "total": 4,
+        "totalRelative": 0
+    },
+    "ascendingRate": {
+        "max": 0.011661649,
+        "avg": null,
+        "maxRelative": 0.3,
+        "avgRelative": null
+    },
+    "difficulty": 0.09999999999999999,
+    "difficultyAuthor": null,
+    "permission": {
+        "id": 0,
+        "read": "public",
+        "write": "group",
+        "writable": false
+    },
+    "planner": {
+        "id": 2
+    },
+    "parent": null,
+    "configuration": null,
+    "editedDate": "2020-01-19 09:52:30.572954+00",
+    "createdDate": "2020-01-19 09:52:30.535957+00",
+    "lastReviewDate": null,
+    "otnId": {
+        "nl": null
+    },
+    "name": {
+        "nl": "wortel"
+    },
+    "nameGenerated": {
+        "nl": false
+    },
+    "subName": {
+        "nl": null
+    },
+    "trackName": {
+        "nl": null
+    },
+    "description": {
+        "nl": "kolonie"
+    },
+    "descriptionGenerated": {
+        "nl": false
+    },
+    "generatedInfo": {
+        "nl": "<span class=\"routeYou_node\">14</span> - <span class=\"routeYou_node\">13</span> - <span class=\"routeYou_node\">12</span> - <span class=\"routeYou_node\">12</span> - <span class=\"routeYou_node\">10</span> - <span class=\"routeYou_node\">2</span> - <span class=\"routeYou_node\">1</span> - <span class=\"routeYou_node\">14</span>"
+    },
+    "source": {
+        "name": {
+            "nl": null
+        },
+        "uri": {
+            "nl": null
+        }
+    },
+    "infoUri": {
+        "nl": null
+    },
+    "breadcrumbRegions": [
+        {
+            "id": 47407959,
+            "flag": "be",
+            "type": {
+                "id": 415
+            },
+            "name": {
+                "ca": "Ciutat de Hoogstraten",
+                "de": "Stadt Hoogstraten",
+                "en": "City of Hoogstraten",
+                "es": "Ciudad de Hoogstraten",
+                "fr": "Ville de Hoogstraten",
+                "it": "Città di Hoogstraten",
+                "nl": "Stad Hoogstraten"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47418547,
+            "flag": "be",
+            "type": {
+                "id": 522
+            },
+            "name": {
+                "ca": "Antwerpse Kempen",
+                "de": "Antwerpse Kempen",
+                "en": "Antwerpse Kempen",
+                "es": "Antwerpse Kempen",
+                "fr": "Antwerpse Kempen",
+                "it": "Antwerpse Kempen",
+                "nl": "Antwerpse Kempen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407873,
+            "flag": "be",
+            "type": {
+                "id": 409
+            },
+            "name": {
+                "ca": "Província d'Antwerp",
+                "de": "Provinz Antwerp",
+                "en": "Province of Antwerp",
+                "es": "Provincia de Antwerp",
+                "fr": "Province d'Anvers",
+                "it": "Provincia di Antwerp",
+                "nl": "Provincie Antwerpen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407865,
+            "type": {
+                "id": 407
+            },
+            "name": {
+                "ca": "Bèlgica",
+                "de": "Belgien",
+                "en": "Belgium",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "nl": "België"
+            },
+            "flag": "be",
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        }
+    ],
+    "viewCount": 2,
+    "viewCountThisMonth": 0,
+    "downloadCount": 4,
+    "geometry": {
+        "google": "mpvxHogm\\lHaBJAvBf[zArUXGYFwKnCk^rHKB_Eir@h@Mr]sHbAS"
+    },
+    "elevation": {
+        "google": "_{geC?_seK}~J?aN~flWomU_glWk}P?_`@?_`@~|hQqgO_qo]wxf@?iN~|hQoqg@~reKmt@?m{e@_ibEcuA"
+    },
+    "instructions": [
+        {
+            "atGeometry": "POINT(4.82440 51.40247)",
+            "distance": 0,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": null,
+            "toBearing": 168.55532728077,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(4.82489 51.40096)",
+            "distance": 171.42218037584,
+            "using": "",
+            "at": null,
+            "to": "14",
+            "fromBearing": 168.55532728077,
+            "toBearing": 174.06383729907,
+            "angle": 5.5085100183
+        },
+        {
+            "atGeometry": "POINT(4.82490 51.40090)",
+            "distance": 178.13371328665,
+            "using": "",
+            "at": "14",
+            "to": "13",
+            "fromBearing": 174.06383729907,
+            "toBearing": -102.01013073668,
+            "angle": 83.926031964243
+        },
+        {
+            "atGeometry": "POINT(4.82038 51.40030)",
+            "distance": 499.69226050396,
+            "using": "",
+            "at": "13",
+            "to": "12",
+            "fromBearing": -102.01013073668,
+            "toBearing": -101.51113213445,
+            "angle": 0.49899860223734
+        },
+        {
+            "atGeometry": "POINT(4.81676 51.39984)",
+            "distance": 756.7620425465,
+            "using": "",
+            "at": "12",
+            "to": "24",
+            "fromBearing": -101.51113213445,
+            "toBearing": 169.13345404062,
+            "angle": -89.355413824934
+        },
+        {
+            "atGeometry": "POINT(4.81680 51.39971)",
+            "distance": 771.49076297058,
+            "using": "",
+            "at": null,
+            "to": "12",
+            "fromBearing": 169.13345404062,
+            "toBearing": -10.866514698897,
+            "angle": -179.99996873952
+        },
+        {
+            "atGeometry": "POINT(4.81676 51.39984)",
+            "distance": 786.21948339443,
+            "using": "",
+            "at": "12",
+            "to": "10",
+            "fromBearing": -10.866514698897,
+            "toBearing": -12.417447093357,
+            "angle": -1.5509323944607
+        },
+        {
+            "atGeometry": "POINT(4.81450 51.40690)",
+            "distance": 1587.3396050149,
+            "using": "",
+            "at": null,
+            "to": "10",
+            "fromBearing": -10.833161104267,
+            "toBearing": -11.746040997556,
+            "angle": -0.912879893289
+        },
+        {
+            "atGeometry": "POINT(4.81448 51.40696)",
+            "distance": 1594.158485031,
+            "using": "",
+            "at": "10",
+            "to": "2",
+            "fromBearing": -11.746040997556,
+            "toBearing": 79.379605111962,
+            "angle": 91.125646109519
+        },
+        {
+            "atGeometry": "POINT(4.82269 51.40792)",
+            "distance": 2175.31792517,
+            "using": "",
+            "at": "2",
+            "to": "1",
+            "fromBearing": 79.379605111962,
+            "toBearing": 168.2541448469,
+            "angle": 88.874539734942
+        },
+        {
+            "atGeometry": "POINT(4.82276 51.40771)",
+            "distance": 2199.1839912121,
+            "using": "",
+            "at": null,
+            "to": "1",
+            "fromBearing": 168.2541448469,
+            "toBearing": 168.9070289684,
+            "angle": 0.65288412149999
+        },
+        {
+            "atGeometry": "POINT(4.82430 51.40281)",
+            "distance": 2754.770811956,
+            "using": "",
+            "at": "1",
+            "to": "14",
+            "fromBearing": 168.9070289684,
+            "toBearing": 169.60278431216,
+            "angle": 0.69575534375932
+        },
+        {
+            "atGeometry": "POINT(4.82440 51.40247)",
+            "distance": 2793.23260782,
+            "using": "",
+            "at": null,
+            "to": "14",
+            "fromBearing": 169.60278431216,
+            "toBearing": null,
+            "angle": null
+        }
+    ],
+    "statistics": {
+        "routing": {
+            "hikingNodes": 1
+        }
+    },
+    "segments": [
+        [
+            4.8244,
+            51.40247,
+            63
+        ],
+        [
+            4.82489,
+            51.40096,
+            63
+        ],
+        [
+            4.8168,
+            51.39971,
+            63
+        ],
+        [
+            4.8145,
+            51.4069,
+            63
+        ],
+        [
+            4.82276,
+            51.40771,
+            63
+        ],
+        [
+            4.8244,
+            51.40247,
+            63
+        ]
+    ],
+    "pois": [],
+    "languages": [
+        "nl"
+    ],
+    "lengthRelative": 0
+}

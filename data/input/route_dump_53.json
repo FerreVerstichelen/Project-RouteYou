@@ -1,0 +1,4269 @@
+{
+    "scoreCalculated": 0.9032006,
+    "scoreAuthor": null,
+    "payable": false,
+    "updatedDate": "2024-05-18 18:46:29.953204+00",
+    "autoPois": {
+        "nl": true
+    },
+    "id": 6811981,
+    "length": 19426,
+    "begin": {
+        "wkt": "POINT(3.60367 50.97141)"
+    },
+    "beginAddress": "Langedreef, Nazareth, Oost-Vlaanderen, Vlaanderen",
+    "end": {
+        "wkt": "POINT(3.74301 51.04284)"
+    },
+    "endAddress": "Gent, Oost-Vlaanderen, Vlaanderen",
+    "centroid": {
+        "wkt": "POINT(3.68381352277761 51.0136822463458)"
+    },
+    "bounds": {
+        "wkt": "BOX(3.60367 50.97141,3.74301 51.05483)"
+    },
+    "owner": {
+        "id": 372399,
+        "type": {
+            "id": 1
+        },
+        "flag": "",
+        "avatarRevision": 0,
+        "logoRevision": 0,
+        "headerRevision": 0,
+        "privileges": [],
+        "configuration": null,
+        "name": {
+            "nl": "jan_tiels"
+        },
+        "languages": [
+            "nl"
+        ],
+        "permission": {
+            "writable": false
+        },
+        "nick": "jan_tiels"
+    },
+    "type": {
+        "id": 5,
+        "tree": [
+            {
+                "id": 0,
+                "name": {
+                    "nl": "Alle routes"
+                },
+                "languages": [
+                    "nl"
+                ]
+            },
+            {
+                "id": 1,
+                "name": {
+                    "nl": "Fietsroute"
+                },
+                "languages": [
+                    "nl"
+                ]
+            }
+        ],
+        "name": {
+            "nl": "Recreatieve fietsroute"
+        },
+        "languages": [
+            "nl"
+        ]
+    },
+    "flag": "be",
+    "score": 0.4,
+    "scoreMethod": {
+        "id": 3
+    },
+    "correctness": null,
+    "correctnessMethod": {
+        "id": null
+    },
+    "duration": 4662,
+    "downloadable": false,
+    "inputFormat": {
+        "id": 0,
+        "recording": false
+    },
+    "ascent": {
+        "total": 42,
+        "net": -9,
+        "totalRelative": 0.2
+    },
+    "descent": {
+        "total": 51,
+        "totalRelative": 0.2
+    },
+    "ascendingRate": {
+        "max": 0.03156465,
+        "avg": null,
+        "maxRelative": 0.6,
+        "avgRelative": null
+    },
+    "difficulty": 0.3666666666666667,
+    "difficultyAuthor": null,
+    "permission": {
+        "id": 0,
+        "read": "public",
+        "write": "group",
+        "writable": false
+    },
+    "planner": {
+        "id": 5
+    },
+    "parent": null,
+    "configuration": {
+        "planner": {
+            "owner": {
+                "id": null
+            }
+        }
+    },
+    "editedDate": "2020-01-16 10:41:29.899812+00",
+    "createdDate": "2020-01-16 10:41:29.858393+00",
+    "lastReviewDate": null,
+    "otnId": {
+        "nl": null
+    },
+    "name": {
+        "nl": "nj etentje naar huis"
+    },
+    "nameGenerated": {
+        "nl": false
+    },
+    "subName": {
+        "nl": null
+    },
+    "trackName": {
+        "nl": null
+    },
+    "description": {
+        "nl": "<p>Van: Langedreef, Nazareth, Oost-Vlaanderen, Vlaanderen<br/>\nNaar: Gent, Oost-Vlaanderen, Vlaanderen</p>\n\n<p>Routering: Recreatief fietsen - knooppunten</p>"
+    },
+    "descriptionGenerated": {
+        "nl": true
+    },
+    "generatedInfo": {
+        "nl": "<span class=\"routeYou_node\">24</span> - <span class=\"routeYou_node\">79</span> - <span class=\"routeYou_node\">89</span> - <span class=\"routeYou_node\">87</span> - <span class=\"routeYou_node\">2</span> - <span class=\"routeYou_node\">4</span> - <span class=\"routeYou_node\">5</span>"
+    },
+    "source": {
+        "name": {
+            "nl": null
+        },
+        "uri": {
+            "nl": null
+        }
+    },
+    "infoUri": {
+        "nl": null
+    },
+    "breadcrumbRegions": [
+        {
+            "id": 47308136,
+            "flag": "be",
+            "type": {
+                "id": 415
+            },
+            "name": {
+                "ca": "Municipi de Nazareth",
+                "de": "Gemeinde Nazareth",
+                "en": "municipality of Nazareth",
+                "es": "Municipio de Nazareth",
+                "fr": "Commune de Nazareth",
+                "it": "Comune di Nazareth",
+                "nl": "Gemeente Nazareth"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47418551,
+            "flag": "be",
+            "type": {
+                "id": 522
+            },
+            "name": {
+                "ca": "Leiestreek",
+                "de": "Leiestreek",
+                "en": "Leiestreek",
+                "es": "Leiestreek",
+                "fr": "Leiestreek",
+                "it": "Leiestreek",
+                "nl": "Leiestreek"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407872,
+            "flag": "be",
+            "type": {
+                "id": 409
+            },
+            "name": {
+                "ca": "Ostflandern",
+                "de": "Ostflandern",
+                "en": "East Flanders",
+                "es": "Ostflandern",
+                "fr": "Flandres Orientales",
+                "it": "Ostflandern",
+                "nl": "Oost-Vlaanderen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407865,
+            "type": {
+                "id": 407
+            },
+            "name": {
+                "ca": "Bèlgica",
+                "de": "Belgien",
+                "en": "Belgium",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "nl": "België"
+            },
+            "flag": "be",
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        }
+    ],
+    "viewCount": 10,
+    "viewCountThisMonth": 3,
+    "downloadCount": 2,
+    "geometry": {
+        "google": "ijbvH}y~TaH{UuH_VaFiQuIsYKg@Wr@}A~J}BzMaCoFsQg^n@cHRqC{AaLB}DF_DWe@mCcJgH{TeBcD|FuGdKyIMQeJeDk@Om@_AuAcCwCuFuFaKg@q@YKcHqLqHuMuAwC_CmFmAaDyAsEsCwR}AsLg@{CRo@@e@g@YN_AsC_I\\uDoAmAkB{A_AmCgAc@_BeR`Dw@pAi@`@o@RkBm^sg@Wl@_ASiOaFy@e@mCk@_E_@qCXsCPyAEcByFkIuWoCkIuBkHqC}H{DsM{BwGqAcEuBsE{CuEuAcDqAuEcBuF_@sB~@u@KeAUm@_@]ok@shBi\\{cA}GiTyEsNcCqIcAtG}CzOmBpM}BnP{@Q{BHuFtAa@Uk@~CmBvAmAAkAsB}@mADv@gB|DyAl@_CMwAm@sAcEc@wB[o@?aCf@sD]eBeIkMe@o@@gCkIIyR{DI|ILlPi@nAs@~IIn@o@HKIeADkC\\yGb@sBCoBe@aBaAaBq@yBc@As\\j@wGNk@_CgAFs@DaBSGFwEm@[wAuAcAaB}@iBu@yBiAsD}@_Fl@GCg@`@e@~Am@~Ck@I{AxD{ApC_DpC_BzOaL`BWdTuAvDwDj@iAt@{BdBqEo@kA[iBYA"
+    },
+    "elevation": {
+        "google": "_kmtA?~|hQs`B~hbE_cB?qlA_glWaqB_ibEaD?gF_ibEom@~zrc@iy@_glWwb@~po]kzC_}hQaa@_seK{O~hbEaq@?mT~reKcQ_ibEaE~flWsn@_ibEc~A~hbE_Y?gv@_ibE_oA~hbEgB?waA?aG?_J_ibEkT?}e@~hbE}|@?cH?{C~hbEsfA_ibEgkA?aV?ib@_ibE_V_ibE{[~hbEekA~hbE_s@?_R?oE?iC?wF?wF?yk@?gT?yO~hbE}T_ibEuR?qL~hbEmfA?s\\?mN_ibEeG_ibEuK~|hQigF?wE?sJ~hbE{_B?eJ?}X_ibEqa@?iY?qY?aO_ibEm`@~reKejB~hbEol@_}hQ{f@~hbEmk@_ibEs}@~hbEse@_ibEqY~hbE{^?}c@_ibEaW?i[?_`@~hbEiM?_L?eG?oE_ibEuE_ibEwiM_ibEckH~reKm{A_ibEqcA_ibE{k@?u`@~hbEebA_ibEcw@_seKabA?}I_seKgU_glWal@_ibEqE_seKwR?_U_ibE}L_ibE{Q_seKeM~hbEmE?k[_ibE}O_ibE}U?qO_seKwY_ibE_N?kF?uM~hbEqT?uK?amA_ibEuG~reKkN?mz@~reKkrB_seKqf@~x|u@_~@~|hQwJ~flWwg@?wD~hbEsG?mA?qK~hbEgX_seKsq@?wS?oS?aR?mQ_ibEeU_glW}iB_seKq_@?wD?iW?_E?cJ?uB~flWkW~hbE{G?mQ~hbEmO?kO?yO~reKgW~hbEqZ?gG?sC_ibEmF_ibE}P?a\\~hbEoI~|hQ{a@_ibEw^?i[?ojB?wP?wxB~reK{e@?oJ?_P_ibE}\\?cK~hbE}K?uC"
+    },
+    "instructions": [
+        {
+            "atGeometry": "POINT(3.60367 50.97141)",
+            "distance": 0,
+            "using": "",
+            "at": null,
+            "to": "24",
+            "fromBearing": null,
+            "toBearing": 57.822515154436,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(3.63548 50.98182)",
+            "distance": 3568.6130104479,
+            "using": "",
+            "at": "24",
+            "to": "79",
+            "fromBearing": 150.81478365368,
+            "toBearing": 38.98814838132,
+            "angle": -111.82663527236
+        },
+        {
+            "atGeometry": "POINT(3.64927 50.99178)",
+            "distance": 5071.1861263907,
+            "using": "",
+            "at": "79",
+            "to": "89",
+            "fromBearing": 56.0015226215,
+            "toBearing": 69.591138533486,
+            "angle": 13.589615911987
+        },
+        {
+            "atGeometry": "POINT(3.66486 50.99440)",
+            "distance": 6466.5187279412,
+            "using": "",
+            "at": "89",
+            "to": "87",
+            "fromBearing": 106.39509582096,
+            "toBearing": 39.118627396952,
+            "angle": -67.276468424003
+        },
+        {
+            "atGeometry": "POINT(3.67399 51.00686)",
+            "distance": 8087.8532038246,
+            "using": "",
+            "at": "87",
+            "to": "2",
+            "fromBearing": 57.555522014662,
+            "toBearing": 56.259519596843,
+            "angle": -1.2960024178186
+        },
+        {
+            "atGeometry": "POINT(3.69351 51.01508)",
+            "distance": 9785.7681864386,
+            "using": "",
+            "at": "2",
+            "to": "4",
+            "fromBearing": 152.03987770253,
+            "toBearing": 74.757322399436,
+            "angle": -77.282555303089
+        },
+        {
+            "atGeometry": "POINT(3.71114 51.02253)",
+            "distance": 11278.220168722,
+            "using": "",
+            "at": null,
+            "to": "4",
+            "fromBearing": 56.182063807008,
+            "toBearing": 55.91218590271,
+            "angle": -0.269877904298
+        },
+        {
+            "atGeometry": "POINT(3.72023 51.04668)",
+            "distance": 16017.964309507,
+            "using": "",
+            "at": "4",
+            "to": "5",
+            "fromBearing": -76.776024818425,
+            "toBearing": -71.665813493784,
+            "angle": 5.1102113246415
+        },
+        {
+            "atGeometry": "POINT(3.74209 51.04233)",
+            "distance": 19333.514463715,
+            "using": "",
+            "at": "5",
+            "to": "7",
+            "fromBearing": 127.68628426287,
+            "toBearing": 44.870992302634,
+            "angle": -82.815291960241
+        },
+        {
+            "atGeometry": "POINT(3.74301 51.04284)",
+            "distance": 19426.02018566,
+            "using": "",
+            "at": null,
+            "to": "7",
+            "fromBearing": 2.76892694237,
+            "toBearing": null,
+            "angle": null
+        }
+    ],
+    "statistics": {
+        "routing": {
+            "cyclingNodes": 1
+        }
+    },
+    "segments": [
+        [
+            3.60367,
+            50.97141,
+            38
+        ],
+        [
+            3.71114,
+            51.02253,
+            38
+        ],
+        [
+            3.74301,
+            51.04284,
+            38
+        ]
+    ],
+    "pois": [
+        {
+            "location": {
+                "id": 22,
+                "type": {
+                    "id": 235,
+                    "name": {
+                        "nl": "Historisch gebouw"
+                    }
+                },
+                "address": {
+                    "id": 1446926,
+                    "street": "Geraard de Duivelstraat",
+                    "number": "1",
+                    "box": null,
+                    "city": "Gent",
+                    "state": "Oost-Vlaanderen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.939,
+                "distance": 17460,
+                "name": {
+                    "nl": "Geraard Duivelsteen"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.728334 51.051944)"
+                }
+            },
+            "text": {
+                "id": 1798,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "<p>Eén van de plaatsen waar gedacht werd het paneel van de Rechtvaardige Rechters te vinden, was het Geraard Duivelsteen. Het vermoeden is dat het paneel in een openbare plaats verborgen is nadat het gestolen werd. Aangezien dit één van de openbare plaatsen was dichtbij het Sint-Baafs, en meer specifiek zeer dicht bij de Veyt-kapel waar toen het Lam Gods zich bevond, werd dit gebouw meermaals doorzocht. De \"onbekende sleutel\" die men in de woonst van A. Goedertier vond (de hoofdverdachte van de diefstal) paste echter niet op een van de deuren van dit gebouw.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/22.nl?toptext=1798\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 15324,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "it": "top_rechtvaardige_rechters_01.jpg",
+                        "de": "top_rechtvaardige_rechters_01.jpg",
+                        "nl": "top_rechtvaardige_rechters_01.jpg",
+                        "fr": "top_rechtvaardige_rechters_01.jpg",
+                        "es": "top_rechtvaardige_rechters_01.jpg",
+                        "en": "top_rechtvaardige_rechters_01.jpg"
+                    },
+                    "description": {
+                        "it": "",
+                        "de": "",
+                        "nl": "",
+                        "fr": "",
+                        "es": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "it": null,
+                            "de": null,
+                            "nl": null,
+                            "fr": null,
+                            "es": null,
+                            "en": null
+                        },
+                        "description": {
+                            "it": "",
+                            "de": "",
+                            "nl": "",
+                            "fr": "",
+                            "es": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "it": null,
+                            "de": null,
+                            "nl": null,
+                            "fr": null,
+                            "es": null,
+                            "en": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/top_rechtvaardige_rechters_01.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/top_rechtvaardige_rechters_01.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/top_rechtvaardige_rechters_01.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/top_rechtvaardige_rechters_01.jpg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/top_rechtvaardige_rechters_01.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/top_rechtvaardige_rechters_01.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 946,
+                "type": {
+                    "id": 270,
+                    "name": {
+                        "en": "Square",
+                        "nl": "Plein"
+                    }
+                },
+                "address": {
+                    "id": 1808429,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Gent",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.96,
+                "distance": 17443,
+                "name": {
+                    "nl": "Bisdomplein",
+                    "en": "Bisdomplein"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.7278547883 51.0523276301)"
+                }
+            },
+            "text": {
+                "id": 2122,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "<p>Vanop deze plaats, tussen het standbeeld van de gebroeder Van Eyck en de Vijtkapel werd tijdens de nacht van de diefstal van De Rechtvaardige Rechters door twee oudere dametjes een lichtschijnsel gezien dat opnieuw verdween. Zij vermoedden geen kwaad en verwittigden de politie niet. Ze waren op weg naar hun woonst aan het Bisdomplein.</p>\n\n<p>De Vijtkapel was de plaats waar toen het originele schilderij hing. Nu hangt er een copy. Je kan de Vijt-kapel herkennen aan het witte lam dat op een van de vensters geschilderd is.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/946.nl?toptext=2122\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1134,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "en": "bel_gent_bisdomplein_loc_946.jpg",
+                        "nl": "bel_gent_bisdomplein_loc_946.jpg",
+                        "it": "bel_gent_bisdomplein_loc_946.jpg",
+                        "fr": "bel_gent_bisdomplein_loc_946.jpg",
+                        "de": "bel_gent_bisdomplein_loc_946.jpg",
+                        "es": "bel_gent_bisdomplein_loc_946.jpg"
+                    },
+                    "description": {
+                        "en": "",
+                        "nl": "",
+                        "it": "",
+                        "fr": "",
+                        "de": "",
+                        "es": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "en": null,
+                            "nl": null,
+                            "it": null,
+                            "fr": null,
+                            "de": null,
+                            "es": null
+                        },
+                        "description": {
+                            "en": "",
+                            "nl": "",
+                            "it": "",
+                            "fr": "",
+                            "de": "",
+                            "es": ""
+                        },
+                        "link": {
+                            "en": null,
+                            "nl": null,
+                            "it": null,
+                            "fr": null,
+                            "de": null,
+                            "es": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_bisdomplein_loc_946.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_bisdomplein_loc_946.jpg",
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_bisdomplein_loc_946.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_bisdomplein_loc_946.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_bisdomplein_loc_946.jpg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_bisdomplein_loc_946.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 18,
+                "type": {
+                    "id": 143,
+                    "name": {
+                        "en": "Belfrey",
+                        "nl": "Belfort"
+                    }
+                },
+                "address": {
+                    "id": 1422679,
+                    "street": "Sint-Baafsplein",
+                    "number": "17",
+                    "box": null,
+                    "city": "Gent",
+                    "state": "Oost-Vlaanderen",
+                    "postalCode": "9000",
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.96,
+                "distance": 17164,
+                "name": {
+                    "nl": "Belfort van Gent",
+                    "en": "Belfry of Ghent"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.724923 51.053651)"
+                }
+            },
+            "text": {
+                "id": 3999,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2813
+                },
+                "description": {
+                    "nl": "Het Belfort fungeerde als uitkijktoren en werd vrolijk bevolkt door een handvol wachters en schalmeiers. In geval van brand of ander gevaar moesten deze mannen de stormklok luiden, met name de Klokke Roeland. De wachters werden later stuk voor stuk door stenen exemplaren vervangen. Je kunt er nog een viertal zien staan op de hoeken van het Belfort, ter hoogte van het uurwerk. In de volksmond werden deze illustere figuren de gemeentenaarkes genoemd, omdat ze het symbool waren van het vroegere Gemeentekrediet. Een populairdere benaming is evenwel de kannenschijters. De reden daarvoor zou de volgende zijn: de onverdroten kerels die er de wacht hielden, moesten zon dikke 200 trappen beklimmen alvorens ze op post waren. Daar aangekomen begon het lange wachten... Omdat de shiften die ze moesten draaien soms wel het klokje rond gingen, kon het voorvallen dat een of meerdere mannen met een volle blaas te kampen kregen. Aangezien het tegen de beroepsethiek indruiste de post te verlaten en omdat het ook bijzonder onverantwoord was om met een gespannen blaas 200 trappen naar beneden te lopen, vlug het gevoeg te doen om vervolgens weer 200 treden te trotseren (tegen de tijd dat men terug op post was, kon de helft van de stad platgebrand zijn), kregen de wachters aan het begin van hun werkdag een lege kan mee naar boven. Tegen de tijd dat ze de begane grond weer bereikten, was de kan al vaak niet meer zo leeg... Vandaar de benaming de kannenschijters.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2813.nl\">Vizit</a><br/><a href=\"https://www.routeyou.com/location/view/18.nl?toptext=3999\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 17058,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2813
+                    },
+                    "filename": {
+                        "fr": "bel_gent_belfort_kannenschijters_01.jpg",
+                        "es": "bel_gent_belfort_kannenschijters_01.jpg",
+                        "en": "bel_gent_belfort_kannenschijters_01.jpg",
+                        "it": "bel_gent_belfort_kannenschijters_01.jpg",
+                        "nl": "bel_gent_belfort_kannenschijters_01.jpg",
+                        "de": "bel_gent_belfort_kannenschijters_01.jpg"
+                    },
+                    "description": {
+                        "fr": "",
+                        "es": "",
+                        "en": "",
+                        "it": "",
+                        "nl": "",
+                        "de": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "fr": null,
+                            "es": null,
+                            "en": null,
+                            "it": null,
+                            "nl": null,
+                            "de": null
+                        },
+                        "description": {
+                            "fr": "",
+                            "es": "",
+                            "en": "",
+                            "it": "",
+                            "nl": "",
+                            "de": ""
+                        },
+                        "link": {
+                            "fr": null,
+                            "es": null,
+                            "en": null,
+                            "it": null,
+                            "nl": null,
+                            "de": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_belfort_kannenschijters_01.jpg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_belfort_kannenschijters_01.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_belfort_kannenschijters_01.jpg",
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_belfort_kannenschijters_01.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_belfort_kannenschijters_01.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_belfort_kannenschijters_01.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 4606924,
+                "type": {
+                    "id": 76,
+                    "name": {
+                        "en": "Opera",
+                        "nl": "Opera"
+                    }
+                },
+                "address": {
+                    "id": 2502278,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Gent",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.96,
+                "distance": 16577,
+                "name": {
+                    "nl": "Opera van Gent",
+                    "en": "Opera"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.7217474 51.0496366)"
+                }
+            },
+            "text": {
+                "id": 4025,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2813
+                },
+                "description": {
+                    "nl": "Voor de bouw van Le Grand Théâtre de latere opera werd stadsarchitect van dienst Louis Roelandt aangesteld. Eveneens moest hij de  aanpalende straat aanleggen en er een gerechtsgebouw neerzetten. Het stuk dat hij mocht bebouwen voor de opera was weliswaar lang, maar tegelijkertijd bijzonder smal. Voor de Opera loste Roelandt dit probleem op door een korte, diepere vleugel te bouwen waarin de theaterzaal en haar nevenruimtes werden ondergebracht. Loodrecht daarop bouwde hij een lange vleugel aan de straatkant. Deze vleugel herbergt het onthaal, een auditorium, de scène, de foyer, de redoutezaal en een concertzaal. Hij is aan de straatkant voorzien van een bijna 90 meter lange gevel in natuursteen wat tevens het uithangbord van het gebouw is. Op de gevel staan naast allerlei al dan niet fabelachtige dieren ook de muzen van de toneelkunst en de muziek en de dans afgebeeld. Aan de overzijde van de Opera werd een aangepaste eenheidsbebouwing in neoclassicistische stijl neergezet. Dit heeft ervoor gezorgd dat de Schouwburgstraat een evenwichtig en harmonisch geheel is geworden.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2813.nl\">Vizit</a><br/><a href=\"https://www.routeyou.com/location/view/4606924.nl?toptext=4025\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 17065,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2813
+                    },
+                    "filename": {
+                        "de": "opera_loc_1437.jpg",
+                        "en": "opera_loc_1437.jpg",
+                        "es": "opera_loc_1437.jpg",
+                        "fr": "opera_loc_1437.jpg",
+                        "it": "opera_loc_1437.jpg",
+                        "nl": "opera_loc_1437.jpg"
+                    },
+                    "description": {
+                        "de": "",
+                        "en": "",
+                        "es": "",
+                        "fr": "",
+                        "it": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "de": null,
+                            "en": null,
+                            "es": null,
+                            "fr": null,
+                            "it": null,
+                            "nl": null
+                        },
+                        "description": {
+                            "de": "",
+                            "en": "",
+                            "es": "",
+                            "fr": "",
+                            "it": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "de": null,
+                            "en": null,
+                            "es": null,
+                            "fr": null,
+                            "it": null,
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/opera_loc_1437.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/opera_loc_1437.jpg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/opera_loc_1437.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/opera_loc_1437.jpg",
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/opera_loc_1437.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/opera_loc_1437.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 1359,
+                "type": {
+                    "id": 165,
+                    "name": {
+                        "en": "Monument",
+                        "nl": "Monument"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.797,
+                "distance": 13960,
+                "name": {
+                    "nl": "De Smet-De Nayerplein",
+                    "en": "De Smet-De Nayerplein"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.719989 51.031683)"
+                }
+            },
+            "text": {
+                "id": 4138,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2813
+                },
+                "description": {
+                    "nl": "De ferme boerenknol met 4 heemskinderen op zijn rug in het parkje op het P. De Smet-De Naeyerplein is in deze buurt nog de enige getuige van de Wereldtentoonstelling van 1913. Het zette de stad op haar kop en wist ze met een schuldenberg van ruim 4 miljoen frank de Grooten Oorlog in te sturen... \n\nDe belangrijkste reden waarom het beest hier nog zo potig staat te blinken, is omdat het indertijd te zwaar verankerd werd en gewoonweg niet meer te verwijderen was.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2813.nl\">Vizit</a><br/><a href=\"https://www.routeyou.com/location/view/1359.nl?toptext=4138\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 252824,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2813
+                    },
+                    "filename": {
+                        "nl": "f0ecee140d150c0b17ac4663a36ee116_d8b2616047139663a80ef8e83d8c9fd18c759f64.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Pascal Brackman"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/f0ecee140d150c0b17ac4663a36ee116_d8b2616047139663a80ef8e83d8c9fd18c759f64.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 1103,
+                "type": {
+                    "id": 126,
+                    "name": {
+                        "en": "Building",
+                        "nl": "Gebouw"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.835,
+                "distance": 13960,
+                "name": {
+                    "nl": "Congreslaan",
+                    "en": "Congreslaan"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.716228 51.031859)"
+                }
+            },
+            "text": {
+                "id": 4141,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2813
+                },
+                "description": {
+                    "nl": "In het Miljoenekwartier staan er ook een groot aantal stulpjes in traditionalistische stijl te bezichtigen. Een aantal van deze huizen werden aan de Congreslaan en de Vaderlandstraat gebouwd. Het waren hoofdzakelijk voorname en kapitaalkrachtige burgers die hun huis in een dergelijke stijl lieten optrekken. Niet dat ze tegen de vooruitgang waren gekant, maar de traditionele stijl leende zich het best tot het etaleren van hun rijkdom en sociale status. En daarbij, rond de moderne bouwkunst hing een socialistisch luchtje, vonden de respectabelen van geest...<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2813.nl\">Vizit</a><br/><a href=\"https://www.routeyou.com/location/view/1103.nl?toptext=4141\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1366,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2813
+                    },
+                    "filename": {
+                        "nl": "bel_gent_congreslaan_04_01.jpg",
+                        "it": "bel_gent_congreslaan_04_01.jpg",
+                        "fr": "bel_gent_congreslaan_04_01.jpg",
+                        "es": "bel_gent_congreslaan_04_01.jpg",
+                        "en": "bel_gent_congreslaan_04_01.jpg",
+                        "de": "bel_gent_congreslaan_04_01.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "it": "",
+                        "fr": "",
+                        "es": "",
+                        "en": "",
+                        "de": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null,
+                            "it": null,
+                            "fr": null,
+                            "es": null,
+                            "en": null,
+                            "de": null
+                        },
+                        "description": {
+                            "nl": "",
+                            "it": "",
+                            "fr": "",
+                            "es": "",
+                            "en": "",
+                            "de": ""
+                        },
+                        "link": {
+                            "nl": null,
+                            "it": null,
+                            "fr": null,
+                            "es": null,
+                            "en": null,
+                            "de": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_congreslaan_04_01.jpg",
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_congreslaan_04_01.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_congreslaan_04_01.jpg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_congreslaan_04_01.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_congreslaan_04_01.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_congreslaan_04_01.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47111882,
+                "type": {
+                    "id": 106,
+                    "name": {
+                        "nl": "Museum"
+                    }
+                },
+                "address": {
+                    "id": 1127044,
+                    "street": "Fernand Scribedreef",
+                    "number": "1",
+                    "box": null,
+                    "city": "Gent",
+                    "state": "Oost-Vlaanderen",
+                    "postalCode": "9000",
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.939,
+                "distance": 15022,
+                "name": {
+                    "nl": "Museum voor Schone Kunsten"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.723759 51.038342)"
+                }
+            },
+            "text": {
+                "id": 4149,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2813
+                },
+                "description": {
+                    "nl": "Het Museum voor Schone Kunsten werd hier tussen 1902 en 1913 gebouwd naar een ontwerp van Van Rysselberghe en is een schoolvoorbeeld van hoe een museum eigenlijk in elkaar zou moeten zitten. Binnenin lopen de zalen, die alle zowel qua grootte als qua vorm van elkaar verschillen, ingenieus in elkaar over en valt er overal genoeg daglicht binnen om de schone kunsten in optimale omstandigheden te kunnen bewonderen. En er schuilt nogal wat kunst met een grote K achter de muren van dit museum. \n\nZo vind je er schitterende schilderwerken van meesters à la Bosch, Rubens, Van Dijck, Hals, Jordaens, Ensor, Minne en Permeke. De nadruk ligt op Nederlandse werken, maar wie goed oplet, kan ook een brokje Tintoretto of Géricault aan de muren vinden.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2813.nl\">Vizit</a><br/><a href=\"https://www.routeyou.com/location/view/47111882.nl?toptext=4149\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 281979,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2813
+                    },
+                    "filename": {
+                        "nl": "5bb49f5c2342c329e3de0d4e573bb05c_6ed3df288903d4f572816f88e2b79c65f888ea56.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Paul Hermans"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/5bb49f5c2342c329e3de0d4e573bb05c_6ed3df288903d4f572816f88e2b79c65f888ea56.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 4387,
+                "type": {
+                    "id": 220,
+                    "name": {
+                        "en": "Burrough",
+                        "nl": "Wijk"
+                    }
+                },
+                "address": {
+                    "id": 1735062,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Gent",
+                    "state": "Oost-Vlaanderen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.895,
+                "distance": 13960,
+                "name": {
+                    "nl": "Miljoenenkwartier",
+                    "en": "Quarter of Millions"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.718787 51.029956)"
+                }
+            },
+            "text": {
+                "id": 4893,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "<p>Tot 1926 woonden in het Miljoenenkwartier enkel arme boeren die hun oogst aan de stadslui verkochten. In die periode was de industrie in de stad nog steeds sterk aanwezig en de stad als woonplaats was op zijn minst niet ideaal te noemen. Vandaar dat de personen die geld hadden uit de stad trokken en op zoek gingen om meer residentiële gebieden uit te bouwen, zoals het Miljoenenkwartier.</p>\n\n<p>In 1913 werd een deel van dit gebied gebruikt voor de Wereldtentoonstelling. De archtitect voor de gebouwen van de wereldtentoontselling was Oscar Vande Voorde. Het huidige stratenplan van het Miljoenenkwartier stoelt op dat grondplan.</p>\n\n<p>Het gebied werd definitief verkaveld in 1926.</p>\n\n<p>Tussen 1927 en 1939 werd er in een snel tempo 252 woningen gebouwd, waarbij 126 architecten hun steentje bijdroegen. Veel van die architecten waren voor het oorlogsgeweld van Wereldoorlog 1, naar het buitenland getrokken en hadden daar veel inspiratie opgedaan. Het miljoenenkwartier is nu een beschermd stadslandschap.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/4387.nl?toptext=4893\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 10947,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "de": "bel_gent_miljoenenkwartier_lantaarnpaal_01.jpg",
+                        "en": "bel_gent_miljoenenkwartier_lantaarnpaal_01.jpg",
+                        "es": "bel_gent_miljoenenkwartier_lantaarnpaal_01.jpg",
+                        "fr": "bel_gent_miljoenenkwartier_lantaarnpaal_01.jpg",
+                        "it": "bel_gent_miljoenenkwartier_lantaarnpaal_01.jpg",
+                        "nl": "bel_gent_miljoenenkwartier_lantaarnpaal_01.jpg"
+                    },
+                    "description": {
+                        "de": "",
+                        "en": "",
+                        "es": "",
+                        "fr": "",
+                        "it": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "de": null,
+                            "en": null,
+                            "es": null,
+                            "fr": null,
+                            "it": null,
+                            "nl": "Pascal Brackman"
+                        },
+                        "description": {
+                            "de": "",
+                            "en": "",
+                            "es": "",
+                            "fr": "",
+                            "it": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "de": null,
+                            "en": null,
+                            "es": null,
+                            "fr": null,
+                            "it": null,
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_miljoenenkwartier_lantaarnpaal_01.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_miljoenenkwartier_lantaarnpaal_01.jpg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_miljoenenkwartier_lantaarnpaal_01.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_miljoenenkwartier_lantaarnpaal_01.jpg",
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_miljoenenkwartier_lantaarnpaal_01.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_miljoenenkwartier_lantaarnpaal_01.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47111842,
+                "type": {
+                    "id": 238,
+                    "name": {
+                        "en": "cathedral",
+                        "fr": "Cathédrale",
+                        "nl": "Kathedraal"
+                    }
+                },
+                "address": {
+                    "id": 1808437,
+                    "street": "Sint-Baafsplein",
+                    "number": null,
+                    "box": null,
+                    "city": "Gent",
+                    "state": null,
+                    "postalCode": "9000",
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.814,
+                "distance": 17397,
+                "name": {
+                    "nl": "Sint-Baafskathedraal",
+                    "en": "Sint-Baafskathedraal",
+                    "fr": "Sint-Baafskathedraal"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.726488 51.053086)"
+                }
+            },
+            "text": {
+                "id": 5783,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "<p>Ooit was de Sint-Baafskathedraal niet meer dan een kleine parochiekerk. Van de oorspronkelijke, in 942 gewijde kapel blijft echter niets meer over. De oudste restanten zijn twee Romaanse beuken in de crypte. Ze dateren uit 1150. Als Keizer Karel in 1540 de vlakbij gelegen Sint-Baafsabdij laat afbreken om er het Spanjaardkasteel op te trekken, vinden de monniken én hun relikwieën (waaronder een bot van de bovenarm van Sint-Bavo) hier in de kerk een onderkomen. Door de oprichting van het bisdom Gent wordt de kerk in 1561 automatisch een kathedraal (kathedra =zetel van de bisschop).<br/>\nBinnenin de kathedraal kunt u tientallen kunstschatten bewonderen. Naast onder meer de overweldigende rococo-preekstoel uit 1745 en een prachtige Rubens vindt u er het belangrijkste werk van de Vlaamse kunstgeschiedenis: De Aanbidding van Het Lam Gods van de Gebroeders Van Eyck.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/47111842.nl?toptext=5783\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 47000917,
+                "type": {
+                    "id": 128,
+                    "name": {
+                        "en": "Castle",
+                        "nl": "Kasteel"
+                    }
+                },
+                "address": {
+                    "id": 1812948,
+                    "street": "Heistraat",
+                    "number": "16",
+                    "box": null,
+                    "city": "Zwijnaarde",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.871,
+                "distance": 8946,
+                "name": {
+                    "nl": "Predikherenhof",
+                    "en": "Predikherenhof"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.68445396423 51.0080304112)"
+                }
+            },
+            "text": {
+                "id": 410963,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "<p>Het prachtige Predikherenhof in de Heistraat is vanouds een bekend buitengoed, en werd in zijn huidige vorm gebouwd als buitenverblijf van de familie Van Pottelberghe de la Poterie (cf. wapenschild). Er is een prachtig omgevend park en nog gedeeltelijk omwald kasteeltje in neorococostijl ontworpen door de gekende architect V. Vaerwyck. Deze versie dateert van 1909. Het is geïnspireerd op de rococogevel van<a href=\"https://www.routeyou.com/nl-be/location/view/49859700/de-hoofdwacht?toptext=4138115\"> de \"Hoofdwacht\" op de Kouter te Gent</a>. De gevel omvat een gekornist fronton met ingeschreven omlijste oculus en wapenschilden van de familie Van Pottelberghe de la Poterie.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/47000917.nl?toptext=410963\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 247207,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "nl": "125de284eb172ffac603c80d160edc42_021198bf55daeff54b0fbb96d51814e6421c8e1c.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Pascal Brackman"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/125de284eb172ffac603c80d160edc42_021198bf55daeff54b0fbb96d51814e6421c8e1c.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47003575,
+                "type": {
+                    "id": 128,
+                    "name": {
+                        "en": "Castle",
+                        "nl": "Kasteel"
+                    }
+                },
+                "address": {
+                    "id": 1792967,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "De Pinte",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.798,
+                "distance": 6641,
+                "name": {
+                    "nl": "Scheldeveldekasteel",
+                    "en": "Scheldevelde Castle"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.664112091 50.9937031996)"
+                }
+            },
+            "text": {
+                "id": 414560,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "De naam Scheldevelde duikt voor het eerst op in de charters van de Sint-Pietersabdij in 814-844 en was de naam van een hele streek die zich uitstrekte langs de Schelde, vanaf het zuiden van Gent tot bij Kruishoutem. \n\nPas in de 18de eeuw groeide dit domein van het Scheldevelde uit tot een belangrijk domein met centraal gelegen landhuis (op de plaats van de vroegere hoeve) met systematische ontginning errond, gekenmerkt door een radiair net van zeven dreven. \n\nDe huidige bouw is voornamelijk afkomstig van de familie De Potter-Surmont die in 1846 het oude landhuis liet slopen en het liet vervangen door het huidige kasteel met laatclassicistische inslag. Het ontwerp was van de gekende Gentse architect Minard.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/47003575.nl?toptext=414560\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 21805,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "de": "80581cbd465416e488ede4d4980ac31e_adec9c0f8c71ff8bdb6522a6b01abe44c037c58e.jpeg",
+                        "nl": "80581cbd465416e488ede4d4980ac31e_adec9c0f8c71ff8bdb6522a6b01abe44c037c58e.jpeg",
+                        "it": "80581cbd465416e488ede4d4980ac31e_adec9c0f8c71ff8bdb6522a6b01abe44c037c58e.jpeg",
+                        "fr": "80581cbd465416e488ede4d4980ac31e_adec9c0f8c71ff8bdb6522a6b01abe44c037c58e.jpeg",
+                        "es": "80581cbd465416e488ede4d4980ac31e_adec9c0f8c71ff8bdb6522a6b01abe44c037c58e.jpeg",
+                        "en": "80581cbd465416e488ede4d4980ac31e_adec9c0f8c71ff8bdb6522a6b01abe44c037c58e.jpeg"
+                    },
+                    "description": {
+                        "de": "",
+                        "nl": "",
+                        "it": "",
+                        "fr": "",
+                        "es": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "de": "Suiadan Wordpress",
+                            "nl": "Pascal Brackman",
+                            "it": "Suiadan Wordpress",
+                            "fr": "Suiadan Wordpress",
+                            "es": "Suiadan Wordpress",
+                            "en": "Suiadan Wordpress"
+                        },
+                        "description": {
+                            "de": "",
+                            "nl": "",
+                            "it": "",
+                            "fr": "",
+                            "es": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "de": "http://suiadan.wordpress.com/",
+                            "nl": null,
+                            "it": "http://suiadan.wordpress.com/",
+                            "fr": "http://suiadan.wordpress.com/",
+                            "es": "http://suiadan.wordpress.com/",
+                            "en": "http://suiadan.wordpress.com/"
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/80581cbd465416e488ede4d4980ac31e_adec9c0f8c71ff8bdb6522a6b01abe44c037c58e.jpeg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/80581cbd465416e488ede4d4980ac31e_adec9c0f8c71ff8bdb6522a6b01abe44c037c58e.jpeg",
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/80581cbd465416e488ede4d4980ac31e_adec9c0f8c71ff8bdb6522a6b01abe44c037c58e.jpeg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/80581cbd465416e488ede4d4980ac31e_adec9c0f8c71ff8bdb6522a6b01abe44c037c58e.jpeg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/80581cbd465416e488ede4d4980ac31e_adec9c0f8c71ff8bdb6522a6b01abe44c037c58e.jpeg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/80581cbd465416e488ede4d4980ac31e_adec9c0f8c71ff8bdb6522a6b01abe44c037c58e.jpeg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47000920,
+                "type": {
+                    "id": 128,
+                    "name": {
+                        "en": "Castle",
+                        "nl": "Kasteel"
+                    }
+                },
+                "address": {
+                    "id": 1812941,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Sint-Denijs-Westrem",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.759,
+                "distance": 8931,
+                "name": {
+                    "nl": "Kasteel Puttenhove",
+                    "en": "Puttenhove Castle"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.68153572083 51.0148076255)"
+                }
+            },
+            "text": {
+                "id": 576420,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "\"Kasteel Puttenhove\" is gelegen in Gent. Het kasteel Puttenhove langs de Putstraat is vermoedelijk oorspronkelijk ook een vroegmiddeleeuws site met walgracht met een afzonderlijk, in achtvorm omgracht opper- en neerhof binnen een rechthoekige buitenwal. Het kasteel is nog deels omgracht kasteel. De archiefstukken (van de Sint-Pietersabdij) gaan terug tot de 15de eeuw. Volgens de overlevering verbleef Filips II er in 1549 voor hij als graaf van Vlaanderen in de Gentse Sint-Pietersabdij de investituur ontving, waardoor sommige bronnen het kasteel als vorstelijk domein bestempelden. Het werd vernield door de calvinisten in 1578. In de 17de eeuw was het eigendom van de familie Triest. Het goed werd opnieuw vernield door de legers van Lodewijk XIV in 1708. Het goed werd in 1730 beschreven als een vervallen kasteel en neerhof. Sinds circa 1830 is het kasteel eigendom van de familie Soenens. Vermoedelijk werd het volledig nieuw, typisch classicistisch kasteel circa 1840 gebouwd en werd het in de loop van de tweede helft van de 19de eeuw ingericht met authentieke stukken door ridder Fl. Soenens. Ook de walgrachten verdwenen toen grotendeels en het park in landschappelijke stijl werd aangelegd, onder meer met exotische bomen. Een nieuwe dreef leidde in noordwestelijke richting naar de Kortrijksesteenweg. Het vroegere neerhof bij de buitenwal met zichtbare oudere kern kreeg een schermgevel en nieuwe functie als conciërgewoning en koetshuizen.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/47000920.nl?toptext=576420\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Inventaris Onroerend Erfgoed",
+                        "nl": "Inventaris Onroerend Erfgoed"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 1634690,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "es": "top_castle.jpg",
+                        "fr": "top_castle.jpg",
+                        "nl": "top_castle.jpg",
+                        "it": "top_castle.jpg",
+                        "en": "top_castle.jpg",
+                        "de": "top_castle.jpg"
+                    },
+                    "description": {
+                        "es": "",
+                        "fr": "",
+                        "nl": "",
+                        "it": "",
+                        "en": "",
+                        "de": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "es": "Pascal Brackman",
+                            "fr": "Pascal Brackman",
+                            "nl": "Pascal Brackman",
+                            "it": "Pascal Brackman",
+                            "en": "Pascal Brackman",
+                            "de": "Pascal Brackman"
+                        },
+                        "description": {
+                            "es": "",
+                            "fr": "",
+                            "nl": "",
+                            "it": "",
+                            "en": "",
+                            "de": ""
+                        },
+                        "link": {
+                            "es": null,
+                            "fr": null,
+                            "nl": null,
+                            "it": null,
+                            "en": null,
+                            "de": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/top_castle.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/top_castle.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/top_castle.jpg",
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/top_castle.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/top_castle.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/top_castle.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47418149,
+                "type": {
+                    "id": 323,
+                    "name": {
+                        "nl": "Route"
+                    }
+                },
+                "address": {
+                    "id": 1794373,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Nazareth",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.534,
+                "distance": 180,
+                "name": {
+                    "nl": "De Langedreef"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.60568284988 50.9722108421)"
+                }
+            },
+            "text": {
+                "id": 673237,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 30581
+                },
+                "description": {
+                    "nl": "Dit is de slagader van de Hospicebossen, deze kaarsrechte onverharde wegel van zo’n …meter snijdt de bossen als het ware in 2 stukken.\nTalrijke boomsoorten zowel naaldbomen als loofbomen, varens, paddenstoelen, kruiden, grassen en andere bewonderenswaardige fauna en flora kan men langs deze prachtige dreef opmerken.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/30581.nl\">Sport Vlaanderen - mountainbike routes</a><br/><a href=\"https://www.routeyou.com/location/view/47418149.nl?toptext=673237\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 247017,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 30581
+                    },
+                    "filename": {
+                        "nl": "d8bde0b056e51a9efaad475bf7085b3b_3e932ba126f0ba2609afa27818ab68ac720da326.jpeg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/d8bde0b056e51a9efaad475bf7085b3b_3e932ba126f0ba2609afa27818ab68ac720da326.jpeg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47225678,
+                "type": {
+                    "id": 367,
+                    "name": {
+                        "en": "School",
+                        "nl": "School"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.735,
+                "distance": 10551,
+                "name": {
+                    "nl": "Don Bosco Sint-Denijs-Westrem",
+                    "en": "Don Bosco Sint-Denijs-Westrem"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.69921684265 51.021853798)"
+                }
+            },
+            "text": {
+                "id": 673617,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "Het Don Bosco Technisch Instituut heeft een geschiedenis sinds 1903, toen de congregatie van de Salesianen, op vraag van graaf de Hemptinne, een stichting aanvaardde in de wijk \"Maaltebrugge\". Er wordt een Grieks-Latijnse afdeling opgericht en een \"vakschool\" voor houtbewerkers, beeldhouwers, kleer- en schoenmakers. De Duitsers bezetten de schoolgebouwen tussen 1914-1918. Toch bleven de lessen doorgaan tot 1917, waarna de school wordt overgebracht naar de Mariakring te Gent, en dit tot 1919. In 1937 bouwt men de vleugel voor de humaniorastudenten en wordt de vleugel aangepast voor het internaat. In mei 1940 breekt de tweede oorlog uit en wordt de ganse school opnieuw bezet, eerst met 400 vluchtelingen, daarna door geallieerde legertroepen. De school wordt gesloten. In oktober 1944 kan de school opnieuw starten met 41 leerlingen. In de loop van de volgende jaren breidt de school uit met de bouw van de klassenblok langs de Maalte, in 1954 met de opbouw van een legerbarak voor de werkplaats houtbewerking, en met een turnzaal. De huidige gebouwen langs de Kortrijkseseteenweg dateren van 1955. In 1961 starten de werken voor de uitbouw van het college van Zwijnaarde. Een jaar later, in 1962, neemt het college zijn intrek.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/47225678.nl?toptext=673617\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Don Bosco Technisch Instituut",
+                        "nl": "Don Bosco Technisch Instituut"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "http://www.dbtigent.be/",
+                        "en": "http://www.dbtigent.be/"
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 247206,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "nl": "09679381b44c1dc42fd200a0f6585144_b7925655e239a3f34e2d4173af367be1f50c9b9e.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/09679381b44c1dc42fd200a0f6585144_b7925655e239a3f34e2d4173af367be1f50c9b9e.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 4606867,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "en": "Church",
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": 2291075,
+                    "street": "Sint-Annaplein",
+                    "number": null,
+                    "box": null,
+                    "city": "Gent",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.894,
+                "distance": 18466,
+                "name": {
+                    "nl": "Sint-Annakerk",
+                    "en": "St. Anne's Church"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.7349073394394 51.048980528323)"
+                }
+            },
+            "text": {
+                "id": 891447,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 24495
+                },
+                "description": {
+                    "nl": "De parochiekerk van de familie Maeterlinck; hier had ook de uitvaart plaats van zijn broer Oscar (1891) en van zijn ouders ; allen liggen begraven in een bewaard familiegraf op het kerkhof van de Wondelgemdries, dichtbij de rechterzijmuur van de kerk. Cyriel Buysse, Bij de begrafenis van Maeterlincks moeder, 16 juni 1911: “In de ruime Sint-Annakerk, waar volgens traditioneel gebruik bij voorname families, tarwestro over de kerkvloer lag gespreid, waren veel mensen de plechtigheid komen bijwonen.”<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/24495.nl\">Literair Gent</a><br/><a href=\"https://www.routeyou.com/location/view/4606867.nl?toptext=891447\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 302023,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 24495
+                    },
+                    "filename": {
+                        "nl": "de13dc6b7662363766384b9b335be602_ef6898f7b8b0bffd46baf15d978e68ef7ece1568.jpeg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/de13dc6b7662363766384b9b335be602_ef6898f7b8b0bffd46baf15d978e68ef7ece1568.jpeg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 3980,
+                "type": {
+                    "id": 128,
+                    "name": {
+                        "en": "Castle",
+                        "nl": "Kasteel"
+                    }
+                },
+                "address": {
+                    "id": 1812946,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Zwijnaarde",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.826,
+                "distance": 9724,
+                "name": {
+                    "nl": "Kasteel Rijvissche",
+                    "en": "Rijvissche Castle"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.6924699839667 51.013031655158)"
+                }
+            },
+            "text": {
+                "id": 891453,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 24495
+                },
+                "description": {
+                    "nl": "Het kasteel was eigendom van zijn grootmoeder langs moederskant, Nathalie de Meyere, weduwe van François van den Bossche; Maeterlinck logeerde hier tijdens zijn kindertijd; het door grachten omringd kasteel fungeerde reeds in de 12de eeuw als waterslot op de middeleeuwse verdedigingsgordel rond Gent en behoorde toe aan de Sint-Pietersabdij.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/24495.nl\">Literair Gent</a><br/><a href=\"https://www.routeyou.com/location/view/3980.nl?toptext=891453\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 302027,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 24495
+                    },
+                    "filename": {
+                        "nl": "f2fb206df81689974f0e860ce3c0be02_0e73b3df7c022d42a9d05429d989f8d123a040d8.jpeg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/f2fb206df81689974f0e860ce3c0be02_0e73b3df7c022d42a9d05429d989f8d123a040d8.jpeg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47013413,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "de": "Kirche",
+                        "en": "Church",
+                        "fr": "Eglise",
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.649,
+                "distance": 5195,
+                "name": {
+                    "nl": "St.-Nicolaas van Tolentijnkerk",
+                    "de": "St.-Nicolaas van Tolentijnkerk",
+                    "en": "St.-Nicolaas van Tolentijnkerk",
+                    "fr": "St.-Nicolaas van Tolentijnkerk"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.6491560936 50.9914612187)"
+                }
+            },
+            "text": {
+                "id": 993739,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 122267
+                },
+                "description": {
+                    "nl": "<p>Nicolaas van Tolentijn (Tolentino) was een Italiaanse heilige uit de 13de eeuw. Vanwege de meer dan driehonderd wonderen die dankzij hem gebeurden, bleef zijn bekendheid groeien na zijn dood op 10 september 1305.<br/>\nDe bouw van een kerk kwam voor het eerst aan de orde in 1791, bij de oprichting van deze nieuwe parochie. De Pinte werd genoemd naar café Het Pijntken (1658). Met de nodige omwegen werd de nieuwe kerk gewijd in 1839 en in verschillende fasen vergroot tussen 1900 en 1912. Na de beschietingen in 1918 werd de kerk hersteld, maar ook later vonden nog herstellingen plaats.<br/>\nNu staat er een imposante neogotische bakstenen kruisbasiliek met een vierkante toren onder een ingesnoerde naaldspits. Ze heeft een driebeukig schip van zes traveeën, een koor met een vijfzijdige sluiting, een vijfzijdige doopkapel en een rond traptorentje aan zuidkant.<br/>\nHet gebouw kreeg hoge lancetvensters met kleurrijke glas-in-loodramen (1919), met voorstellingen uit het Oude en het Nieuwe Testament.<br/>\nHet interieur is in één kleur geschilderd. De oorspronkelijke polychromie verdween omstreeks 1967. Er zijn verschillende schilderijen aanwezig zoals ‘Niklaas van Tolentijn zegent broden’ (1840) en drie doeken van de Vlaamse School (1709). De biechtstoel draagt twee gebeeldhouwde cherubijnen ( 1642 en 1654). De doopvont is in neorenaissancestijl (midden 19de eeuw). Het 19de-eeuwse orgel werd nadien aangepast en is tegenwoordig beschermd als monument.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/122267.nl\">Wizpr.guide</a><br/><a href=\"https://www.routeyou.com/location/view/47013413.nl?toptext=993739\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "de": null,
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "de": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 340598,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 122267
+                    },
+                    "filename": {
+                        "de": "c8f707277fc1f96db5bf2096c3ed7815_c621daa1010bcd3d7b1b56ccd530d0a93d8e47fa.jpg",
+                        "en": "c8f707277fc1f96db5bf2096c3ed7815_c621daa1010bcd3d7b1b56ccd530d0a93d8e47fa.jpg",
+                        "fr": "c8f707277fc1f96db5bf2096c3ed7815_c621daa1010bcd3d7b1b56ccd530d0a93d8e47fa.jpg",
+                        "nl": "c8f707277fc1f96db5bf2096c3ed7815_c621daa1010bcd3d7b1b56ccd530d0a93d8e47fa.jpg"
+                    },
+                    "description": {
+                        "de": "",
+                        "en": "",
+                        "fr": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "de": "Wizpr.guide",
+                            "en": "Wizpr.guide",
+                            "fr": "Wizpr.guide",
+                            "nl": "Wizpr.guide"
+                        },
+                        "description": {
+                            "de": "",
+                            "en": "",
+                            "fr": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "de": "http://my.ibeaken.com/assets/media/2190/mobile/2190.jpg?1336129590",
+                            "en": "http://my.ibeaken.com/assets/media/2190/mobile/2190.jpg?1336129590",
+                            "fr": "http://my.ibeaken.com/assets/media/2190/mobile/2190.jpg?1336129590",
+                            "nl": "http://my.ibeaken.com/assets/media/2190/mobile/2190.jpg?1336129590"
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/c8f707277fc1f96db5bf2096c3ed7815_c621daa1010bcd3d7b1b56ccd530d0a93d8e47fa.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/c8f707277fc1f96db5bf2096c3ed7815_c621daa1010bcd3d7b1b56ccd530d0a93d8e47fa.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/c8f707277fc1f96db5bf2096c3ed7815_c621daa1010bcd3d7b1b56ccd530d0a93d8e47fa.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/c8f707277fc1f96db5bf2096c3ed7815_c621daa1010bcd3d7b1b56ccd530d0a93d8e47fa.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47437799,
+                "type": {
+                    "id": 48,
+                    "name": {
+                        "en": "Trainstation",
+                        "nl": "Treinstation"
+                    }
+                },
+                "address": {
+                    "id": 1840371,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Gent",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.848,
+                "distance": 14291,
+                "name": {
+                    "nl": "Station Gent Sint-Pieters",
+                    "en": "Gent Sint-Pieters"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.71423721313 51.0354166897)"
+                }
+            },
+            "text": {
+                "id": 1280443,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2813
+                },
+                "description": {
+                    "nl": "Het oude postgebouw was één van de grote projecten die naar aanleiding van de wereldtentoonstelling van 1913 werd gebouwd. De architect, Cloquet, die onder andere ook de architect is van het Sint-Pietersstation, was een romantische ziel die werd gefascineerd door het oosten en dweepte met alle neostijlen. In het Sint Pietersstation vindt men duidelijk verwijzingen naar het oosten. In het postgebouw vindt men dan weer een mengeling van neostijlen. Deze neo architectuur was de architectuur van de conservatieve katholieke rijke klasse van Gent. \r\n\r\nOp de gevel van de vroegere post zijn boven de tweede vensters staatshoofden te zien die begin deze eeuw deel uitmaakten van de Internationale Postunie. Helemaal rechts bovenaan op de voorgevel staat een kleiner beeld tussen alle staatshoofden. Sommigen denken dat dit beeldje de geliefde voorstelt van de architect maar anderen denken dat dit Florence Nightingale is die als één van de grondleggers van de moderne verpleegkunde wordt beschouwd.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2813.nl\">Vizit</a><br/><a href=\"https://www.routeyou.com/location/view/47437799.nl?toptext=1280443\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 14466,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2813
+                    },
+                    "filename": {
+                        "en": "bel_gent_korenmarkt_postgebouw_01.jpg",
+                        "es": "bel_gent_korenmarkt_postgebouw_01.jpg",
+                        "fr": "bel_gent_korenmarkt_postgebouw_01.jpg",
+                        "it": "bel_gent_korenmarkt_postgebouw_01.jpg",
+                        "de": "bel_gent_korenmarkt_postgebouw_01.jpg",
+                        "nl": "bel_gent_korenmarkt_postgebouw_01.jpg"
+                    },
+                    "description": {
+                        "en": "",
+                        "es": "",
+                        "fr": "",
+                        "it": "",
+                        "de": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "en": null,
+                            "es": null,
+                            "fr": null,
+                            "it": null,
+                            "de": null,
+                            "nl": null
+                        },
+                        "description": {
+                            "en": "",
+                            "es": "",
+                            "fr": "",
+                            "it": "",
+                            "de": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "en": null,
+                            "es": null,
+                            "fr": null,
+                            "it": null,
+                            "de": null,
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_korenmarkt_postgebouw_01.jpg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_korenmarkt_postgebouw_01.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_korenmarkt_postgebouw_01.jpg",
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_korenmarkt_postgebouw_01.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_korenmarkt_postgebouw_01.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_korenmarkt_postgebouw_01.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 2939,
+                "type": {
+                    "id": 126,
+                    "name": {
+                        "en": "Building",
+                        "nl": "Gebouw"
+                    }
+                },
+                "address": {
+                    "id": 2505225,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Gent",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.96,
+                "distance": 15591,
+                "name": {
+                    "nl": "Boekentoren",
+                    "en": "Boekentoren"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.725532 51.044753)"
+                }
+            },
+            "text": {
+                "id": 1282233,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "<p>Henry Vande Velde werd geboren te Anwerpen op 3 april 1863, is een van de bekendste Belgische architecten. Zijn meest bekende bouwwerken zijn de Boekentoren van de Universiteit van Gent of de gerestaureerde Stedelijke Bibliotheek van Leuven.</p>\n\n<p>Van de Velde begon immers als schilder, ondermeer bij de schildersgroep 'Les XX' in Brussel. Maar onder invloed van de Engelse \"Arts &amp; Crafts\"-beweging keerde hij zich vanaf 1892 naar de toegepaste kunsten. Hij legt zich toe op het creëren van kunstzinnige gebruiksvoorwerpen, 'design' zoals dat nu heet. In 1900 verplaatste hij zijn atelier naar Duitsland, waar hij zich ten volle toelegt op de architectuur. Een belangrijk ontwerp is de academie in Weimar, de voorloper van het Bauhaus. Hij is ook actief als theoreticus van de nieuwe stijl. Hij publiceert zijn ideeën in boeken als \"Vom neuen Stil\" (1907) en \"Les formules de la beauté architectonique moderne\" (1916). Als hij na de Eerste Wereldoorlog terugkeert naar België, geeft hij les in Gent en wordt hij directeur van het Hoger Instituut voor Decoratieve Kunsten (\"La Cambre\") te Brussel.</p>\n\n<p>Omdat hij in Duitsland actief was werd hij zowel in DEU tijdens WO I als in België verkeerd bekeken. Tijdens WO II was hij adviseur voor 's lands wederopbouw, waardoor hij na de oorlog als collaborateur bekeken werd. Hij verlaat dan ook definitief België en vertrekt naar Zwitserland, waar hij in 1957 te Oberagen, sterft.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/2939.nl?toptext=1282233\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 15319,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "fr": "bel_gent_blandijnberg_boekentoren_01.jpg",
+                        "en": "bel_gent_blandijnberg_boekentoren_01.jpg",
+                        "de": "bel_gent_blandijnberg_boekentoren_01.jpg",
+                        "it": "bel_gent_blandijnberg_boekentoren_01.jpg",
+                        "nl": "bel_gent_blandijnberg_boekentoren_01.jpg",
+                        "es": "bel_gent_blandijnberg_boekentoren_01.jpg"
+                    },
+                    "description": {
+                        "fr": "",
+                        "en": "",
+                        "de": "",
+                        "it": "",
+                        "nl": "",
+                        "es": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "fr": null,
+                            "en": null,
+                            "de": null,
+                            "it": null,
+                            "nl": "Pascal Brackman",
+                            "es": null
+                        },
+                        "description": {
+                            "fr": "",
+                            "en": "",
+                            "de": "",
+                            "it": "",
+                            "nl": "",
+                            "es": ""
+                        },
+                        "link": {
+                            "fr": null,
+                            "en": null,
+                            "de": null,
+                            "it": null,
+                            "nl": null,
+                            "es": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_blandijnberg_boekentoren_01.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_blandijnberg_boekentoren_01.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_blandijnberg_boekentoren_01.jpg",
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_blandijnberg_boekentoren_01.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_blandijnberg_boekentoren_01.jpg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/bel_gent_blandijnberg_boekentoren_01.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47002895,
+                "type": {
+                    "id": 68,
+                    "name": {
+                        "de": "Konzertsaal",
+                        "en": "Concert Hall",
+                        "es": "Sala de conciertos",
+                        "fr": "Salle pour concert",
+                        "it": null,
+                        "nl": "Concertzaal"
+                    }
+                },
+                "address": {
+                    "id": 1422712,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Gent",
+                    "state": "Oost-Vlaanderen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.798,
+                "distance": 15741,
+                "name": {
+                    "nl": "De Vooruit",
+                    "de": "Vooruit",
+                    "en": "Vooruit",
+                    "es": "Vooruit",
+                    "fr": "Vooruit",
+                    "it": "Vooruit"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.72777778 51.04777778)"
+                }
+            },
+            "text": {
+                "id": 1323968,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "De Vooruit is een historisch zalencomplex in de Belgische stad Gent dat aan de Sint-Pietersnieuwstraat werd geopend door de Samenwerkende Maatschappij Vooruit Nr.1 in 1913. Het kunstencentrum VIERNULVIER biedt er een podium aan voor diverse kunstdisciplines.Het gebouw werd ontworpen door Ferdinand Dierkens. De bouw werd aangevat in 1911 en in 1913 geopend als Feestlokaal van Vooruit, naar de socialistische verbruikersorganisatie Vooruit , die door onder andere Edward Anseele uit de grond werd gestampt om de fabrieksarbeiders te beschermen tegen de labiliteit van het grootkapitaal. In de \"kunstentempel Vooruit\" konden arbeiders tegen erg democratische prijzen eten, drinken en van cultuur genieten.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47002895.nl?toptext=1323968\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "de": "Wikipedia.org",
+                        "en": "Wikipedia.org",
+                        "es": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "it": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=222784",
+                        "de": "https://de.wikipedia.org/w/index.php?curid=3932093",
+                        "en": "https://en.wikipedia.org/w/index.php?curid=26198007",
+                        "es": "https://es.wikipedia.org/w/index.php?curid=6465091",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=3604229",
+                        "it": "https://it.wikipedia.org/w/index.php?curid=9121956"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 632561,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "fr": "7aca2dfce659689e2daa6e34adaf8914_e33c45e50c4158cc3ed5fa6cbd3d348a1d77db5d.jpg",
+                        "es": "7aca2dfce659689e2daa6e34adaf8914_e33c45e50c4158cc3ed5fa6cbd3d348a1d77db5d.jpg",
+                        "en": "7aca2dfce659689e2daa6e34adaf8914_e33c45e50c4158cc3ed5fa6cbd3d348a1d77db5d.jpg",
+                        "nl": "7aca2dfce659689e2daa6e34adaf8914_e33c45e50c4158cc3ed5fa6cbd3d348a1d77db5d.jpg",
+                        "de": "7aca2dfce659689e2daa6e34adaf8914_e33c45e50c4158cc3ed5fa6cbd3d348a1d77db5d.jpg"
+                    },
+                    "description": {
+                        "fr": "",
+                        "es": "",
+                        "en": "",
+                        "nl": "",
+                        "de": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "fr": "Anakinvw at Dutch Wikipedia",
+                            "es": "Anakinvw at Dutch Wikipedia",
+                            "en": "Anakinvw at Dutch Wikipedia",
+                            "nl": "Anakinvw at Dutch Wikipedia",
+                            "de": "Anakinvw at Dutch Wikipedia"
+                        },
+                        "description": {
+                            "fr": "",
+                            "es": "",
+                            "en": "",
+                            "nl": "",
+                            "de": ""
+                        },
+                        "link": {
+                            "fr": "https://en.wikipedia.org/w/index.php?curid=26198007#/media/File:Vooruitzijgevel.JPG",
+                            "es": "https://en.wikipedia.org/w/index.php?curid=26198007#/media/File:Vooruitzijgevel.JPG",
+                            "en": "https://en.wikipedia.org/w/index.php?curid=26198007#/media/File:Vooruitzijgevel.JPG",
+                            "nl": "https://en.wikipedia.org/w/index.php?curid=26198007#/media/File:Vooruitzijgevel.JPG",
+                            "de": "https://en.wikipedia.org/w/index.php?curid=26198007#/media/File:Vooruitzijgevel.JPG"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/7aca2dfce659689e2daa6e34adaf8914_e33c45e50c4158cc3ed5fa6cbd3d348a1d77db5d.jpg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/7aca2dfce659689e2daa6e34adaf8914_e33c45e50c4158cc3ed5fa6cbd3d348a1d77db5d.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/7aca2dfce659689e2daa6e34adaf8914_e33c45e50c4158cc3ed5fa6cbd3d348a1d77db5d.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/7aca2dfce659689e2daa6e34adaf8914_e33c45e50c4158cc3ed5fa6cbd3d348a1d77db5d.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/7aca2dfce659689e2daa6e34adaf8914_e33c45e50c4158cc3ed5fa6cbd3d348a1d77db5d.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47904900,
+                "type": {
+                    "id": 166,
+                    "name": {
+                        "en": "Statue",
+                        "nl": "Standbeeld"
+                    }
+                },
+                "address": {
+                    "id": 1504126,
+                    "street": "Paul de Smet de Naeyerplein",
+                    "number": null,
+                    "box": null,
+                    "city": "Gent",
+                    "state": "Oost-Vlaanderen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.712,
+                "distance": 13960,
+                "name": {
+                    "nl": "Ros Beyaert",
+                    "en": "Ros Beyaert"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.7177307903767 51.031710062127)"
+                }
+            },
+            "text": {
+                "id": 1411971,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 24495
+                },
+                "description": {
+                    "nl": "Het bronzen Ros Beyaert (door Aloïs De Beule en Domien Ingels) en de beeldengroep \"Schoonheid, kracht en wijsheid\" (door Jules-Pierre van Biesbroeck) zijn schaarse overblijfselen van de Wereldtentoonstelling 1913. Hoewel, naar eigen zeggen, \"een beslist vijand van wereldtentoonstellingen\" bezocht Karel van de Woestijne de Gentse Wereldtentoonstelling herhaaldelijk: \"Gij kunt u niet inbeelden, Herman, hoe onze Gentsche wereldtentoonstelling mijne keel uithangt,\" schreef hij op 29 juli. \"Het regent er haast altijd, en er is bijna nooit iemand\" (De leemen torens ). Niettemin wijdde hij heel wat boeiende bladzijden aan de Gentse \"world's fair\" in de Nieuwe Rotterdamsche Courant.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/24495.nl\">Literair Gent</a><br/><a href=\"https://www.routeyou.com/location/view/47904900.nl?toptext=1411971\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 684611,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 24495
+                    },
+                    "filename": {
+                        "nl": "f5e4e2fb41ea616878d00e85f6a0f9de_2797c257e0e092c61bca25e12bd537888b12c8aa.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/f5e4e2fb41ea616878d00e85f6a0f9de_2797c257e0e092c61bca25e12bd537888b12c8aa.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47491910,
+                "type": {
+                    "id": 416,
+                    "name": {
+                        "ca": null,
+                        "de": "Teil der Gemeinde",
+                        "en": "Sub-Municipality",
+                        "es": null,
+                        "fr": "Partie de la Municipalité",
+                        "it": null,
+                        "nl": "Deelgemeente"
+                    }
+                },
+                "address": {
+                    "id": 1577401,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "De Pinte",
+                    "state": "Oost-Vlaanderen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.535,
+                "distance": 5632,
+                "name": {
+                    "nl": "De Pinte",
+                    "ca": "De Pinte",
+                    "de": "De Pinte",
+                    "en": "De Pinte",
+                    "es": "De Pinte",
+                    "fr": "La Pinte",
+                    "it": "De Pinte"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.64777778 50.99194444)"
+                }
+            },
+            "text": {
+                "id": 1661196,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "De Pinte is een dorp en gemeente in de Belgische provincie Oost-Vlaanderen ten zuidwesten van Gent. De gemeente telt samen met deelgemeente Zevergem ongeveer 11.000 inwoners, die Pintenaars worden genoemd. De hoofdkern De Pinte bestaat uit 8 500 inwoners . Naar het gemiddelde netto belastbaar inkomen van de inwoners is de gemeente anno 2012 de op twee na rijkste gemeente van België. De Pinte ligt tussen de rivieren de Schelde en de Leie, tussen 7,5 m en 10 m boven de zeespiegel, waarbij de Scheldevallei het laagste punt is. De Schelde stroomt door de deelgemeente Zevergem.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47491910.nl?toptext=1661196\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "ca": "Wikipedia.org",
+                        "de": "Wikipedia.org",
+                        "en": "Wikipedia.org",
+                        "es": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "it": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=30034",
+                        "ca": "https://ca.wikipedia.org/w/index.php?curid=661590",
+                        "de": "https://de.wikipedia.org/w/index.php?curid=2194300",
+                        "en": "https://en.wikipedia.org/w/index.php?curid=155060",
+                        "es": "https://es.wikipedia.org/w/index.php?curid=6988929",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=1170719",
+                        "it": "https://it.wikipedia.org/w/index.php?curid=1744228"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 850782,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "it": "a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png",
+                        "es": "a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png",
+                        "ca": "a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png",
+                        "de": "a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png",
+                        "nl": "a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png",
+                        "en": "a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png",
+                        "fr": "a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png"
+                    },
+                    "description": {
+                        "it": "",
+                        "es": "",
+                        "ca": "",
+                        "de": "",
+                        "nl": "",
+                        "en": "",
+                        "fr": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "it": "Wester",
+                            "es": "Wester",
+                            "ca": "Wester",
+                            "de": "Wester",
+                            "nl": "Wester",
+                            "en": "Wester",
+                            "fr": "Wester"
+                        },
+                        "description": {
+                            "it": "",
+                            "es": "",
+                            "ca": "",
+                            "de": "",
+                            "nl": "",
+                            "en": "",
+                            "fr": ""
+                        },
+                        "link": {
+                            "it": "https://en.wikipedia.org/w/index.php?curid=155060#/media/File:GemDe_PinteLocation.png",
+                            "es": "https://en.wikipedia.org/w/index.php?curid=155060#/media/File:GemDe_PinteLocation.png",
+                            "ca": "https://en.wikipedia.org/w/index.php?curid=155060#/media/File:GemDe_PinteLocation.png",
+                            "de": "https://en.wikipedia.org/w/index.php?curid=155060#/media/File:GemDe_PinteLocation.png",
+                            "nl": "https://en.wikipedia.org/w/index.php?curid=155060#/media/File:GemDe_PinteLocation.png",
+                            "en": "https://en.wikipedia.org/w/index.php?curid=155060#/media/File:GemDe_PinteLocation.png",
+                            "fr": "https://en.wikipedia.org/w/index.php?curid=155060#/media/File:GemDe_PinteLocation.png"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png",
+                        "ca": "https://image.routeyou.com/shrink/fit/500x500/a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/a805a907838c28c0c49472d20411477d_23144e9ce7f8ae5361da8765ec88694efdb27484.png"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47570820,
+                "type": {
+                    "id": 69,
+                    "name": {
+                        "nl": "Bos"
+                    }
+                },
+                "address": {
+                    "id": 1127447,
+                    "street": "Klapstraat",
+                    "number": null,
+                    "box": null,
+                    "city": "Nazareth",
+                    "state": null,
+                    "postalCode": "9810",
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.773,
+                "distance": 1320,
+                "name": {
+                    "nl": "Hospicebossen"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.6196638 50.9746737)"
+                }
+            },
+            "text": {
+                "id": 1749300,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "Na de Tweede Wereldoorlog werd een deel van de Hospicebossen ingenomen door een legerkazerne. In het kader van de Koude Oorlog werd hier een 'verborgen' brandstofvoorraad aangelegd in sterk beveiligde reservoirs. Na de val van de Berlijnse Muur verloor de kazerne echter zijn doel.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/47570820.nl?toptext=1749300\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 909356,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "nl": "335f5840066be5e5c7e23a5c6451e393_63fadb217dd1a48af4eede09a3d0dc015369e247.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Manuel Van den Abeele"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/335f5840066be5e5c7e23a5c6451e393_63fadb217dd1a48af4eede09a3d0dc015369e247.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47422186,
+                "type": {
+                    "id": 345,
+                    "name": {
+                        "nl": "Straat"
+                    }
+                },
+                "address": {
+                    "id": 1816921,
+                    "street": "Oudespoorweg",
+                    "number": null,
+                    "box": null,
+                    "city": "Zwijnaarde",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.77,
+                "distance": 9290,
+                "name": {
+                    "nl": "Oudespoorweg"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.6871537109756 51.01239834786)"
+                }
+            },
+            "text": {
+                "id": 2549220,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "Dit is een deel van de oude spoorwegverbinding tussen het station van De Pinte en Gent en het loopt centraal door het Parkbos. De herinrichting van deze as als langzame verkeersas is een van de sleutelprojecten voor de groenpool. Ze vormt de recreatieve hoofdas waarop wandel- , ruiter- en fietspaden zullen aansluiten. Door deze verbinding krijgen de bewoners van Gent ook een veilige en rechtstreekse toegang tot het Parkbos. Omgekeerd biedt de langzame as mogelijkheden voor school- en werkverkeer vanuit het zuiden van Gent richting de stad.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/47422186.nl?toptext=2549220\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Parkbos"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1634676,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "nl": "a3f541f9272dfbb4296bc953f1eda462_ee676772ff36492fd2fe342df4a4b4e0738e7f8b.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Pascal Brackman"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/a3f541f9272dfbb4296bc953f1eda462_ee676772ff36492fd2fe342df4a4b4e0738e7f8b.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48867495,
+                "type": {
+                    "id": 132,
+                    "name": {
+                        "en": "Company",
+                        "nl": "Bedrijf"
+                    }
+                },
+                "address": {
+                    "id": 2492775,
+                    "street": "Ferdinand Lousbergskaai 106",
+                    "number": null,
+                    "box": null,
+                    "city": "Gent",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.485,
+                "distance": 18914,
+                "name": {
+                    "nl": "Onak bvba",
+                    "en": "Onak bvba"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.7396666 51.0457811)"
+                }
+            },
+            "text": {
+                "id": 2555198,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "<p>ONAK biedt een origami opvouwbare kano aan. De kano ontvouwt in minder dan 10 minuten. Dankzij belangrijke materiaal innovaties is de kano geschikt voor stedelijke avonturen evenals de meest wilde avonturen buitenshuis. Naast het winnen van het beste businessplan \"Bizidee 2016\" kreeg ONAK ook de Outdoor Industy Award voor de beste start-up van het jaar tijdens de outdoor show in Friedrichsafen.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/48867495.nl?toptext=2555198\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 47478521,
+                "type": {
+                    "id": 126,
+                    "name": {
+                        "en": "Building",
+                        "nl": "Gebouw"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.732,
+                "distance": 11499,
+                "name": {
+                    "nl": "S8",
+                    "en": "S8"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.71056897484 51.0242240733)"
+                }
+            },
+            "text": {
+                "id": 2561477,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "In de S8 zit zowel een deel van de geografie als de biologie van de Universteit Gent. Maar ken je de tip die beide wetenschappen met elkaar verenigen en je toelaat aan de hand van het gedrag van dieren jouw kaart te oriënteren?  Let op een hond als die zijn behoefte doet. Hij zal dat meestal doen in de noord-zuid richting. Handig als je geen kompas bij hebt en je moet jouw kaart orienteren. \n<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/47478521.nl?toptext=2561477\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": "NewScientist, 14 December 2016 "
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://www.newscientist.com/article/mg23231040-200-how-animal-actions-are-steered-by-magnetism/",
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1644871,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "nl": "8bd138e12ff71e184115a1ba93d3c85e_539b5159e686e9f47f2d458e63dfe8a63776853c.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/8bd138e12ff71e184115a1ba93d3c85e_539b5159e686e9f47f2d458e63dfe8a63776853c.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48868430,
+                "type": {
+                    "id": 183,
+                    "name": {
+                        "en": "Bridge",
+                        "nl": "Brug"
+                    }
+                },
+                "address": {
+                    "id": 2493779,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Gent",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.776,
+                "distance": 10386,
+                "name": {
+                    "nl": "Zoë Borluutbrug",
+                    "en": "Zoë Borluutbrug"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.698895871421 51.017500685664)"
+                }
+            },
+            "text": {
+                "id": 3135150,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "Op het bordje van de Zoë Borluutbrug zie je dat Zoë Borluut een lokale weldoenster was. De meeste mensen uit de streek weten niet echt wat ze precies gedaan heeft, maar het kasteel dat ze schonk kennen de inwoners van deze streek des te beter. In 1858 schonk Zoë De Potter-Borluut het kasteel van De Pinte (nu O.C.M.W. en een rusthuis) en bijhorende domein weg aan het Nazareths Bureau van Weldadigheid, om er onderdak te bieden aan minstens zes bejaarde mannen en zes bejaarde vrouwen van het gehucht De Pinte (olv De Zusters van Liefde). Toen De Pinte in 1868 een autonome gemeente werd, was dit tehuis het belangrijkste twistpunt in de scheiding. Nazareth wou 'het hospice' niet zomaar afstaan, maar het gerecht oordeelde in het voordeel van de nieuwe gemeente De Pinte. Tot op vandaag zijn er de diensten van het O.C.M.W. en een rusthuis voor een zestigtal bewoners in gevestigd, aangepast aan de hedendaagse noden.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/48868430.nl?toptext=3135150\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "POLS",
+                        "nl": "POLS"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 2225223,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "nl": "83114fe9f92264efc59ed2419db3eb45_500e5735afa7a22becc4a794e183e9879742796f.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Pascal Brackman"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/83114fe9f92264efc59ed2419db3eb45_500e5735afa7a22becc4a794e183e9879742796f.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49403070,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "en": "Pub",
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 3028921,
+                    "street": "Klossestraat",
+                    "number": null,
+                    "box": null,
+                    "city": "Gent",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.68,
+                "distance": 8186,
+                "name": {
+                    "nl": "Den Bar",
+                    "en": "Den Bar"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.6749525678931 51.007169350457)"
+                }
+            },
+            "text": {
+                "id": 3147434,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407810
+                },
+                "description": {
+                    "nl": "<p>De Hoefslag is een manege en pensionstal te Zwijnaarde. Men kan er paardrijden en ponyrijden voor volwassenen en kinderen vanaf 4 jaar. Paarden kunnen er gestald worden in een ruime accommodatie.</p>\n\n<p>DeNBar is het gezellige clubhuis van De Hoefslag. DeNBar is bereikbaar via de oprit van De Hoefslag. Deze is gelegen in de Klossestraat op slechts 80 meter van het kruispunt van de fietsostrade en de Klossestraat.</p>\n\n<p>Openingsuren deNBar:<br/>\n<a href=\"https://www.dehoefslag.be/cafetaria\" rel=\"nofollow\" target=\"_blank\">https://www.dehoefslag.be/cafetaria</a></p>\n\n<p><br/>\nOpeningsuren De Hoefslag:<br/>\nDe stalgebouwen zijn enkel toegankelijk voor de gestalde klanten van De Hoefslag. De groepslessen gaan iedere dag door, behalve op maandag en woensdag. Tijdens iedere schoolvakantie zijn er paard- en ponykampen. Inschrijven voor de lessen en de kampen is noodzakelijk en kan via www.dehoefslag.be .</p>\n\n<p><br/>\nContactgegevens:<br/>\nFrédéric en Virginie De Meersman<br/>\n09 220 11 29<br/>\ninfo@dehoefslag.be<br/>\nwww.dehoefslag.be</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407810.nl\">De Hoefslag</a><br/><a href=\"https://www.routeyou.com/location/view/49403070.nl?toptext=3147434\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 2232247,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407810
+                    },
+                    "filename": {
+                        "nl": "5f1503f326a28b8a3a17866f12ba8862_c319dae30d999b5e34d52f1c2c7012c130a5d007.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/5f1503f326a28b8a3a17866f12ba8862_c319dae30d999b5e34d52f1c2c7012c130a5d007.jpg"
+                    }
+                }
+            }
+        }
+    ],
+    "languages": [
+        "nl"
+    ],
+    "lengthRelative": 0.3
+}

@@ -1,0 +1,3687 @@
+{
+    "scoreCalculated": 0.8740335,
+    "scoreAuthor": null,
+    "payable": false,
+    "updatedDate": "2024-01-01 00:47:15.320447+00",
+    "autoPois": {
+        "nl": false
+    },
+    "id": 6818298,
+    "length": 63606,
+    "begin": {
+        "wkt": "POINT(5.39627 51.21102)"
+    },
+    "beginAddress": "Overpelt, Limburg, Vlaanderen",
+    "end": {
+        "wkt": "POINT(5.25159 51.15365)"
+    },
+    "endAddress": "Schoorheide, Balen, Antwerpen, Vlaanderen",
+    "centroid": {
+        "wkt": "POINT(5.32702045398464 51.1080768262593)"
+    },
+    "bounds": {
+        "wkt": "BOX(5.23282 51.04941,5.40027 51.21102)"
+    },
+    "owner": {
+        "id": 254394,
+        "type": {
+            "id": 1
+        },
+        "flag": "be",
+        "avatarRevision": 0,
+        "logoRevision": 0,
+        "headerRevision": 0,
+        "privileges": [],
+        "configuration": null,
+        "name": {
+            "en": "mildred"
+        },
+        "languages": [
+            "en"
+        ],
+        "permission": {
+            "writable": false
+        },
+        "nick": "mildred"
+    },
+    "type": {
+        "id": 5,
+        "tree": [
+            {
+                "id": 0,
+                "name": {
+                    "nl": "Alle routes"
+                },
+                "languages": [
+                    "nl"
+                ]
+            },
+            {
+                "id": 1,
+                "name": {
+                    "nl": "Fietsroute"
+                },
+                "languages": [
+                    "nl"
+                ]
+            }
+        ],
+        "name": {
+            "nl": "Recreatieve fietsroute"
+        },
+        "languages": [
+            "nl"
+        ]
+    },
+    "flag": "be",
+    "score": 0.4,
+    "scoreMethod": {
+        "id": 3
+    },
+    "correctness": null,
+    "correctnessMethod": {
+        "id": null
+    },
+    "duration": 15265,
+    "downloadable": false,
+    "inputFormat": {
+        "id": 0,
+        "recording": false
+    },
+    "ascent": {
+        "total": 256,
+        "net": -1,
+        "totalRelative": 0.7
+    },
+    "descent": {
+        "total": 257,
+        "totalRelative": 0.7
+    },
+    "ascendingRate": {
+        "max": 0.0434485,
+        "avg": null,
+        "maxRelative": 0.8,
+        "avgRelative": null
+    },
+    "difficulty": 0.7666666666666666,
+    "difficultyAuthor": null,
+    "permission": {
+        "id": 0,
+        "read": "public",
+        "write": "group",
+        "writable": false
+    },
+    "planner": {
+        "id": 5
+    },
+    "parent": null,
+    "configuration": {
+        "planner": {
+            "owner": {
+                "id": null
+            }
+        }
+    },
+    "editedDate": "2020-01-19 10:51:58.363184+00",
+    "createdDate": "2020-01-19 10:51:58.336014+00",
+    "lastReviewDate": null,
+    "otnId": {
+        "nl": null
+    },
+    "name": {
+        "nl": "Hans"
+    },
+    "nameGenerated": {
+        "nl": false
+    },
+    "subName": {
+        "nl": null
+    },
+    "trackName": {
+        "nl": null
+    },
+    "description": {
+        "nl": "<p>Van: Overpelt, Limburg, Vlaanderen<br/>\nNaar: Schoorheide, Balen, Antwerpen, Vlaanderen</p>\n\n<p>Routering: Recreatief fietsen - knooppunten</p>"
+    },
+    "descriptionGenerated": {
+        "nl": true
+    },
+    "generatedInfo": {
+        "nl": "<span class=\"routeYou_node\">253</span> - <span class=\"routeYou_node\">254</span> - <span class=\"routeYou_node\">256</span> - <span class=\"routeYou_node\">257</span> - <span class=\"routeYou_node\">258</span> - <span class=\"routeYou_node\">515</span> - <span class=\"routeYou_node\">515</span> - <span class=\"routeYou_node\">517</span> - <span class=\"routeYou_node\">5</span> - <span class=\"routeYou_node\">274</span> - <span class=\"routeYou_node\">273</span> - <span class=\"routeYou_node\">539</span> - <span class=\"routeYou_node\">539</span> - <span class=\"routeYou_node\">309</span> - <span class=\"routeYou_node\">308</span> - <span class=\"routeYou_node\">307</span> - <span class=\"routeYou_node\">307</span> - <span class=\"routeYou_node\">518</span> - <span class=\"routeYou_node\">310</span> - <span class=\"routeYou_node\">310</span> - <span class=\"routeYou_node\">341</span> - <span class=\"routeYou_node\">342</span> - <span class=\"routeYou_node\">554</span> - <span class=\"routeYou_node\">555</span> - <span class=\"routeYou_node\">277</span> - <span class=\"routeYou_node\">275</span>"
+    },
+    "source": {
+        "name": {
+            "nl": null
+        },
+        "uri": {
+            "nl": null
+        }
+    },
+    "infoUri": {
+        "nl": null
+    },
+    "breadcrumbRegions": [
+        {
+            "id": 47308007,
+            "flag": "be",
+            "type": {
+                "id": 415
+            },
+            "name": {
+                "ca": "Pelt",
+                "de": "Pelt",
+                "en": "Pelt",
+                "es": "Pelt",
+                "fr": "Pelt",
+                "it": "Pelt",
+                "nl": "Pelt"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47418548,
+            "flag": "be",
+            "type": {
+                "id": 522
+            },
+            "name": {
+                "ca": "Limburgse Kempen",
+                "de": "Limburgse Kempen",
+                "en": "Limburgse Kempen",
+                "es": "Limburgse Kempen",
+                "fr": "Limburgse Kempen",
+                "it": "Limburgse Kempen",
+                "nl": "Limburgse Kempen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407870,
+            "flag": "be",
+            "type": {
+                "id": 409
+            },
+            "name": {
+                "ca": "Limburg",
+                "de": "Limburg",
+                "en": "Limburg",
+                "es": "Limburg",
+                "fr": "Limbourg",
+                "it": "Limburg",
+                "nl": "Limburg"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407865,
+            "type": {
+                "id": 407
+            },
+            "name": {
+                "ca": "Bèlgica",
+                "de": "Belgien",
+                "en": "Belgium",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "nl": "België"
+            },
+            "flag": "be",
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        }
+    ],
+    "viewCount": 4,
+    "viewCountThisMonth": 0,
+    "downloadCount": 2,
+    "geometry": {
+        "google": "{cqwHu}|_@|VjKfDhATBp@ArDe@BhCSvD\\z@VrRFr@~Jve@JVlJe]xSyAvY}Bd@I`Bxf@b@fL?b@q@tNNlPFdFfe@sB~X}Fv@uJd@wGn@{GFkFZe@bBoAJP~@a@hEqC`P{KjXoQlBaClNuSjFmHx@}@`Cc@l@^lErBfBdArJwLPXfBhB~EzE~DvC~AtAdB`CfEbIlBhFh@pBVn@fNpZPBGlDL~@b@xBtC|J^bBt@`AjApDFhAfAvCzAnDxEpKlA`G`@tC`@vB~AjH\\hA`CpFxDlIlAtCJ`@P??d@DNpEvLPJZDTCBZf@tA~D|JxCtHBLhAlGFlAFzCLzCl@|A~BLxFDdGcAt@Q|B_Ap@}@N]z@q@pBeAn@AdAlAVl@l@p@bAdAdA|@n@t@VFHKzAS\\AROhBmEvFfP|DiGzB{DtB{D~H}MRi@z@IbCu@nDeBd@YhAkA~@EhAHvAB`CTzBZAtG@uG@i@^A`BeBvGkGdBgApEaC~@[xGcDjEgCXRfIpA\\?Fa@NINHFNFBn@Sj@a@tCgF`AsA|@kAhAkAvDkEt@qAVPlFGjKH|OVoFgUi@H{BP?SESKUSSo@qAgBwEOk@Mu@K{AUqMGkAS{Bm@_EoCkPgA{J]uBWmAkEaRaP_y@sCgOUYa@Ua@]K]Ae@B}@`ZnF|YtFrMlCnM~BnK~AzOxCxJnCfNvBlJrB`HpCfBbAfeAdj@xf@vW@w@wJgi@e@[S{APGxTwLcGsMfTuTtCpGfFlK`G`GrGtFxCRvD]^dRjCzBtAhUzIaF{I`FqBtTvC`OrD|MxD|JNVz@d@zCZ~B?n@Pd@r@XZFv@Q\\iArD[xASl@MR{@xAq@bCh@PtCpCbEbD~DxDhDxDeAhBi@j@k@^yAdBqEpGm@p@eBlA{I|EK\\d@`XXnAhBxFpBxFbOfd@n@tEzAfFlGbS`GfSXzArGtTAl@n@HfGAdCc@NbE_IhAV~GmHo@EnDrAl@c@jDKfA_Cy@WvBMh@Sn@w@lBo@tBr@PpBp@zIpD`KlD`@XH^yB~I`EYaEXwA~Fc@rBIn@Ax@ThD@fAM?u@Om@[}DsA{PkGiB}@yCeA[jCSGk@s@Ag@oB}AgAQ}@i@}@u@u@g@}@Oq@i@uAi@sEwAcBmBqAm@c@g@_@}@uAwBc@}@]yA]kAYm@g@s@_GmJk@w@c@U{JsCsKqDYYU]{FyLcBuD[NQKQJ_Q~SwArBu@rA]`Bq@fBe@f@_@l@o@vAeBtC[~@_AhAWb@g@vAkAbBiBlDWNk@lAcAnCYj@YZeKlHm@q@eFaHa@e@WQO@g@d@qE|E[r@^^vBpGt@|ApIjMd@x@r@`BRYVKLBVPfB`Df@pCpAnBdG~JGLiA|@a@R]VKNCd@lAxDn@lCr@|BTh@LxANh@h@pAt@zEp@zBZdBb@dBd@vAlA`Dt@TNPVj@Rr@fA~CjDJpDB|JO\\J^^tCtEfA`CxAwAxAaBv@q@w@p@yA`ByAvAeB|AkCjBuBpA}E`CgZ~GbObb@{DfCoAr@kAh@{KzG_CtA{Av@uAz@W\\_EzCsBdBeEzCiBzAQTM@MKE[U_AKGK?OJ[^o@f@i@\\MBMLGVEfBG\\M^m@pAe@xA_@t@uHhCcBf@H`@|B~Ht@tC~AnFf@lBtC~JLLMMENk@|@_EnF{@zAaBdCl@~F@b@AV]SEB_A~B[f@GPlAnBfAbAzC`IdBvHbBdJ`@hDGBtA~KFp@Lv@E~@O|AUdAkArC?h@JjA\\zBDj@?h@Qj@qGxKi@t@q@v@AZBL|@bDIxB_@dGIz@VPXJt@Cj@M`@?RFNJ|@|A^b@Xj@vAlAv@x@b@l@t@jB~@hD`@|@r@`AZZHVFb@j@hFb@~CfBjHtBtHRlBZ|DKpDArC~CiAzEaAz@e@LMJQd@qADo@x@}GHaAF|@Z~A~D|NYd@cE`@cCv@sAZ}@Ly@@sCSuAUpA~HPnAg@LMNI\\AZ@j@EbIDhDNfDHdJDtAJlA{\\uEyFo@s@Ky@Sa@Ua@e@kAcD{@yA]u@Mq@_@Bw@d@}CnAsAhAm@n@e@Pk@?gR{B@[cAqCk@aDiCiUkL|@wAFmHtA]DUE[{@}@qBqAeEi@e@_FaD_GaEtA_NYcBW}Ba@{BeAwGa@Pk@Nc@GI@Co@}BiOkAyGgA}GSj@]f@yA\\wCVc@AsAOUGuFr@wHt@uCkDsDmFiBwCcB{BeCeBiHkD_F`@ThHo@HWa@Au@SSgBh@UGgEv@a@Gg@BwEz@{@A{@LoACmFp@]dAg@Va@_@_@BuD~Cw@nA[LaAlAg@Z_@^sAdBuB~E`@fAwOlfBeGoByGmBiAtMiEuA_Bc@q@[{@yA{@mCgAiC{@gBf@wAfAeClLmVlAmCl@_An@y@d@aAa@[s@u@k@cAAUbAwBMm@xAkDtGwNjAaCLOJC~BkFw@mAqAeBSDuAzCg@rAtAfCcFnLqC`GuCpFwChE_E|DwHvFgGbCcD|@iDXiCFiGOaCWcDk@eDeAsDgBcC_BkGeF_HmFyCiCyLuJwFyEsFaEsKsI"
+    },
+    "elevation": {
+        "google": "_cj_G?~hbE_k@_seKqH?e@?wA?}H?wC~hbEkE?sA_ibEsT?y@_seKon@?a@~hbEue@_glWqc@_seK_n@?aA_qo]ck@~hbEuM?g@~flWmP_ibEeR?}F_mcbA_bA~hbEim@~hbEeL~flW{H?aI_seKcG_ibE_A?cE?]?uB_ibEcK_seK_`@~hbEyo@_seKoF~flWib@_ibEqO~hbEyB~hbEeF~hbEwA?}J~hbEeE_}hQkX?i@~hbEwE_ibEkM_glWwJ_ibE_E_ibEcF_seKsN_ibEaI?oC~hbEcA~zrc@kg@_ibE_@?_E_ibEiA?sC~hbEoN?{B?uB_seKmF?qA?qE_seKyF?gQ_ibE{H~reKoD?oC?qJ~hbEaB?}I~reKiN~hbEuE?i@?_@?i@?S~|hQ_R?a@?q@?e@~hbE_@?uB?yO_ibEqL?Q?cI?uA?kD_ibEmD_ibEaC_ibEaF~reKsL_}hQoM?aB~hbEeF~hbEoB?i@~hbEwB~hbEuE?sA?sC_ibEaA?aB?mC_ibEkC~hbEeB?k@?U~hbEaD?s@?g@~hbEcH_ibEiV_glW{L_qo]kH_ibEcH~zrc@_W~reKy@?iB~hbEmF?gI?gA?yC_ibEoB?aC?yC?cF_ibE{E?qH?qH?m@_ibEw@?kE~hbE{P?cE~hbEiK?sB_seKmO_seKaK?q@~hbEeQ?s@?g@?]?]?U?O?uA?uA?mJ?sC?gC?yC_}hQiK_seKaC?m@_}hQ_L~|hQuT?s\\_ibEwZ?kA_seKwE?U?Y~hbE_@?g@?{B~reKkH?w@?_A~hbEeB~hbEcO?sA_ibEmC~hbEaF?uS~hbEsL?kC?_B?wV_seKoeA~flWsR_ibEo@~hbE_A?cA?g@_ibEi@?cA_y|u@ao@~reK{n@_ibE_Y~po]wX_ibEcU~flW_]_seKgT_ibE_Z~hbEkS_ibEsO?cE_oyo@ybC~|hQwiA?}@_oyo@{q@?iA?iB?a@~reKah@~hbEmT~zrc@ek@~hbEoK_seKuQ~hbEuO_glWiP?mG?aI~flWgT_ibEwG~hbEaX~hbEqS_ibEoS~flWwW_ibEoR~hbEeR~reKsO?g@?oB?qG?_F?uA?wA?w@?}@?m@~reKmF?mB~hbE}@?_@?qC~hbEgD_ibEkA_ibEsH~hbEcK~hbEiK_ibEgJ~hbEiD?wA?sA_ibEaE_y|u@{M?aB_}hQeE_glWoS?e@~|hQuZ?cB~reKkI_seKsI~flWyp@_ibEyF_seKmH~reKuY~hbEkY?oB~hbEg[?q@~hbEuA_}hQmM?mF?wE~|hQuP~reK_I_seKsO?aE~hbE{C?gE?qA_glWgF~hbEiC?u@?}@~hbE{C_evi@{C~zrc@{A~hbEoE~po]}R~hbE}T~hbEaA?g@~po]yL?uI?sI~reKaI~hbEmC_ibEw@?_A~|hQ_E?mA_seKW_ibEaB_ibEuA_}hQwI_}hQs_@_evi@cE~reKyG~nyo@aD~hbEc@_qo]}A_ibEm@_ibE{E~hbE_C_glWuB~|hQ{B?gB?mB_seKaB?}C~po]_K_glWsE~reKwC_}hQmA?wA_seKgE~dvi@}A_seKoB~reKaB_ibEcA_seKyA_ibE{Q?aB?cA~zrc@kT_qo]}U?s@_ibEs@_qo]oS_ibEiG?s@?a@_ibEa@~reKcf@_seKgE_}hQcC_seKwB?oC?oA?iA?aC~hbEqF?uA~hbEiC~hbEy@?wB?kD~|hQkG?k@~hbEsB~flWeE~hbEaA_ibEw@~reKuV_ibEaB_}hQaO?gA_ibEo@?[?oA~reKyL?kA?aA~reKoJ~hbEkC~po]iW?{A_glWmC?k@?k@_ibEY?m@_}hQ}F?oD?}D_seKoR~hbES~|hQqC?_A?y@?[~hbEi@~reKuF~hbEqD~hbEeD?{@?eB?u@_ibEsB?cG_ibEcD?yB?_C?uB~hbE_F_ibEaB?a@?_A?cA~reKwE_}hQmH_ibEwH~reK{S?u@?aA~|hQ_J~|hQ_E_seKwD~|hQ_E~hbEoB_ibEoB_}hQ}D~reKyD?mE?oG_ibEaF?}K~flWso@~zrc@}n@~reKgJ~hbEwC~hbEkC_seKqW?sF~hbEkD_ibEcD?u@~hbEwJ?gF_seKcK_seKqE?g@?W_ibE[?a@?oA~hbEU?U_ibE]?{@?_B?oA?Y?[?]_seKqB~hbEc@?k@?wB~hbEwB_ibEqA_ibEqP_ibEuD?g@_seK_L_ibE}D_seKyH~reKkC~reKqN~hbE[_ibE]?S_glWeB_seKkL~hbEqC~flWaF~reKeH?g@?Y?y@?I~hbEsD~hbEaA?W~hbEwD~reKqC?_M~hbEcK~reKoL?cE?M_ibEaN?y@~hbEaA_ibEgA~hbEiB?uA?qE?o@?uA?qC?q@?m@?y@_evi@qS_seK}A?kB~hbE]?Q~reKqE~reKgC~|hQeH?cA?m@?o@?}A?oA?y@_ibEc@?_@?uC_ibEcA?aA~hbEoD_ibEuB?oA~hbEwC~reKyE~hbE{A~hbEsB?y@?]?k@_glWkG_}hQ{D~hbEwJ~|hQoK~reK}B?uE~reKeE~|hQaD_glWcH_{rc@gK_ibEqB?[?[?qB?s@?kI?kA?cA~hbEuB_ibEmS~hbE}@~hbEwI_ibEoF~hbEuC~reKmB?cB~po]cG?wC~hbE{J?}A?gA?]?e@?]?q@_ibEcJ?{D_ibE{D~hbEiK~reK_B?wA~flWws@?yL?{A_ibEeB?aA?gA_ibE_F?oC_ibEoA?{@?w@~hbEkB_ibE_H?gD?aB?cA?mA_}hQ}`@?]_ibEgE?cE?uX?oV?yC?wO?s@?g@_ibEqA_seKeD_ibEcG?uA~hbEmL_{rc@oN~flWeP?uB?qC~reKsC~reKkI_ibE}@?oA?_A?Q?s@_}hQgR_}hQqI?qI_}hQ{@_ibEeA_ibE_D?kG?}@~reKsC?g@~po]qL?cP?cI_seKyK_seKyF?}E~hbEcG~hbEiP?iK~hbEiI?sA?y@?y@?i@?{D?e@~hbEcJ?{@?eA?_K?iB?gB?kC~hbEcL?}A?iA~hbEeA_ibEw@?kJ?cC~hbEs@_ibEmC~hbEmA?aA~hbEwD?aI~hbEaB~flWqtB~hbE{M?yN~hbEuO?mJ?kD?}A?oC?{D?eE_ibEyC?wB?aE_ibE{a@_seKoE?iB?iB?aB?cA?kB?kB?W_ibEqD?w@?uF?aV?cE?]?S?wI?aC_ibEuD?c@?cF~hbEsB?sE~hbEkR_seK}J?uJ~hbE{I~hbEiK_ibEaR~hbEcN?gH?iH?qF_ibEqM?cF?aH?mH~hbEmI?}F~hbEsO_ibEwP?uH~reKkZ_ibEoN~hbE{M_seK_X"
+    },
+    "instructions": [
+        {
+            "atGeometry": "POINT(5.39627 51.21102)",
+            "distance": 0,
+            "using": "",
+            "at": null,
+            "to": "253",
+            "fromBearing": null,
+            "toBearing": -162.0535338973,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(5.38247 51.20288)",
+            "distance": 1558.8118904825,
+            "using": "",
+            "at": "253",
+            "to": "254",
+            "fromBearing": -128.58991790229,
+            "toBearing": 121.15885701208,
+            "angle": -110.25122508563
+        },
+        {
+            "atGeometry": "POINT(5.37446 51.19275)",
+            "distance": 3808.1062763649,
+            "using": "",
+            "at": null,
+            "to": "254",
+            "fromBearing": -92.618571229955,
+            "toBearing": -93.176264258766,
+            "angle": -0.557693028811
+        },
+        {
+            "atGeometry": "POINT(5.37331 51.19271)",
+            "distance": 3888.6217750044,
+            "using": "",
+            "at": "254",
+            "to": "256",
+            "fromBearing": -93.176264258766,
+            "toBearing": 176.60054963337,
+            "angle": -90.223186107862
+        },
+        {
+            "atGeometry": "POINT(5.38162 51.18104)",
+            "distance": 5544.681367111,
+            "using": "",
+            "at": "256",
+            "to": "257",
+            "fromBearing": 153.36669200634,
+            "toBearing": -136.76251983358,
+            "angle": 69.870788160072
+        },
+        {
+            "atGeometry": "POINT(5.36011 51.14619)",
+            "distance": 10946.585234768,
+            "using": "",
+            "at": "257",
+            "to": "258",
+            "fromBearing": -128.70106710917,
+            "toBearing": -128.37415057274,
+            "angle": 0.32691653643408
+        },
+        {
+            "atGeometry": "POINT(5.35849 51.14540)",
+            "distance": 11090.178471999,
+            "using": "",
+            "at": null,
+            "to": "258",
+            "fromBearing": -114.48607256246,
+            "toBearing": -113.59887319696,
+            "angle": 0.8871993655
+        },
+        {
+            "atGeometry": "POINT(5.35588 51.13607)",
+            "distance": 12432.613334469,
+            "using": "",
+            "at": "258",
+            "to": "515",
+            "fromBearing": 129.35343735919,
+            "toBearing": -125.60150830676,
+            "angle": 105.04505433405
+        },
+        {
+            "atGeometry": "POINT(5.35998 51.12617)",
+            "distance": 13815.754828742,
+            "using": "",
+            "at": "515",
+            "to": "554",
+            "fromBearing": -171.93387908108,
+            "toBearing": -89.34270796516,
+            "angle": 82.591171115925
+        },
+        {
+            "atGeometry": "POINT(5.35859 51.12618)",
+            "distance": 13913.071077489,
+            "using": "",
+            "at": null,
+            "to": "515",
+            "fromBearing": -89.34270796516,
+            "toBearing": 90.656209878509,
+            "angle": 179.99891784367
+        },
+        {
+            "atGeometry": "POINT(5.35998 51.12617)",
+            "distance": 14010.387326236,
+            "using": "",
+            "at": "515",
+            "to": "516",
+            "fromBearing": 90.656209878509,
+            "toBearing": 94.338860099259,
+            "angle": 3.6826502207501
+        },
+        {
+            "atGeometry": "POINT(5.36808 51.10819)",
+            "distance": 16211.835798034,
+            "using": "",
+            "at": null,
+            "to": "517",
+            "fromBearing": -178.40749834939,
+            "toBearing": 61.768014857205,
+            "angle": -119.8244867934
+        },
+        {
+            "atGeometry": "POINT(5.38332 51.11294)",
+            "distance": 17488.024120614,
+            "using": "",
+            "at": "517",
+            "to": "5",
+            "fromBearing": 73.204882122529,
+            "toBearing": 67.953088953993,
+            "angle": -5.2517931685353
+        },
+        {
+            "atGeometry": "POINT(5.40027 51.11820)",
+            "distance": 18826.843583727,
+            "using": "",
+            "at": "5",
+            "to": "274",
+            "fromBearing": 95.868089759575,
+            "toBearing": -170.13050481761,
+            "angle": 94.001405422817
+        },
+        {
+            "atGeometry": "POINT(5.38140 51.07446)",
+            "distance": 23892.472426486,
+            "using": "",
+            "at": "274",
+            "to": "273",
+            "fromBearing": -158.66429492357,
+            "toBearing": 93.253187011157,
+            "angle": -108.08251806527
+        },
+        {
+            "atGeometry": "POINT(5.38908 51.07653)",
+            "distance": 24497.811151889,
+            "using": "",
+            "at": "273",
+            "to": "539",
+            "fromBearing": 164.39833326191,
+            "toBearing": 158.39228501264,
+            "angle": -6.0060482492622
+        },
+        {
+            "atGeometry": "POINT(5.38400 51.06338)",
+            "distance": 26995.610948724,
+            "using": "",
+            "at": "539",
+            "to": "538",
+            "fromBearing": -100.84817457046,
+            "toBearing": 157.79694448522,
+            "angle": -101.35488094433
+        },
+        {
+            "atGeometry": "POINT(5.38513 51.06164)",
+            "distance": 27204.766914945,
+            "using": "",
+            "at": null,
+            "to": "539",
+            "fromBearing": 157.79694448522,
+            "toBearing": -22.202176564513,
+            "angle": -179.99912104973
+        },
+        {
+            "atGeometry": "POINT(5.38400 51.06338)",
+            "distance": 27413.922881166,
+            "using": "",
+            "at": "539",
+            "to": "309",
+            "fromBearing": -22.202176564513,
+            "toBearing": -75.350467660285,
+            "angle": -53.148291095772
+        },
+        {
+            "atGeometry": "POINT(5.37061 51.05973)",
+            "distance": 28683.48879269,
+            "using": "",
+            "at": null,
+            "to": "309",
+            "fromBearing": -41.919738413408,
+            "toBearing": -43.312247871012,
+            "angle": -1.392509457604
+        },
+        {
+            "atGeometry": "POINT(5.36950 51.06028)",
+            "distance": 28783.400536294,
+            "using": "",
+            "at": "309",
+            "to": "308",
+            "fromBearing": -58.923145824402,
+            "toBearing": -164.92463771609,
+            "angle": -106.00149189169
+        },
+        {
+            "atGeometry": "POINT(5.36600 51.05653)",
+            "distance": 29268.728534542,
+            "using": "",
+            "at": "308",
+            "to": "307",
+            "fromBearing": -145.48314132137,
+            "toBearing": -43.585325457914,
+            "angle": 101.89781586346
+        },
+        {
+            "atGeometry": "POINT(5.32480 51.05038)",
+            "distance": 33914.557508971,
+            "using": "",
+            "at": "307",
+            "to": "311",
+            "fromBearing": -61.129888751026,
+            "toBearing": 175.18408591804,
+            "angle": -123.68602533093
+        },
+        {
+            "atGeometry": "POINT(5.32493 51.04941)",
+            "distance": 34022.853615425,
+            "using": "",
+            "at": null,
+            "to": "307",
+            "fromBearing": 175.18408591804,
+            "toBearing": -4.8158129817651,
+            "angle": -179.99989889981
+        },
+        {
+            "atGeometry": "POINT(5.32480 51.05038)",
+            "distance": 34131.14972188,
+            "using": "",
+            "at": "307",
+            "to": "518",
+            "fromBearing": -4.8158129817651,
+            "toBearing": -61.328749717239,
+            "angle": -56.512936735473
+        },
+        {
+            "atGeometry": "POINT(5.32419 51.08417)",
+            "distance": 38916.767021418,
+            "using": "",
+            "at": "518",
+            "to": "310",
+            "fromBearing": -49.397426750231,
+            "toBearing": -147.86375655937,
+            "angle": -98.46632980914
+        },
+        {
+            "atGeometry": "POINT(5.30334 51.07017)",
+            "distance": 41369.325940078,
+            "using": "",
+            "at": "310",
+            "to": "343",
+            "fromBearing": -131.39293641793,
+            "toBearing": 148.43295529323,
+            "angle": -80.174108288845
+        },
+        {
+            "atGeometry": "POINT(5.30452 51.06899)",
+            "distance": 41524.577039714,
+            "using": "",
+            "at": null,
+            "to": "310",
+            "fromBearing": 150.70505469605,
+            "toBearing": -29.294750827911,
+            "angle": -179.99980552396
+        },
+        {
+            "atGeometry": "POINT(5.30334 51.07017)",
+            "distance": 41679.828139351,
+            "using": "",
+            "at": "310",
+            "to": "341",
+            "fromBearing": -31.566702424771,
+            "toBearing": -30.074142000588,
+            "angle": 1.4925604241826
+        },
+        {
+            "atGeometry": "POINT(5.24141 51.07876)",
+            "distance": 49365.952584846,
+            "using": "",
+            "at": "341",
+            "to": "342",
+            "fromBearing": -14.924149747133,
+            "toBearing": -11.827685601547,
+            "angle": 3.0964641455861
+        },
+        {
+            "atGeometry": "POINT(5.23569 51.09374)",
+            "distance": 51813.558346658,
+            "using": "",
+            "at": "342",
+            "to": "554",
+            "fromBearing": 7.2054036503032,
+            "toBearing": 96.488374748931,
+            "angle": 89.282971098628
+        },
+        {
+            "atGeometry": "POINT(5.25880 51.11495)",
+            "distance": 55303.844916023,
+            "using": "",
+            "at": "554",
+            "to": "555",
+            "fromBearing": 19.916996102789,
+            "toBearing": -5.4428633300704,
+            "angle": -25.359859432859
+        },
+        {
+            "atGeometry": "POINT(5.23578 51.12792)",
+            "distance": 57951.940221091,
+            "using": "",
+            "at": "555",
+            "to": "277",
+            "fromBearing": -75.525682548496,
+            "toBearing": 15.017265435088,
+            "angle": 90.542947983583
+        },
+        {
+            "atGeometry": "POINT(5.23454 51.13101)",
+            "distance": 58433.950460141,
+            "using": "",
+            "at": "277",
+            "to": "275",
+            "fromBearing": -75.91466694574,
+            "toBearing": 14.958080966498,
+            "angle": 90.872747912237
+        },
+        {
+            "atGeometry": "POINT(5.25159 51.15365)",
+            "distance": 63606.349844865,
+            "using": "",
+            "at": null,
+            "to": "275",
+            "fromBearing": 27.828095851892,
+            "toBearing": null,
+            "angle": null
+        }
+    ],
+    "statistics": {
+        "routing": {
+            "cyclingNodes": 1
+        }
+    },
+    "segments": [
+        [
+            5.39627,
+            51.21102,
+            38
+        ],
+        [
+            5.37446,
+            51.19275,
+            38
+        ],
+        [
+            5.35849,
+            51.1454,
+            38
+        ],
+        [
+            5.35859,
+            51.12618,
+            38
+        ],
+        [
+            5.36808,
+            51.10819,
+            38
+        ],
+        [
+            5.38513,
+            51.06164,
+            38
+        ],
+        [
+            5.37061,
+            51.05973,
+            38
+        ],
+        [
+            5.32493,
+            51.04941,
+            38
+        ],
+        [
+            5.30452,
+            51.06899,
+            38
+        ],
+        [
+            5.25159,
+            51.15365,
+            38
+        ]
+    ],
+    "pois": [
+        {
+            "location": {
+                "id": 4570453,
+                "type": {
+                    "id": 193,
+                    "name": {
+                        "en": "Canal",
+                        "nl": "Kanaal"
+                    }
+                },
+                "address": {
+                    "id": 1797950,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Balen",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.735,
+                "distance": 63606,
+                "name": {
+                    "nl": "Kanaal naar Beverlo",
+                    "en": "Canal to Beverlo"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2515292 51.153953)"
+                }
+            },
+            "text": {
+                "id": 670263,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 85552
+                },
+                "description": {
+                    "nl": "Het Kanaal naar Beverlo werd in een record-tempo van 3 jaar aangelegd. Het graven werd gestart in 1854. Het fungeert als een aftakking van het Kanaal Bocholt-Herentals en was voornamelijk om militaire reden gegraven. Het was een bevoorradingskanaal voor de garnizoensplaats Leopoldsburg. Later werd het ook commercieel belangrijk voor de metaalindustrie te Lommel.\n\nHet kanaal loopt dood in de havenkom van Leopoldsburg en is vrij van sluizen.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/85552.nl\">De Willemsroute</a><br/><a href=\"https://www.routeyou.com/location/view/4570453.nl?toptext=670263\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 245788,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 85552
+                    },
+                    "filename": {
+                        "nl": "107af0f26513be2f16520e7b5227883d_f911ca8fc1f2748cc694d2f82b7a22662b4cc5d5.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/107af0f26513be2f16520e7b5227883d_f911ca8fc1f2748cc694d2f82b7a22662b4cc5d5.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47425094,
+                "type": {
+                    "id": 520,
+                    "name": {
+                        "en": "Guest room",
+                        "nl": "Gastenkamer"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.632,
+                "distance": 56302,
+                "name": {
+                    "nl": "Royal Suite",
+                    "en": "Royal Suite"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.2570319 51.1245201)"
+                }
+            },
+            "text": {
+                "id": 682105,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 24575
+                },
+                "description": {
+                    "nl": "Koning en koningin voor één nacht? Logeer dan in de Royal Suite boven het museum 'Mijn Koningshuis' in Leopoldburg. Gastvrouw en royaltykenner Astrid Bammens stichtte dit boeiende museum en leidt je graag door de geschiedenis van het Belgische Koninklijk Huis. In de suite met vier kamers logeer je in koninklijke luxestijl. Astrid ontvangt je met de grootste zorg en serveert u een… vorstelijk ontbijt.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/24575.nl\">tovpubliek</a><br/><a href=\"https://www.routeyou.com/location/view/47425094.nl?toptext=682105\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 249610,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 24575
+                    },
+                    "filename": {
+                        "nl": "f09543f14b73938d51fe84da0b78ee11_dabe8f186d9cd2a9a569587ce1da0cda99f7d1b0.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/f09543f14b73938d51fe84da0b78ee11_dabe8f186d9cd2a9a569587ce1da0cda99f7d1b0.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47425324,
+                "type": {
+                    "id": 520,
+                    "name": {
+                        "en": "Guest room",
+                        "nl": "Gastenkamer"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.55,
+                "distance": 24569,
+                "name": {
+                    "nl": "Bos en Duin",
+                    "en": "Forest and dunes"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.3880947 51.071022)"
+                }
+            },
+            "text": {
+                "id": 682394,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 24575
+                },
+                "description": {
+                    "nl": "Lekker niets moeten in de volle natuur? Genieten van een portie persoonlijke service en zorg? Dan is Bos en Duin uw adres. U logeert in een mooie fermette. Uw meertalige gastvrouw laat u de keuze uit drie sfeervolle kamers met luxueuze badkamer. De fraaie tuin met mooie terrassen heeft ook een eigen fietsenstalling. Deze vriendelijke B&B is een toffe uitvalsbasis voor fiets- en wandeltochten of ballonvaarten. Of voor een bezoek aan de kasteelbrouwerij, het sportcentrum en het zwembad.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/24575.nl\">tovpubliek</a><br/><a href=\"https://www.routeyou.com/location/view/47425324.nl?toptext=682394\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 249868,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 24575
+                    },
+                    "filename": {
+                        "nl": "6d91c33cf7de95cc75440ce0d73febb2_8a8f3bdde0689e66383ad4c9405eac56e548cbc4.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/6d91c33cf7de95cc75440ce0d73febb2_8a8f3bdde0689e66383ad4c9405eac56e548cbc4.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47465802,
+                "type": {
+                    "id": 48,
+                    "name": {
+                        "en": "Trainstation",
+                        "nl": "Treinstation"
+                    }
+                },
+                "address": {
+                    "id": 1724645,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Beringen,Beverlo",
+                    "state": "Limburg",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.72,
+                "distance": 51176,
+                "name": {
+                    "nl": "Station Beverlo",
+                    "en": "Station Beverlo"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.23457765579 51.0886851297)"
+                }
+            },
+            "text": {
+                "id": 739941,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 80603
+                },
+                "description": {
+                    "nl": "Er zijn rechtstreekse treinverbindingen (1 trein per uur) naar Hasselt (reistijd: 21 min), Heusden (reistijd: 6min), Zolder (reistijd: 10min), Leopoldsburg (reistijd: 4min), Balen (reistijd: 11 min) en Mol (reistijd: 16min). <br><br><i>Om een route te plannen <a href=\"http://hari.b-rail.be/Hafas/bin/query.exe/nn\"><u>klik hier</u></a>. Vul vertrek en bestemming in. Door op het <b> pijltje</b> naast <b>Enkel NMBS</b> te klikken kan je kiezen tussen station of adres.</b> Vul verder de datum en het tijdstip van je verplaatsing in en klik op de knop <b>Bevestig</b>.</i><br><br> Belbus 719 brengt je van het station naar het bedrijventerrein Beringen-Zuid. Bus 32 brengt je van het station naar het bedrijventerrein Ravenshout (halte Industrieweg). Voor meer info klik je op de betreffende bushalte.<br><br> Voor een fietsroute vanaf het station van Beverlo naar het bedrijventerrein Beringen-Zuid<a target=\"_blank\" href=\"http://projects.traject.be/routeyou/route?&route=351201&utm_source=http%3A//projects.traject.be/beringen_zuid/&utm_medium=Route%20Link&utm_campaign=Group%20Plugin\"><i><u> klik hier</u></i></a>.<br> Voor een fietsroute vanaf het station van Beverlo naar het bedrijventerrein Ravenshout<a target=\"_blank\" href=\"http://projects.traject.be/routeyou/route?&route=353667&utm_source=http%3A//projects.traject.be/zone_Ravenshout/&utm_medium=Route%20Link&utm_campaign=Group%20Plugin\"><i><u> klik hier</u></i></a><br><br> Voor meer informatie en de deur-tot-deur routeplanner kan je bellen naar 02 528 28 28 of surfen naar <a target=\"_blank\" href=\"http://www.nmbs.be\"<<i><u>www.nmbs.be</u>.</i></a>                <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/80603.nl\">TRAJECT - Mobility Management</a><br/><a href=\"https://www.routeyou.com/location/view/47465802.nl?toptext=739941\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 270919,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 80603
+                    },
+                    "filename": {
+                        "nl": "1f112e8fab583db3b1838e62ce0bf3c4_de454971cea78e4dbc4c4adacd64a871e631dc80.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/1f112e8fab583db3b1838e62ce0bf3c4_de454971cea78e4dbc4c4adacd64a871e631dc80.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47477692,
+                "type": {
+                    "id": 533,
+                    "name": {
+                        "en": "Play woods",
+                        "nl": "Speelbos"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.375,
+                "distance": 5918,
+                "name": {
+                    "nl": "Winnerheide",
+                    "en": "Winnerheide"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.3838311380568 51.179116980208)"
+                }
+            },
+            "text": {
+                "id": 756820,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 121983
+                },
+                "description": {
+                    "nl": "Gebied: Winner\r\nEigenaar: Erfpacht VVKSM domeinen (De Winner)\r\nToegang: enkel voor groepen De Winner\r\n<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/121983.nl\">Bouwen aan groen speelweefsel</a><br/><a href=\"https://www.routeyou.com/location/view/47477692.nl?toptext=756820\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 922691,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 121983
+                    },
+                    "filename": {
+                        "nl": "1a92c382055f56d523b277ac23d464bd_e60da213375b58aeed87401e6bbc995766960050.png"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/1a92c382055f56d523b277ac23d464bd_e60da213375b58aeed87401e6bbc995766960050.png"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47494787,
+                "type": {
+                    "id": 84,
+                    "name": {
+                        "nl": "Speelplein"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.476,
+                "distance": 7979,
+                "name": {
+                    "nl": "Speelplein in de Sijsjesstraat"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.39374415582 51.1606686867)"
+                }
+            },
+            "text": {
+                "id": 860185,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 121983
+                },
+                "description": {
+                    "nl": "Het speelplein aan de Sijsjesstraat is een grote speelplek met een tiental speeltuigen en een zandbak. Er staan ook enkele grote bomen en de volledige speelplek is omheind door middel van een roodwit-ketting aan paaltjes. De speelplek is zeer open en volledig omringd door een kalme weg en huizen. Je kan er klimmen, schommelen, zandkastelen maken...\n\n\nDit speelplein wordt beheerd door de gemeente <a href=\"http://www.hechtel-eksel.be/fb111acib241vu1vu243.aspx\" target=\"_blank\"> Hechtel-Eksel</a>.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/121983.nl\">Bouwen aan groen speelweefsel</a><br/><a href=\"https://www.routeyou.com/location/view/47494787.nl?toptext=860185\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 283591,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 121983
+                    },
+                    "filename": {
+                        "nl": "838a53f9a7e0bc3005f987471a98ee28_db04d570e94082ac6b23b69ee306822dd58e4f8a.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/838a53f9a7e0bc3005f987471a98ee28_db04d570e94082ac6b23b69ee306822dd58e4f8a.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47494802,
+                "type": {
+                    "id": 6,
+                    "name": {
+                        "en": "Camp-site",
+                        "nl": "Kampeerterrein"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.782,
+                "distance": 16172,
+                "name": {
+                    "nl": "Jeugdvakantiecentrum",
+                    "en": "Youth holiday centre"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.36605490065 51.1057682982)"
+                }
+            },
+            "text": {
+                "id": 860198,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 121983
+                },
+                "description": {
+                    "nl": "Het JVC is een groot jeugdverblijfscentrum bestaande uit een centraal hoofdgebouw en omliggende kampeerbarakken in een bos van enkele hectare groot. Het wordt uitgebaat door een vzw. In het bos kan naar hartelust gespeeld worden. Naast het JVC ligt de gemeentelijke speeltuin.\n\nLupinestraat 1 \n 3940 Hechtel (Hechtel-Eksel) \nProvincie Limburg \nToeristische regio Limburgse Kempen \nWebsite <a href=http://www.jeugdenvakantiecentrum.be/>www.vakantiecentrum.be</a>\n\nErkenning door Toerisme VlaanderenType Erkend | Type B \nBrandveiligheidsattest Ja \n\nVerantwoordelijke bezichtiging Jaak Jacobs \nAdres Kersenlaan 4 \n 3940 Hechtel-Eksel \nTelefoon 011/73.21.06 \nFax 011/73.21.06 \nE-mail jaak.jcbs@gmail.com \n\nVerantwoordelijke reservaties Jaak Jacobs \nAdres Kersenlaan 4 \n 3940 Hechtel-Eksel \nTelefoon 011/73.21.06 \nFax 011/73.21.06 \nE-mail jaak.jcbs@gmail.com \nWebsite <a href=http://www.jeugdenvakantiecentrum.be/>www.jeugdvakantiecentrum.be</a>\n<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/121983.nl\">Bouwen aan groen speelweefsel</a><br/><a href=\"https://www.routeyou.com/location/view/47494802.nl?toptext=860198\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "www.jeugdverblijven.be",
+                        "nl": "www.jeugdverblijven.be"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 283600,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 121983
+                    },
+                    "filename": {
+                        "nl": "d636d9033b25841a3f2d1ac12fb383e8_955b56e2471610beaf16f4b09106fbc882431398.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/d636d9033b25841a3f2d1ac12fb383e8_955b56e2471610beaf16f4b09106fbc882431398.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47495117,
+                "type": {
+                    "id": 6,
+                    "name": {
+                        "nl": "Kampeerterrein"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.798,
+                "distance": 13866,
+                "name": {
+                    "nl": "Chiroheem Sint-Lambertus"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.36353138889 51.1273608009)"
+                }
+            },
+            "text": {
+                "id": 860660,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 121983
+                },
+                "description": {
+                    "nl": "Crommertenstraat z/n  3940 Hechtel (Hechtel-Eksel) <br>Provincie Limburg <br>Toeristische regio Limburgse Kempen <br>Website<a href=http://www.chirojongenshechtel.be> www.chirojongenshechtel.be</a>\n<br>Erkenning door Toerisme Vlaanderen <br>Type Erkend | Type B <br>Brandveiligheidsattest Ja \n<br>Verantwoordelijke bezichtiging Magda Vandael Adres Kerreweg 20  3940 Hechtel-Eksel Telefoon 011/79.16.99 E-mail verhuur@chirojongenshechtel.be \n<br>Verantwoordelijke reservaties Magda Vandael Adres Kerreweg 20  3940 Hechtel-Eksel Telefoon 011/79.16.99 E-mail verhuur@chirojongenshechtel.be <br>Opmerking periode september-juni: verhuur@chirojongenshechtel.be Vincent van den Bosch, Katershoeve, 3940 Hechtel-Eksel Filip Smeets, Dwarsweg 4, 3940 Hechtel, 0498/45.45.70<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/121983.nl\">Bouwen aan groen speelweefsel</a><br/><a href=\"https://www.routeyou.com/location/view/47495117.nl?toptext=860660\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 283690,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 121983
+                    },
+                    "filename": {
+                        "nl": "bddebaf52f1c45e9425a43dd83e6affe_ea1bfe4451d6e6998b7b8e89cfea368b98a2994b.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "www.jeugdverblijven.be"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/bddebaf52f1c45e9425a43dd83e6affe_ea1bfe4451d6e6998b7b8e89cfea368b98a2994b.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47495118,
+                "type": {
+                    "id": 6,
+                    "name": {
+                        "en": "Camp-site",
+                        "nl": "Kampeerterrein"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.734,
+                "distance": 16172,
+                "name": {
+                    "nl": "de Grasmus",
+                    "en": "the Warbler"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.36473525381 51.1061084888)"
+                }
+            },
+            "text": {
+                "id": 860661,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 121983
+                },
+                "description": {
+                    "nl": "Lupinestraat 1  3940 Hechtel (Hechtel-Eksel)<br>Provincie Limburg<br>Toeristische regio Limburgse Kempen<br>Website <a href=http://www.jeugdenvakantiecentrum.be/>www.jeugdvakantiecentrum.be</a> Telefoon 011/73.21.06 <br>\nErkenning door Toerisme Vlaanderen<br>Type Erkend | Type B<br>Brandveiligheidsattest Ja <br>\nVerantwoordelijke bezichtiging Jaak Jacobs Adres Kersenlaan 4  3940 Hechtel-Eksel Telefoon 011/73.21.06 Fax 011/73.21.06 E-mail jaak.jcbs@gmail.com <br>\nVerantwoordelijke reservaties Jacobs Jacobs Adres Kersenlaan 4  3940 Hechtel-Eksel Telefoon 011/73.21.06 Fax 011/73.21.06 E-mail jaak.jcbs@gmail.com Website <a href=http://www.jeugdenvakantiecentrum.be/>www.jeugdvakantiecentrum.be</a><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/121983.nl\">Bouwen aan groen speelweefsel</a><br/><a href=\"https://www.routeyou.com/location/view/47495118.nl?toptext=860661\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 283691,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 121983
+                    },
+                    "filename": {
+                        "nl": "8ffe11bb68a8b991aa26b8cad9911c88_558e41b2cdee9229f8eae02e0f031b618a3d1e0d.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "www.jeugdverblijven.be"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/8ffe11bb68a8b991aa26b8cad9911c88_558e41b2cdee9229f8eae02e0f031b618a3d1e0d.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47495119,
+                "type": {
+                    "id": 6,
+                    "name": {
+                        "nl": "Kampeerterrein"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.721,
+                "distance": 16172,
+                "name": {
+                    "nl": "De Korhoen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.36528242445 51.1067821261)"
+                }
+            },
+            "text": {
+                "id": 860662,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 121983
+                },
+                "description": {
+                    "nl": "Lupinestraat 1  3940 Hechtel (Hechtel-Eksel) <br>Provincie Limburg <br>Toeristische regio Limburgse Kempen <br>Website <a href=http://home.euphonynet.be/jvc/korhoen.html>www.jeugdvakantiecentrum.be</a>\n<br>Erkenning door Toerisme Vlaanderen<br>Type Erkend | Type B <br>Brandveiligheidsattest Ja \n<br>Verantwoordelijke bezichtiging Jaak Jacobs Adres Kersenlaan 4  3940 Hechtel-Eksel Telefoon 011/73.21.06 Fax 011/73.21.06 E-mail jaak.jcbs@gmail.com \n<br>Verantwoordelijke reservaties Jaak Jacobs Adres Kersenlaan 4  3940 Hechtel-Eksel Telefoon 011/73.21.06 Fax 011/73.21.06 E-mail jaak.jcbs@gmail.com <br>Website <a href=http://www.jeugdenvakantiecentrum.be/>www.jeugdvakantiecentrum.be</a><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/121983.nl\">Bouwen aan groen speelweefsel</a><br/><a href=\"https://www.routeyou.com/location/view/47495119.nl?toptext=860662\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 283692,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 121983
+                    },
+                    "filename": {
+                        "nl": "a83266948a0f124fc772e231edb4dc3e_136cfe25f20d1399ba092e2c6bb6fb641d360305.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "www.jeugdverblijven.be"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/a83266948a0f124fc772e231edb4dc3e_136cfe25f20d1399ba092e2c6bb6fb641d360305.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47495120,
+                "type": {
+                    "id": 6,
+                    "name": {
+                        "nl": "Kampeerterrein"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.771,
+                "distance": 16172,
+                "name": {
+                    "nl": "De Wulp"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.36691857195 51.1065328815)"
+                }
+            },
+            "text": {
+                "id": 860663,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 121983
+                },
+                "description": {
+                    "nl": "Lupinestraat 1  3940 Hechtel (Hechtel-Eksel) <br>Provincie Limburg <br>Toeristische regio Limburgse Kempen <br>Website <a href=http://www.jeugdenvakantiecentrum.be/>www.jeugdvakantiecentrum.be</a>\n<br>Erkenning door Toerisme Vlaanderen<br>Type Erkend | Type B <br>Brandveiligheidsattest Ja \n<br>Verantwoordelijke bezichtiging Jaak Jacobs Adres Kersenlaan 4  3940 Hechtel-Eksel Telefoon 011/73.21.06 Fax 011/73.21.06 E-mail jaak.jcbs@gmail.com \n<br>Verantwoordelijke reservaties Jaak Jacobs Adres Kersenlaan 4  3940 Hechtel-Eksel Telefoon 011/73.21.06 Fax 011/73.21.06 E-mail jaak.jcbs@gmail.com <br>Website <a href=http://www.jeugdenvakantiecentrum.be/>www.jeugdvakantiecentrum.be</a><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/121983.nl\">Bouwen aan groen speelweefsel</a><br/><a href=\"https://www.routeyou.com/location/view/47495120.nl?toptext=860663\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 283693,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 121983
+                    },
+                    "filename": {
+                        "nl": "1bdcc52935a2bba591053937d39759bd_a51108954f72ddcb8116d932ada3012616aaeb49.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "www.jeugdverblijven.be"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/1bdcc52935a2bba591053937d39759bd_a51108954f72ddcb8116d932ada3012616aaeb49.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48105742,
+                "type": {
+                    "id": 155,
+                    "name": {
+                        "nl": "Watertoren"
+                    }
+                },
+                "address": {
+                    "id": 1724641,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Limburg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.302,
+                "distance": 51059,
+                "name": {
+                    "nl": "Watertoren"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.23126595 51.08745484)"
+                }
+            },
+            "text": {
+                "id": 1663855,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "De watertoren aan de Driehoekstraat in het Belgische Beverlo werd in 1982 gebouwd. De toren is 52 meter hoog en bevat een weterreservoir van 3000 kubieke meter. Het is daarmee qua capaciteit de grootste watertoren van Limburg. Onder de kuip bevindt zich een panoramadek.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/48105742.nl?toptext=1663855\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=3888478"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 852729,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "539bd92471c6ac81919461ff3f2fcc5c_10ffa0c663834cf72c9470321a40764dbddc3987.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Willemjans"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://commons.wikimedia.org/w/index.php?curid=29062422"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/539bd92471c6ac81919461ff3f2fcc5c_10ffa0c663834cf72c9470321a40764dbddc3987.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47469068,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "en": "Pub",
+                        "fr": "Café",
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 1736666,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Houthalen-Helchteren,Helchteren",
+                    "state": "Limburg",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.594,
+                "distance": 26316,
+                "name": {
+                    "nl": "Ter Dolen",
+                    "en": "Ter Dolen",
+                    "fr": "Ter Dolen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.38826479 51.06474879)"
+                }
+            },
+            "text": {
+                "id": 1676538,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Het bier wordt gebrouwen in Kasteelbrouwerij De Dool, te Helchteren. Dit bier draagt het label Erkend Belgisch Abdijbier sinds 2008. Op de etiketten staat het kasteel Den Dool.<br/><br/>In 1994 wordt het eerste bier Ter Dolen Blond gebrouwen bij deze brouwerij, meteen het allereerste abdijbier van Limburg. In 1997 volgde Ter Dolen Donker en twee jaar later Ter Dolen Tripel. Ten slotte kwam in 2003 Ter Dolen Kriek op de markt.<br/><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47469068.nl?toptext=1676538\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=2545048",
+                        "en": "https://nl.wikipedia.org/w/index.php?curid=2545048",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=7840029"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 861067,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "fr": "dba79560b55e9386d194fbab39845dfc_15753b26e7deff5ace5f2050fa1e1e1b64e53acc.jpg",
+                        "nl": "dba79560b55e9386d194fbab39845dfc_15753b26e7deff5ace5f2050fa1e1e1b64e53acc.jpg"
+                    },
+                    "description": {
+                        "fr": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "fr": "Soti",
+                            "nl": "Soti"
+                        },
+                        "description": {
+                            "fr": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "fr": "https://commons.wikimedia.org/w/index.php?curid=24849710",
+                            "nl": "https://commons.wikimedia.org/w/index.php?curid=24849710"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/dba79560b55e9386d194fbab39845dfc_15753b26e7deff5ace5f2050fa1e1e1b64e53acc.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/dba79560b55e9386d194fbab39845dfc_15753b26e7deff5ace5f2050fa1e1e1b64e53acc.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47533189,
+                "type": {
+                    "id": 389,
+                    "name": {
+                        "en": "Natural area",
+                        "nl": "Natuurgebied"
+                    }
+                },
+                "address": {
+                    "id": 1737121,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Limburg",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.459,
+                "distance": 38176,
+                "name": {
+                    "nl": "Vallei van de Zwarte Beek",
+                    "en": "Valley of the Black Brook"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.3247 51.07980278)"
+                }
+            },
+            "text": {
+                "id": 1677003,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "De Vallei van de Zwarte Beek met daarin de Zwarte Beek, die van de bron in Hechtel tot de monding in de Demer in Diest over een afstand van 35 km door de het beekdal stroomt. De volledige vallei is met zijn 1407 hectare een van de grootste natuurgebieden in Vlaanderen. 879 hectare daarvan zijn erkend als natuurreservaten. De Vallei van de Zwarte Beek spreidt zich uit over de gemeenten Hechtel-Eksel, Houthalen-Helchteren, Beringen, Lummen, Halen en Diest. De natuurreservaten liggen op verschillende plaatsen langs de beek met op vijf plaatsen ingerichte wandelgebieden.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47533189.nl?toptext=1677003\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=263840",
+                        "en": "https://nl.wikipedia.org/w/index.php?curid=263840"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 861421,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "7403c5d10796bbb64fc42dd8d4bc060f_da8dbebe59712c5bf0eb7e5aec01f267d20c77b9.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Paul Hermans"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://nl.wikipedia.org/w/index.php?curid=263840#/media/Bestand:Vallei_van_de_Zwarte_Beek_watersnip_24-10-2021_15-50-44.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 7,
+                        "name": {
+                            "ca": "Creative Commons 4.0",
+                            "de": "Creative Commons 4.0",
+                            "en": "Creative Commons 4.0",
+                            "es": "Creative Commons 4.0",
+                            "fr": "Creative Commons 4.0",
+                            "it": "Creative Commons 4.0",
+                            "nl": "Creative Commons 4.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/7403c5d10796bbb64fc42dd8d4bc060f_da8dbebe59712c5bf0eb7e5aec01f267d20c77b9.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47005958,
+                "type": {
+                    "id": 128,
+                    "name": {
+                        "en": "Castle",
+                        "nl": "Kasteel"
+                    }
+                },
+                "address": {
+                    "id": 1737301,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Houthalen-Helchteren,Helchteren",
+                    "state": "Limburg",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.588,
+                "distance": 26302,
+                "name": {
+                    "nl": "Kasteel Den Dool",
+                    "en": "Castle Den Dool"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.38840767 51.06509101)"
+                }
+            },
+            "text": {
+                "id": 1677188,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Kasteel Den Dool, Kasteel De Dool of Kasteel Ter Dolen is een kasteel uit de 16e eeuw ten noorden van de deelgemeente Helchteren van Houthalen-Helchteren in België.<br>Het kasteel Ter Dolen diende in de middeleeuwen als zomerverblijf voor de abten van de Abdij van Sint-Truiden. De eerste vermelding is van 1282. Omstreeks 1340 vond de eerste abt, Amelius van Schoonvorst hier toevlucht, tijdens de oorlogen van de Luikenaren tegen prins-bisschop Engelbert van der Mark. De abt koos partij voor de prins-bisschop, maar de inwoners van Sint-Truiden voor de Luikenaren. De abt gaf zijn broer, Renier van Schoonvorst, toestemming om het kasteel te bezetten en de heerlijke rechten uit te oefenen. Ook na de dood van Amelius, in 1350, bleef Renier het kasteel bezetten. Hij raakte daardoor in conflict met de nieuwe abt, Robert van Craenwick, en met de monniken, en brandschatte Helchteren zelfs. Om dit conflict bij te leggen kwam het tot een vergelijk tussen Renier en de abt: Renier kon nog vier jaar lang in het kasteel wonen.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47005958.nl?toptext=1677188\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=2989313",
+                        "en": "https://nl.wikipedia.org/w/index.php?curid=2989313"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 861550,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "73e9019b65c7e5ac8ade299794781f3f_e418fec955df1be14c6a6c3968101b6603526012.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Sonuwe"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://commons.wikimedia.org/w/index.php?curid=16352811"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/73e9019b65c7e5ac8ade299794781f3f_e418fec955df1be14c6a6c3968101b6603526012.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 50411330,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": 1124088,
+                    "street": "Molenheidestraat",
+                    "number": "7",
+                    "box": null,
+                    "city": "Limburg",
+                    "state": null,
+                    "postalCode": "3530",
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.325,
+                "distance": 24196,
+                "name": {
+                    "nl": "Molenheide"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.391197 51.07850811)"
+                }
+            },
+            "text": {
+                "id": 1677201,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Molenheide of Park Molenheide is de naam van een natuur- en recreatiegebied dat zich bevindt ten noorden van Helchteren, in de Belgische gemeente Houthalen-Helchteren in de provincie Belgisch Limburg. Het is gelegen aan Molenheidestraat 5.<br>Het omvat een bungalowpark en camping van 180 hectare met een aantal overdekte- en openluchtattracties, zoals een subtropisch zwembad en een binnenspeelparadijs. Daaraan grenzend ligt een gemeentelijk wild- en wandelpark. Het is een 100 hectare groot bosgebied, voornamelijk naaldbomen op zandige bodem. Er lopen damherten, reeën en everzwijnen rond en er is ook een eendenvijver alsook enkele volières. Toegang tot het park is betalend.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/50411330.nl?toptext=1677201\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": null
+            }
+        },
+        {
+            "location": {
+                "id": 4570323,
+                "type": {
+                    "id": 249,
+                    "name": {
+                        "en": "Heath",
+                        "nl": "Heide"
+                    }
+                },
+                "address": {
+                    "id": 1797771,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Koersel",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.752,
+                "distance": 37695,
+                "name": {
+                    "nl": "Koerselse Heide",
+                    "en": "Curonian Heath"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.32897 51.0765669)"
+                }
+            },
+            "text": {
+                "id": 2598554,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 2482
+                },
+                "description": {
+                    "nl": "Het was hier op een parking in de buurt van de Koerselse Heide dat in de zomer van 2017 een vrouw werd aangevallen door een everzwijn: \"\"Toen ik na het lopen op de parking kwam, stond daar een groot everzwijn dat meteen de aanval inzette. Voor ik het besefte, lag dat beest boven op mij\". Het was al de derde aanval in een rij. Opvallend was dat de aanvallen gebeurden bij mensen die met hun hond kwamen wandelen of joggen in het bos.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/2482.nl\">Dromos</a><br/><a href=\"https://www.routeyou.com/location/view/4570323.nl?toptext=2598554\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Nieuwsblad & De Redactie",
+                        "nl": "Nieuwsblad & De Redactie"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1673840,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 2482
+                    },
+                    "filename": {
+                        "nl": "3e68b477a902d3a99ecf4e73901b8ce4_48a3b89dab3f5d09b117378847b0fd90443f772b.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Sander van der Wel "
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/3e68b477a902d3a99ecf4e73901b8ce4_48a3b89dab3f5d09b117378847b0fd90443f772b.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47508096,
+                "type": {
+                    "id": 17,
+                    "name": {
+                        "en": "Pub",
+                        "nl": "Cafe"
+                    }
+                },
+                "address": {
+                    "id": 7777617,
+                    "street": "Eikendreef 21",
+                    "number": null,
+                    "box": null,
+                    "city": "Houthalen-helchteren",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.743,
+                "distance": 26236,
+                "name": {
+                    "nl": "Kasteel Brouwerij Ter Dolen",
+                    "en": "Castle Brewery Ter Dolen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.3891525 51.0650674)"
+                }
+            },
+            "text": {
+                "id": 3016130,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 81970
+                },
+                "description": {
+                    "nl": "In de voorgebouwen van ons 16de eeuws kasteel is een brouwerij en een gezellig proef- en praatcafé met prachtige orangerie ondergebracht. In de wintertijden kunnen jong en oud genieten van de knetterende openhaard en op de zomerse dagen van het romantisch terras. Voor de allerkleinsten is er een reuze zandbak met speeltuin.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/81970.nl\">Visit Limburg</a><br/><a href=\"https://www.routeyou.com/location/view/47508096.nl?toptext=3016130\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Toerisme Limburg",
+                        "nl": "Toerisme Limburg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2116367,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 81970
+                    },
+                    "filename": {
+                        "nl": "0c64351bce1ec24942319698e88298cf_f59fdfb1fadf158f0924360325419c34453c58a7.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Toerisme Limburg"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/0c64351bce1ec24942319698e88298cf_f59fdfb1fadf158f0924360325419c34453c58a7.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49094703,
+                "type": {
+                    "id": 16,
+                    "name": {
+                        "en": "Brewery",
+                        "nl": "Brouwerij"
+                    }
+                },
+                "address": {
+                    "id": 2721040,
+                    "street": "Eikendreef 21",
+                    "number": null,
+                    "box": null,
+                    "city": "3530 Houthalen-Helchteren",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.607,
+                "distance": 26314,
+                "name": {
+                    "nl": "Kasteelbrouwerij Ter Dolen",
+                    "en": "Castle Brewery Ter Dolen"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.388288 51.064645)"
+                }
+            },
+            "text": {
+                "id": 3124965,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 1099381
+                },
+                "description": {
+                    "nl": "In het middeleeuwe decor van het kasteeldomein De Dool komen overheerlijke abdijbieren tot leven. Je ontdekt er tijdens een rondleiding de geheimen van het brouwproces en de geschiedenis van de kasteelbrouwerij. Op het zonnige terras proef je vervolgens van de verschillende brouwsels.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/1099381.nl\">tvl</a><br/><a href=\"https://www.routeyou.com/location/view/49094703.nl?toptext=3124965\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2216563,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 1099381
+                    },
+                    "filename": {
+                        "nl": "7905181bd9a488e9435bd6699f6b022a_404f7a10ef5605c9afeec5f0bbbefab39769cb9b.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Sarie Van den Bossche"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/7905181bd9a488e9435bd6699f6b022a_404f7a10ef5605c9afeec5f0bbbefab39769cb9b.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49417274,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3042480,
+                    "street": "Overpelt",
+                    "number": null,
+                    "box": null,
+                    "city": "Overpelt",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.363,
+                "distance": 3941,
+                "name": {
+                    "nl": "Hoeve Hobos en omgeving"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.3754535204712 51.191086297123)"
+                }
+            },
+            "text": {
+                "id": 3149957,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Het gebied ligt ten zuidwesten van de dorpskern van Overpelt, langs weerszijden van de N715 (Eindhoven-Hasselt). In het oosten wordt het gebied begrensd door de N74 en in het zuidwesten sluit het aan bij het boscomplex Pijnven. Het omvat o.a. het natuurgebied ‘t Plat en de Gorten, de beekvallei van de Gortenloop en de Holvense beek en het Hobosdomein. <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49417274.nl?toptext=3149957\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2234654,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "56bdd68bcdc50c42628f3875eef108f7_87a8d1d057e925e67dc7b3401bafb965d4c62e57.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vandevorst, Kris, 01-01-2005, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/56bdd68bcdc50c42628f3875eef108f7_87a8d1d057e925e67dc7b3401bafb965d4c62e57.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 50278957,
+                "type": {
+                    "id": 124,
+                    "name": {
+                        "nl": "Landmark"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.416,
+                "distance": 20320,
+                "name": {
+                    "nl": "favoriete plekje"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.394245 51.107185)"
+                }
+            },
+            "text": {
+                "id": 4563975,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 84543
+                },
+                "description": {
+                    "nl": "In het natuurgebied Resterheide loop je exact op de waterscheidingslijn tussen het Schelde- en het Maasbekken. Naast leuke paden doorheen bossen en weilanden, kan je er ook een uniek bomenmuseum bewonderen. Nergens in Limburg vind je zoveel verschillende soorten bomen op zo'n beperkte oppervlakte, netjes gerangschikt per familie.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/84543.nl\">Jouw route op het Limburgse Fietsroutenetwerk</a><br/><a href=\"https://www.routeyou.com/location/view/50278957.nl?toptext=4563975\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Toerisme Limburg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 3161391,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 84543
+                    },
+                    "filename": {
+                        "nl": "9fe56b8a40922a93c57f217fa24c4184_815884d6881006e129d404c43e4ca184c6f13e51.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/9fe56b8a40922a93c57f217fa24c4184_815884d6881006e129d404c43e4ca184c6f13e51.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 50591750,
+                "type": {
+                    "id": 337,
+                    "name": {
+                        "en": "Rocks",
+                        "nl": "Rotspartij"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.406,
+                "distance": 36871,
+                "name": {
+                    "nl": "Grauwe Steen",
+                    "en": "Grey Stone"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.33928611 51.07240278)"
+                }
+            },
+            "text": {
+                "id": 5656946,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "De Grauwe Steen is een zwerfsteen die al in de Middeleeuwen gebruikt werd als grenssteen op het vijfdorpenpunt waar de vroegere gemeenten Heusden, Zolder, Koersel, Houthalen en Helchteren samen kwamen. De steen is een blok van ongeveer anderhalve meter hoog en enkele tonnen zwaar dat ongeveer een half miljoen jaren geleden door een voorloper van de huidige Maas werd aangevoerd uit het zuiden. De steen staat op de rand van het militair domein, ten noorden van de terril van Zolder, ten zuidoosten van Koersels Kapelleke. Zowel op het grondgebied van Heusden-Zolder als op het grondgebied van Koersel-Beringen voert er een ‘Weg naar de Grauwe Steen’ naartoe.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/50591750.nl?toptext=5656946\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=5149071",
+                        "en": "https://nl.wikipedia.org/w/index.php?curid=5149071"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 5658248,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "d1ebd05105208aac34dbb14c8748ce5b_63b39c5a1af67346b844f0c1fff6e3f882bb1a73.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Eebie"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Heusden_Grauwe-Steen_02.jpg"
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/d1ebd05105208aac34dbb14c8748ce5b_63b39c5a1af67346b844f0c1fff6e3f882bb1a73.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 50773975,
+                "type": {
+                    "id": 165,
+                    "name": {
+                        "en": "Monument",
+                        "nl": "Monument"
+                    }
+                },
+                "address": {
+                    "id": null,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "postalCode": null,
+                    "state": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.406,
+                "distance": 55732,
+                "name": {
+                    "nl": "Tankmonument",
+                    "en": "Tank Monument"
+                },
+                "centroid": {
+                    "wkt": "POINT(5.25815556 51.11769722)"
+                }
+            },
+            "text": {
+                "id": 5979975,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Het Tankmonument is een oorlogsmonument in de Belgische gemeente Leopoldsburg. Het tankmonument staat voor het station Leopoldsburg aan de Nicolaylaan waar de Stationsstraat hierop uitkomt. De tank is van het type Sherman Firefly.Tijdens de Tweede Wereldoorlog werd Leopoldsburg op 12 september 1944 bevrijd door de Brigade Piron. Drie dagen later, op 15 september 1944, gaf Generaal Brian Horrocks de orders voor operatie Market Garden aan de bevelhebbers van de landstrijdkrachten die hier tegenover het station in de bioscoop Splendid waren samengekomen.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/50773975.nl?toptext=5979975\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=5046353",
+                        "en": "https://nl.wikipedia.org/w/index.php?curid=5046353"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 4342698,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "a9e029b341d1cd428b689c1e7ffd6f2e_ef97b48406f1c09e1bd5efc11f477e0fa948ad08.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Sonuwe"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://commons.wikimedia.org/w/index.php?curid=68145142"
+                        }
+                    },
+                    "copyright": {
+                        "id": 6,
+                        "name": {
+                            "ca": "Creative Commons 3.0",
+                            "de": "Creative Commons 3.0",
+                            "en": "Creative Commons 3.0",
+                            "es": "Creative Commons 3.0",
+                            "fr": "Creative Commons 3.0",
+                            "it": "Creative Commons 3.0",
+                            "nl": "Creative Commons 3.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/a9e029b341d1cd428b689c1e7ffd6f2e_ef97b48406f1c09e1bd5efc11f477e0fa948ad08.jpg"
+                    }
+                }
+            }
+        }
+    ],
+    "languages": [
+        "nl"
+    ],
+    "lengthRelative": 0.8
+}

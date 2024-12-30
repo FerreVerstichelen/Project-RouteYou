@@ -1,0 +1,4319 @@
+{
+    "scoreCalculated": 0.7758452,
+    "scoreAuthor": null,
+    "payable": false,
+    "updatedDate": "2024-05-10 18:48:19.793993+00",
+    "autoPois": {
+        "nl": true
+    },
+    "id": 6786752,
+    "length": 41686,
+    "begin": {
+        "wkt": "POINT(3.12704 50.94456)"
+    },
+    "beginAddress": "Polenplein, Roeselare, België",
+    "end": {
+        "wkt": "POINT(3.12704 50.94456)"
+    },
+    "endAddress": "Polenplein, Roeselare, België",
+    "centroid": {
+        "wkt": "POINT(3.18289175260415 50.9382497159266)"
+    },
+    "bounds": {
+        "wkt": "BOX(3.12111 50.90107,3.2424100000001 50.97503)"
+    },
+    "owner": {
+        "id": 107610,
+        "type": {
+            "id": 1
+        },
+        "flag": "be",
+        "avatarRevision": 0,
+        "logoRevision": 0,
+        "headerRevision": 0,
+        "privileges": [],
+        "configuration": null,
+        "name": {
+            "nl": "Patrick Cornillie"
+        },
+        "languages": [
+            "nl"
+        ],
+        "permission": {
+            "writable": false
+        },
+        "nick": "Patrick Cornillie"
+    },
+    "type": {
+        "id": 5,
+        "tree": [
+            {
+                "id": 0,
+                "name": {
+                    "nl": "Alle routes"
+                },
+                "languages": [
+                    "nl"
+                ]
+            },
+            {
+                "id": 1,
+                "name": {
+                    "nl": "Fietsroute"
+                },
+                "languages": [
+                    "nl"
+                ]
+            }
+        ],
+        "name": {
+            "nl": "Recreatieve fietsroute"
+        },
+        "languages": [
+            "nl"
+        ]
+    },
+    "flag": "be",
+    "score": 0.4,
+    "scoreMethod": {
+        "id": 3
+    },
+    "correctness": null,
+    "correctnessMethod": {
+        "id": null
+    },
+    "duration": 10004,
+    "downloadable": false,
+    "inputFormat": {
+        "id": 0,
+        "recording": false
+    },
+    "ascent": {
+        "total": 120,
+        "net": 0,
+        "totalRelative": 0.5
+    },
+    "descent": {
+        "total": 120,
+        "totalRelative": 0.5
+    },
+    "ascendingRate": {
+        "max": 0.018317826,
+        "avg": null,
+        "maxRelative": 0.4,
+        "avgRelative": null
+    },
+    "difficulty": 0.5,
+    "difficultyAuthor": null,
+    "permission": {
+        "id": 0,
+        "read": "public",
+        "write": "group",
+        "writable": false
+    },
+    "planner": {
+        "id": 2
+    },
+    "parent": null,
+    "configuration": null,
+    "editedDate": "2020-01-02 12:31:20.742042+00",
+    "createdDate": "2020-01-02 12:31:20.703039+00",
+    "lastReviewDate": null,
+    "otnId": {
+        "nl": null
+    },
+    "name": {
+        "nl": "2020 LAN Roeselare"
+    },
+    "nameGenerated": {
+        "nl": false
+    },
+    "subName": {
+        "nl": null
+    },
+    "trackName": {
+        "nl": null
+    },
+    "description": {
+        "nl": "2020 LAN Roeselare"
+    },
+    "descriptionGenerated": {
+        "nl": false
+    },
+    "generatedInfo": {
+        "nl": null
+    },
+    "source": {
+        "name": {
+            "nl": null
+        },
+        "uri": {
+            "nl": null
+        }
+    },
+    "infoUri": {
+        "nl": null
+    },
+    "breadcrumbRegions": [
+        {
+            "id": 47307857,
+            "flag": "be",
+            "type": {
+                "id": 415
+            },
+            "name": {
+                "ca": "Ciutat de Roeselare",
+                "de": "Stadt Roeselare",
+                "en": "City of Roeselare",
+                "es": "Ciudad de Roeselare",
+                "fr": "Ville de Roulers",
+                "it": "Città di Roeselare",
+                "nl": "Stad Roeselare"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47418551,
+            "flag": "be",
+            "type": {
+                "id": 522
+            },
+            "name": {
+                "ca": "Leiestreek",
+                "de": "Leiestreek",
+                "en": "Leiestreek",
+                "es": "Leiestreek",
+                "fr": "Leiestreek",
+                "it": "Leiestreek",
+                "nl": "Leiestreek"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407878,
+            "flag": "be",
+            "type": {
+                "id": 409
+            },
+            "name": {
+                "ca": "West-Vlaanderen",
+                "de": "West-Vlaanderen",
+                "en": "West-Vlaanderen",
+                "es": "West-Vlaanderen",
+                "fr": "West-Vlaanderen",
+                "it": "West-Vlaanderen",
+                "nl": "West-Vlaanderen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407865,
+            "type": {
+                "id": 407
+            },
+            "name": {
+                "ca": "Bèlgica",
+                "de": "Belgien",
+                "en": "Belgium",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "nl": "België"
+            },
+            "flag": "be",
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        }
+    ],
+    "viewCount": 11,
+    "viewCountThisMonth": 1,
+    "downloadCount": 1,
+    "geometry": {
+        "google": "ob}uH_waRuBfAoE|CMYcH~HWiA}EhDm@~@wAmF{BvBqAtA{B}GwA~AWe@GLm@{AlAmA|@eAzA_CG[_A@OmIKAOc@E{AJKM}AOSS@e@j@SJ]KMQYgEg@_EAUBSA[HIW{@cHiScAqCg@gAgCtDmAqEgBrCaFzBq@HaAcAiCaCN{@fAwA~@cAuAiDL[G]Cg@gA}DrAq@rEqCn@S{AyKZKG{@L[bAa@bCqARGN?Zb@RWNBtAzCf@rAb@xBNd@lAT?p@nANxADh@Yx@uAx@mAPQVOO_Ah@sAX_@^q@@c@EaA?_@w@aHGmAFo@Vq@p@k@T]jA}Cv@mCTa@~@i@pBtAl@VbAk@~@q@s@iBg@cA}AgBeAsA_AsAaAwB_A}BkBuFg@_CQgAI_AA{@n@@ZGl@sAZe@^s@b@}ARkABeCGcAQm@]{@Uy@Q}CMkD]{Bi@gEA{@@{DKmAuA{JtDgBTB`@Tb@LZ?n@Qp@YX?p@Nd@Bz@Mx@BrA^fBhAjATdDLp@Fd@R`DtDh@TA?Hs@^yHdAiQNgDr@kLj@_Il@kGt@yKCyBIcCMwBQmAs@}GI[dDuHZkCJ_@|ImL`BoBeAuGo@{EG_@cBu@}BqBa@UaASyCc@GUEo@CmB?uBLuCLaBWc@]USEW?kEeAa@QMU_@{CCi@J]ZWHQBcFK}D@_AKeDIa@UK_@Fo@XYGWk@Qm@QeAKcA[{G[wD[uAcBqF{AwF{B}Hy@aFg@qDoAgEw@n@eChCw@p@kAv@yFdEc@NmCCi@H{Cz@e@gCoCyM}@wDKcEOoJk@cY]Os@Ao@[c@GYVSBWuAoDh@s@?m@_Iq@Ng@RMLeBbAKNYn@{ArDMT@c@GyAoAgFi@aBsDgKw@kCuGg\\g@{Ba@yBIUYa@WKgJ_Bc@SmBbAeAb@G?OOiBkCuBeDm@cAoBwDQWOgA[kDkDjAkElB}@j@y@p@iBbAqD`Dm@TuA\\[iCE{BCwIBkCF{Bq@?Bo@E_PnD?DIBUgBiSNDlIh@^Jd@VxD`BlFfBnELd@Dna@tHlBe^hJpF|O|GfB~@nA~@nExDl@j@l@`A|EjJJ\\TlCRh@bGvIhC~DbB`C^l@DTHNxC\\|@XdDpAvB~@x@p@Xh@Bd@NAb@JtAh@b@JR@nAi@jAm@Nq@Rc@ZI`R`BlLlAVDn@x@PLlD^T_D^mDnBeC`A_BvDiBzCqA|@s@`FkCbAq@`E{DjBU`F?jP_@dA`GhDvED\\ZzAd@l@b@Zv@C~A_@nArAAjABn@HX^VvEx@r@Bj@ClDkAz@SjDW~EKTRP_@nBIj@@`@HRJlFbCxA`@cCrCc@xCMfEo@hOGtBNhALvGv@zILH@tJH`AeA|AIh@]dHLrHxEpBLe@vDnBlCjAj@iD|CdAH}@VSJAV}AxABJlE\\pHlMxGrKhF~CbBdErBPIr@C^}@d@DbBbD^fEvAtF[nA[h@MLoDfD\\bBVJRAt@f@Nf@j@`@i@jGGtBT|A`@z@tAtA[vCa@~FKfAa@lBKv@MjIq@hFeCjN}AjJk@vDc@rDe@jGnA_AbBTHaBr@aE|r@tYu@pA_A~Bk@pDQnGThG@hF{Az\\}@KmM}Cw@CuVFsFbAuPrCmEz@aAV{D^cADeCXk@RgC~A{AbBWJuAPqCTu@IUHS`D?`BTnBG~AiAjB}@b@}BfJBf@LnAAhAKzDCbDnAvJRvB]pBM`@O\\qCdFS`A_Av@Of@Aj@o@?CUIO@g@q@Ph@uCZqH_@IOyBg@gAw@qBOQQa@o@cBIIgAUSK_EyE[s@aCuGi@wB_@qCMm@o@g@_AbCS\\a@`AQj@i@jAgAnCm@bBuAzEa@fAeDtFqHrMuHnNBvBQFV~B[Tm@l@Z`ALv@Nn@f@~A\\hBb@Ul@`CDr@^rAVRfAnC~@rBVJlA`C@jBz@`Bz@`AdAY`@d@hA~AJRLb@Lz@r@fBn@xBtAwAbA}@zBaCLAx@q@fBeBLFRBNCPOpAwABe@KGEIAUDSDELAJFBH@VCHRj@Pt@bChRJd@aG~H_KpI@VIPMBGECI_A|@yAhAaIzGo@`AJ^JTv@^nJ`Cd@F`A?x@KtKsBlAxP`@dELlBE\\MRuF|C`B`JkAlMM`@oAb@w@R{GxAqCrAH|DaDnAMM_Af@wCXa@Ei@s@JtC{EJGf@MTyArHPl@ArBs@xCKt@E~HuAYSQgBa@YMaB]yHuBDkAHkGF}BFeAkMaD_AVc@b@uA`Bo@`@[DwCFwBTiEGENoLb@yALB[EsCMk@Ay@Gi@KSMIq@AIQMm@QcAEm@"
+    },
+    "elevation": {
+        "google": "_{geC?_ibEqI_ibEgR?y@~reKs\\_ibEkC~|hQqS?cD?oM~hbEcK_ibEeG~hbEiQ?{G_ibE{A?_@~hbEcE?wF?iE?gI?q@?kD?sP?_@?iA?{C?e@?aD?u@?u@_ibE}B?y@?qA?o@~hbEwI_ibEsI?e@?a@?o@?_@?wB?_i@~reKoH?aD~hbE{M?yK~hbEuJ_ibE}R?eC_ibEsE_ibEkL~hbEmB?qF~hbEmE?mJ?}@?u@?cA_ibEuJ?mF?iR?eC?{U?mA?eB?{@?}D~hbE{J?u@?k@?_B?aA?k@?{I_ibEqD?aF~hbEmA_ibEsE?sA~hbEwE?oF_ibEwB?sE?kE?w@?eA?sB?sD?wA?wB~hbE}@?oB?u@?}N?cC?sA_ibEiB~hbEwC?mA?mI?yG?qA?yD~hbEqI?_C_ibEcE?_E?aF?{C?qH_ibEiF?}E_ibEkG?qG_ibEwN?oF_ibEaC?oB?eB?_C?kA?yD?cB?yB?wD?kC_ibEaF~hbEsB?yA?aC?qB?mG~hbEcH~hbE_F~reKaJ_ibEeB_ibE{H?eC_ibEgT?eO~hbEy@?aB?cB?iA?cC?kC~hbEeA_ibEgC?eB?aD?{C?eF?oH?oE?{L?eC?iB?sO?uB?C_ibE{A~hbEwO~hbEk^?}G?}U?eP_ibEsM~hbEaU~hbEmE~hbE_F?kE~hbEkC?uN?u@_ibEkT?wF~hbE}@_seK_d@_seKaI_ibEwN_seKgK?y@~hbEyG_ibEcK~hbEaB?sD~hbE_L?i@~hbEqA_ibEyD?eE_ibE_G?iD?wA?wA?u@?_A~|hQmP~hbE_B?s@_ibEsG?gA?{@?sA?i@_ibE_K_ibE_I~hbEkB?yG?}@?_A?uA~hbEgC?eA~hbEaB?yA?_C?wB_ibEcN_ibE}H_ibEaD_ibEgN?cN?uR?yK~hbE}H~hbEoK?iD?iL~hbEkD?_F~hbEiV?cB~hbE{J?qB~hbEkL?yF_glWuZ?_J_ibEiI_ibEmR?ck@~hbEsA?kC?gC~hbEaB?oA?u@~hbE}C_ibE{M?iC?gP_ibEgC?oB?m@?eH?i@?kB?eK?s@?{@?yC_ibE{L?gE~hbEoX_ibEwG_qo]mu@?iF~hbE_F?m@?yA?aA_ibEo]~hbEeB?{H~hbEcE?U?q@~hbEoJ?eL?gD?mL?_A?_C_ibEiH?}M~reK_Q?sD?oD?qH_ibEcP?_C_ibEkF?sF_ibEqE?aQ~hbEkF~hbEqE_ibEeC?oA_ibEs[~hbEuM?W?e@_ibEgb@?k@?_[?wA?kB?kO?sS?kP~hbEeB_{rc@s|A~reKgt@~|hQy_@?un@?iH?oF~hbE}R?oC~hbEcD?uY?{@_ibEuF?wA~reKg[?iN~reKyI?sB?g@?e@~hbE}K~hbEkD~hbEoM_ibEqI?oD?cB?_A?k@?aB?oF?aB?u@?aF~hbEwE?_B?oA?kA?er@?ec@?_A?aD?s@~hbEsM?sG?qH~hbEuJ?oF~reKiO_ibEwL?{D?gS?gE?_R?aH_ibE{Q_ibEmm@~hbEyM_ibEeQ?s@?kD?_C~hbEkB?uC_ibEeG~hbE_G~hbE_C?qA?q@?_B?gQ?kC?uB_ibEaN?cD_ibEkM~hbEwQ_ibEcA~hbEgA?kH_ibEsB?}A?w@~hbEaT~reKwF_seKoL~hbEsG~hbEqI_ibEyZ?gE?aC~hbEyM~hbE{Q?i@_ibEuR?qB_ibEuF?iA_}hQuN?gO_seKeR?iA?mO?qK?sH?wL?iB?iA?_@?iD?oF~hbE}I?iO?ih@~hbE}b@~hbEiM~hbEsP?s@?iC?gC?eB_ibE_K_ibE{I?{M_ibEyC?gB?k@?cP_ibEyD?cA?u@?}C?oA?cC~hbEoM?gE~hbEiD?gC?oG_ibEiG_seKwL?}B?mE?cB_seKoP_seKaL?e[~hbEuS~hbEkI~hbE}H?oM?mF_ibEmG_ibEgD_ibEaJ_seK{pC~hbEgE_seKsG_ibEaI~hbEmM_ibEcM?iK~reK{q@?gD~hbEmf@?uC~flWi~@?uS~reK{n@?oP_ibEuD?wN?uD?gJ?{B?kK?iH?cA?gF_ibEgK?qC?{@?uG~hbEeD?cE?cD~hbEkG_ibEqD~hbEsT_ibEcA~hbEkC_ibE}B~hbE}H~hbEsG~hbE{S?qE?oE?cA?aA?eP?{B?aE?oA~hbEiA?aC?e@?e@?cA?gC?sG?iO?uA~hbEqE?aD?sF?s@?iA_ibEsE?_@?cE?y@?uR_ibEsB~hbEeQ?gF?cG~hbEuA?oC_seKyG?gA_ibEoC?wA_ibEiD?uH_ibEoE_seKsL?wC~hbE_R?mb@~reKyc@?iE?q@?_F?sA?qC?eC_ibEcB?{A?aE?cE?eB?{F?wA?eD~hbEgA?uH?cG?aA~reKoH_ibEsD?gF?aE?_E_ibEoB?}F?o@?eA~hbEkB_ibE_F~hbEqF?qG_ibEqE_ibEkK?e@_ibEoD?eI?g@?u@?k@?u@?iG?_A?a@?W?e@?c@?S?e@?a@?S?g@?S?{A~hbEgB_seKia@?gA~hbEiZ_ibEuc@?g@?i@?e@?W?Q_ibEiE~hbEmG_glWw]~hbEiD?}@_seKq@_seK}C~flWo^?eB~hbEqD~hbE{C_}hQma@_}hQu]~hbEyI~reK{D?u@?q@_ibEeU~po]iS_ibEcX?cA_}hQ_F?wC_glWeW_ibE_L?_I~reKeM?k@~hbEwD~|hQwK?{A?mC~hbE}F~hbEkQ_ibEgA?s@_ibE{P_ibEyA?cE~reKeH?_B~hbE{O?iF?}@~hbE{G?gA~hbEkG?}Y?_C_ibEcM?uE?wB~reKif@?oD?qB?yG?mC?iA?wK?aI?{O?_@_ibEac@_seKqF?o@?yF?sA~hbEaB_ibEiA~hbEm@?g@?eC_ibEg@?uA~hbE{B?oA"
+    },
+    "instructions": [
+        {
+            "atGeometry": "POINT(3.12704 50.94456)",
+            "distance": 0,
+            "using": "",
+            "at": null,
+            "to": "3",
+            "fromBearing": null,
+            "toBearing": -21.029031981598,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(3.12589 50.94619)",
+            "distance": 198.67277772795,
+            "using": "",
+            "at": "3",
+            "to": "17",
+            "fromBearing": -25.575517104044,
+            "toBearing": 49.481633530575,
+            "angle": 75.057150634619
+        },
+        {
+            "atGeometry": "POINT(3.12362 50.94918)",
+            "distance": 608.69021295129,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": -41.235641632192,
+            "toBearing": 59.591061463325,
+            "angle": 100.82670309552
+        },
+        {
+            "atGeometry": "POINT(3.12849 50.95138)",
+            "distance": 1415.1041076077,
+            "using": "",
+            "at": null,
+            "to": "52",
+            "fromBearing": 85.650903389234,
+            "toBearing": 5.9938928678428,
+            "angle": -79.657010521391
+        },
+        {
+            "atGeometry": "POINT(3.12954 50.95218)",
+            "distance": 1589.3881527922,
+            "using": "",
+            "at": "52",
+            "to": "54",
+            "fromBearing": 14.143369539812,
+            "toBearing": 39.006028231333,
+            "angle": 24.862658691521
+        },
+        {
+            "atGeometry": "POINT(3.14285 50.95740)",
+            "distance": 3400.9786066464,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": 70.391734551174,
+            "toBearing": 164.89271359037,
+            "angle": 94.500979039196
+        },
+        {
+            "atGeometry": "POINT(3.14886 50.94945)",
+            "distance": 4837.0263516101,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": 153.79393760187,
+            "toBearing": 52.092927080226,
+            "angle": -101.70101052164
+        },
+        {
+            "atGeometry": "POINT(3.21905 50.95923)",
+            "distance": 12708.239400932,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": 77.143516203679,
+            "toBearing": -11.39575812451,
+            "angle": -88.539274328189
+        },
+        {
+            "atGeometry": "POINT(3.22838 50.96778)",
+            "distance": 14198.233462924,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": 0,
+            "toBearing": 32.200919282208,
+            "angle": 32.200919282208
+        },
+        {
+            "atGeometry": "POINT(3.24050 50.97462)",
+            "distance": 16038.147023615,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": 75.741499891763,
+            "toBearing": -166.71439959285,
+            "angle": 117.54410051539
+        },
+        {
+            "atGeometry": "POINT(3.22935 50.94910)",
+            "distance": 19506.390043975,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": -99.485379312812,
+            "toBearing": 175.49716730063,
+            "angle": -85.017453386558
+        },
+        {
+            "atGeometry": "POINT(3.23442 50.93490)",
+            "distance": 21291.398214949,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": 148.58698057506,
+            "toBearing": 172.684598325,
+            "angle": 24.09761774994
+        },
+        {
+            "atGeometry": "POINT(3.23110 50.92755)",
+            "distance": 22242.151998348,
+            "using": "",
+            "at": null,
+            "to": "83",
+            "fromBearing": -146.50265368601,
+            "toBearing": -87.609082258001,
+            "angle": 58.893571428009
+        },
+        {
+            "atGeometry": "POINT(3.23071 50.92186)",
+            "distance": 22938.440216357,
+            "using": "",
+            "at": "83",
+            "to": "55",
+            "fromBearing": 176.77856885836,
+            "toBearing": -178.35870973181,
+            "angle": 4.8627214098325
+        },
+        {
+            "atGeometry": "POINT(3.22975 50.91973)",
+            "distance": 23185.977539405,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": -165.8471488043,
+            "toBearing": -34.886435163808,
+            "angle": 130.96071364049
+        },
+        {
+            "atGeometry": "POINT(3.17328 50.90231)",
+            "distance": 29744.468126606,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": -81.321968153877,
+            "toBearing": 6.9590654486032,
+            "angle": 88.28103360248
+        },
+        {
+            "atGeometry": "POINT(3.15635 50.93209)",
+            "distance": 34752.96754489,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": -15.647937518239,
+            "toBearing": -106.56774723971,
+            "angle": -90.919809721471
+        },
+        {
+            "atGeometry": "POINT(3.13937 50.92446)",
+            "distance": 37860.214800035,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": 169.79055753631,
+            "toBearing": -102.24718679724,
+            "angle": 87.96225566645
+        },
+        {
+            "atGeometry": "POINT(3.12439 50.94381)",
+            "distance": 41456.435594103,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": -5.5978395343684,
+            "toBearing": 102.77451561328,
+            "angle": 108.37235514765
+        },
+        {
+            "atGeometry": "POINT(3.12704 50.94456)",
+            "distance": 41686.616544679,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": 78.304001340653,
+            "toBearing": null,
+            "angle": null
+        }
+    ],
+    "statistics": {
+        "routing": {
+            "cyclingNodes": 1
+        }
+    },
+    "segments": [
+        [
+            3.12704,
+            50.94456,
+            38
+        ],
+        [
+            3.12362,
+            50.94918,
+            38
+        ],
+        [
+            3.12849,
+            50.95138,
+            38
+        ],
+        [
+            3.14285,
+            50.9574,
+            38
+        ],
+        [
+            3.14886,
+            50.94945,
+            38
+        ],
+        [
+            3.16443,
+            50.94597,
+            38
+        ],
+        [
+            3.21904799469,
+            50.95923391211,
+            38
+        ],
+        [
+            3.22838,
+            50.96778,
+            38
+        ],
+        [
+            3.2405,
+            50.97462,
+            38
+        ],
+        [
+            3.22935,
+            50.9491,
+            38
+        ],
+        [
+            3.23442,
+            50.9349,
+            38
+        ],
+        [
+            3.2311,
+            50.92755,
+            38
+        ],
+        [
+            3.23059,
+            50.92137,
+            38
+        ],
+        [
+            3.2297621476928,
+            50.919733325091,
+            38
+        ],
+        [
+            3.21614,
+            50.92091,
+            38
+        ],
+        [
+            3.20505,
+            50.90846,
+            38
+        ],
+        [
+            3.18962,
+            50.91,
+            38
+        ],
+        [
+            3.17328,
+            50.90231,
+            38
+        ],
+        [
+            3.15635,
+            50.93209,
+            38
+        ],
+        [
+            3.13937,
+            50.92446,
+            38
+        ],
+        [
+            3.12439,
+            50.94381,
+            38
+        ],
+        [
+            3.12704,
+            50.94456,
+            38
+        ]
+    ],
+    "pois": [
+        {
+            "location": {
+                "id": 47394639,
+                "type": {
+                    "id": 10,
+                    "name": {
+                        "en": "Hotel",
+                        "nl": "Hotel"
+                    }
+                },
+                "address": {
+                    "id": 1103956,
+                    "street": "Plaats",
+                    "number": "1",
+                    "box": null,
+                    "city": "Rumbeke",
+                    "state": null,
+                    "postalCode": "8800",
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.436,
+                "distance": 32561,
+                "name": {
+                    "nl": "De 4 Seizoenen",
+                    "en": "The 4 Seasons"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.1602792 50.9203994)"
+                }
+            },
+            "text": {
+                "id": 683413,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 24575
+                },
+                "description": {
+                    "nl": "In 'De 4 Seizoenen' staat chef Johan Vierstraete zelf achter zijn fornuis en maakt dagelijks een nieuw verrassingsmenu, een middaglunch (tijdens de week) of een 'à la carte' aanbod. In de zomer kan je in de tuin op het terras genieten van de rust.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/24575.nl\">tovpubliek</a><br/><a href=\"https://www.routeyou.com/location/view/47394639.nl?toptext=683413\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 250723,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 24575
+                    },
+                    "filename": {
+                        "nl": "4e41a309ee8f2988a36f5eb55db43246_e02c17b9cdbc6f1355761b0582542c25ea25ad47.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/4e41a309ee8f2988a36f5eb55db43246_e02c17b9cdbc6f1355761b0582542c25ea25ad47.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47471706,
+                "type": {
+                    "id": 0,
+                    "name": {
+                        "nl": "POI"
+                    }
+                },
+                "address": {
+                    "id": 5598375,
+                    "street": "Bloemgatstraat",
+                    "number": null,
+                    "box": null,
+                    "city": "Ardooie",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.385,
+                "distance": 19460,
+                "name": {
+                    "nl": "Provinciedomein 't Veld"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.235 50.954987)"
+                }
+            },
+            "text": {
+                "id": 748157,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 123417
+                },
+                "description": {
+                    "nl": "In dit provinciedomein zijn er enkele prachtige dreven, een bosleerpad, een vijverreservaat en recreatieve voorzieningen zoals een kinderspeeltuin, visvijvers en een cafetaria. Je kan er rustig verpozen en genieten van dit groen wandelgebied.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/123417.nl\">Vl. Toeristisch bezienswaardigheden</a><br/><a href=\"https://www.routeyou.com/location/view/47471706.nl?toptext=748157\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 2,
+                    "name": {
+                        "ca": "Creative Commons",
+                        "de": "Creative Commons",
+                        "en": "Creative Commons",
+                        "es": "Creative Commons",
+                        "fr": "Creative Commons",
+                        "it": "Creative Commons",
+                        "nl": "Creative Commons"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 343202,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 123417
+                    },
+                    "filename": {
+                        "nl": "f9491d5d9ed8236193ac75b03506a9d3_30f95c46315900653cded275c7cc4481f913e3a3.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 2,
+                        "name": {
+                            "ca": "Creative Commons",
+                            "de": "Creative Commons",
+                            "en": "Creative Commons",
+                            "es": "Creative Commons",
+                            "fr": "Creative Commons",
+                            "it": "Creative Commons",
+                            "nl": "Creative Commons"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/f9491d5d9ed8236193ac75b03506a9d3_30f95c46315900653cded275c7cc4481f913e3a3.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47112050,
+                "type": {
+                    "id": 443,
+                    "name": {
+                        "en": "Heritage",
+                        "fr": "Patrimoine",
+                        "nl": "Erfgoed"
+                    }
+                },
+                "address": {
+                    "id": 1127038,
+                    "street": "Wijngaardstraat",
+                    "number": "9",
+                    "box": null,
+                    "city": "Izegem",
+                    "state": null,
+                    "postalCode": "8870",
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.901,
+                "distance": 24709,
+                "name": {
+                    "nl": "Nationaal Schoeiselmuseum",
+                    "en": "National Museum for Shoes",
+                    "fr": "Musée National de la Chaussure"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.2126851 50.9195964)"
+                }
+            },
+            "text": {
+                "id": 996738,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 123417
+                },
+                "description": {
+                    "nl": "Het museum biedt de bezoeker een mooi overzicht van de schoenenmode in de 20ste eeuw tot op vandaag. Dit voor een groot deel met schoenen die in Izegem werden gemaakt. Izegem was immers tientallen jaren lang het schoenencentrum van België.\r\n\r\nExtra informatie:\r\n-Educatief programma\r\n-Groepsrondleiding\r\n\r\nContactgegevens:\r\n- Nationaal Schoeiselmuseum\r\n- Wijngaardstraat 9, 8870 Izegem\r\n- Tel: +32 51 31 65 43\r\n- E-Mail: schoeiselmuseum@izegem.be\r\n- Web: <a href=\"http://www.izegem.be\" target=\"_blank\">www.izegem.be</a><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/123417.nl\">Vl. Toeristisch bezienswaardigheden</a><br/><a href=\"https://www.routeyou.com/location/view/47112050.nl?toptext=996738\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 342952,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 123417
+                    },
+                    "filename": {
+                        "en": "c79fef439d8959da0f0d99d13910e191_170ec3460ecb0bffd476d787f2a603acb154ba9b.jpg",
+                        "nl": "c79fef439d8959da0f0d99d13910e191_170ec3460ecb0bffd476d787f2a603acb154ba9b.jpg",
+                        "fr": "c79fef439d8959da0f0d99d13910e191_170ec3460ecb0bffd476d787f2a603acb154ba9b.jpg"
+                    },
+                    "description": {
+                        "en": "",
+                        "nl": "",
+                        "fr": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "en": null,
+                            "nl": null,
+                            "fr": null
+                        },
+                        "description": {
+                            "en": "",
+                            "nl": "",
+                            "fr": ""
+                        },
+                        "link": {
+                            "en": null,
+                            "nl": null,
+                            "fr": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/c79fef439d8959da0f0d99d13910e191_170ec3460ecb0bffd476d787f2a603acb154ba9b.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/c79fef439d8959da0f0d99d13910e191_170ec3460ecb0bffd476d787f2a603acb154ba9b.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/c79fef439d8959da0f0d99d13910e191_170ec3460ecb0bffd476d787f2a603acb154ba9b.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47307857,
+                "type": {
+                    "id": 415,
+                    "name": {
+                        "en": "Municipality",
+                        "fr": "Municipalité",
+                        "nl": "Gemeente"
+                    }
+                },
+                "address": {
+                    "id": 1729599,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Roeselare",
+                    "state": "West-Vlaanderen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.51,
+                "distance": 41426,
+                "name": {
+                    "nl": "Oekene",
+                    "en": "Oekene",
+                    "fr": "Oekene"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.16027778 50.92027778)"
+                }
+            },
+            "text": {
+                "id": 1669047,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Oekene is een dorp in de Belgische provincie West-Vlaanderen en een deelgemeente van Roeselare. Oekene was een zelfstandige gemeente tot aan de gemeentelijke herindeling van 1977.De gemeente zou haar naam ontlenen aan het feit dat de plaats in haar ontstaansgeschiedenis werd beschouwd als een \"uithoek\". Rumbeke, een van de andere Roeselaarse deelgemeenten, ligt anderhalve kilometer verderop.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47307857.nl?toptext=1669047\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=171262",
+                        "en": "https://en.wikipedia.org/w/index.php?curid=154382",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=2711265"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 856205,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "ca": "76003e3cec2d05d6a79c213e0b11f787_83ac4da7554f505ae40b48ebd24bc5e7c7ef0636.jpg",
+                        "it": "76003e3cec2d05d6a79c213e0b11f787_83ac4da7554f505ae40b48ebd24bc5e7c7ef0636.jpg",
+                        "fr": "2db4e7797186b632112b6f863899a717_d320ea9dd2d27c7490a867bfe94cf3eb1848d9f6.jpg",
+                        "es": "76003e3cec2d05d6a79c213e0b11f787_83ac4da7554f505ae40b48ebd24bc5e7c7ef0636.jpg",
+                        "en": "2db4e7797186b632112b6f863899a717_d320ea9dd2d27c7490a867bfe94cf3eb1848d9f6.jpg",
+                        "de": "76003e3cec2d05d6a79c213e0b11f787_83ac4da7554f505ae40b48ebd24bc5e7c7ef0636.jpg",
+                        "nl": "2db4e7797186b632112b6f863899a717_d320ea9dd2d27c7490a867bfe94cf3eb1848d9f6.jpg"
+                    },
+                    "description": {
+                        "ca": "",
+                        "it": "",
+                        "fr": "",
+                        "es": "",
+                        "en": "",
+                        "de": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "ca": "Trougnouf (Benoit Brummer)",
+                            "it": "Trougnouf (Benoit Brummer)",
+                            "fr": "Herpoel",
+                            "es": "Trougnouf (Benoit Brummer)",
+                            "en": "Herpoel",
+                            "de": "Trougnouf (Benoit Brummer)",
+                            "nl": "Herpoel"
+                        },
+                        "description": {
+                            "ca": "",
+                            "it": "",
+                            "fr": "",
+                            "es": "",
+                            "en": "",
+                            "de": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "ca": "https://en.wikipedia.org/w/index.php?curid=154382#/media/File:Parochiekerk_Sint-Amands,_Roeselare_(DSCF9989).jpg",
+                            "it": "https://en.wikipedia.org/w/index.php?curid=154382#/media/File:Parochiekerk_Sint-Amands,_Roeselare_(DSCF9989).jpg",
+                            "fr": "https://nl.wikipedia.org/w/index.php?curid=171262#/media/Bestand:Oekenepanorama08.jpg",
+                            "es": "https://en.wikipedia.org/w/index.php?curid=154382#/media/File:Parochiekerk_Sint-Amands,_Roeselare_(DSCF9989).jpg",
+                            "en": "https://nl.wikipedia.org/w/index.php?curid=171262#/media/Bestand:Oekenepanorama08.jpg",
+                            "de": "https://en.wikipedia.org/w/index.php?curid=154382#/media/File:Parochiekerk_Sint-Amands,_Roeselare_(DSCF9989).jpg",
+                            "nl": "https://nl.wikipedia.org/w/index.php?curid=171262#/media/Bestand:Oekenepanorama08.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 7,
+                        "name": {
+                            "ca": "Creative Commons 4.0",
+                            "de": "Creative Commons 4.0",
+                            "en": "Creative Commons 4.0",
+                            "es": "Creative Commons 4.0",
+                            "fr": "Creative Commons 4.0",
+                            "it": "Creative Commons 4.0",
+                            "nl": "Creative Commons 4.0"
+                        }
+                    },
+                    "url": {
+                        "ca": "https://image.routeyou.com/shrink/fit/500x500/76003e3cec2d05d6a79c213e0b11f787_83ac4da7554f505ae40b48ebd24bc5e7c7ef0636.jpg",
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/76003e3cec2d05d6a79c213e0b11f787_83ac4da7554f505ae40b48ebd24bc5e7c7ef0636.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/2db4e7797186b632112b6f863899a717_d320ea9dd2d27c7490a867bfe94cf3eb1848d9f6.jpg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/76003e3cec2d05d6a79c213e0b11f787_83ac4da7554f505ae40b48ebd24bc5e7c7ef0636.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/2db4e7797186b632112b6f863899a717_d320ea9dd2d27c7490a867bfe94cf3eb1848d9f6.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/76003e3cec2d05d6a79c213e0b11f787_83ac4da7554f505ae40b48ebd24bc5e7c7ef0636.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/2db4e7797186b632112b6f863899a717_d320ea9dd2d27c7490a867bfe94cf3eb1848d9f6.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47477796,
+                "type": {
+                    "id": 415,
+                    "name": {
+                        "de": "Gemeinde",
+                        "en": "Municipality",
+                        "es": null,
+                        "fr": "Municipalité",
+                        "it": null,
+                        "nl": "Gemeente"
+                    }
+                },
+                "address": {
+                    "id": 1729848,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Izegem",
+                    "state": "West-Vlaanderen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.548,
+                "distance": 25036,
+                "name": {
+                    "nl": "Izegem",
+                    "de": "Izegem",
+                    "en": "Izegem",
+                    "es": "Izegem",
+                    "fr": "Iseghem",
+                    "it": "Izegem"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.215 50.91722222)"
+                }
+            },
+            "text": {
+                "id": 1669310,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Izegem is een plaats en stad in de Belgische provincie West-Vlaanderen. De stad telt ongeveer 28.000 inwoners en wordt ook wel pekkerstad, borstelstad of schoenenstad genoemd. Doorheen de stad stroomt de Mandel en het kanaal Roeselare-Leie.Er is voor het eerst schriftelijk gebruik gemaakt van de naam Izegem, of Isinchehem zoals het toen werd genoemd, in het jaar 1066. De stadsnaam werd gebruikt in een oorkonde van Boudewijn V van Vlaanderen aan het Sint-Pieterskapittel van Rijsel, aan wie hij een stuk grond en een aantal hoeven schonk.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47477796.nl?toptext=1669310\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "de": "Wikipedia.org",
+                        "en": "Wikipedia.org",
+                        "es": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "it": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=32565",
+                        "de": "https://de.wikipedia.org/w/index.php?curid=1306970",
+                        "en": "https://en.wikipedia.org/w/index.php?curid=154377",
+                        "es": "https://es.wikipedia.org/w/index.php?curid=473011",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=913198",
+                        "it": "https://it.wikipedia.org/w/index.php?curid=1746917"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 856407,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "c355f56fefb69eac8636d79e088d03c5_e00a3d19710abb15c0ec10cf4f1f1d524c20b5b3.jpg",
+                        "it": "c355f56fefb69eac8636d79e088d03c5_e00a3d19710abb15c0ec10cf4f1f1d524c20b5b3.jpg",
+                        "fr": "c355f56fefb69eac8636d79e088d03c5_e00a3d19710abb15c0ec10cf4f1f1d524c20b5b3.jpg",
+                        "es": "c355f56fefb69eac8636d79e088d03c5_e00a3d19710abb15c0ec10cf4f1f1d524c20b5b3.jpg",
+                        "en": "c355f56fefb69eac8636d79e088d03c5_e00a3d19710abb15c0ec10cf4f1f1d524c20b5b3.jpg",
+                        "de": "c355f56fefb69eac8636d79e088d03c5_e00a3d19710abb15c0ec10cf4f1f1d524c20b5b3.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "it": "",
+                        "fr": "",
+                        "es": "",
+                        "en": "",
+                        "de": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Herpoel",
+                            "it": "Herpoel",
+                            "fr": "Herpoel",
+                            "es": "Herpoel",
+                            "en": "Herpoel",
+                            "de": "Herpoel"
+                        },
+                        "description": {
+                            "nl": "",
+                            "it": "",
+                            "fr": "",
+                            "es": "",
+                            "en": "",
+                            "de": ""
+                        },
+                        "link": {
+                            "nl": "https://nl.wikipedia.org/w/index.php?curid=32565#/media/Bestand:Izegempanorama05.jpg",
+                            "it": "https://nl.wikipedia.org/w/index.php?curid=32565#/media/Bestand:Izegempanorama05.jpg",
+                            "fr": "https://nl.wikipedia.org/w/index.php?curid=32565#/media/Bestand:Izegempanorama05.jpg",
+                            "es": "https://nl.wikipedia.org/w/index.php?curid=32565#/media/Bestand:Izegempanorama05.jpg",
+                            "en": "https://nl.wikipedia.org/w/index.php?curid=32565#/media/Bestand:Izegempanorama05.jpg",
+                            "de": "https://nl.wikipedia.org/w/index.php?curid=32565#/media/Bestand:Izegempanorama05.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 2,
+                        "name": {
+                            "ca": "Creative Commons",
+                            "de": "Creative Commons",
+                            "en": "Creative Commons",
+                            "es": "Creative Commons",
+                            "fr": "Creative Commons",
+                            "it": "Creative Commons",
+                            "nl": "Creative Commons"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/c355f56fefb69eac8636d79e088d03c5_e00a3d19710abb15c0ec10cf4f1f1d524c20b5b3.jpg",
+                        "it": "https://image.routeyou.com/shrink/fit/500x500/c355f56fefb69eac8636d79e088d03c5_e00a3d19710abb15c0ec10cf4f1f1d524c20b5b3.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/c355f56fefb69eac8636d79e088d03c5_e00a3d19710abb15c0ec10cf4f1f1d524c20b5b3.jpg",
+                        "es": "https://image.routeyou.com/shrink/fit/500x500/c355f56fefb69eac8636d79e088d03c5_e00a3d19710abb15c0ec10cf4f1f1d524c20b5b3.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/c355f56fefb69eac8636d79e088d03c5_e00a3d19710abb15c0ec10cf4f1f1d524c20b5b3.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/c355f56fefb69eac8636d79e088d03c5_e00a3d19710abb15c0ec10cf4f1f1d524c20b5b3.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48673193,
+                "type": {
+                    "id": 48,
+                    "name": {
+                        "en": "Trainstation",
+                        "fr": "Gare",
+                        "nl": "Treinstation"
+                    }
+                },
+                "address": {
+                    "id": 1730409,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "West-Vlaanderen",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.647,
+                "distance": 1514,
+                "name": {
+                    "nl": "Station Roeselare",
+                    "en": "Roeselare railway station",
+                    "fr": "Gare de Roulers"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.13026694 50.94882889)"
+                }
+            },
+            "text": {
+                "id": 1669898,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "Vroeger vertrok vanuit dit station ook spoorlijn 64  en spoorlijn 65 . De Koning Albert I-laan in Roeselare, ingehuldigd in 1970, werd op de voormalige spoorwegbedding naar Ieper en Menen aangelegd.<br/><br/>Het station bevindt zich vlak bij het stadscentrum. Het stationsgebouw biedt onderdak aan twee loketten, een ruime wachtzaal, een ondergrondse parkeergarage, een broodjeszaak, een dagbladhandelaar en een politiebureau. Het Stationsplein is grotendeels verkeersvrij. <br/><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/48673193.nl?toptext=1669898\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=852086",
+                        "en": "https://en.wikipedia.org/w/index.php?curid=55049982",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=6272215"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 1890289,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "nl": "72bad84ea54d0c24810d2ea385689f29_53f4c62473aec1263aca78d102ef53298a9cb8b3.jpg",
+                        "fr": "72bad84ea54d0c24810d2ea385689f29_53f4c62473aec1263aca78d102ef53298a9cb8b3.jpg",
+                        "en": "72bad84ea54d0c24810d2ea385689f29_53f4c62473aec1263aca78d102ef53298a9cb8b3.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "fr": "",
+                        "en": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Japplemedia",
+                            "fr": "Japplemedia",
+                            "en": "Japplemedia"
+                        },
+                        "description": {
+                            "nl": "",
+                            "fr": "",
+                            "en": ""
+                        },
+                        "link": {
+                            "nl": "https://nl.wikipedia.org/w/index.php?curid=852086#/media/Bestand:Station_Roeselare_Wachtzaal.jpg",
+                            "fr": "https://nl.wikipedia.org/w/index.php?curid=852086#/media/Bestand:Station_Roeselare_Wachtzaal.jpg",
+                            "en": "https://nl.wikipedia.org/w/index.php?curid=852086#/media/Bestand:Station_Roeselare_Wachtzaal.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 7,
+                        "name": {
+                            "ca": "Creative Commons 4.0",
+                            "de": "Creative Commons 4.0",
+                            "en": "Creative Commons 4.0",
+                            "es": "Creative Commons 4.0",
+                            "fr": "Creative Commons 4.0",
+                            "it": "Creative Commons 4.0",
+                            "nl": "Creative Commons 4.0"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/72bad84ea54d0c24810d2ea385689f29_53f4c62473aec1263aca78d102ef53298a9cb8b3.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/72bad84ea54d0c24810d2ea385689f29_53f4c62473aec1263aca78d102ef53298a9cb8b3.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/72bad84ea54d0c24810d2ea385689f29_53f4c62473aec1263aca78d102ef53298a9cb8b3.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47007533,
+                "type": {
+                    "id": 106,
+                    "name": {
+                        "de": "Museum",
+                        "fr": "Musée",
+                        "nl": "Museum"
+                    }
+                },
+                "address": {
+                    "id": 1730734,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": "Roeselare",
+                    "state": "West-Vlaanderen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.74,
+                "distance": 0,
+                "name": {
+                    "nl": "KOERS",
+                    "de": "Koers. Museum van de Wielersport",
+                    "fr": "KOERS"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.12708333 50.94441667)"
+                }
+            },
+            "text": {
+                "id": 1670248,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 165089
+                },
+                "description": {
+                    "nl": "KOERS, vroeger WieMu, is een museum in de Belgische stad Roeselare. Het museum heeft als baseline 'Museum van de Wielersport' en is gewijd aan de geschiedenis van het wielrennen en de fiets. Het museum opende zijn deuren officieel op 27 maart 1998 in het vroegere brandweerarsenaal op het Polenplein.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/165089.nl\">Wikipedia</a><br/><a href=\"https://www.routeyou.com/location/view/47007533.nl?toptext=1670248\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "de": "Wikipedia.org",
+                        "fr": "Wikipedia.org",
+                        "nl": "Wikipedia.org"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://nl.wikipedia.org/w/index.php?curid=417072",
+                        "de": "https://de.wikipedia.org/w/index.php?curid=6967646",
+                        "fr": "https://fr.wikipedia.org/w/index.php?curid=10745385"
+                    }
+                },
+                "copyright": {
+                    "id": 6,
+                    "name": {
+                        "ca": "Creative Commons 3.0",
+                        "de": "Creative Commons 3.0",
+                        "en": "Creative Commons 3.0",
+                        "es": "Creative Commons 3.0",
+                        "fr": "Creative Commons 3.0",
+                        "it": "Creative Commons 3.0",
+                        "nl": "Creative Commons 3.0"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 857104,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 165089
+                    },
+                    "filename": {
+                        "fr": "604c303d8e1d350fa1378232df444b44_db1e9c77efe3d31dc379c6b0f152a48d0af96a42.jpg",
+                        "de": "604c303d8e1d350fa1378232df444b44_db1e9c77efe3d31dc379c6b0f152a48d0af96a42.jpg",
+                        "nl": "604c303d8e1d350fa1378232df444b44_db1e9c77efe3d31dc379c6b0f152a48d0af96a42.jpg"
+                    },
+                    "description": {
+                        "fr": "",
+                        "de": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "fr": "Eddy Callewaert",
+                            "de": "Eddy Callewaert",
+                            "nl": "Eddy Callewaert"
+                        },
+                        "description": {
+                            "fr": "",
+                            "de": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "fr": "https://fr.wikipedia.org/w/index.php?curid=10745385#/media/Fichier:KOERS_gevel_2019.jpg",
+                            "de": "https://fr.wikipedia.org/w/index.php?curid=10745385#/media/Fichier:KOERS_gevel_2019.jpg",
+                            "nl": "https://fr.wikipedia.org/w/index.php?curid=10745385#/media/Fichier:KOERS_gevel_2019.jpg"
+                        }
+                    },
+                    "copyright": {
+                        "id": 7,
+                        "name": {
+                            "ca": "Creative Commons 4.0",
+                            "de": "Creative Commons 4.0",
+                            "en": "Creative Commons 4.0",
+                            "es": "Creative Commons 4.0",
+                            "fr": "Creative Commons 4.0",
+                            "it": "Creative Commons 4.0",
+                            "nl": "Creative Commons 4.0"
+                        }
+                    },
+                    "url": {
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/604c303d8e1d350fa1378232df444b44_db1e9c77efe3d31dc379c6b0f152a48d0af96a42.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/604c303d8e1d350fa1378232df444b44_db1e9c77efe3d31dc379c6b0f152a48d0af96a42.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/604c303d8e1d350fa1378232df444b44_db1e9c77efe3d31dc379c6b0f152a48d0af96a42.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47570943,
+                "type": {
+                    "id": 54,
+                    "name": {
+                        "fr": "Récréation",
+                        "nl": "Recreatie"
+                    }
+                },
+                "address": {
+                    "id": 1127574,
+                    "street": "Kwadestraat",
+                    "number": "13",
+                    "box": null,
+                    "city": "Rumbeke",
+                    "state": "West-Vlaanderen",
+                    "postalCode": "8800",
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.89,
+                "distance": 34775,
+                "name": {
+                    "nl": "Wielerpiste Defraeye-Sercu",
+                    "fr": "Piste cyclable Defraeye-Sercu"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.157992 50.9314697)"
+                }
+            },
+            "text": {
+                "id": 2165318,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 189580
+                },
+                "description": {
+                    "nl": "<p>Na de eerste wereldoorlog richtte tourwinnaar Odiel Defraeye een wielerpiste op in Rumbeke. In de jaren '60 herstelden Albert en Patrick Sercu de piste. Uiteindelijk zorgde wielerfanaat en bouwpromotor Marc Demeulenaere voor een laatste renovatie in 2011. Nog steeds is het een belangrijke aantrekkingspool voor jonge wielertalenten, wielerliefhebbers, wedstrijdorganisatoren en toeristen.</p>\n\n<p>Je kan de wielerpiste enkel bezoeken in groep. Mag het toch iets sportiever zijn voor jou? Waag je aan een pistedoop en treed in de voetsporen van de flandriens.</p>\n\n<p>Van 1 november tem 1 maart is de wielerpiste gesloten wegens winterrust.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/189580.nl\">Toerisme Roeselare</a><br/><a href=\"https://www.routeyou.com/location/view/47570943.nl?toptext=2165318\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "fr": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 5732346,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 189580
+                    },
+                    "filename": {
+                        "nl": "2c3f796fbb38fc0d0e33665ad465f840_b43f4199951f21363fceb87c0ed6becb8a01a57e.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/2c3f796fbb38fc0d0e33665ad465f840_b43f4199951f21363fceb87c0ed6becb8a01a57e.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48535556,
+                "type": {
+                    "id": 345,
+                    "name": {
+                        "nl": "Straat"
+                    }
+                },
+                "address": {
+                    "id": 2169854,
+                    "street": "J.-P. Monseréstraat",
+                    "number": null,
+                    "box": null,
+                    "city": "Roeselare",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.568,
+                "distance": 4408,
+                "name": {
+                    "nl": "J.-P. Monseréstraat"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.1458311 50.951076)"
+                }
+            },
+            "text": {
+                "id": 2165320,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 189580
+                },
+                "description": {
+                    "nl": "<p>Deze straat is genoemd naar de Roeselaarse wielerheld. Al bij de jeugd bleek Jean-Pierre Monseré een uitzonderlijk talent. In zijn eerste koers - hij was toen veertien jaar - behaalt hij al meteen een tweede plaats. Liefst vier jaar op rij stond hij als 2de op het podium van het Belgische wegkampioenschap. Bij de amateurs behaalde hij ook zilver op het wereldkampioenschap in Brno (1969). Monseré krijgt zo al snel de bijnaam van eeuwige tweede. Maar toen Monseré eind augustus 1969 een profcontract tekende bij het Flandria van ploegleider Briek Schotte, won hij luttele weken later al een zware topklassieker, de Ronde van Lombardije. Een jaar later, op 16 augustus 1970, werd hij in het Briste Leicester wereldkampioen. Monseré moest dan nog 22 jaar worden. Van Monseré werd gezegd dat hij niet trainde en niet voor zijn vak leefde. Wanneer zijn collega's hem net voor de middag kwamen halen voor een trainingstocht haalde hij zijn schouders op en zei dat hij geen zin had om te trainen. In werkelijkheid stond Jempi voor dan en dauw op om zijn kilometers te doen. Zo had hij al honderden kilometers in de benen wanneer de anderen er nog aan moesten beginnen.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/189580.nl\">Toerisme Roeselare</a><br/><a href=\"https://www.routeyou.com/location/view/48535556.nl?toptext=2165320\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Toerisme Roeselare"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 5732387,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 189580
+                    },
+                    "filename": {
+                        "nl": "acef701c4c649b9858d3fdffd58181bc_da4492054957e7d051d4b71b069948ada58bd176.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/acef701c4c649b9858d3fdffd58181bc_da4492054957e7d051d4b71b069948ada58bd176.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48673163,
+                "type": {
+                    "id": 220,
+                    "name": {
+                        "nl": "Wijk"
+                    }
+                },
+                "address": {
+                    "id": 2306439,
+                    "street": "batavialaan",
+                    "number": null,
+                    "box": null,
+                    "city": "Roeselare",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.777,
+                "distance": 4130,
+                "name": {
+                    "nl": "Bataviawijk"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.1426066306885 50.951634342797)"
+                }
+            },
+            "text": {
+                "id": 2327126,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 189580
+                },
+                "description": {
+                    "nl": "Aan het einde van de Eerste Wereldoorlog was de woningnood in Roeselare groot door de vele vernielingen. Om die nood te lenigen werd de Bataviawijk, de eerste tuinwijk in België, aangelegd. \n\nDe eerste tuinwijk van België\nRoeselaarse vluchtelingen die na het einde van de Eerste Wereldoorlog terug naar huis keerden, troffen daar vaak een ware ravage aan. Daarom besloot minister van Binnenlandse Zaken De Brocqueville op 1 augustus 1919 om een volledig nieuwe wijk in Roeselare op te richten: de Bataviawijk. De straten van de nieuwe buurt kregen namen van plaatsen waar veel Roeselaarse vluchtelingen op het einde van de Eerste Wereldoorlog een onderkomen hadden gevonden, zoals Lier, Wetteren of Geel.\n\nDe 'tuinwijk', een nieuwe manier van wonen\nDe tuinwijkgedachte ontstond aan het einde van de 19de eeuw in Groot-Brittannië. Architecten ontwierpen een nieuw woonconcept met aandacht voor een gezonde levenssituatie. De bedoeling van de tuinwijk was om minder gegoede arbeiders een kwaliteitsvolle en tegelijk betaalbare woning aan te bieden. Ook morele overwegingen speelden een rol bij de wijkaanleg: cafés en ander stedelijk vertier waren afwezig. Een aangenaam huis met tuin zou de 'familiezin en de zuinigheid' van de arbeider aanscherpen.\n<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/189580.nl\">Toerisme Roeselare</a><br/><a href=\"https://www.routeyou.com/location/view/48673163.nl?toptext=2327126\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1424524,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 189580
+                    },
+                    "filename": {
+                        "nl": "e243beb0648a3eb44ccc4e895e04916a_090753479a0b7066d99f7bc37b1cd3e80494d448.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Bataviawijk - collectie Johan Delbecke - Roeselare"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/e243beb0648a3eb44ccc4e895e04916a_090753479a0b7066d99f7bc37b1cd3e80494d448.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48673187,
+                "type": {
+                    "id": 215,
+                    "name": {
+                        "nl": "Historische gebeurtenis"
+                    }
+                },
+                "address": {
+                    "id": 2306463,
+                    "street": "populierstraat",
+                    "number": null,
+                    "box": null,
+                    "city": "Roeselare",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.643,
+                "distance": 5532,
+                "name": {
+                    "nl": "Schuwe maandag"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.1550858268448 50.952478577447)"
+                }
+            },
+            "text": {
+                "id": 2327159,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 189580
+                },
+                "description": {
+                    "nl": "Maandag 19 oktober 1914, de dag waarop de Duitsers Roeselare innamen, staat in de streek bekend als 'Schuwe Maandag'. \n\nInval\nVanaf 13 uur bestookten de Duitsers Roeselare met een verwoestende granatenregen vanuit Ardooie, Kachtem en Izegem. Na guerilla-gevechten met de Fransen namen ze uiteindelijk de stad in. De Duitse woede over de tegenstand richtte zich vervolgens tegen de burgerbevolking: Roeselare zou boeten voor de Duitse slachtoffers. \n\nChaos en willekeur\nDe inname van Roeselare ontaardde mede daardoor in complete chaos en willekeur. Dronken Duitse soldaten staken 252 huizen in brand en namen gijzelaars. Een eerste groep gevangen genomen inwoners werd gefusilleerd op de wijk De Vierweg, een tweede groep bij een boerderij tegenover de Spanjeschool. Uiteindelijk vielen er 39 slachtoffers. \n<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/189580.nl\">Toerisme Roeselare</a><br/><a href=\"https://www.routeyou.com/location/view/48673187.nl?toptext=2327159\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 1424538,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 189580
+                    },
+                    "filename": {
+                        "nl": "b98ed7256e2508dfd1b705180ac912da_e56632005b24f7fd3ad99c7654b084da2f2432a7.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/b98ed7256e2508dfd1b705180ac912da_e56632005b24f7fd3ad99c7654b084da2f2432a7.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47112308,
+                "type": {
+                    "id": 128,
+                    "name": {
+                        "de": "Schloss",
+                        "en": "Castle",
+                        "fr": "Château",
+                        "nl": "Kasteel"
+                    }
+                },
+                "address": {
+                    "id": 5602388,
+                    "street": "Moorseelsesteenweg 7",
+                    "number": null,
+                    "box": null,
+                    "city": "Roeselare (Rumbeke)",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.852,
+                "distance": 37734,
+                "name": {
+                    "nl": "Kasteel Rumbeke",
+                    "de": "SCHLOSS RUMBEKE",
+                    "en": "RUMBEKE CASTLE",
+                    "fr": "LE CHATEAU DE RUMBEKE"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.13888192176819 50.9263729804432)"
+                }
+            },
+            "text": {
+                "id": 2507077,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 123417
+                },
+                "description": {
+                    "nl": "De toenmalige bewoner van dit kasteel – graaf en burgemeester Henri de Limburg Stirum – spande in 1917 een proces aan tegen een Duitse generaal die zich zijn kasteel had toegeëigend.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/123417.nl\">Vl. Toeristisch bezienswaardigheden</a><br/><a href=\"https://www.routeyou.com/location/view/47112308.nl?toptext=2507077\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "de": null,
+                        "en": null,
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "de": null,
+                        "en": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 2,
+                    "name": {
+                        "ca": "Creative Commons",
+                        "de": "Creative Commons",
+                        "en": "Creative Commons",
+                        "es": "Creative Commons",
+                        "fr": "Creative Commons",
+                        "it": "Creative Commons",
+                        "nl": "Creative Commons"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 5744958,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 123417
+                    },
+                    "filename": {
+                        "fr": "415b29108e0fcf38f5a38804c7619f9f_950733c2f7727f65e174c988f7a14bd198ed5fdf.jpg",
+                        "de": "415b29108e0fcf38f5a38804c7619f9f_950733c2f7727f65e174c988f7a14bd198ed5fdf.jpg",
+                        "en": "415b29108e0fcf38f5a38804c7619f9f_950733c2f7727f65e174c988f7a14bd198ed5fdf.jpg",
+                        "nl": "415b29108e0fcf38f5a38804c7619f9f_950733c2f7727f65e174c988f7a14bd198ed5fdf.jpg"
+                    },
+                    "description": {
+                        "fr": "",
+                        "de": "",
+                        "en": "",
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "fr": null,
+                            "de": null,
+                            "en": null,
+                            "nl": null
+                        },
+                        "description": {
+                            "fr": "",
+                            "de": "",
+                            "en": "",
+                            "nl": ""
+                        },
+                        "link": {
+                            "fr": null,
+                            "de": null,
+                            "en": null,
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 2,
+                        "name": {
+                            "ca": "Creative Commons",
+                            "de": "Creative Commons",
+                            "en": "Creative Commons",
+                            "es": "Creative Commons",
+                            "fr": "Creative Commons",
+                            "it": "Creative Commons",
+                            "nl": "Creative Commons"
+                        }
+                    },
+                    "url": {
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/415b29108e0fcf38f5a38804c7619f9f_950733c2f7727f65e174c988f7a14bd198ed5fdf.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/415b29108e0fcf38f5a38804c7619f9f_950733c2f7727f65e174c988f7a14bd198ed5fdf.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/415b29108e0fcf38f5a38804c7619f9f_950733c2f7727f65e174c988f7a14bd198ed5fdf.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/415b29108e0fcf38f5a38804c7619f9f_950733c2f7727f65e174c988f7a14bd198ed5fdf.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48824885,
+                "type": {
+                    "id": 286,
+                    "name": {
+                        "nl": "Recreatieterrein"
+                    }
+                },
+                "address": {
+                    "id": 5598596,
+                    "street": "Kasteelstraat 2",
+                    "number": null,
+                    "box": null,
+                    "city": "Ardooie",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.486,
+                "distance": 17694,
+                "name": {
+                    "nl": "Provinciedomein 't Veld"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.2378082 50.96494)"
+                }
+            },
+            "text": {
+                "id": 2507185,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 123417
+                },
+                "description": {
+                    "nl": "Dit 44 hectare ongerepte bosgebied is vrij toegankelijk voor elke bezoeker. In het provinciale domein ontdek je o.a. een prachtig Classicistisch kasteel uit de 18de eeuw (privaat eigendom), diverse wandepaden, een gezellige cafetaria met speeltuin en enkele (hengel)vijvers. De aanwezige eilandjes maken het geheel erg aantrekkelijk. Wie het domein uitgebreid wil verkennen, kan dit aan de hand van de Ardooieveldwandelroute (8,2 km).<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/123417.nl\">Vl. Toeristisch bezienswaardigheden</a><br/><a href=\"https://www.routeyou.com/location/view/48824885.nl?toptext=2507185\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 2,
+                    "name": {
+                        "ca": "Creative Commons",
+                        "de": "Creative Commons",
+                        "en": "Creative Commons",
+                        "es": "Creative Commons",
+                        "fr": "Creative Commons",
+                        "it": "Creative Commons",
+                        "nl": "Creative Commons"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 5745033,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 123417
+                    },
+                    "filename": {
+                        "nl": "6b150c0608ea53d1c4c7a00130587a20_63a96599dcc113be5966fc9d26d88f015cfa6bae.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 2,
+                        "name": {
+                            "ca": "Creative Commons",
+                            "de": "Creative Commons",
+                            "en": "Creative Commons",
+                            "es": "Creative Commons",
+                            "fr": "Creative Commons",
+                            "it": "Creative Commons",
+                            "nl": "Creative Commons"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/6b150c0608ea53d1c4c7a00130587a20_63a96599dcc113be5966fc9d26d88f015cfa6bae.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47472325,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": 5599192,
+                    "street": "Jan Mahieustraat 21",
+                    "number": null,
+                    "box": null,
+                    "city": "Roeselare",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.824,
+                "distance": 223,
+                "name": {
+                    "nl": "Protestantse Kerk"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.126785 50.9477)"
+                }
+            },
+            "text": {
+                "id": 2507525,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 123417
+                },
+                "description": {
+                    "nl": "De geuzentempel is de naam die Roeselaarnaren geven aan de protestantse kerk in de Jan Mahieustraat. Ondanks de eenvoudige en bescheiden gevel heeft deze 'tempel' een bewogen geschiedenis achter de rug. Een textielindustrieel liet de kerk bouwen in de de tweede helft van de 19e eeuw. In de kerk bevindt zich een in Indonesië gebouwd orgel. Het orgel telt 508 pijpen die uit bamboe werden vervaardigd en het is het op twee na de grootste in zijn soort.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/123417.nl\">Vl. Toeristisch bezienswaardigheden</a><br/><a href=\"https://www.routeyou.com/location/view/47472325.nl?toptext=2507525\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 2,
+                    "name": {
+                        "ca": "Creative Commons",
+                        "de": "Creative Commons",
+                        "en": "Creative Commons",
+                        "es": "Creative Commons",
+                        "fr": "Creative Commons",
+                        "it": "Creative Commons",
+                        "nl": "Creative Commons"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 5745371,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 123417
+                    },
+                    "filename": {
+                        "nl": "4441ad779ad5ea6faa672ec786eeeb59_e3809ea6c54f1886e495c3578e4895384516fd76.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 2,
+                        "name": {
+                            "ca": "Creative Commons",
+                            "de": "Creative Commons",
+                            "en": "Creative Commons",
+                            "es": "Creative Commons",
+                            "fr": "Creative Commons",
+                            "it": "Creative Commons",
+                            "nl": "Creative Commons"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/4441ad779ad5ea6faa672ec786eeeb59_e3809ea6c54f1886e495c3578e4895384516fd76.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48825384,
+                "type": {
+                    "id": 16,
+                    "name": {
+                        "nl": "Brouwerij"
+                    }
+                },
+                "address": {
+                    "id": 5600066,
+                    "street": "Ingelmunstersestraat 46",
+                    "number": null,
+                    "box": null,
+                    "city": "Izegem",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.01,
+                "distance": 22814,
+                "name": {
+                    "nl": "Bierkasteel van Brouwerij Van Honsebrouck"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.2343917 50.923492)"
+                }
+            },
+            "text": {
+                "id": 2507856,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 123417
+                },
+                "description": {
+                    "nl": "<p>Brouwerij Van Honsebrouck stelt 'Het Bierkasteel' voor in Izegem. Dit bestaat uit verschillende delen. In het bezoekerscentrum maak je een interactief bezoek doorheen de productie en zijn er rondleidingen. In de bierboetiek vindt je een tof aanbod biergadgets, bierpralines en onze bieren in originele geschenkverpakking. Proef gerechten met bier als smaakmaker in een uniek decor in de brasserie of in de bruine kroeg Michelle's Pub. Het bierkasteel is ook te huren als eventlocatie als je op zoek bent naar een concept waar authenticiteit en ultramodern elkaar ontmoeten.</p><br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/123417.nl\">Vl. Toeristisch bezienswaardigheden</a><br/><a href=\"https://www.routeyou.com/location/view/48825384.nl?toptext=2507856\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 2,
+                    "name": {
+                        "ca": "Creative Commons",
+                        "de": "Creative Commons",
+                        "en": "Creative Commons",
+                        "es": "Creative Commons",
+                        "fr": "Creative Commons",
+                        "it": "Creative Commons",
+                        "nl": "Creative Commons"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 5745824,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 123417
+                    },
+                    "filename": {
+                        "nl": "527dc304a4b24d7e780856ff9b7f7324_8eaade1704b2e1fb25edc51d366592c1f361e679.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 2,
+                        "name": {
+                            "ca": "Creative Commons",
+                            "de": "Creative Commons",
+                            "en": "Creative Commons",
+                            "es": "Creative Commons",
+                            "fr": "Creative Commons",
+                            "it": "Creative Commons",
+                            "nl": "Creative Commons"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/527dc304a4b24d7e780856ff9b7f7324_8eaade1704b2e1fb25edc51d366592c1f361e679.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48825387,
+                "type": {
+                    "id": 309,
+                    "name": {
+                        "nl": "Cultureel centrum"
+                    }
+                },
+                "address": {
+                    "id": 5600183,
+                    "street": "Sint-Jorisstraat 62",
+                    "number": null,
+                    "box": null,
+                    "city": "Izegem",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.511,
+                "distance": 25830,
+                "name": {
+                    "nl": "CC De Leest"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.207166 50.9118)"
+                }
+            },
+            "text": {
+                "id": 2507859,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 123417
+                },
+                "description": {
+                    "nl": "Cultuurcentrum De Leest brengt een afwisseling van professioneel theater, populaire en klassieke muziek, comedy, hedendaagse dans en nog veel meer. Voor de nabespreking kan je altijd in het cultuurcafé terecht.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/123417.nl\">Vl. Toeristisch bezienswaardigheden</a><br/><a href=\"https://www.routeyou.com/location/view/48825387.nl?toptext=2507859\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 2,
+                    "name": {
+                        "ca": "Creative Commons",
+                        "de": "Creative Commons",
+                        "en": "Creative Commons",
+                        "es": "Creative Commons",
+                        "fr": "Creative Commons",
+                        "it": "Creative Commons",
+                        "nl": "Creative Commons"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 1612894,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 123417
+                    },
+                    "filename": {
+                        "nl": "b1b5b88ee231a25cac154e775565d4bc_bbce7ceaeeb4da7fe0c54b6e1681bc404d2ff0b2.jpg",
+                        "fr": "b1b5b88ee231a25cac154e775565d4bc_bbce7ceaeeb4da7fe0c54b6e1681bc404d2ff0b2.jpg",
+                        "en": "b1b5b88ee231a25cac154e775565d4bc_bbce7ceaeeb4da7fe0c54b6e1681bc404d2ff0b2.jpg",
+                        "de": "b1b5b88ee231a25cac154e775565d4bc_bbce7ceaeeb4da7fe0c54b6e1681bc404d2ff0b2.jpg"
+                    },
+                    "description": {
+                        "nl": "",
+                        "fr": "",
+                        "en": "",
+                        "de": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null,
+                            "fr": null,
+                            "en": null,
+                            "de": null
+                        },
+                        "description": {
+                            "nl": "",
+                            "fr": "",
+                            "en": "",
+                            "de": ""
+                        },
+                        "link": {
+                            "nl": null,
+                            "fr": null,
+                            "en": null,
+                            "de": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 2,
+                        "name": {
+                            "ca": "Creative Commons",
+                            "de": "Creative Commons",
+                            "en": "Creative Commons",
+                            "es": "Creative Commons",
+                            "fr": "Creative Commons",
+                            "it": "Creative Commons",
+                            "nl": "Creative Commons"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/b1b5b88ee231a25cac154e775565d4bc_bbce7ceaeeb4da7fe0c54b6e1681bc404d2ff0b2.jpg",
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/b1b5b88ee231a25cac154e775565d4bc_bbce7ceaeeb4da7fe0c54b6e1681bc404d2ff0b2.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/b1b5b88ee231a25cac154e775565d4bc_bbce7ceaeeb4da7fe0c54b6e1681bc404d2ff0b2.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/b1b5b88ee231a25cac154e775565d4bc_bbce7ceaeeb4da7fe0c54b6e1681bc404d2ff0b2.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48825533,
+                "type": {
+                    "id": 236,
+                    "name": {
+                        "fr": "Place historique",
+                        "nl": "Historische plaats"
+                    }
+                },
+                "address": {
+                    "id": 5602162,
+                    "street": "Kasteelwijk 3",
+                    "number": null,
+                    "box": null,
+                    "city": "Izegem",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.763,
+                "distance": 23862,
+                "name": {
+                    "nl": "Kasteel Blauwhuis",
+                    "fr": "Château de Blauwhuis"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.222288 50.918198)"
+                }
+            },
+            "text": {
+                "id": 2508102,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 123417
+                },
+                "description": {
+                    "nl": "Het kasteel Blauwhuis is een van de imposantste gebouwen van Izegem. Het 11,2 ha grote park is met het kasteel meegeklasseerd als stadszicht. Het Blauwhuis is een neoclassicistisch kasteel van grote voornaamheid, uitgebouwd op gedeeltelijk oudere grondvesten, en omgeven door een wal. Het park is van het Engelse type.\nHet interieur vermengt neoclassicistische en neogotische elementen. Naast de huiskapel en de rotonde dient een salon vermeld, waarvan de muren volledig zijn bedekt met Mechels lederbehang.\nDe achtereenvolgende bewoners van het Blauwhuis, de families van Huerne, de Pélichy en Gillès de Pélichy, hebben in het politieke, culturele, sociale, economische en religieuze leven van Izegem een niet weg te cijferen rol gespeeld. Zij waren voor hun stadsgenoten grote weldoeners, die huisvesting, onderwijs, welvaart en welzijn hebben bevorderd.\nVanaf april 2017 is het park rond het kasteel opengesteld voor bezoekers.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/123417.nl\">Vl. Toeristisch bezienswaardigheden</a><br/><a href=\"https://www.routeyou.com/location/view/48825533.nl?toptext=2508102\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "fr": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "fr": null
+                    }
+                },
+                "copyright": {
+                    "id": 2,
+                    "name": {
+                        "ca": "Creative Commons",
+                        "de": "Creative Commons",
+                        "en": "Creative Commons",
+                        "es": "Creative Commons",
+                        "fr": "Creative Commons",
+                        "it": "Creative Commons",
+                        "nl": "Creative Commons"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 5749357,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 123417
+                    },
+                    "filename": {
+                        "nl": "0cbd1c8a2c19fedf86be64fac6bdce79_c396521e55305e43462a5d1c2b630d7f632e1442.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 2,
+                        "name": {
+                            "ca": "Creative Commons",
+                            "de": "Creative Commons",
+                            "en": "Creative Commons",
+                            "es": "Creative Commons",
+                            "fr": "Creative Commons",
+                            "it": "Creative Commons",
+                            "nl": "Creative Commons"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/0cbd1c8a2c19fedf86be64fac6bdce79_c396521e55305e43462a5d1c2b630d7f632e1442.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 4365347,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": 5602213,
+                    "street": "Kerkplein 9",
+                    "number": null,
+                    "box": null,
+                    "city": "Izegem",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.865,
+                "distance": 25036,
+                "name": {
+                    "nl": "Sint-Tillokerk"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.214325 50.917015)"
+                }
+            },
+            "text": {
+                "id": 2508150,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 123417
+                },
+                "description": {
+                    "nl": "De Sint-Tillokerk is om verschillende redenen bijzonder. Als ze in 1855 wordt ingewijd is ze één van de eerste neogotische kerken van West-Vlaanderen. De torenspits, die pas in 1868 wordt opgetrokken, heeft een gietijzeren skelet, wat op dat moment ook nog volstrekt uniek is. De toren is met zijn 83 meter trouwens nog altijd de meest spitse van België.\nVan de neogotische inrichting van de kerk is in de loop der jaren veel verloren gegaan, maar het Sint-Tilloschrijn is zeker de moeite waard: alle relikwieën van de kerk worden erin bewaard.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/123417.nl\">Vl. Toeristisch bezienswaardigheden</a><br/><a href=\"https://www.routeyou.com/location/view/4365347.nl?toptext=2508150\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 2,
+                    "name": {
+                        "ca": "Creative Commons",
+                        "de": "Creative Commons",
+                        "en": "Creative Commons",
+                        "es": "Creative Commons",
+                        "fr": "Creative Commons",
+                        "it": "Creative Commons",
+                        "nl": "Creative Commons"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 1613154,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 123417
+                    },
+                    "filename": {
+                        "fr": "b6db2b5c54dcdf972153485537deecf1_27749a3c5dc11177f1b5d5575e841a2b3ee81890.jpg",
+                        "nl": "b6db2b5c54dcdf972153485537deecf1_27749a3c5dc11177f1b5d5575e841a2b3ee81890.jpg",
+                        "en": "b6db2b5c54dcdf972153485537deecf1_27749a3c5dc11177f1b5d5575e841a2b3ee81890.jpg",
+                        "de": "b6db2b5c54dcdf972153485537deecf1_27749a3c5dc11177f1b5d5575e841a2b3ee81890.jpg"
+                    },
+                    "description": {
+                        "fr": "",
+                        "nl": "",
+                        "en": "",
+                        "de": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "fr": null,
+                            "nl": null,
+                            "en": null,
+                            "de": null
+                        },
+                        "description": {
+                            "fr": "",
+                            "nl": "",
+                            "en": "",
+                            "de": ""
+                        },
+                        "link": {
+                            "fr": null,
+                            "nl": null,
+                            "en": null,
+                            "de": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 2,
+                        "name": {
+                            "ca": "Creative Commons",
+                            "de": "Creative Commons",
+                            "en": "Creative Commons",
+                            "es": "Creative Commons",
+                            "fr": "Creative Commons",
+                            "it": "Creative Commons",
+                            "nl": "Creative Commons"
+                        }
+                    },
+                    "url": {
+                        "fr": "https://image.routeyou.com/shrink/fit/500x500/b6db2b5c54dcdf972153485537deecf1_27749a3c5dc11177f1b5d5575e841a2b3ee81890.jpg",
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/b6db2b5c54dcdf972153485537deecf1_27749a3c5dc11177f1b5d5575e841a2b3ee81890.jpg",
+                        "en": "https://image.routeyou.com/shrink/fit/500x500/b6db2b5c54dcdf972153485537deecf1_27749a3c5dc11177f1b5d5575e841a2b3ee81890.jpg",
+                        "de": "https://image.routeyou.com/shrink/fit/500x500/b6db2b5c54dcdf972153485537deecf1_27749a3c5dc11177f1b5d5575e841a2b3ee81890.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49402811,
+                "type": {
+                    "id": 69,
+                    "name": {
+                        "en": "Forest",
+                        "nl": "Bos"
+                    }
+                },
+                "address": {
+                    "id": 5602607,
+                    "street": "Rhodesstraat 2",
+                    "number": null,
+                    "box": null,
+                    "city": "Izegem",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.656,
+                "distance": 8526,
+                "name": {
+                    "nl": "Rhodesgoed",
+                    "en": "Rhodes Estate"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.1799147 50.94477)"
+                }
+            },
+            "text": {
+                "id": 2508180,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 123417
+                },
+                "description": {
+                    "nl": "Het Rhodesgoed is een jong bos van 40 hectare groot. Ondanks de jonge leeftijd telt dit domein al een rijke verzameling dieren en planten. De afwisseling van bos, poelen, open en bloemrijke weilanden trekken verschillende soorten vogels en amfibieën aan. De Rhodebeek, die meandert door het gebied, brengt extra leven in de brouwerij.\nFoto: Regine Vanallemeersch<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/123417.nl\">Vl. Toeristisch bezienswaardigheden</a><br/><a href=\"https://www.routeyou.com/location/view/49402811.nl?toptext=2508180\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": null,
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 2,
+                    "name": {
+                        "ca": "Creative Commons",
+                        "de": "Creative Commons",
+                        "en": "Creative Commons",
+                        "es": "Creative Commons",
+                        "fr": "Creative Commons",
+                        "it": "Creative Commons",
+                        "nl": "Creative Commons"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 1613176,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 123417
+                    },
+                    "filename": {
+                        "nl": "c699c766487714623459269cd344302a_91793131a3c53ab3dd86616af3f1a7ef8c98454e.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 2,
+                        "name": {
+                            "ca": "Creative Commons",
+                            "de": "Creative Commons",
+                            "en": "Creative Commons",
+                            "es": "Creative Commons",
+                            "fr": "Creative Commons",
+                            "it": "Creative Commons",
+                            "nl": "Creative Commons"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/c699c766487714623459269cd344302a_91793131a3c53ab3dd86616af3f1a7ef8c98454e.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49219430,
+                "type": {
+                    "id": 382,
+                    "name": {
+                        "nl": "Bedevaartsoord"
+                    }
+                },
+                "address": {
+                    "id": 2845765,
+                    "street": null,
+                    "number": null,
+                    "box": null,
+                    "city": null,
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.568,
+                "distance": 19504,
+                "name": {
+                    "nl": "Bedevaartsite Veldkruis"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.2306241989136 50.955764025249)"
+                }
+            },
+            "text": {
+                "id": 2938514,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 35639
+                },
+                "description": {
+                    "nl": "Veldkruis, gelegen aan de rand van het huidige Veldbos/ Provinciaal Domein. Site opklimmend tot het midden van de 18de eeuw of vroeger.\nHistoriek. Bij testament beslist het echtpaar Andries Van Vlaanderen en Marie-Catharine Facheel (1755) twee beelden van Onze-Lieve-Vrouw en Sint-Jan te doen maken om ze naast het Veldkruis te stellen, alsook een stenen kapel te doen bouwen met een Onze-Lieve-Vrouwebeeld \"ten suytwesthoucke van hetselve velt\". Dit betekent dat het Veldkruis rond het midden van de 18de eeuw reeds bestond. Literatuur spreekt van de oprichting van het kruis in 1760. De site wordt een bedevaartsplaats, onder meer tegen de \"nagelgaten\". Men offert er nagels voor genezing tegen zweren of beenwonden. De site is mogelijk ouder, zie 17de-eeuwse toponymie van de Vernagelingstraat, waarvan de Leenbosstraat ten zuiden van het Veldkruis het verlengde vormt: volgens De Flou vermeld in een straatschouwing uit 1686 als \"Vernaghelynckstraete\", in de ommeloper van Ardooie uit 1688 als \"Vernagelt Strate\". Door een voorjaarsstorm in 2008 is het Veldkruis omvergewaaid en sterk beschadigd. Door de Provinciale Technische Dienst wordt een volledig nieuw kruis opgericht. De huidige flankerende kapelletjes zijn eveneens 20ste-eeuws.\nBeschrijving. Bedevaartsite gelegen aan de rand van het Veldbos, als onverhard terrein tussen de bomen, met voorliggende betonnen bidbanken. Nieuw houten kruis op nieuwe veldstenen Calvarieberg, onder nieuw houten afdak en achterwand. Wit polyester Christusbeeld. Links en rechts wordt het kruis geflankeerd door twee kapelletjes opgebouwd in ijzerhoudende veldsteen, onder zadeldakjes in mechanische pannen. Linkerkapel onder meer met beelden Heilig Hart, Onze-Lieve-Vrouw met Kind. Rechterkapel met beeld Onze-Lieve-Vrouw van Lourdes en boven de deuropening een nis waarin nagels worden geofferd.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/35639.nl\">pieterbeernaert80@gmail.com</a><br/><a href=\"https://www.routeyou.com/location/view/49219430.nl?toptext=2938514\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "inventaris bouwkundig erfgoed \\ bouwkundig relict"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://inventaris.onroerenderfgoed.be/erfgoedobjecten/207864"
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 2042318,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 35639
+                    },
+                    "filename": {
+                        "nl": "d37dc0126efde82bce3cfd6f75e88ec3_189849e0913388792b4ee3131f320220e1355bf6.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "inventaris bouwkundig erfgoed \\ bouwkundig relict"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/d37dc0126efde82bce3cfd6f75e88ec3_189849e0913388792b4ee3131f320220e1355bf6.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49219768,
+                "type": {
+                    "id": 140,
+                    "name": {
+                        "nl": "Postgebouw"
+                    }
+                },
+                "address": {
+                    "id": 2846144,
+                    "street": "Baron de Pélichystraat",
+                    "number": "1",
+                    "box": null,
+                    "city": "Izegem",
+                    "state": "West-Vlaanderen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.68,
+                "distance": 24797,
+                "name": {
+                    "nl": "postgebouw"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.2131437 50.917864)"
+                }
+            },
+            "text": {
+                "id": 2938944,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 35639
+                },
+                "description": {
+                    "nl": "Beschrijving\nPosteryen, zie opschrift op puilijst. Eclectisch hoekpand van 1897, zie gevelsteen, naar ontwerp van J. Vercoutere (Izegem); tot in 1981 in gebruik als post, heden leegstaand. Verankerde bakstenen lijstgevel van vijf + vier traveeën en twee bouwlagen onder leien zadeldak waarin zes dakkapellen onder tentdak. Verwerking van natuursteen voor onder meer deur- en vensteromlijstingen, lateien en muurbanden. Horizontale gevelgeleding door druiplijsten en de doorgetrokken borstwering met onder meer tegeltableaus; overkragende houten kroonlijst. Invoegen van traditionele elementen als de tuitgevels met windvaan van de licht vooruitspringende hoekrisalieten. Kenmerkend voor het toenmalige postgebouwtype is de vierkante hoektoren, op de bovenverdieping in overstek op bogen en consolen en geaccentueerd door arkeltorentjes en een ingesnoerde spits met kleine lantaarn naar barokpatroon. Rechthoekige vensters onder boogvelden met onder meer geglazuurde tegels volgens dambordpatroon; op begane grond getralied.\nInterieur: tot eenheidsruimte verbouwde lokettenzaal met centrale gietijzeren composietzuil waarop de ijzeren balken terechtkomen die in de zijmuren worden opgevangen door geblokte pilasters met consoles. Voormalige slaapruimten van ontvangerwoonst op de bovenverdieping, zie bouwplan. Rechts, lager aanpalend gebouw dat oorspronkelijk dienst deed als \"ontvangerwoonst\" (zie bouwplan) en later als taverne zie opschrift.\nAfdeling Ruimtelijke Ordening, Huisvesting en Monumentenzorg West-Vlaanderen, Cel Monumenten en Landschappen, Archief, nummer 340.\nArchief Imopost, Brussel.\nLERMYTE J.M., Izegemse straatnamen met persoonsnamen, in Ten Mandere, nr. 101, 1995, p. 65.\nBron: De Gunsch A., Metdepenninghen C. & Vanneste P. met medewerking van  Tansens A. 2001: Inventaris van het cultuurbezit in België, Architectuur, Provincie West-Vlaanderen, Arrondissement Roeselare, Kantons Hooglede - Izegem - Lichtervelde, Bouwen door de eeuwen heen in Vlaanderen 17N2, Brussel - Turnhout.\nAuteurs: De Gunsch, Ann; Metdepenninghen, Catheline & Vanneste, Pol\nDatum tekst: 2001<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/35639.nl\">pieterbeernaert80@gmail.com</a><br/><a href=\"https://www.routeyou.com/location/view/49219768.nl?toptext=2938944\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "inventaris bouwkundig erfgoed \\ bouwkundig relict"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://id.erfgoed.net/erfgoedobjecten/51280"
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 2042563,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 35639
+                    },
+                    "filename": {
+                        "nl": "b9966ddd7e740445838a569305830713_9ef63104693ec4278c3aa4745e6e880234e3bca2.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://id.erfgoed.net/erfgoedobjecten/51280"
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/b9966ddd7e740445838a569305830713_9ef63104693ec4278c3aa4745e6e880234e3bca2.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49219778,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": 2846154,
+                    "street": "Kerkplein",
+                    "number": "1",
+                    "box": null,
+                    "city": "izegem",
+                    "state": "west-vlaanderen",
+                    "postalCode": null,
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.672,
+                "distance": 24977,
+                "name": {
+                    "nl": "Decanale kerk Sint-Tillo"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.2141159 50.9169828)"
+                }
+            },
+            "text": {
+                "id": 2938960,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 35639
+                },
+                "description": {
+                    "nl": "Beknopte karakterisering\n\nTypologie:parochiekerken\nStijl:  regionalisme, neogotiek\nDatering:derde kwart 19de eeuw, vierde kwart 19de eeuw, interbellum, na WO II\n\nBetrokken personen:\nCroquison, Pierre Nicolas (Ontwerper)\nVercoutere, Jules (Ontwerper)\nVerstraete, Louis (Ontwerper)\n\nBeschrijving\n\nDecanale kerk St.-Tillo Georiënteerde hallenkerk gelegen te midden van plein en omzoomd door struikgewas; N.-transept met gedenkplaat aan de N.-gevel en ten N., Christus aan het kruis onder zadeldakje aan de W.gevel.\nDeze vroegneogotische kerk is de enige met St.-Tillo (St.-Hilonius) als patroonheilige; ze is gebouwd van 1852 tot 1855 n.o.v. de Kortrijkse architect P.N. Croquison, onder mecenaat van Baron L.G. de Pélichy cf. gevelsteen in de W.-gevel.\nI.l.v. XIV: afbraak van het oorspronkelijk houten kerkje, dat wordt vervangen door een gotische hallenkerk\n1468: uitbreiding van de kerk met Z.-beuk. XVI a: herstelling na de beeldenstorm. 1852: afbraak van deze kerk en bouw van de huidige kerk. 1860-1861: oprichting van de toren, uitgesteld omwille van gebrek aan financiële middelen. 1868: bekroning d.m.v. ingesnoerde met spits.\nTussen 1899 .1901: wijziging van het hoofdportaal en plaatsen van nieuw portaal in de N.-zijbeuk, n.o.v. J. Vercoutere (Izegem).\nCa. 1900: aanpassing van drie blinde vensters in het hoofdkoor om ze te voorzien van gebrandschilderd glas.\n1902: interieurbeschildering door de gebroeders A. en C. Wybo (Veurne-Doornik); bewaard tot in 1949. Plaatsen van nieuwe glasramen n.o.v. J. Dobbelaere.\n1905: herstelling van bedaking. W.O. I: zware beschadiging van de de kerk waarbij o.m. de N.-kruisbeuk vernield wordt.\n1921: herstellingen o.l.v. J. Vercoutere (Izegem). 1934-35: herstellingen aan de torenspits. 1938: toevoeging van twee vensters in apsis van de zijbeuken. 1939: grote restauratiewerken o.l.v. L. Verstraete (Izegem), waarbij o.m. de vensters worden hersteld.\nNa W.O. II: herstellingswerken o.l.v. zelfde architect.\nHallenkerk met driebeukig schip van vijf trav.; transept met armen van één trav. en rechte sluiting; hoofd- en zijkoren van één rechte trav. en een driezijdige sluiting. Z.-sacristie.\nQua plattegrond en opstand grotendeels aansluitend bij de regionale baksteenarchitectuur, evenwel met uitzondering van de hoge ingebouwde centrale W.-toren .\nDonkerrode baksteenbouw met atypisch gebruik van arduin voor o.m. dekplaten, water- en druiplijsten en plint; leien zadeldaken met dakkapellen. Tijdens de verschillende restauraties wordt witte natuursteen als vervangingsmateriaal gebruikt. cf. vensters en hun neogotische tracering.\nW.-toren van vier geledingen onder ingesnoerde spits; gemarkeerd door haaks op elkaar geplaatste hoeksteunberen met versnijdingen; geledingen getypeerd door geprofileerde spitsboogvormige muuropeningen, o.m. vensters met neogotisch traceerwerk. Verdiept portaal waarvan het onderste deel werd uitgevoerd in arduin en het bovenste deel in witte natuursteen. Boogveld met natuurstenen beeld van de patroonheilige St.-Tillo van 1861, gebeeldhouwd door Van Aerebdonck (Antwerpen), waarboven gevelsteen met opschrift: \"Gilles De Pélichy me fecit\".\nTrav. van schip en koor geritmeerd door steunberen met versnijdingen en spitsboogvensters in geprofileerde omlijstingen op afzaat. Derde trav. van N.-zijbeuk gemarkeerd door portaal.\nInterieur. Portaal onder straalgewelf met centraal mangat. Bepleisterde en nu witbeschilderde hallenkerk met rode accenten (o.m. pijlers), geritmeerd door spitsboogvormige scheibogen op pijlers met schalken; arduinen sokkel en bladkapiteel. Spitse kruisribgewelven voor schip en koor en straalgewelf boven de tweede koortrav. en apsis. Ten Z., boven de kerkmeesterbank korfboog nis met beschildering en tekst in banderol: Ter eere van het H. aanschijn -- tot uitroeying van godslastering en zedelooze klap.\nMobilair. Veelal neogotisch meubilair, vnl. geschonken door de familie Gillès de Pélichy. Kruisweg op doek; acht van de veertien staties geschilderd door L. Vermote (Kortrijk). Drie neogotisch beelden, gesculpteerd door E. Dejonghe (Izegem), stellen respectievelijk H. Hilonius, H. Hart van Maria en O.-L.-Vrouw Onbevlekt Ontvangen voor. Neogotische biechtstoel en koorgestoelte van 1886-1887 en kerkmeesterbank van 1898, n.o.v. J. Soete (Roeselare), en vlg. literatuur uitgevoerd door A. Clarisse.\nOrgel van 1926, vervaardigd door Frans Joris en zonen (Ronse), met (her)gebruik van het oude pijpwerk; in 1945 hersteld door J. Anneessens (Menen); van 1989 tot 1992 gerestaureerd door de firma Loncke (Zarren).\nGlasramen in koor en zijkoren van 1902, n.o.v. atelier J. Dobbelaere (Brugge) en in het schip door G. Gañlon en C. Vanhevele.\n\nArchief A.M.L.-Brussel, plannenfonds K.C.M.L., provincie West-Vlaanderen, Izegem, Decanale kerk St.-Tillo.\nGELDHOF J., Bij het honderdjarig bestaan van de St.-Hiloniuskerk, Izegem, 1855-1955.\nMUYLAERT F. (o.l.v.), Kerken in West-Vlaanderen, dl. I, Decanaat Izegem St.-Tillo, s.d., s.l., p. 7-9.\nROOSE-MEIER B., Fotorepertorium van het meubilair van de Belgische bedehuizen, Provincie West-Vlaanderen, Roeselare en Torhout, kanton Izegem, Brussel, 1976-1978, p. 18-22.\nROOSE P., persoonlijke notities.\nVANDROMME A., Nadere kennismaking met Pierre N. Croquison. Bouwmeester van onze huidige St.-Tillokerk, in Ten Mandere, nr. 50, 1978, p. 28-36.\nVANDROMME A., Izegem vroeger, beeld van een stad, Izegem, 1989, p. 75-91.\nBron: De Gunsch A., Metdepenninghen C. & Vanneste P. met medewerking van  Tansens A. 2001: Inventaris van het cultuurbezit in België, Architectuur, Provincie West-Vlaanderen, Arrondissement Roeselare, Kantons Hooglede - Izegem - Lichtervelde, Bouwen door de eeuwen heen in Vlaanderen 17N2, Brussel - Turnhout.\nAuteurs: De Gunsch, Ann; Metdepenninghen, Catheline & Vanneste, Pol<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/35639.nl\">pieterbeernaert80@gmail.com</a><br/><a href=\"https://www.routeyou.com/location/view/49219778.nl?toptext=2938960\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "inventaris bouwkundig erfgoed \\ bouwkundig relict"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": "https://id.erfgoed.net/erfgoedobjecten/51392"
+                    }
+                },
+                "copyright": null,
+                "infoLink": null,
+                "media": {
+                    "id": 2042565,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 35639
+                    },
+                    "filename": {
+                        "nl": "05ddd6369e5d5b88bba16e541fd2cceb_8afc7419128f916edc96f74f3b1ab56a33a3f133.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": null
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": "https://goo.gl/images/ms5bhi"
+                        }
+                    },
+                    "copyright": null,
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/05ddd6369e5d5b88bba16e541fd2cceb_8afc7419128f916edc96f74f3b1ab56a33a3f133.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 47112048,
+                "type": {
+                    "id": 106,
+                    "name": {
+                        "nl": "Museum"
+                    }
+                },
+                "address": {
+                    "id": 3014760,
+                    "street": "Delaerestraat 33",
+                    "number": null,
+                    "box": null,
+                    "city": "8800 Roeselare",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.885,
+                "distance": 0,
+                "name": {
+                    "nl": "KOERS. Museum van de Wielersport."
+                },
+                "centroid": {
+                    "wkt": "POINT(3.1288381 50.9453473)"
+                }
+            },
+            "text": {
+                "id": 3119074,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 1099381
+                },
+                "description": {
+                    "nl": "Koers, Museum van de Wielersport, brengt het wervelende verhaal van de (Belgische) fiets- en wielergeschiedenis. Historische en hedendaagse (koers)fietsen, truien en trofeeën, beeldfragmenten en wielerplaatjes,… bieden een fascinerende kijk op dit stuk Vlaamse volkscultuur. Momenteel is Koers dicht voor een complete renovatie, maar organiseert het andere publieksactiviteiten Hou zeker de website www.wielermuseum.be, in de gaten voor het up-to-date nieuws! Op 9 september 2018 heropent Koers de deuren op het adres Polenplein 15, 8800 Roeselare.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/1099381.nl\">tvl</a><br/><a href=\"https://www.routeyou.com/location/view/47112048.nl?toptext=3119074\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2210943,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 1099381
+                    },
+                    "filename": {
+                        "nl": "cc696fdcfc7804d108a388adfaeaa813_6ff05fa794dc775549dd6d8a981001c37089ed8c.png"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Westtoer"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/cc696fdcfc7804d108a388adfaeaa813_6ff05fa794dc775549dd6d8a981001c37089ed8c.png"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 48110806,
+                "type": {
+                    "id": 157,
+                    "name": {
+                        "nl": "Kerk"
+                    }
+                },
+                "address": {
+                    "id": 2492765,
+                    "street": "St-Michielsplein",
+                    "number": "1",
+                    "box": null,
+                    "city": "Roeselare",
+                    "state": "Roeselare",
+                    "postalCode": "8800",
+                    "country": {
+                        "iso2": "BE"
+                    }
+                },
+                "score": 0.939,
+                "distance": 41426,
+                "name": {
+                    "nl": "Sint-Michielskerk"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.1232205033302 50.944222776946)"
+                }
+            },
+            "text": {
+                "id": 3124901,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 1099381
+                },
+                "description": {
+                    "nl": "In 1488 wordt de kerk, toegewijd aan de aartsengel Michaël, vernield door Maximiliaan van Oostenrijk. Tussen 1497 en 1504 wordt ze heropgebouwd in laatgotische stijl. De kerk heeft drie beuken en een stoere westertoren met scherpe spits. Een hevige storm knakt in 1735 de torenpunt af. Tussen 1742 en 1757 krijgt de toren dan de huidige achthoekige klokvormige bedekking. Hij is daarmee van 91 meter op 65 meter teruggebracht. Na meer dan 150 jaar afwezigheid kwam in 1998 het graf van Jan van Kleef en Johanna van Lichtervelde terug naar de kerk.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/1099381.nl\">tvl</a><br/><a href=\"https://www.routeyou.com/location/view/48110806.nl?toptext=3124901\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": null
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2216499,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 1099381
+                    },
+                    "filename": {
+                        "nl": "07896d657853914d61fadc9d14c90693_9a690a286a88af8c87aed21ecdb7a3da412cff7f.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Westtoer"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/07896d657853914d61fadc9d14c90693_9a690a286a88af8c87aed21ecdb7a3da412cff7f.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49413277,
+                "type": {
+                    "id": 168,
+                    "name": {
+                        "nl": "Boom"
+                    }
+                },
+                "address": {
+                    "id": 3038484,
+                    "street": "Veldkaaistraat",
+                    "number": null,
+                    "box": null,
+                    "city": "Ardooie",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.374,
+                "distance": 14618,
+                "name": {
+                    "nl": "Driedubbele bruine beukendreef bij kasteel de Jonghe"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.2296560459376 50.964518330996)"
+                }
+            },
+            "text": {
+                "id": 3145881,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": "Brede westelijk toegangsdreef tot het kasteel de Jonghe beplant met bruine beuken, uitgevend op de Veldhofstede aan de Veldkaaistraat, een voormalige pachthoeve van het kasteel de Jonghe. Voorbij het kasteel en de bijhorende spiegelvijver zet de brede dreefstructuur zich door in een oostelijke toegangsdreef, beplant met zomereiken, tot aan de N50 steenweg Brugge-Kortrijk of Bruggesteenweg.<br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49413277.nl?toptext=3145881\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "nl": "Himpe, Koen (2016)"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2230709,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "ff9389d897ed25462315121b7b258419_cb00ba5bd3922fed22aa86f6d18f4e5beb88c424.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Himpe, Koen, 12-02-2009, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/ff9389d897ed25462315121b7b258419_cb00ba5bd3922fed22aa86f6d18f4e5beb88c424.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "location": {
+                "id": 49443732,
+                "type": {
+                    "id": 308,
+                    "name": {
+                        "en": "Farm",
+                        "nl": "Hoeve"
+                    }
+                },
+                "address": {
+                    "id": 3069009,
+                    "street": "Rhodesstraat",
+                    "number": "2",
+                    "box": null,
+                    "city": "Izegem",
+                    "state": null,
+                    "postalCode": null,
+                    "country": {
+                        "iso2": null
+                    }
+                },
+                "score": 0.406,
+                "distance": 8731,
+                "name": {
+                    "nl": "Hoeve Rhodesgoed",
+                    "en": "Rhodesgoed Farm"
+                },
+                "centroid": {
+                    "wkt": "POINT(3.1821044105368 50.94425097193)"
+                }
+            },
+            "text": {
+                "id": 3178048,
+                "type": {
+                    "id": 1,
+                    "name": {
+                        "it": "Generale",
+                        "es": "General",
+                        "de": "Allgemeine",
+                        "nl": "Algemeen",
+                        "ca": "General",
+                        "fr": "Général",
+                        "en": "General"
+                    }
+                },
+                "format": {
+                    "id": 1,
+                    "name": {
+                        "en": "General",
+                        "ca": "General",
+                        "de": "Allgemeine",
+                        "fr": "Général",
+                        "nl": "Algemeen",
+                        "it": "Generale",
+                        "es": "General"
+                    }
+                },
+                "owner": {
+                    "id": 407259
+                },
+                "description": {
+                    "nl": " Nr. 2. Historische hoeve z.g. \"Rhodesgoed\", gelegen ten W. van de Roobeek; voormalige zetel van de vroegere heerlijkheid van Rhode en Kachtem. Aangeduid op de \"kaart van de heerlyckhede van Rhodes in de prochie van Cachtem\" (1752), als hoeve gelegen ten N. van de beek, met L-vormige plattegrond, omwalling aansluitend op de beek en lange Z. dreef. Hoeve, thans met overwegend eind XIX - begin XX uitzicht. Losse, lage bestanddelen van verankerde baksteen onder pannen zadeldaken, gegroepeerd rondom een deels begrint en begraasd erf beschaduwd door twee notelaars, thans doorsneden door de Rhodesstraat; ijzeren hekken tussen bakstenen pijlers markeren de N. en Z.-erftoegangen.Gekasseid toegangspad naar het hoger gelegen boerenhuis.  Ten Z.W. van het erf, boerenhuis uit XIX A cf. volume en vlechtingen in zijgevel; vijf trav. + één opkamertrav.+ één staltrav. R.zijgevel met vlechtingen, drie rondboogvensters waaronder drie latere konijnenhokken; l. zijgevel met vlechtingen, uilengat en tot laadvenster aangepast XIX-rondboogvenster cf. bouwnaden; rechth. aanbouwtje onder zadeldak leidt vermoedelijk naar de aardappelkelder. Achtergevel gemarkeerd door latere aanbouw onder lessenaarsdak.  Ten N.W, tot wagenkot verbouwde stalvleugel; drie steunbeertjes markeren de achtergevel. Ten Z.W., langgestrekte stalvleugel met bijhorend schuur onder sterk overkragend zadeldak op pijlers; daklijst in Z.-hoek gestut door fraai uitgewerkt smeedijzeren korbeel; r.zijgevel met uilengat; aangepaste dakhelling cf. bouwnaden. L., lager aansluitende stalvleugel onder overkragende zadeldak op gietijzeren zuiltjes; voorliggende betonnen mestvaalt. Ten N.O. (achter het woonhuis), XX b cichorei-ast van drie bouwl. met wasinstallatie.          <br/><br/>Auteur: <a href=\"https://www.routeyou.com/user/view/407259.nl\">Onroerend Erfgoed Vlaanderen</a><br/><a href=\"https://www.routeyou.com/location/view/49443732.nl?toptext=3178048\">Meer informatie</a>"
+                },
+                "source": {
+                    "id": null,
+                    "name": {
+                        "en": "De Gunsch, Ann; Metdepenninghen, Catheline & Vanneste, Pol",
+                        "nl": "De Gunsch, Ann; Metdepenninghen, Catheline & Vanneste, Pol"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "link": {
+                        "nl": null,
+                        "en": null
+                    }
+                },
+                "copyright": {
+                    "id": 1,
+                    "name": {
+                        "ca": "All rights reserved",
+                        "de": "All rights reserved",
+                        "en": "All rights reserved",
+                        "es": "All rights reserved",
+                        "fr": "All rights reserved",
+                        "it": "All rights reserved",
+                        "nl": "All rights reserved"
+                    }
+                },
+                "infoLink": null,
+                "media": {
+                    "id": 2261010,
+                    "type": {
+                        "id": 1,
+                        "name": {
+                            "ca": "Imatge",
+                            "de": "Bild",
+                            "en": "Image",
+                            "es": "Imagen",
+                            "fr": "Image",
+                            "it": "Immagine",
+                            "nl": "Afbeelding"
+                        }
+                    },
+                    "owner": {
+                        "id": 407259
+                    },
+                    "filename": {
+                        "nl": "6a8f8568258124e6252aa10d92553ff0_5ecfb1e4fd5e5ae7d53206bf073c42b09b189f41.jpg"
+                    },
+                    "description": {
+                        "nl": ""
+                    },
+                    "source": {
+                        "id": null,
+                        "name": {
+                            "nl": "Vanderhispallie, Eelkje, 01-06-2009, ©Vlaamse Gemeenschap"
+                        },
+                        "description": {
+                            "nl": ""
+                        },
+                        "link": {
+                            "nl": null
+                        }
+                    },
+                    "copyright": {
+                        "id": 1,
+                        "name": {
+                            "ca": "All rights reserved",
+                            "de": "All rights reserved",
+                            "en": "All rights reserved",
+                            "es": "All rights reserved",
+                            "fr": "All rights reserved",
+                            "it": "All rights reserved",
+                            "nl": "All rights reserved"
+                        }
+                    },
+                    "url": {
+                        "nl": "https://image.routeyou.com/shrink/fit/500x500/6a8f8568258124e6252aa10d92553ff0_5ecfb1e4fd5e5ae7d53206bf073c42b09b189f41.jpg"
+                    }
+                }
+            }
+        }
+    ],
+    "languages": [
+        "nl"
+    ],
+    "lengthRelative": 0.6
+}

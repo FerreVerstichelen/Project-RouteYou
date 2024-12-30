@@ -1,0 +1,725 @@
+{
+    "scoreCalculated": 0.35739467,
+    "scoreAuthor": null,
+    "payable": false,
+    "updatedDate": "2023-10-04 18:38:00.453321+00",
+    "autoPois": {
+        "nl": false
+    },
+    "id": 6828494,
+    "length": 8552,
+    "begin": {
+        "wkt": "POINT(3.47872 50.83206)"
+    },
+    "beginAddress": "Oudstrijderstraat, Anzegem, België",
+    "end": {
+        "wkt": "POINT(3.48106 50.83657)"
+    },
+    "endAddress": "Kortestraat, Anzegem, België",
+    "centroid": {
+        "wkt": "POINT(3.4954990735929 50.8314639200119)"
+    },
+    "bounds": {
+        "wkt": "BOX(3.47785 50.82282,3.51656 50.84121)"
+    },
+    "owner": {
+        "id": 172924,
+        "type": {
+            "id": 1
+        },
+        "flag": "be",
+        "avatarRevision": 1,
+        "logoRevision": 1,
+        "headerRevision": 1,
+        "privileges": [],
+        "configuration": {
+            "subdomain": "wandelroutesorg.routeyou.com",
+            "logo": {
+                "uri": {
+                    "nl": "http://www.wandelroutes.org/"
+                }
+            },
+            "planner": {
+                "settings": {
+                    "map.bounds": {
+                        "min": {
+                            "lat": 51.267,
+                            "lon": 4.7915
+                        },
+                        "max": {
+                            "lat": 51.2991,
+                            "lon": 4.9079
+                        }
+                    },
+                    "map.overlays": [
+                        "hikingNodes"
+                    ],
+                    "suggest.show.basic": [
+                        "route.suggestionType.toggle",
+                        "route.length.slider",
+                        "route.type.choose",
+                        "routing.select",
+                        "route.beginLocation.search",
+                        "route.viaPointLocations.search",
+                        "route.endLocation.search",
+                        "route.actions.list"
+                    ],
+                    "suggest.params.route.type.id": 2,
+                    "suggest.route.type.choose.ids": [
+                        2
+                    ],
+                    "suggest.params.routing.id": 63
+                }
+            }
+        },
+        "name": {
+            "nl": "wandelroutes.org"
+        },
+        "languages": [
+            "nl"
+        ],
+        "permission": {
+            "writable": false
+        },
+        "nick": "wandelroutes.org"
+    },
+    "type": {
+        "id": 24,
+        "tree": [
+            {
+                "id": 0,
+                "name": {
+                    "nl": "Alle routes"
+                },
+                "languages": [
+                    "nl"
+                ]
+            },
+            {
+                "id": 1,
+                "name": {
+                    "nl": "Fietsroute"
+                },
+                "languages": [
+                    "nl"
+                ]
+            },
+            {
+                "id": 5,
+                "name": {
+                    "nl": "Recreatieve fietsroute"
+                },
+                "languages": [
+                    "nl"
+                ]
+            }
+        ],
+        "name": {
+            "nl": "Handbikeroute"
+        },
+        "languages": [
+            "nl"
+        ]
+    },
+    "flag": "be",
+    "score": 0,
+    "scoreMethod": {
+        "id": 2
+    },
+    "correctness": null,
+    "correctnessMethod": {
+        "id": null
+    },
+    "duration": 3078,
+    "downloadable": false,
+    "inputFormat": {
+        "id": 0,
+        "recording": false
+    },
+    "ascent": {
+        "total": 74,
+        "net": 4,
+        "totalRelative": 0.6
+    },
+    "descent": {
+        "total": 70,
+        "totalRelative": 0.6
+    },
+    "ascendingRate": {
+        "max": 0.03997078,
+        "avg": null,
+        "maxRelative": 0.8,
+        "avgRelative": null
+    },
+    "difficulty": 0.5666666666666667,
+    "difficultyAuthor": null,
+    "permission": {
+        "id": 0,
+        "read": "public",
+        "write": "group",
+        "writable": false
+    },
+    "planner": {
+        "id": 2
+    },
+    "parent": null,
+    "configuration": null,
+    "editedDate": "2020-01-25 09:40:12.747438+00",
+    "createdDate": "2020-01-25 09:40:12.701898+00",
+    "lastReviewDate": null,
+    "otnId": {
+        "nl": null
+    },
+    "name": {
+        "nl": "anzegem"
+    },
+    "nameGenerated": {
+        "nl": false
+    },
+    "subName": {
+        "nl": null
+    },
+    "trackName": {
+        "nl": null
+    },
+    "description": {
+        "nl": ""
+    },
+    "descriptionGenerated": {
+        "nl": false
+    },
+    "generatedInfo": {
+        "nl": "<span class=\"routeYou_node\">37</span> - <span class=\"routeYou_node\">51</span> - <span class=\"routeYou_node\">51</span> - <span class=\"routeYou_node\">52</span> - <span class=\"routeYou_node\">1</span> - <span class=\"routeYou_node\">1</span> - <span class=\"routeYou_node\">2</span> - <span class=\"routeYou_node\">2</span> - <span class=\"routeYou_node\">3</span> - <span class=\"routeYou_node\">4</span> - <span class=\"routeYou_node\">5</span> - <span class=\"routeYou_node\">43</span> - <span class=\"routeYou_node\">42</span> - <span class=\"routeYou_node\">41</span> - <span class=\"routeYou_node\">40</span> - <span class=\"routeYou_node\">39</span> - <span class=\"routeYou_node\">39</span> - <span class=\"routeYou_node\">38</span> - <span class=\"routeYou_node\">36</span>"
+    },
+    "source": {
+        "name": {
+            "nl": null
+        },
+        "uri": {
+            "nl": null
+        }
+    },
+    "infoUri": {
+        "nl": null
+    },
+    "breadcrumbRegions": [
+        {
+            "id": 47408063,
+            "flag": "be",
+            "type": {
+                "id": 415
+            },
+            "name": {
+                "ca": "Anzegem",
+                "de": "Anzegem",
+                "en": "Anzegem",
+                "es": "Anzegem",
+                "fr": "Anzegem",
+                "it": "Anzegem",
+                "nl": "Anzegem"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47418551,
+            "flag": "be",
+            "type": {
+                "id": 522
+            },
+            "name": {
+                "ca": "Leiestreek",
+                "de": "Leiestreek",
+                "en": "Leiestreek",
+                "es": "Leiestreek",
+                "fr": "Leiestreek",
+                "it": "Leiestreek",
+                "nl": "Leiestreek"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407878,
+            "flag": "be",
+            "type": {
+                "id": 409
+            },
+            "name": {
+                "ca": "West-Vlaanderen",
+                "de": "West-Vlaanderen",
+                "en": "West-Vlaanderen",
+                "es": "West-Vlaanderen",
+                "fr": "West-Vlaanderen",
+                "it": "West-Vlaanderen",
+                "nl": "West-Vlaanderen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407865,
+            "type": {
+                "id": 407
+            },
+            "name": {
+                "ca": "Bèlgica",
+                "de": "Belgien",
+                "en": "Belgium",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "nl": "België"
+            },
+            "flag": "be",
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        }
+    ],
+    "viewCount": 1,
+    "viewCountThisMonth": 0,
+    "downloadCount": 1,
+    "geometry": {
+        "google": "kcguH_mfTBe@^DZv@LDlCyB|EiBz@MP?`@JDLHFTCNEFIF?jGsBf@_ABQCWSeARdABVCPg@~@CX@d@TrAZr@r@v@LJNBVAzLmGJCLNBRP|CJbAj@vCN^Tl@bDsCl@s@DU?O{@gE_@}CBa@Tk@FWByAXYYXo@qC}@uCa@}A{@iEuAuKOqCIeJ[cHK}AWuBGy@[kBEK]AOQLc@PeBT}K@o@An@kBGCEIAMDKb@ObCKJSrCy@xG{@c@TmC@cBA}AQ}COoAIaAmCw_@AKiAkPQoAwA}FE_@DYByACIuJ}^KRYh@sByCuCyE{B}EIHaAqCMWiAuAkAmCa@gAq@p@_@JcE@`@lBd@lBb@hBv@nFz@hF{@z@Un@k@zJG~A@v@`@pG?b@SfCKz@Sj@_AnAKPMVq@rCu@jB_AbBy@l@uAjBKXCVCRF`AiDpAwC|As@VUBmBAoEFmCN?`DDrBR~APz@@ZYnK?f@LfCAtVAZMHLItB|L\\dBXbALx@PpEAdB`@dFLnA^rDV`BFV`@dAl@hArFvHdB`BT^\\W^a@fAdB"
+    },
+    "elevation": {
+        "google": "_gk|H?~hbE}H?aL~hbEkQ?}D~po]y`A~po]k}A~hbEwW?iF~hbEeM?iC~hbEqC?aH?uE?cC?gB~po]epB~hbEcV?}C?kE?wR?wR?kE?}C_ibEcV?}E?wH_ibEmV~hbEqP_ibEsX?mE?sE?yH~reKu`E?}C?aF?kD?ih@?eQ_ibE_j@?oI_ibEyM~hbE{kA?aV?cE?cC~hbE}w@~hbEui@?}G?mM_ibE}E?gV?oK?oK?ki@~reKcm@?{Z~hbEkx@~reKemB?ce@~hbEe{A?}jA?uW?{^_ibEgN_ibEa]?}B?eK?_G?{I?gZ~hbE{iB?kK?kK_ibEak@?gA?aC?}D_ibEmI_seKqa@_ibEyD?}e@~hbEgkA_ibEcY_ibEsd@?wX?eW?ih@~hbEqT_}hQoP_}hQurG?eB_kmtAcqC_ibE{T_glWoiA_}hQsG~|hQaF?gV?_B~|hQynH?cF_seKcN?s|@~reK}qA~|hQekA?{C~reKcm@?mG~hbEkd@~flW{n@?cV?aW~hbEkL~|hQynA_ibEo^?g_@_seK_^_seKw`A_glW_`A~reK{[?gN_qo]kbB_ibE{W_seKmM_seKyfA_ibEgH?}b@_seKeO_seK}L_ibEe`@_ibEwE?kG_seKej@_seKmb@_glWsc@?kY_glWuk@_ibEiG?kE?kD_ibEiP_}hQkgA?maA~hbEaU?_H~hbEyk@~flWwsA~reK}x@~|hQuh@~hbE}\\~reK}X?cP~hbEgF~hbEkfB?iI~hbEmb@~zrc@{aE?gF?gE?iE_}hQi{B~hbE}[?mS_seK_O?ou@?eY~hbEw{@?kT~hbEao@~reKaZ?}E~reKwU_ibEuY~flWu~B_}hQso@~hbEcK?uL_seKwN?if@"
+    },
+    "instructions": [
+        {
+            "atGeometry": "POINT(3.47872 50.83206)",
+            "distance": 0,
+            "using": "",
+            "at": null,
+            "to": "37",
+            "fromBearing": null,
+            "toBearing": 99.46200185877,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(3.47891 50.83204)",
+            "distance": 13.569298593453,
+            "using": "",
+            "at": "37",
+            "to": "51",
+            "fromBearing": 99.46200185877,
+            "toBearing": -173.2462237703,
+            "angle": 87.291774370927
+        },
+        {
+            "atGeometry": "POINT(3.48029 50.82760)",
+            "distance": 545.09373991978,
+            "using": "",
+            "at": "51",
+            "to": "50",
+            "fromBearing": 164.70881919453,
+            "toBearing": 134.69634796674,
+            "angle": -30.012471227792
+        },
+        {
+            "atGeometry": "POINT(3.48117 50.82750)",
+            "distance": 619.28585423831,
+            "using": "",
+            "at": null,
+            "to": "51",
+            "fromBearing": 65.661465862067,
+            "toBearing": -114.33826280106,
+            "angle": -179.99972866313
+        },
+        {
+            "atGeometry": "POINT(3.48029 50.82760)",
+            "distance": 693.47796855691,
+            "using": "",
+            "at": "51",
+            "to": "52",
+            "fromBearing": -45.303403954018,
+            "toBearing": -76.311502865328,
+            "angle": -31.00809891131
+        },
+        {
+            "atGeometry": "POINT(3.47808 50.82401)",
+            "distance": 1281.7982804639,
+            "using": "",
+            "at": null,
+            "to": "52",
+            "fromBearing": -128.3619047409,
+            "toBearing": -127.12909150302,
+            "angle": 1.23281323788
+        },
+        {
+            "atGeometry": "POINT(3.47785 50.82390)",
+            "distance": 1302.1057394524,
+            "using": "",
+            "at": "52",
+            "to": "1",
+            "fromBearing": -127.12909150302,
+            "toBearing": 150.31306395586,
+            "angle": -82.557844541121
+        },
+        {
+            "atGeometry": "POINT(3.48179 50.82309)",
+            "distance": 1662.4100100599,
+            "using": "",
+            "at": "1",
+            "to": "99",
+            "fromBearing": 94.02423954898,
+            "toBearing": 147.71861726645,
+            "angle": 53.694377717467
+        },
+        {
+            "atGeometry": "POINT(3.48192 50.82296)",
+            "distance": 1679.5289193396,
+            "using": "",
+            "at": null,
+            "to": "1",
+            "fromBearing": 147.71861726645,
+            "toBearing": -32.281281956987,
+            "angle": -179.99989922344
+        },
+        {
+            "atGeometry": "POINT(3.48179 50.82309)",
+            "distance": 1696.6478286193,
+            "using": "",
+            "at": "1",
+            "to": "2",
+            "fromBearing": -32.281281956987,
+            "toBearing": 62.505644713349,
+            "angle": 94.786926670337
+        },
+        {
+            "atGeometry": "POINT(3.49557 50.82516)",
+            "distance": 2738.8120861772,
+            "using": "",
+            "at": "2",
+            "to": "11",
+            "fromBearing": 94.807822077173,
+            "toBearing": 93.773711551711,
+            "angle": -1.0341105254617
+        },
+        {
+            "atGeometry": "POINT(3.49581 50.82515)",
+            "distance": 2755.7593201043,
+            "using": "",
+            "at": null,
+            "to": "2",
+            "fromBearing": 93.773711551711,
+            "toBearing": -86.22610239515,
+            "angle": -179.99981394686
+        },
+        {
+            "atGeometry": "POINT(3.49557 50.82516)",
+            "distance": 2772.7065540314,
+            "using": "",
+            "at": "2",
+            "to": "3",
+            "fromBearing": -86.22610239515,
+            "toBearing": 2.6789861024221,
+            "angle": 88.905088497572
+        },
+        {
+            "atGeometry": "POINT(3.49275 50.82673)",
+            "distance": 3112.6403465164,
+            "using": "",
+            "at": "3",
+            "to": "4",
+            "fromBearing": 20.75673052913,
+            "toBearing": 103.78064047899,
+            "angle": 83.023909949856
+        },
+        {
+            "atGeometry": "POINT(3.50119 50.82755)",
+            "distance": 3720.0955759196,
+            "using": "",
+            "at": null,
+            "to": "4",
+            "fromBearing": 77.891056487609,
+            "toBearing": 75.218987086683,
+            "angle": -2.672069400926
+        },
+        {
+            "atGeometry": "POINT(3.50125 50.82756)",
+            "distance": 3724.4669500082,
+            "using": "",
+            "at": "4",
+            "to": "5",
+            "fromBearing": 75.218987086683,
+            "toBearing": 78.10038529875,
+            "angle": 2.881398212067
+        },
+        {
+            "atGeometry": "POINT(3.50599 50.82846)",
+            "distance": 4078.0223471589,
+            "using": "",
+            "at": "5",
+            "to": "43",
+            "fromBearing": 110.06957065912,
+            "toBearing": 94.024699224081,
+            "angle": -16.044871435037
+        },
+        {
+            "atGeometry": "POINT(3.51150 50.83039)",
+            "distance": 4539.4813099238,
+            "using": "",
+            "at": null,
+            "to": "43",
+            "fromBearing": -46.470557454426,
+            "toBearing": -45.57574460122,
+            "angle": 0.894812853206
+        },
+        {
+            "atGeometry": "POINT(3.51129 50.83052)",
+            "distance": 4560.1704938681,
+            "using": "",
+            "at": "43",
+            "to": "42",
+            "fromBearing": -45.57574460122,
+            "toBearing": 39.980208541094,
+            "angle": 85.555953142313
+        },
+        {
+            "atGeometry": "POINT(3.51624 50.83523)",
+            "distance": 5251.8648934089,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": -0.36923267857075,
+            "toBearing": -116.07753202005,
+            "angle": -115.70829934148
+        },
+        {
+            "atGeometry": "POINT(3.51515 50.83486)",
+            "distance": 5339.0490779023,
+            "using": "",
+            "at": null,
+            "to": "42",
+            "fromBearing": -120.38888749128,
+            "toBearing": -116.49479085748,
+            "angle": 3.8940966338
+        },
+        {
+            "atGeometry": "POINT(3.50589 50.83518)",
+            "distance": 6057.7006803517,
+            "using": "",
+            "at": "42",
+            "to": "41",
+            "fromBearing": -38.288974810937,
+            "toBearing": -43.450630181294,
+            "angle": -5.1616553703568
+        },
+        {
+            "atGeometry": "POINT(3.50288 50.83695)",
+            "distance": 6353.3232810846,
+            "using": "",
+            "at": null,
+            "to": "41",
+            "fromBearing": -75.216121698713,
+            "toBearing": -72.427405446379,
+            "angle": 2.788716252334
+        },
+        {
+            "atGeometry": "POINT(3.50245 50.83693)",
+            "distance": 6384.379019223,
+            "using": "",
+            "at": "41",
+            "to": "40",
+            "fromBearing": -100.86476388277,
+            "toBearing": -16.941490416006,
+            "angle": 83.923273466769
+        },
+        {
+            "atGeometry": "POINT(3.49945 50.84108)",
+            "distance": 7006.238371472,
+            "using": "",
+            "at": null,
+            "to": "40",
+            "fromBearing": -108.25839126999,
+            "toBearing": -115.41128757622,
+            "angle": -7.15289630623
+        },
+        {
+            "atGeometry": "POINT(3.49915 50.84099)",
+            "distance": 7029.6214512688,
+            "using": "",
+            "at": "40",
+            "to": "39",
+            "fromBearing": -115.41128757622,
+            "toBearing": -96.453463763002,
+            "angle": 18.957823813214
+        },
+        {
+            "atGeometry": "POINT(3.49220 50.84106)",
+            "distance": 7520.657036997,
+            "using": "",
+            "at": "39",
+            "to": "34",
+            "fromBearing": -83.546418084878,
+            "toBearing": -24.277848632428,
+            "angle": 59.268569452451
+        },
+        {
+            "atGeometry": "POINT(3.49215 50.84113)",
+            "distance": 7529.2035831154,
+            "using": "",
+            "at": null,
+            "to": "39",
+            "fromBearing": -24.277848632428,
+            "toBearing": 155.722112597,
+            "angle": 179.99996122943
+        },
+        {
+            "atGeometry": "POINT(3.49220 50.84106)",
+            "distance": 7537.7501292339,
+            "using": "",
+            "at": "39",
+            "to": "38",
+            "fromBearing": 155.722112597,
+            "toBearing": -112.73164627097,
+            "angle": 91.546241132029
+        },
+        {
+            "atGeometry": "POINT(3.48612 50.83987)",
+            "distance": 7991.1948052643,
+            "using": "",
+            "at": "38",
+            "to": "36",
+            "fromBearing": -103.17476115562,
+            "toBearing": -105.48907885286,
+            "angle": -2.3143176972386
+        },
+        {
+            "atGeometry": "POINT(3.48106 50.83657)",
+            "distance": 8552.0624036513,
+            "using": "",
+            "at": null,
+            "to": null,
+            "fromBearing": -138.18174360217,
+            "toBearing": null,
+            "angle": null
+        }
+    ],
+    "statistics": {
+        "routing": {
+            "hikingNodes": 1
+        }
+    },
+    "segments": [
+        [
+            3.47872,
+            50.83206,
+            63
+        ],
+        [
+            3.48117,
+            50.8275,
+            63
+        ],
+        [
+            3.47808,
+            50.82401,
+            63
+        ],
+        [
+            3.48192,
+            50.82296,
+            63
+        ],
+        [
+            3.49581,
+            50.82515,
+            63
+        ],
+        [
+            3.49595,
+            50.82684,
+            63
+        ],
+        [
+            3.50119,
+            50.82755,
+            63
+        ],
+        [
+            3.50649,
+            50.82846,
+            63
+        ],
+        [
+            3.5115,
+            50.83039,
+            63
+        ],
+        [
+            3.51624,
+            50.83523,
+            63
+        ],
+        [
+            3.5151417643189,
+            50.83486617517,
+            63
+        ],
+        [
+            3.5058,
+            50.83524,
+            63
+        ],
+        [
+            3.50288,
+            50.83695,
+            63
+        ],
+        [
+            3.49945,
+            50.84108,
+            63
+        ],
+        [
+            3.49215,
+            50.84113,
+            63
+        ],
+        [
+            3.48572,
+            50.8398,
+            63
+        ],
+        [
+            3.48106,
+            50.83657,
+            63
+        ]
+    ],
+    "pois": [],
+    "languages": [
+        "nl"
+    ],
+    "lengthRelative": 0.3
+}

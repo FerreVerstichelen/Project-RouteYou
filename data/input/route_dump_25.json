@@ -1,0 +1,522 @@
+{
+    "scoreCalculated": 0.00001,
+    "scoreAuthor": null,
+    "payable": false,
+    "updatedDate": "2023-10-04 18:35:23.089103+00",
+    "autoPois": {
+        "en": false
+    },
+    "id": 6792128,
+    "length": 49870,
+    "begin": {
+        "wkt": "POINT(5.18029 51.02904)"
+    },
+    "beginAddress": "Steengroefstraat, Beringen, Limburg, Flanders",
+    "end": {
+        "wkt": "POINT(4.70087 50.87915)"
+    },
+    "endAddress": "Louvain, Flemish Brabant, Flanders",
+    "centroid": {
+        "wkt": "POINT(4.94770166898801 50.9453591616729)"
+    },
+    "bounds": {
+        "wkt": "BOX(4.70087 50.87908,5.18029 51.02907)"
+    },
+    "owner": {
+        "id": 417161,
+        "type": {
+            "id": 1
+        },
+        "flag": null,
+        "avatarRevision": 0,
+        "logoRevision": 0,
+        "headerRevision": 0,
+        "privileges": [],
+        "configuration": null,
+        "name": {
+            "en": "Jakke211"
+        },
+        "languages": [
+            "en"
+        ],
+        "permission": {
+            "writable": false
+        },
+        "nick": "Jakke211"
+    },
+    "type": {
+        "id": 6,
+        "tree": [
+            {
+                "id": 0,
+                "name": {
+                    "en": "All routes"
+                },
+                "languages": [
+                    "en"
+                ]
+            },
+            {
+                "id": 1,
+                "name": {
+                    "en": "Cycle route"
+                },
+                "languages": [
+                    "en"
+                ]
+            }
+        ],
+        "name": {
+            "en": "Road bike route"
+        },
+        "languages": [
+            "en"
+        ]
+    },
+    "flag": "be",
+    "score": 0,
+    "scoreMethod": {
+        "id": 2
+    },
+    "correctness": null,
+    "correctnessMethod": {
+        "id": null
+    },
+    "duration": 7181,
+    "downloadable": false,
+    "inputFormat": {
+        "id": 0,
+        "recording": false
+    },
+    "ascent": {
+        "total": 267,
+        "net": -18,
+        "totalRelative": 0.5
+    },
+    "descent": {
+        "total": 285,
+        "totalRelative": 0.5
+    },
+    "ascendingRate": {
+        "max": 0.05887876,
+        "avg": null,
+        "maxRelative": 0.7,
+        "avgRelative": null
+    },
+    "difficulty": 0.5,
+    "difficultyAuthor": null,
+    "permission": {
+        "id": 0,
+        "read": "public",
+        "write": "group",
+        "writable": false
+    },
+    "planner": {
+        "id": 5
+    },
+    "parent": null,
+    "configuration": null,
+    "editedDate": "2020-01-05 13:07:27.965751+00",
+    "createdDate": "2020-01-05 13:07:27.9373+00",
+    "lastReviewDate": null,
+    "otnId": {
+        "en": null
+    },
+    "name": {
+        "en": "Beringen - Louvain"
+    },
+    "nameGenerated": {
+        "en": true
+    },
+    "subName": {
+        "en": null
+    },
+    "trackName": {
+        "en": null
+    },
+    "description": {
+        "en": "<p>From: Steengroefstraat, Beringen, Limburg, Flanders<br/>\nTo: Louvain, Flemish Brabant, Flanders</p>\n\n<p>Routing: Recreational cycling - node network</p>"
+    },
+    "descriptionGenerated": {
+        "en": true
+    },
+    "generatedInfo": {
+        "en": null
+    },
+    "source": {
+        "name": {
+            "en": null
+        },
+        "uri": {
+            "en": null
+        }
+    },
+    "infoUri": {
+        "en": null
+    },
+    "breadcrumbRegions": [
+        {
+            "id": 47307997,
+            "flag": "be",
+            "type": {
+                "id": 415
+            },
+            "name": {
+                "ca": "Ciutat de Beringen",
+                "de": "Stadt Beringen",
+                "en": "City of Beringen",
+                "es": "Ciudad de Beringen",
+                "fr": "Ville de Beringen",
+                "it": "Città di Beringen",
+                "nl": "Stad Beringen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47418548,
+            "flag": "be",
+            "type": {
+                "id": 522
+            },
+            "name": {
+                "ca": "Limburgse Kempen",
+                "de": "Limburgse Kempen",
+                "en": "Limburgse Kempen",
+                "es": "Limburgse Kempen",
+                "fr": "Limburgse Kempen",
+                "it": "Limburgse Kempen",
+                "nl": "Limburgse Kempen"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407870,
+            "flag": "be",
+            "type": {
+                "id": 409
+            },
+            "name": {
+                "ca": "Limburg",
+                "de": "Limburg",
+                "en": "Limburg",
+                "es": "Limburg",
+                "fr": "Limbourg",
+                "it": "Limburg",
+                "nl": "Limburg"
+            },
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        },
+        {
+            "id": 47407865,
+            "type": {
+                "id": 407
+            },
+            "name": {
+                "ca": "Bèlgica",
+                "de": "Belgien",
+                "en": "Belgium",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "nl": "België"
+            },
+            "flag": "be",
+            "languages": [
+                "ca",
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "nl"
+            ]
+        }
+    ],
+    "viewCount": 1,
+    "viewCountThisMonth": 0,
+    "downloadCount": 1,
+    "geometry": {
+        "google": "ormvHywr^BlBCn@NxCNtBSvCOrAAZ@^`@dCLdG?xAB`AFz@RlBJ|ATbENlDpAvHVfA}BpC~@~AvAfB|AvBzAhCNHT?RK^e@PHpAXbBRjCh@|@\\fBjB`A\\^DtBnBVf@VNjCvD~ExHxDzIbB~ChBhCH?d@WVEzBCvAF~BT`ANBbAJZvLxE~ExBtAh@DFF?jDnAl@NXEnAy@JNR|@f@rAHZdDfPfClKP~@Bx@Th@H~@XhBRPdGHhBQtD{@r@I@tADfANlAPz@nArDx@dB`@rAfAzEZt@f@vBn@fDjAvEX`AIXaAv@g@h@_AnAANT`GFd@v@xC@LCPIPsAfAM`@DfARxA@f@h@xFt@jDFz@@|@FrAPjC^`EATQjA_@hD?j@nBtAnC`BvAt@^Jb@AjAHr@\\XVzAhBr@n@|DdBv@RTBPA~Al@Bp@@ZQlP]xSBnCJnF`@zOVfHVvCn@dAZp@`@Z~@XJPVx@tGhVV~AZ~Ad@dBlB~EpEbMd@fAxFpE`CxBfExE~FjNKj@\\p@rGfK`At@rAx@fAh@n@H~@MdA_@jA{@f@u@x@cCj@qAj@{@t@s@x@o@rDiCn@Kt@Jp@\\n@p@f@lAX`Ap@nCLt@rCoBfBuAX[v@aCt@aEj@kD\\kAR_AXHlC|Ad@f@|BxCx@~@|@h@LOnDeAzBOhDErALBr@h@xDn@bCpClHV`A?TGR_@HcDYSHTHj@`AhAtD\\|B`@|B\\tA`@bAv@xAlD|AfK|DrCzA~ElBz@LfBMh@OBb@jAlBZnADhCAxDOzCKvAYnAo@`Bk@l@g@|Am@lCWrCsHhUqJlMfBtDaDtCqPjMpAlDH`@vCjHx@~B|CtNnC`NNn@n@vBzAxD^r@nAtAx@f@f@PDZbBvEdAfCTp@Lx@PlBh@~GLxAVzBBd@DtBI`FNrCA`@dDxKPt@j@fDZ`@tAXPNlFrLp@rATXtDhBVTLVnAzDLRLHVF`@AjCOjFQv@A|BFPGTUf@[VAd@R`Ax@^LpBOtBJFf@z@dF~B~L\\pClEjm@@v@Cf@Gb@Qx@y@hBKh@?h@B\\|A|NTtAXtAlBhHRjALhBBxFC|@W`BY|@{AbCyApBx@vB\\lAtDpQThBFpAHdAd@tCd@~E@Vd@vBv@nBX|Cn@nD`@~Dh@jEd@bFF|ADbCFv@T|@Xl@bB|B`@x@Jn@^dEJ`@M^Cf@DlIJpCL|AGxJI~EGzAyFwBk@YMJeC}@]R[X\\tApAvGJ\\Wp@Wf@s@p@]ZoCvAUNQTEV?Rb@~BDl@BjBCd@EX[pA[r@UV{@d@w@rAf@rAL|@F|@@v@HjBHrAPdB`@jB\\bAlBxE\\dA`AvHTjCPn@LTh@`@d@j@~@zAfCh@p@RjAd@fAz@Xl@bEqAh@Bb@P`@Zt@|BHJDBR?r@UJ~@DfBwAn@c@`@Sh@e@|@]f@o@j@eChCa@|@yBzI}@xGIdAIjBW|C[tB_@bBW~Ae@tAO|@GfB@t@BXTtAXbAFBVIjAu@Hd@hArJZxBp@hHAf@O\\u@jAQh@[LcAr@}CjD_A|@?V_@jByA`H]pAjEzF`AvAbDjEDd@Nr@NfAZvKBThB|Kn@vCHh@j@`CX~@RPb@Dv@IPR`@[VKfDw@jCwA~B[~CaANI\\]zBqDtFlYHr@FtA?hIMpB?xAJn@lC~HPn@z@xB|IhQRl@`C`J`@bBnAbHHZNd@`@l@Pb@pEzM~@vC~Aq@d@GPBRLv@t@Vb@Xr@b@|ARd@Vb@fBfBf@~@hAnCjAdCFQjFhJdBjDt@lAVXPJjFfBPLzBrFd@bAfAhBDNZn@JFPp@`@tBdB`Hb@bCz@xFLhAH`@FRxCfGL^`DlM?Rk@pD?X^fFD`EEzAS`C?j@LfBJt@Px@\\jADd@DzA?fAZvIJhHeAlAEJCP?PFXdAlDpAbFVr@|@dBJZfBzGrLp`@tF|QZjAFXh@jFaATaET_CXsAXQNER@tAGxC@fAVjDRjEb@xF@bAYxCe@|DStBKdC@xAl@zGJx@LX?^VtCBxA[hQD`ADd@Lj@bB~GJ|@D~@TzOHrDCnEI~EAnC@f@\\dDDv@Bj@?~Ac@hGIn@Md@O\\QTsAnASb@Wz@O~@i@nEQhBC|BBh@DzJDr@Jt@Nf@Th@xEzG`IxKlApBnApCn@tBb@pBjFpZGP?`@FnBoCrAc@LaABeBUoCu@uCq@{@OODIZBd@t@~JJn@e@h@wAnAeQ~Ng@TyAZLNpFdEbGhFnCrCvBhC~C|EdAtBPl@Dj@Cj@u@pBWtA|@fAR`@Pt@P~ATbGHf@R^FRDtEAhHKdDMjGEvE@^DNl@ZnAd@p@NFHBN@vVBdAH~@H~A?bG|AdIvDnPRnBBbAjARtAjJFfAAvFItA_@bCAD?|AUfEG`EFdALrAJr@VfApBzFh@pAr@hA|DfEz@nAxCtE^p@tA~CdAvCnDpI\\`A|@vBxAbEr@`C`ArDnAxFPpATdHFlMJjAf@`DRnC?\\EfDCj@Id@Sb@_BpBALLh@NZhBfFfHpRrA`EtBrFtCfIdHnRq@`Am@rAQj@UbAObAKlAGpA?x@FjBRnBThAh@hBDZADGPOLeAZc@XwBjCq@r@SNkAHsBODj@`AtE|ErTXfAxBvJzChNZrATr@xBdKX`A^~@~C~Fh@pBzBfKZ`Bj@nJjF}D\\?lA\\^AjCqAhBWXCR@@UJFApBHNtJhBXVPDs@dUK|BMdFAlBjExAMrTElD?TFJd@PNZNdGCBBjBHlC^ANDFFpB~EDDd@hAtApENZNz@N@DXvGnNnG~KJ`@DpCnESzAO@^P?ZHv@b@dA`A\\`@b@x@Z`@f@Nn@^ZTb@b@T\\Tf@Rn@b@`CV\\?[@?Di@F_@bDyGVr@Dv@Hd@Zd@VBTGdB{Ap@c@`F_C|@bKE@RdCNHXMBYIGw@PRvBeAZ?DNpA?JfFfj@Bd@~AdQZxDHb@LfAB\\A^GTY`@FJTLRp@?^MbC"
+    },
+    "elevation": {
+        "google": "__~cH?~hbEyC?eA_ibEyE?iD?yE?{B?g@_ibEm@?iE_ibEqJ?}B~hbE}A?uA~reKaD?eC~reKwG?wF~hbE{M?qB_ibE{I~hbEcE_ibEuF_ibEkG_seK{G?e@?o@?o@~hbEyA?i@_}hQyD?aF_seK}H?oC?uG_ibEwC_ibEgA~hbEqH~hbEmA?y@~reKuK_ibE{S_}hQaS_ibE{H~reKqH?U_ibE{A?u@?sG~reKeE~zrc@}G?uC~hbE_B?o@~jmtAc_@~hbEoO~hbEgE?Q?Q_ibEoK?gB?{@~hbEcE?a@?aB?sC?m@~hbE{Y?}R?aB_ibEqA?mA?{A?_D?s@~hbEgQ~hbEmF?}K?uB?wB?eB?sB?}A_ibEuH?_E_ibEmC_seK{I?aB_ibE_E?cG~reK{I~hbEkB?k@_ibEeD?kB?uD?U?mJ?y@?yF?S?Y?a@?uE?w@?eB?eC?y@?kJ?mG?uA?wA?wB?gE?yG?_@_ibEqB?yF?}@~hbEuG~hbE{I~hbEsE?gA_ibEqA_seKiD?yB?cA_}hQ}F_ibEeC_ibE_M_ibE_C?o@?i@_ibE}E?gA?g@~po]qW~flWk\\~hbEiE~reKsI~hbE{V?cL?{E?qC?}A?uA?qC?e@?aB~hbEae@?qC?uC?eD_ibEoK_seKuW_seKcC_oyo@uR_ibEqI~reK}O~nyo@a[?aA~hbEaB~hbEyX~reKeD?kE~hbEkD~hbEkB_ibEoC_ibEaD~hbE}D_ibEuB?aF~reKwC~hbE_C_ibEmC?qC_ibE}L~reKkB_ibEyB_ibEwB~hbE_C_}hQkC?mB~hbEgF~hbEqA~reKmJ?eG~hbEeA?}E?iH_ibEeG_ibE}B?cB?{@~hbEwI?cB_ibEcJ?}C_ibEuC_ibEe@_ibEuK?sG_seK{J_seK{D?iA?uG?wE_ibEuO?kB?_@?_@_ibEiA~hbEmJ?o@?q@_ibEgC_seKoH~reK}D?aE~hbEiC?yB~hbEqD~hbEyK?q[~hbEcJ~zrc@iO?gC_ibEgF?aB?q@?eF_ibEaC_ibEaE?eG~hbE}E?_C?}B?mD~hbEuB~hbE_D_ibE_F_ibEwE~reKae@?{_@_glWyI~hbEaL~reKak@_ibEqH?u@?}O_ibE}E?uW?mV~hbEkA_ibEgE?mI?eB_ibEwE~hbEkC?}A?i@?wJ?wF?uA?uA_ibE_D~hbEaL?aC_ibEuD?u@?gD_ibE}H?sE?o@~hbEmT?uA~hbE_G?oA~hbEaE_ibEm@~hbEkX?cD~hbE{@_seKqL?{@?m@_seK_I?i@?a@?w@_ibEkA_seKwH_glWoO_ibE{B_ibEyG?i@?y@?_B?u@?yA?gD?iA_ibE_G_}hQgG?y@?_J_seKsT?wE~reK}aA?mA?y@?u@~hbEyA_ibEeE?_A?{@?k@~hbEkV?aC~hbEeC?gN?sB?wC~reK_J?wA?sC~hbEgB~hbEuG~hbE_G?uE?_C_glWa\\?}C?sB~hbEeB?cF~hbEeI?a@~hbE}D_ibEiE?eF_ibEmG?wG_ibEmH_ibEkI~hbEeC?yD?qA?cB~hbEwA?{G?oB?gA~hbE_H?w@?u@~hbEy@~hbEuM?oE?gC_ibEsO_ibE{H?cC?eQ?iB?a@~hbEwH_ibEgA_ibEiA~hbEiC?qL?q@?yA_ibEkA_ibEgC_seKmA_{rc@wI?u@_ibEs@?c@?[_ibEeE~hbEaA_ibEwC?u@?g@_ibEaC?_B?{@?oC~hbEkD?sC?}A?wA?oA~hbEyC~hbEwB?uC?iD~hbEsB~|hQiK?uB~hbEoM~reKkE?mA?k@?iB~hbEgB?aE_ibEsH?sB~hbEqD~hbEsD?wA~hbEcM?}A_ibEsA?uA?uE?[?M?m@_ibEwB?}A~hbEqC~hbEoE?}A?iA?yB?wA?yB~hbEeJ?sB_glWoP_ibEcL?eB~hbEyC?cF?qD?}C?qC~hbEsC?}A?sC?kA?e@~hbEaC?oB?S?u@~hbEyD?y@_}hQeP_seKuD_c`|@sL?w@?w@~hbE_D?gA?aA?gD~hbEkL~hbEeD?a@?gD?gM?eC_ibE_Q~reKaE~flWoM?w@~reKqA~hbEiB~|hQcQ?_@~hbEsR?oF?_A?oE_ibEiB?s@?oA?}B?q@?uA?w@~reK}J_ibEoI_seK_H?qJ?e@?mA_ibEuJ?_h@?mA?yB~hbEqM?aD?_C?gA~reKgP?mA?yE_ibEob@?oA_ibE_Q?_D~hbEaM?k@?_A_ibEcB?aA~hbEqX~hbE_G_ibEaF?uA?g@?q@_ibEqC?iA?{A?{C?eA~hbEiA_ibEqG?}B_ibEeG~hbE}F?_@_seK{U_ibEkI_qo]cD?_A_ibEk@_}hQaP?m@_}hQwL_ibE_C_}hQ{E?Y_seK{A?]_ibEoA_seKwD_{rc@sM_seKiE_}hQyJ_ibEkB?s@_ibEa@_ibEyN?w@_seKgV?[~hbEmG?c@_seKoI?qG?aC?{D?}@_ibEuC?qA?yA_ibE}B?w@_ibEaC~hbEeB?gN?eL~hbE}D?U?[~hbEW?i@~hbEaH_ibEqJ_ibEyA?gE?o@_ibEmM?gw@_seKw^?{B?i@~hbEwI?wC~hbEqL~reK}G~hbE_E?m@?_@?wB?yE?eB?wF~reKcH?gJ~hbE_B?aF?wG?kD~flW_E~hbE}B_}hQ}K~reKuA?o@?m@~reKyE~hbE}B~reK}X?}A?u@?eA_glWoM?yA?{A~hbE{V~reK}F_ibEeH_seK{H_ibEkE~hbEw@_ibEsF?oA?}@?gC_ibE}J~hbEgA?}@?w@?q@~po]yE~hbEcA~hbEcB?aB~lcbAsH~hbEyC~reKqD?{@~dvi@wO~|hQiA?qA_qo]aA~reKkA_evi@uR_qo]y[_ibEmF_glWoG~po]eE~zrc@sD~lcbAei@?_@?o@_seK}C?uI?sA?qC~reKeF?iI_seKuI?gC_seKc@?m@?u@_seKkP_seKgA?gB_glWaF~hbEmm@?}A?kE?e@?_R_ibE{S_ibE}J?kI_seKyM_ibEcF_ibEmA?}@?_A_ibEgE?cC_ibEkD?aA?uA?mC~reKoJ~hbE}@_seK_A?_@~reKmH~flWcL~reKkF~reK{J~reKoH?m@?Y?mB~hbEyD?qB?U?Y~zrc@m`@~hbEcB?{A?iC?mJ_seKyN_glWyZ~hbEcD?_B_ibEkD~reKcP?gB_ibE{I_ibE{B?gE?I_ibEcC?}G_ibEqG?cB?{B?mA?qB_ibEsL?uC_ibE{C_}hQ{N?oD_qo]iM_ibEcB_glWgH_}hQgG_}hQiR_}hQsB?yE~hbEuI_glWwE?eH_}hQiK_ibE{B_ibE_L_ibEkS?oB_ibEsF?oE?i@_ibEmF?}@?y@?cA_ibEkG?S?cA_ibEs@_seKsK~zrc@ma@~zrc@kI~po]qL~|hQyP_seKia@?qC_ibE{C?iA_ibEkB_ibEeB_ibEqB_ibEsB?qA?yC~hbEcD~hbEsB~|hQoD?i@?I~hbE]?g@?aD~|hQwA~po]kI~reKeC?q@~|hQiD~reKcG?_A_ibEoI?ea@~hbEuB_}hQsQ?eW_ibEcC?yA_glWeR~reKkB_ibEsB_ibE{N_qo]yD~po]iR_seKwC~|hQoO_}hQmQ?cA~hbEqD?gA~dvi@mI~nyo@mF~hbEy@~hbEm@?]?]?_D?_@~`jnAoY_ibEaA?i@~|hQo^?sD?eI?{C_ibEwM~reKo]~hbEuF?_@?W?wA?u@~hbEsJ?I?wC?iE?gA?c@?U?sK?O?gC~reK_J?u@_ibE{A?a@~hbEg@?i\\_ibEkY?w@_ibEmE_ibEoM_ibEmE~hbEm@?g@_ibE_A?gC_ibEuD?qA?qB?mA?{A?uB?cA?_B?_A?kA~hbEoA~hbEgE?eA?e@?E_ibE{@?o@_}hQ{O~hbE{A?oA_ibEy@?qA?u@_ibEq@_ibEeG?{B_}hQuO~|hQuP?K_ibEcE_ibEe@?{@?e@?Y~hbE_C_seKmD~reKaD?G?wB?Q_seKc~@?u@?qY_seKmG?u@_ibEkB?i@~hbEm@?c@~reKiA_seKY?s@?sA~hbEm@~reK{D"
+    },
+    "instructions": [
+        {
+            "atGeometry": "POINT(5.18029 51.02904)",
+            "distance": 0,
+            "using": "",
+            "at": null,
+            "to": "523",
+            "fromBearing": null,
+            "toBearing": -93.3088623306,
+            "angle": null
+        },
+        {
+            "atGeometry": "POINT(5.16387 51.02264)",
+            "distance": 1670.7979678018,
+            "using": "",
+            "at": "523",
+            "to": "522",
+            "fromBearing": -133.64763168446,
+            "toBearing": -157.24958330975,
+            "angle": -23.601951625292
+        },
+        {
+            "atGeometry": "POINT(5.12588 50.99773)",
+            "distance": 6345.3368040092,
+            "using": "",
+            "at": "522",
+            "to": "315",
+            "fromBearing": -97.244208005128,
+            "toBearing": -96.475054477438,
+            "angle": 0.76915352769004
+        },
+        {
+            "atGeometry": "POINT(5.09812 50.97319)",
+            "distance": 10940.562732598,
+            "using": "",
+            "at": "315",
+            "to": "357",
+            "fromBearing": -174.00889175975,
+            "toBearing": -96.964720858331,
+            "angle": 77.044170901417
+        },
+        {
+            "atGeometry": "POINT(5.08813 50.96565)",
+            "distance": 12371.915163461,
+            "using": "",
+            "at": "357",
+            "to": "34",
+            "fromBearing": 166.50867770374,
+            "toBearing": -100.00547009961,
+            "angle": 93.485852196658
+        },
+        {
+            "atGeometry": "POINT(5.07128 50.97286)",
+            "distance": 14037.527303682,
+            "using": "",
+            "at": "34",
+            "to": "38",
+            "fromBearing": -27.266542662163,
+            "toBearing": -126.81104548005,
+            "angle": -99.544502817891
+        },
+        {
+            "atGeometry": "POINT(5.01587 50.95250)",
+            "distance": 19223.947859218,
+            "using": "",
+            "at": "38",
+            "to": "91",
+            "fromBearing": -98.803159841007,
+            "toBearing": -102.77674010671,
+            "angle": -3.9735802656982
+        },
+        {
+            "atGeometry": "POINT(4.99056 50.95368)",
+            "distance": 21620.673688711,
+            "using": "",
+            "at": "91",
+            "to": "25",
+            "fromBearing": -43.377825487405,
+            "toBearing": -127.08613194379,
+            "angle": -83.708306456381
+        },
+        {
+            "atGeometry": "POINT(4.94983 50.94754)",
+            "distance": 25620.424540793,
+            "using": "",
+            "at": "25",
+            "to": "26",
+            "fromBearing": -145.00661341255,
+            "toBearing": 152.57737840524,
+            "angle": -62.416008182214
+        },
+        {
+            "atGeometry": "POINT(4.95231 50.94342)",
+            "distance": 26121.292151548,
+            "using": "",
+            "at": "26",
+            "to": "27",
+            "fromBearing": 137.87111759635,
+            "toBearing": -114.77099962181,
+            "angle": 107.35788278184
+        },
+        {
+            "atGeometry": "POINT(4.92184 50.92827)",
+            "distance": 29017.714882203,
+            "using": "",
+            "at": "27",
+            "to": "28",
+            "fromBearing": -137.14070837665,
+            "toBearing": -120.75097955233,
+            "angle": 16.389728824322
+        },
+        {
+            "atGeometry": "POINT(4.90259 50.92451)",
+            "distance": 30496.246001955,
+            "using": "",
+            "at": "28",
+            "to": "74",
+            "fromBearing": -93.654701832582,
+            "toBearing": -35.083302018192,
+            "angle": 58.57139981439
+        },
+        {
+            "atGeometry": "POINT(4.89212 50.92092)",
+            "distance": 31385.626392961,
+            "using": "",
+            "at": "74",
+            "to": "97",
+            "fromBearing": -122.7791828627,
+            "toBearing": -122.7779508772,
+            "angle": 0.0012319854969576
+        },
+        {
+            "atGeometry": "POINT(4.84122 50.91658)",
+            "distance": 35577.058010532,
+            "using": "",
+            "at": "97",
+            "to": "98",
+            "fromBearing": -96.463692700023,
+            "toBearing": -20.191358607648,
+            "angle": 76.272334092375
+        },
+        {
+            "atGeometry": "POINT(4.83548 50.92406)",
+            "distance": 36696.156997229,
+            "using": "",
+            "at": "98",
+            "to": "99",
+            "fromBearing": -11.095399229167,
+            "toBearing": -144.23097600679,
+            "angle": -133.13557677762
+        },
+        {
+            "atGeometry": "POINT(4.82944 50.91891)",
+            "distance": 37427.474734569,
+            "using": "",
+            "at": "99",
+            "to": "29",
+            "fromBearing": -81.794197432834,
+            "toBearing": -53.079260365617,
+            "angle": 28.714937067217
+        },
+        {
+            "atGeometry": "POINT(4.80262 50.91530)",
+            "distance": 39525.59274334,
+            "using": "",
+            "at": "29",
+            "to": "83",
+            "fromBearing": -68.967305965506,
+            "toBearing": -62.134250153215,
+            "angle": 6.8330558122903
+        },
+        {
+            "atGeometry": "POINT(4.76122 50.90347)",
+            "distance": 43014.342045214,
+            "using": "",
+            "at": "83",
+            "to": "5",
+            "fromBearing": -62.140271741567,
+            "toBearing": -54.825152497667,
+            "angle": 7.3151192438994
+        },
+        {
+            "atGeometry": "POINT(4.73035 50.89384)",
+            "distance": 46369.860380788,
+            "using": "",
+            "at": "5",
+            "to": "80",
+            "fromBearing": -86.870495165333,
+            "toBearing": -89.999957320182,
+            "angle": -3.1294621548485
+        },
+        {
+            "atGeometry": "POINT(4.71870 50.88878)",
+            "distance": 47425.907654059,
+            "using": "",
+            "at": "80",
+            "to": "33",
+            "fromBearing": -93.727040495682,
+            "toBearing": 176.52881300438,
+            "angle": -89.744146499938
+        },
+        {
+            "atGeometry": "POINT(4.71561 50.88456)",
+            "distance": 47993.312255881,
+            "using": "",
+            "at": "33",
+            "to": "11",
+            "fromBearing": -141.74044870569,
+            "toBearing": 89.999945687574,
+            "angle": -128.25960560673
+        },
+        {
+            "atGeometry": "POINT(4.71791 50.88120)",
+            "distance": 48499.357344389,
+            "using": "",
+            "at": "11",
+            "to": "10",
+            "fromBearing": 160.33607396801,
+            "toBearing": -104.2114808299,
+            "angle": 95.452445202095
+        },
+        {
+            "atGeometry": "POINT(4.70087 50.87915)",
+            "distance": 49869.635429094,
+            "using": "",
+            "at": null,
+            "to": "10",
+            "fromBearing": -80.457848804064,
+            "toBearing": null,
+            "angle": null
+        }
+    ],
+    "statistics": {
+        "routing": {
+            "cyclingNodes": 1
+        }
+    },
+    "segments": [
+        [
+            5.18029,
+            51.02904,
+            38
+        ],
+        [
+            4.70087,
+            50.87915,
+            38
+        ]
+    ],
+    "pois": [],
+    "languages": [
+        "en"
+    ],
+    "lengthRelative": 0.3
+}
